@@ -1,0 +1,1379 @@
+0QU0000001	Enter the facility and discover the source of the ghouls.
+0QU0000002	Speak with Jason Bright, the leader of the REPCONN ghouls.
+0QU0000003	Head up to the viewing platform and complete the launch sequence.
+0QU0000004	Speak to Chris Haversam about fixing the rockets.
+0QU0000005	(Optional) Sabotage the rockets so that they crash on launch.
+0QU0000006	Find atomic fuel for the rockets.
+0QU0000007	Find parts to fix the rockets' thrust controllers.
+0QU0000008	Get rid of the Nightkin in the basement.
+0QU0000009	(Optional) Search the nearby room for the Stealth Boy shipment the Nightkin are looking for.
+0QU0000010	Return to the Rocket Facility and give the fuel to Chris Haversam.
+0QU0000011	Return to the Rocket Facility and give the parts to Chris Haversam.
+0QU0000012	Report to Jason Bright that the Nightkin are gone.
+0QU0000013	Bring 3 Sugar Bombs to Chris Haversam.
+0QU0000014	(Optional) Find Harland's friend, who has been imprisoned by the nightkin.
+0QU0000015	Talk to Chris Haversam to begin preparations for the rocket launch.
+0QU0000016	(Optional) Return to Harland and let him know the bad news.
+0QU0000017	Head upstairs to meet with the owner of the voice from the intercom.
+0QU0000018	Head to the REPCONN facility west of Novac to investigate rumors of ghoul activity there.
+0QU0000019	(Optional) Find the leader of the "demons" and speak with him.
+0QU0000020	Head to the REPCONN basement and talk to Jason Bright about what comes next.
+0QU0000021	(Optional) Return to Davison with news that the Stealth Boys are not in the REPCONN facility.
+0QU0000022	(Optional) Ask around the saloon in Goodsprings for information about your attackers.
+0QU0000023	Find the men who tried to kill you.
+0QU0000024	Inquire about your delivery assignment with the administrator of the Mojave Express in Primm.
+0QU0000025	Head to Novac through Nipton. Ask around Novac about your attackers.
+0QU0000026	Intercept the Great Khans at Boulder City.
+0QU0000027	Discover the current location of the Platinum Chip.
+0QU0000028	(Optional) Talk to Victor in Goodsprings about your rescue.
+0QU0000029	Find out from Manny Vargas where the Khans were headed.
+0QU0000030	Find Primm's lawman to get information on where your attackers went.
+0QU0000031	Get Beagle's Journal from his corpse to get information on your attackers.
+0QU0000032	Search Manny's body for clues about your attackers' whereabouts.
+0QU0000033	Listen to Beagle's journal to get information on where your attackers have gone.
+0QU0000034	Deal with Chavez.
+0QU0000035	Track down the suspicious merchant and get rid of him.
+0QU0000036	Talk to the locals in Primm and learn what - if anything - the NCR is planning for the correctional facility.
+0QU0000037	Tell Eddie that you dealt with Chavez.
+0QU0000038	Return to Eddie.
+0QU0000039	Report back to Eddie with information on the NCR's planned attack.
+0QU0000040	Rendezvous with Sergeant Lee.
+0QU0000041	Kill Eddie.
+0QU0000043	(Optional) Betray Eddie by offering Lieutenant Hayes assistance in retaking the prison.
+0QU0000044	Travel to Bitter Springs with Boone.
+0QU0000045	Primm's Deputy has been captured by Powder Gangers in Bison Steve and needs to be rescued.
+0QU0000046	Beagle has been rescued from the Bison Steve. Talk to him about protecting the town.
+0QU0000047	Beagle wants a new sheriff for Primm. He suggested an ex-sheriff at NCRCF and the NCR as potential candidates.
+0QU0000048	With Beagle dead, Johnson Nash requested help finding a new sheriff. He suggested the NCR or an ex-sheriff at NCRCF.
+0QU0000049	Meyers, a former sheriff from NCRCF, is willing to be Sheriff of Primm if he gets a pardon from the NCR.
+0QU0000050	Beagle is dead. Find someone to speak to about helping Primm.
+0QU0000051	Hayes and the NCR will protect Primm if they get some additional military personnel.
+0QU0000052	Return to Meyers and let him know NCR has pardoned him and he can take over as sheriff.
+0QU0000053	Major Knight promised additional troops for Primm. Speak to Hayes about NCR protection for Primm.
+0QU0000054	(Optional) Reprogram Primm Slim to be sheriff of Primm.
+0QU0000055	Connect to the HELIOS One mainframe from the western reflector control terminal.
+0QU0000056	Connect to the HELIOS One mainframe from the eastern reflector control terminal.
+0QU0000057	Restore power to the HELIOS One mainframe via an auxiliary generator.
+0QU0000058	Use the HELIOS One mainframe to send power to a destination of your choosing.
+0QU0000059	Initiate reflector retargeting from the console on the tower observation deck.
+0QU0000060	Talk to the idiot wearing sunglasses in the back of the HELIOS One plant building.
+0QU0000061	Talk to Fantastic.
+0QU0000062	Talk to Ignacio.
+0QU0000064	OPTIONAL: Arm ARCHIMEDES security system to wipe out all nearby NCR soldiers.
+0QU0000066	Search the suitcase at Sloan for the chemical supply shipment.
+0QU0000067	Check with Chomps Lewis about the empty suitcase in his office.
+0QU0000068	Acquire the chem shipment from Tyrone in Primm.
+0QU0000069	Return to Melissa with the chem shipment.
+0QU0000070	(Optional) Expose the Great Khan smuggling operation to Lieutenant Hayes.
+0QU0000071	Expose the Great Khan smuggling operation to Lieutenant Hayes.
+0QU0000072	Deliver the Crimson Caravan invoice to Doctor Hildern at Camp McCarran.
+0QU0000073	Alice McLafferty, owner of the Crimson Caravan Company, has additional jobs available.
+0QU0000074	Negotiate with Cass to buy out Cassidy Caravans for the Crimson Caravan Company.
+0QU0000075	Return to Alice McLafferty and let her know you've delivered the invoice.
+0QU0000076	Tell Alice McLafferty that the Crimson Caravan Company now owns Cassidy Caravans.
+0QU0000077	Convince Henry Jamison to quit his position at the Crimson Caravan Company.
+0QU0000078	Let Alice McLafferty know that Henry Jamison's employment has been terminated.
+0QU0000079	(Optional) Acquire the Gun Runners' secret manufacturing specifications from their factory.
+0QU0000080	Hand the Gun Runners' manufacturing specifications over to Alice McLafferty.
+0QU0000081	Tell Alice McLafferty that Cass is dead.
+0QU0000082	Talk to Captain Curtis.
+0QU0000083	Ask around about suspicious activity at Camp McCarran.
+0QU0000084	Investigate the late-night break-ins at the Camp McCarran control tower.
+0QU0000085	Find and defuse the bomb on the McCarran monorail before it leaves the terminal.
+0QU0000086	Report to Colonel Hsu.
+0QU0000087	Pick up the explosives and bomb ingredients in the trash can by the ticketing counter at the Camp McCarran terminal building.
+0QU0000088	Plant an explosive charge in a vent at the back wall of the McCarran monorail car.
+0QU0000089	Get off the train and watch it depart.
+0QU0000090	Plant a fission battery, conductor, Wonderglue, a box of Abraxo Cleaner, and the plans inside Private Crenshaw's footlocker.
+0QU0000091	Report to Colonel Hsu and frame Private Crenshaw.
+0QU0000092	Return to Captain Curtis.
+0QU0000093	Kill Private Crenshaw.
+0QU0000094	Offer to help Colonel Hsu find the spy.
+0QU0000095	Pick up the explosives in the in the trash can by the ticketing counter at the Camp McCarran terminal building.
+0QU0000096	Report Colonel Hsu's refusal to Captain Curtis.
+0QU0000097	Eavesdrop on the radio transmission.
+0QU0000098	See if you can assist Captain Curtis in his operation at Camp McCarran.
+0QU0000099	Find the Sunset Sarsaparilla Headquarters and speak to Festus.
+0QU0000100	Return to Festus with enough Sunset Sarsaparilla Star Caps to earn a prize!
+0QU0000101	Head to the Sunset Sarsaparilla prize closet to receive your real prize.
+0QU0000102	Speak to Lieutenant Romanowski about the water shortage.
+0QU0000103	Check the East Pump Station computer for evidence of a water shortage.
+0QU0000104	Return to Lieutenant Romanowski with the information you uncovered from the East Pump Station.
+0QU0000105	Catch someone in the act of stealing water from one of the western cisterns.
+0QU0000106	Talk to Wrench about the water shortage.
+0QU0000107	Buy Wrench's Super Tool Kit back from Angelo's Pawn Shop and find out what he knows about the water shortage.
+0QU0000108	Confront Anderson about the water shortage.
+0QU0000109	Complete the White Wash to resolve the mystery of the missing water.
+0QU0000110	Enter Vault 22 and download the research data found there.
+0QU0000111	Return to Dr. Hildern at Camp McCarran with the research data.
+0QU0000112	(Optional) Find Keely, a researcher who has gone missing at Vault 22.
+0QU0000113	Meet Keely at her base of operations on the second level.
+0QU0000114	Find the vents Keely is pumping gas through and somehow ignite the gas.
+0QU0000115	Return to Camp McCarran and tell Dr. Williams that Keely is safe.
+0QU0000116	Return to Keely and let her know the spores have been purged.
+0QU0000117	Talk to Dazzle about the missing Corporal White.
+0QU0000118	Find out what Trent Bascom knows about Corporal White.
+0QU0000119	Speak with Lieutenant Romanowski about Corporal White.
+0QU0000120	Ask Tom Anderson about Corporal White's whereabouts.
+0QU0000121	Find someone else in Westside who may have seen Corporal White.
+0QU0000122	Follow Hector during the day and find out where he's getting his water.
+0QU0000123	Confront Anderson about Corporal White's disappearance.
+0QU0000124	Speak with Etienne to complete your "business" arrangement with Anderson.
+0QU0000125	Tell Lieutenant Boyd what happened to Corporal White.
+0QU0000126	Kill Anderson.
+0QU0000127	(Optional) Look through Corporal White's personal effects in his locker in the McCarran Concourse area.
+0QU0000128	Deal with the newcomers.
+0QU0000129	Deal with the band of troublemakers.
+0QU0000130	Talk to Mrs. Hostetler.
+0QU0000131	Find information about Alice Hostetler's new friends.
+0QU0000132	No sign of either Alice or Andy. Inspect The Gray for clues to their whereabouts.
+0QU0000133	Talk to Crandon about the greasers in the sewers.
+0QU0000134	Talk to Crandon about the newcomers.
+0QU0000135	Look for Alice Hostetler and her friend, Andy, in the building named The Gray.
+0QU0000136	Tell Mrs. Hostetler about Andy's plan to steal the Crimson Caravan Money.
+0QU0000137	(Optional) Help Andy with his plan to steal the Crimson Caravan money from the Hostetlers.
+0QU0000138	Alice almost attacked her mother. She decided to let go and stay with her parents.
+0QU0000139	Alice attacked her house. She decided to run away from New Vegas.
+0QU0000140	Alice attacked her house. She died after attacking her mother.
+0QU0000141	Alice attacked her house. After attacking her mother, both of them died.
+0QU0000142	Alice almost attacked her mother, but instead left New Vegas to find her own path.
+0QU0000143	Get the Crimson Caravan money.
+0QU0000144	Although saddened by Alice's escape, Mrs Hostetler wanted to live up to her end of the deal.
+0QU0000145	Mrs Hostetler wanted to live up to her end of the deal, and was relieved that Alice decided to stay with them.
+0QU0000146	There was no Crimson Caravan money.
+0QU0000148	Mrs. Hostetler was devastated after Alice's death. She won't be of help anymore.
+0QU0000149	Mrs. Hostetler was devastated after Alice's escape. She won't be of help anymore.
+0QU0000150	Crandon died. You can't help him any longer.
+0QU0000151	Kill Violet and acquire her head - preferably intact.
+0QU0000152	Kill Cook-Cook and acquire his head - preferably intact.
+0QU0000153	Kill Driver Nephi and acquire his head - preferably intact.
+0QU0000154	Return to Major Dhatri with Violet's head and collect the bounty.
+0QU0000155	(Optional) Enlist the help of Lieutenant Gorobets and his First Recon snipers to take down Driver Nephi.
+0QU0000156	Return to Major Dhatri wtih Cook-Cook's head and collect the bounty.
+0QU0000157	Return to Major Dhatri with Driver Nephi's head and collect the bounty.
+0QU0000158	Major Dhatri has bounties available. Speak to him about receiving a mission or turning in a bounty.
+0QU0000159	(Optional) Kill Cook-Cook's favorite brahmin, Queenie, to cause him to go berserk and attack friends and foes alike.
+0QU0000160	(Optional) Speak with Little Buster about Cook-Cook.
+0QU0000161	Travel to Westside and speak with Saint James about the missing NCR refugees.
+0QU0000162	Search Dermot's room at the Casa Madrid Apartments for evidence.
+0QU0000163	Search Saint James' room at the Casa Madrid Apartments for evidence.
+0QU0000164	(Optional) Confront Dermot or Saint James with the evidence you've gathered.
+0QU0000165	(Optional) Kill Saint James and Dermot.
+0QU0000166	Tell Captain Parker what happened to the missing refugees.
+0QU0000167	Help the Boomers around Nellis.
+0QU0000168	Return to Pearl.
+0QU0000169	Speak to Loyal about the Boomer's plan to raise the bomber from the bottom of Lake Mead.
+0QU0000170	Attach the ballast from Loyal to the B-29 at the bottom of Lake Mead
+0QU0000171	[Optional] Talk to Jack about getting a rebreather to swim to the bottom of Lake Mead.
+0QU0000172	[Optional] Jack needs some parts from a pressure cooker to finish his rebreather.
+0QU0000173	Return to the shore near the tow winch and use Loyal's detonator to float the B-29 to the surface.
+0QU0000174	Return to Loyal to let him know the B-29 is up from the bottom of the lake.
+0QU0000175	Let Pearl know your job is done.
+0QU0000177	Help the Misfits improve their shooting skills.
+0QU0000178	Fake the Misfits' readiness reports.
+0QU0000179	Help the Misfits improve their grenade skills.
+0QU0000180	Talk to the Misfits about improving their squad.
+0QU0000181	Talk to Sgt. McCredie about the Misfits' improvement.
+0QU0000182	Get drugs from Jack at Red Rock Canyon.
+0QU0000183	Return the drugs to Razz.
+0QU0000184	Convince the Misfits to work together.
+0QU0000185	Talk to Mags about further improvements.
+0QU0000186	Talk to Mags about the squad's readiness.
+0QU0000187	Return to Poindexter and tell him about the altered records.
+0QU0000188	Return to O'Hanrahan.
+0QU0000189	Convince Mags to respect the squad and work with them.
+0QU0000190	Convince Razz to respect the squad and work with them.
+0QU0000191	Convince Poindexter to respect the squad and work with them.
+0QU0000192	Walk to the Vit-o-matic Vigor Tester.
+0QU0000193	Use the Vit-o-matic Vigor Tester.
+0QU0000194	Sit down on the couch in Doc Mitchell's living room.
+0QU0000195	Follow Doc Mitchell to the exit.
+0QU0000196	Talk to Sunny Smiles about fighting the Powder Gangers.
+0QU0000197	(Optional) Enlist the help of Trudy.
+0QU0000198	(Optional) Convince Chet to open his store's stock to the town.
+0QU0000199	(Optional) Acquire Easy Pete's dynamite.
+0QU0000200	Return to Ringo when you're ready for the gunfight with the Powder Gangers.
+0QU0000201	Defeat the Powder Gangers.
+0QU0000202	Return to Ringo and let him know that Sunny Smiles has agreed to help you fight the Powder Gangers.
+0QU0000203	Offer to help Ringo deal with the Powder Gangers.
+0QU0000204	(Optional) Acquire additional medical supplies from Doc Mitchell.
+0QU0000205	Join up with Sunny.
+0QU0000206	Go to the Sunset Sarsaparilla Prize Vault to collect your prize.
+0QU0000207	(Optional) Loyal may have something to help with the ants.
+0QU0000208	Restart the 2 array generators, then reset the main power breaker.
+0QU0000209	(Optional) Place Loyal's sonic generator on the ant mound.
+0QU0000210	Kill all ants in the generator room.
+0QU0000211	Return to Raquel and let her know the generators are running again.
+0QU0000212	(Optional) Activate the sonic emitter.
+0QU0000213	Shoot 3 sarsaparilla bottles outside the Prospector Saloon.
+0QU0000214	Meet Sunny Smiles behind the Prospector Saloon.
+0QU0000215	Follow Sunny.
+0QU0000216	Kill the Geckos at the well.
+0QU0000217	Talk to Sunny Smiles.
+0QU0000218	Kill the Geckos at the other wells.
+0QU0000219	Talk to Sunny about your reward.
+0QU0000220	Go and meet Trudy at the Prospector Saloon.
+0QU0000221	Talk to Sunny Smiles in the Prospector Saloon.
+0QU0000222	Travel to the Ranger Station Alpha and update security protocols.
+0QU0000223	Travel to the Ranger Station Bravo and update security protocols.
+0QU0000224	Travel to the Ranger Station Charlie and update security protocols.
+0QU0000225	Travel to the Ranger Station Delta and update security protocols.
+0QU0000226	Travel to the Ranger Station Echo and update security protocols.
+0QU0000227	Travel to the Ranger Station Foxtrot and update security protocols.
+0QU0000228	Alpha Station updated.
+0QU0000229	Bravo Station updated.
+0QU0000230	Charlie Station updated.
+0QU0000231	Delta Station updated.
+0QU0000232	Echo Station updated.
+0QU0000233	Foxtrot Station updated.
+0QU0000234	Travel to the Ranger Stations and update the radio security systems.
+0QU0000235	Discovered truth behind Alpha Station casualty figures.
+0QU0000236	Learned about unecessary supplies being sent to Bravo Station.
+0QU0000237	Determined the status of Charlie Stations medical supplies.
+0QU0000238	Spoke to eyewitness and disproved rumor of Caesar's Super mutants.
+0QU0000239	Investigated the discrepency in Echo Stations enemy sightings.
+0QU0000240	Speak with Ranger Chief Hanlon
+0QU0000241	Follow up on Sgt. Reyes' list of questionable reports.
+0QU0000242	Return to Sgt. Reyes with news of Hanlon.
+0QU0000243	Return to Sgt. Reyes.
+0QU0000244	Found out truth behind trained Deathclaw rumor.
+0QU0000246	Ask around the Ultra-Luxe for information regarding Ted Gunderson's disappearance.
+0QU0000247	Inquire with Mortimer at the Ultra-Luxe about the investigator.
+0QU0000248	Get into the investigator's room at the Ultra-Luxe.
+0QU0000249	Meet with the investigator's contact in the Ultra-Luxe steam room at 4pm.
+0QU0000250	Find a way to gain access to the Members Only section of the Gourmand.
+0QU0000251	(OPTIONAL) Find a sponsor to help you join the White Glove Society.
+0QU0000252	(OPTIONAL) Alert Heck Gunderson to his son's situation.
+0QU0000253	Get Ted back to his father if he is still alive.
+0QU0000254	Talk to Heck Gunderson.
+0QU0000255	Talk to Ted Gunderson, who's being held in a room beneath the Gourmand.
+0QU0000256	Talk to Carlyle St. Clair at his residence north of the Strip.
+0QU0000257	Secure an acceptable replacement for Ted Gunderson as the White Glove Society's main course.
+0QU0000258	(OPTIONAL) Get rid of Philippe and cook for the banquet using his recipe for human flesh.
+0QU0000259	(OPTIONAL) Drug the wine at the White Glove Society banquet.
+0QU0000260	(OPTIONAL) Use the intercom to call in the head waiter.
+0QU0000261	(OPTIONAL) Bring Ted to the Members Only section to expose Mortimer at the end of his banquet speech.
+0QU0000262	Return to Mortimer in the Ultra-Luxe.
+0QU0000263	Collect samples off of Ted's corpse for use in framing his father.
+0QU0000264	Distribute your samples around Heck Gunderson's bed and sink in his Ultra-Luxe penthouse suite.
+0QU0000265	Send a securitron from the Strip to investigate Heck Gunderson's suite.
+0QU0000266	Kill Ted Gunderson.
+0QU0000267	Drag Carlyle's body into the dumpster alongside his house.
+0QU0000268	Return Ted to his father at the Ultra-Luxe's Top Shelf bar.
+0QU0000269	(OPTIONAL) Lock one of your human companions in the Ultra-Luxe kitchen freezer as a replacement for Ted.
+0QU0000270	Search the Investigator for clues.
+0QU0000271	Hire a guard named Orris near the northern gate of Freeside.
+0QU0000272	Follow Orris to the south gate and watch for any suspicious behavior.
+0QU0000273	Go to the Old Mormon Fort and question some injured Locals about their assailants.
+0QU0000274	Return to the King with your findings.
+0QU0000275	Head to one of the Squatter camps in Freeside and learn why NCR soldiers have been entering the area.
+0QU0000276	(Optional) Talk to Julie Farkas and see if the Followers know anything about the situation.
+0QU0000277	Return to the King and inform him of the NCR supply drops.
+0QU0000278	Return to the King and report what you've learned about Orris.
+0QU0000279	Return to the King and report that Orris is dead.
+0QU0000280	Investigate rumors of free food and water being handed out nightly in the northwest part of Freeside.
+0QU0000281	Head to the supply drop building and see if Pacer needs any help.
+0QU0000282	Ask around the Squatter camp to find a lead regarding why NCR soldiers are in Freeside.
+0QU0000283	Return to the King and report that Orris is gone.
+0QU0000284	(Optional) Talk to Major Elizabeth Kieran, and mention Julie Farkas if she's reluctant to help.
+0QU0000285	Kill all of the NCR troops holed up by the train station in northwest Freeside.
+0QU0000286	Return to the King and let him know the NCR troops in Freeside are taken care of.
+0QU0000287	(Optional) Inform the King that the NCR previously sent an envoy to discuss distributing supplies to Freeside.
+0QU0000288	Head to the train station in northwest Freeside and try to negotiate with the NCR.
+0QU0000289	Return to the King and let him know the situation with the NCR has been defused.
+0QU0000290	Return to the King and report that you've learned nothing about Orris.
+0QU0000291	Hire Orris again and watch for suspicious behavior.
+0QU0000292	Find Jacob Hoff.
+0QU0000293	Help Bill Ronte with his alcoholism.
+0QU0000294	Find Bill Ronte.
+0QU0000295	Collect ten doses of Fixer for Jacob.
+0QU0000296	Help Jacob Hoff kick his addiction to chems.
+0QU0000297	Take care of the drug dealer.
+0QU0000298	Collect two doses of Fixer, Rad-Away, and a bottle of Whiskey for Bill.
+0QU0000299	Return to Julie Farkas.
+0QU0000300	Optional - Collect one dose each of Fixer, Psycho, and Buffout for Jacob.
+0QU0000301	Optional - Collect two doses of Fixer and a bottle of Whiskey for Bill.
+0QU0000303	Recruit a real ghoul cowboy.
+0QU0000304	Recruit a suave talker.
+0QU0000305	Recruit a sexbot.
+0QU0000306	Return to James Garret.
+0QU0000307	Tell James Garret Fisto will be joining the Wrangler.
+0QU0000308	Tell James Garret Santiago will be joining the Wrangler.
+0QU0000309	Tell James Garret Beatrix will be joining the Wrangler.
+0QU0000310	Tell James Garret Old Ben will be joining the Wrangler.
+0QU0000311	The suitable suave talkers are dead.
+0QU0000312	The ghoul cowboy is dead.
+0QU0000313	The sexbot was destroyed.
+0QU0000314	I turned in McCaffery's hat to Francine and recieved my reward.
+0QU0000315	Collect 138 caps from Grecks in Freeside.
+0QU0000316	Collect 212 caps from Santiago in Freeside.
+0QU0000317	Kill Caleb McCaffery.
+0QU0000318	Find and collect 250 caps from Lady Jane.
+0QU0000320	Find Lady Jane's caravan and collect caps from the remains.
+0QU0000321	Return to Francine with 600 caps.
+0QU0000322	Return to Francine with 388 caps.
+0QU0000323	Return to Francine with McCaffery's hat.
+0QU0000324	Meet with Jessup, leader of the Great Khans in Boulder City.
+0QU0000325	Help the NCR kill all the Great Khans holed up in the Boulder City ruins.
+0QU0000326	(Optional) Bribe the NCR troopers into letting the Great Khans escape.
+0QU0000327	Return to Lieutenant Monroe and inform him that you've worked out a deal with the Great Khans.
+0QU0000328	Free the NCR troopers being held hostage by the Great Khans.
+0QU0000329	Tell Jessup the Great Khans are free to go.
+0QU0000330	Negotiate for the release of the NCR hostages.
+0QU0000331	Help the Great Khans kill all the NCR troops in the Boulder City ruins.
+0QU0000332	Speak with Lieutenant Monroe.
+0QU0000333	Talk to Cachino in Gomorrah for Mick. Someone in the casino should know how to contact him.
+0QU0000334	Talk to Cachino about suspicious Omerta activities, perhaps someone else in Gomorrah knows how to find him.
+0QU0000335	Check Cachino's room or his person for some proof of his behavior. Perhaps someone has a key to his room.
+0QU0000336	Cachino's Journal should have enough proof to get him talking.
+0QU0000337	(Optional) Let Mick and Ralp know why the Omertas stopped buying their guns.
+0QU0000338	(Optional) Help Mick and Ralph get Omerta business again
+0QU0000339	Let Mick and Ralph know the Omertas have room in their budget to buy guns from them again.
+0QU0000340	Sell Cachino's journal back to him and help take down the bosses, or show it to the bosses to get on their good side.
+0QU0000341	Talk to Troike about mysterious gun shipments
+0QU0000342	Find out what kind of work Clanden does for the family.
+0QU0000343	Something about Troike's story doesn't sit well. Talk to Big Sal, or look around for some evidence to exonerate him.
+0QU0000344	Troike would like help talking Big Sal into letting him out of his contract.
+0QU0000345	Show the blackmail proof from Big Sal to Troike.
+0QU0000346	Big Sal agreed to let Troike out of his contract. Return to Troike and let him know the good news.
+0QU0000347	Use Troike's thermite to destroy the guns in the storage room.
+0QU0000348	Troike should have had enough time to destroy the guns by now. Return to Cachino to let him know.
+0QU0000349	Return to Cachino and let him know the guns have been destroyed.
+0QU0000350	Clanden has been taken care of, and won't be able to help the Omertas anymore. Cachino should be informed.
+0QU0000351	Go to Cachino and the Omerta bosses to meet with them and take them out.
+0QU0000352	Cachino has agreed to take out the Omerta bosses during our meeting with them. Go to Cachino when you are ready.
+0QU0000353	The door guard suggested talking to Big Sal or Nero about Cachino's journal.
+0QU0000354	Attend Cachino's business meeting with Big Sal.
+0QU0000355	Attend Cachino's business meeting with Nero.
+0QU0000356	Talk to Troike to see what kind of help you can give him.
+0QU0000357	Check with Clanden to see what kind of help he needs.
+0QU0000358	Bring chlorine to Clanden. Check near the pool at the Ultra-Luxe, or find out who supplies them.
+0QU0000359	Recover a stolen shipment of weapon parts from the Fiends.
+0QU0000360	Let the bosses know that Clanden and Troike both have everything they need
+0QU0000361	Show Cachino these tapes from Clanden's safe, or confront Clanden with them.
+0QU0000362	(Optional) Kill Clanden
+0QU0000363	(Optional) Use the tapes to convince Clanden to betray the family
+0QU0000364	(Optional) Turn Clanden's tapes into the NCR so Clanden can be charged with murder.
+0QU0000365	Troike is going to destroy the guns for me. I should head out of the casino to give him time.
+0QU0000366	The Omertas are an enemy and will no longer accept assistance. The surviving bosses have gone into hiding.
+0QU0000367	Talk to the receptionist in Gomorrah about Omerta activities.
+0QU0000368	Cachino is dead, speak to the boss about what to do next.
+0QU0000369	Carlitos wants to meet Joana in Freeside, between midnight and dawn. Explain the plan to Joana.
+0QU0000370	(Optional) Carlitos suggests getting backup before attempting the escape. Find the two guns-for-hire that owe him a favor.
+0QU0000371	Talk to Joana, on Carlitos' behalf, at Gomorrah.
+0QU0000372	Joana has decided to stay at Gomorrah, for now. Talk to Carlitos about her decision.
+0QU0000373	Joana has decided to escape Gomorrah. Talk to Carlitos about her decision.
+0QU0000374	Joana agreed to Carlitos' plan. Talk to her once you're ready to escort her during the escape.
+0QU0000375	The help of two expert shooters is secured - granting extra protection during the escape.
+0QU0000376	I decided to tell Cachino about Joana's intentions to escape. He wants me to turn the hired guns on Carlitos at the meeting.
+0QU0000377	Find Carlitos to help Joana escape Gomorrah.
+0QU0000378	Joana is safely delivered to Carlitos. The Omertas who set up the ambush are gone.
+0QU0000379	Joana will wait, in disguise, at Gomorrah's lobby. Go there and lead the girls to Freeside.
+0QU0000380	Joana is free and reunited with Carlitos. She spoke about rumors of a sinister Omertas' operation.
+0QU0000381	Joana died. You can no longer help Carlitos to get her back.
+0QU0000382	Carlitos died and will never be reunited with Joana.
+0QU0000383	Joana was left on her own as she tried to escape Gomorrah.
+0QU0000384	Joana is dead. You can no longer help her.
+0QU0000385	Carlitos is dead. You can no longer help him.
+0QU0000386	Help Joana, and the girls, in their escape to Freeside.
+0QU0000387	Michael Angelo wants pictures of famous signs around New Vegas.
+0QU0000388	Take a picture of the Bison Steve sign.
+0QU0000389	Take a picture of Novac's Dinosaur Thermometer.
+0QU0000390	Take a picture of the Sunset Sarsaparilla Headquarter's Bottle sign.
+0QU0000391	Take a picture of the HELIOS One sign.
+0QU0000392	Take a picture of the McCarran Airfield sign.
+0QU0000393	Return to Michael Angelo for your reward.
+0QU0000394	Michael Angelo died. You won't be able to help him any longer.
+0QU0000395	Confront Benny at The Tops casino.
+0QU0000396	Go to the Presidential Suite.
+0QU0000397	Survive the Ambush.
+0QU0000398	Search Benny's suite.
+0QU0000399	Search Benny's Room.
+0QU0000400	Kill Benny.
+0QU0000401	Search the Strip for the man who shot you.
+0QU0000402	Assassinate Benny.
+0QU0000403	Recover the Platinum Chip.
+0QU0000404	[Optional] Deliver the Chip to Yes-Man.
+0QU0000405	Follow Benny to his suite and talk to him.
+0QU0000406	Search for Benny and the Platinum Chip at Caesar's camp at Fortification Hill.
+0QU0000407	Locate Benny at Fortification Hill.
+0QU0000408	Find Entertainers for the Tops ([%] remaining).
+0QU0000409	Talk to Tommy Torini at the Tops.
+0QU0000416	Quest Completed
+0QU0000417	Convince James Garret to let Hadrian out of his contract.
+0QU0000418	Tell Hadrian you've gotten him out of his contract.
+0QU0000420	Convince the Boomers to aid you in the upcoming battle.
+0QU0000421	Return to Ambassador Crocker and let him know the Boomers will help you.
+0QU0000422	Return to Ambassador Crocker and let him know the Boomers will not help you.
+0QU0000423	The Boomers will help.
+0QU0000424	The Boomers will not help.
+0QU0000425	Take Rex to Doctor Henry in Jacobstown to learn how he can be fixed.
+0QU0000426	Acquire a new brain for Rex from one of Old Lady's Gibson's dogs.
+0QU0000427	(Optional) Search for an exceptional canine brain among Caesar's Legion.
+0QU0000428	(Optional) Search for an exceptional canine brain among the Fiends.
+0QU0000429	Return to Jacobstown and have Rex's brain transplant performed.
+0QU0000430	Talk to Julie Farkas about what can be done to help Rex.
+0QU0000431	Return to the King with the news that Rex can be healed.
+0QU0000432	Sarah Weintraub needs to restock her Vault related supplies and will pay well for them.
+0QU0000433	Bug an access point to the Lucky 38's data network for the Followers of the Apocalypse.
+0QU0000434	Return to Emily Ortal on the New Vegas strip with news that the tower has been bugged.
+0QU0000437	Disable the Lucky 38's network encryption from three executive consoles.
+0QU0000438	Kill the Raiders.
+0QU0000439	Find out the purpose behind Heck Gunderson's visit to the Ultra-Luxe.
+0QU0000440	Heck Gunderson is looking for his disappeared son. Talk to Walter Phebus about this.
+0QU0000441	Take care of Ted Gunderson for Walter Phebus.
+0QU0000442	Take care of Heck Gunderson for Walter Phebus.
+0QU0000443	Take care of both Heck, and Ted Gunderson, for Walter Phebus.
+0QU0000444	Ted's a goner. Talk to Walter about this.
+0QU0000445	Heck Gunderson's dead. Talk to Walter about this.
+0QU0000446	Heck, and Ted, Gunderson are taken care of. Talk to Walter about this.
+0QU0000447	Walter has let go of his will for revenge, and can now return with Ethel to their ranch.
+0QU0000448	(Optional) Ethel Phebus wants her husband, Walter, to forget about Heck Gunderson and return to their ranch.
+0QU0000449	Walter's dead. You can't help him, or Ethel, any longer.
+0QU0000450	Ethel's dead. You can't help her, or Walter, any longer.
+0QU0000451	Walter was happy to hear of Heck Gunderson's demise. He decided to take Ethel back to their home.
+0QU0000452	Against Ethel's will, Walter was happy to hear of Heck Gunderson's demise. He decided to take Ethel back to their home.
+0QU0000453	The Gundersons are dealt with. Walter was happy to hear the news, and took Ethel back to their home.
+0QU0000454	Walter was happy about Heck Gunderson's suffering, although he lamented Ted's death. He decided to take Ethel back to their home.
+0QU0000455	Talk to Walter Phebus when you are ready to help him.
+0QU0000456	Talk to Walter Phebus about Heck Gunderson's demise.
+0QU0000457	Ted's dead. Take care of Heck Gunderson.
+0QU0000458	Heck's dead. Take care of Ted Gunderson.
+0QU0000465	Rescue the NCR hostages from the Techatticup mine.
+0QU0000466	Report back to Private Renolds.
+0QU0000467	The NCR Hostages are dead.
+0QU0000468	Kill Pacer in a way that implicates someone other than the NCR, or talk the King into ceasing hostilities with the NCR.
+0QU0000469	(Optional) Kill Pacer in a way that implicates the Van Graff family.
+0QU0000470	(Optional) Kill Pacer by adding Psycho to his Jet.
+0QU0000471	Return to Ambassador Crocker with news of Pacer's death.
+0QU0000472	(Optional) Perform tasks for the King in order to get on his good side.
+0QU0000473	Return to Ambassador Crocker with the news that the King has agreed to cease hostilities.
+0QU0000474	Return to Ambassador Crocker with the news that the King will not curb the violence in Freeside.
+0QU0000475	Speak with Colonel Moore at Hoover Dam for further instructions regarding the situation in Freeside.
+0QU0000476	(Optional) Speak with Colonel Hsu in Camp McCarran for further instruction regarding the situation in Freeside.
+0QU0000477	Go to the Kings' School of Impersonation and deliver an ultimatum to the King, backed by a squad of NCR Troopers.
+0QU0000478	Go to the Kings' School of Impersonation and offer the King official NCR support if he ceases hostilities.
+0QU0000479	Return to Ambassador Crocker and report that the King has agreed to the ultimatum and will cease hostilities.
+0QU0000480	Return to Ambassador Crocker and report that the Kings have been wiped out.
+0QU0000481	Return to Ambassador Crocker and report that the King has accepted Colonel Hsu's pledge of NCR support.
+0QU0000483	Help the NCR Troopers kill all the Kings.
+0QU0000484	Stop Pacer from ruining the deal between the King and the NCR.
+0QU0000486	Restoring Hope Completed
+0QU0000487	Go to HELIOS One to ask about Forlorn Hope supplies.
+0QU0000488	Speak to Major Polatli.
+0QU0000489	Return the supplies to Quartermaster Mayes.
+0QU0000490	Talk to Quartermaster Mayes.
+0QU0000491	Meet with Dr. Richards.
+0QU0000492	Help Dr. Richards with his patients.
+0QU0000493	Return to Major Polatli.
+0QU0000494	Tell Polatli about the victory at Nelson.
+0QU0000495	Meet with Sergeant Cooper.
+0QU0000496	Defeat the Legion at Nelson.
+0QU0000497	Follow the GPS marker to the Forlorn Hope supplies.
+0QU0000498	Return to Dr. Richards.
+0QU0000499	Search Camp Forlorn Hope for clues about the missing medical supplies.
+0QU0000501	Report your findings to Dr. Richards.
+0QU0000502	I informed Dr. Richards that Private Stone was stealing supplies.
+0QU0000504	Stake out the Camp Forlorn Hope Medical Center at night.
+0QU0000505	The NCR are looking for Holotags to restock their supplies.
+0QU0000506	Obtain proper surgical tools.
+0QU0000507	Perform brain surgery on Caesar to remove the tumor which is killing him.
+0QU0000508	(Optional) Kill Caesar during the procedure.
+0QU0000509	Go outside and talk to Simon.
+0QU0000510	Take up position on the other side of the Silver Rush entrance.
+0QU0000511	Guard the Silver Rush entrance.
+0QU0000512	Report back to Gloria.
+0QU0000513	Deliver the package to a man at the designated location.
+0QU0000514	Report back to Gloria that the package has been delivered.
+0QU0000515	Talk to Jean-Baptiste to receive your next assignment.
+0QU0000516	Find Rose of Sharon Cassidy and get her to follow you.
+0QU0000517	Bring the Cassidy girl to Jean-Baptiste.
+0QU0000518	Report to Gloria Van Graff for your next assignment.
+0QU0000519	Kill the remaining Legion troops.
+0QU0000520	(Optional) Visit Alice McLafferty, who might know where Rose of Sharon Cassidy is currently located.
+0QU0000521	Report to Gloria Van Graff that all of the Legion troops are dead.
+0QU0000522	Return to the Silver Rush in Freeside and Tell Jean-Baptiste that the Cassidy girl is dead.
+0QU0000523	Acquire a set of surgical tools.
+0QU0000525	(Optional) Kill Caesar during the procedure. It might look natural...
+0QU0000526	A Doctor's Bag is also necessary to perform the surgery.
+0QU0000527	Acquire a functional diagnostic scanning module for Caesar's Auto-Doc.
+0QU0000528	Install the replacement diagnostic scanning module into Caesar's Auto-Doc.
+0QU0000529	Use the Auto-Doc to cure Caesar.
+0QU0000530	(Optional) Use the Auto-Doc to kill Caesar.
+0QU0000531	(Optional) Have Arcade Gannon enslaved as Caesar's personal physician.
+0QU0000532	Kill all NCR Officers at Camp Forlorn Hope
+0QU0000533	Return to Dead Sea and inform him of your victory
+0QU0000534	Get a replacement firing mechanism for the Legion's howitzer from the Boomers.
+0QU0000535	Install the replacement firing mechanism into the Legion's howitzer.
+0QU0000536	Inform Lucius that the howitzer has been repaired.
+0QU0000537	Retrieve the firing mechanism from the Boomers' workshop.
+0QU0000538	Legion Ears are in demand.  Bring them to Sexton to boost morale.
+0QU0000539	Find Martina Groesbeck.
+0QU0000540	Eliminate the Omerta thugs sent to kill Martina.
+0QU0000541	Return to Vulpes and let him know Martina's safe.
+0QU0000542	Return to Vulpes and let him that Martina is dead.
+0QU0000543	Kill the NCR Hostages.
+0QU0000544	Return to Milo at the NCR Checkpoint.
+0QU0000545	Earn the trust of the Boomers and forge an alliance between them and the Legion.
+0QU0000546	Help Mortimer revert the White Glove Society to cannibalism.
+0QU0000547	Bring the Legion's offer of alliance to Marjorie of the White Glove Society.
+0QU0000548	Destroy the Brotherhood of Steel's bunker.
+0QU0000549	(Optional) Kill the Boomer leadership to neutralize the Boomers as a threat to the Legion.
+0QU0000550	Inform Caesar that the Boomers will support the Legion against the NCR.
+0QU0000551	Inform Caesar that the Boomers have been neutralized as a threat.
+0QU0000552	Inform Caesar that the White Glove Society won't support the Legion.
+0QU0000553	Inform Caesar that the White Glove Society is now an ally of the Legion.
+0QU0000554	Bring the Legion's offer of alliance to Mortimer of the White Glove Society.
+0QU0000555	Tell Caesar that the Brotherhood of Steel threat has been neutralized.
+0QU0000556	Tell Caesar that you were able to acquire the Brotherhood of Steel's help against the NCR.
+0QU0000557	Travel to Cottonwood Cove and take the barge up the river to the Fort.
+0QU0000558	Speak with Caesar.
+0QU0000559	Persuade Marjorie to shift her stance and join with Caesar.
+0QU0000560	Demolish Mr. House's bunker under the weather station.
+0QU0000561	Return to Caesar.
+0QU0000562	Kill Mr. House.
+0QU0000563	Return to Caesar and report that Mr. House has been neutralized.
+0QU0000564	Return to Caesar after President Kimball has been assassinated.
+0QU0000565	Return to Caesar to be recognized for your service.
+0QU0000566	Return to Caesar to answer for your failure.
+0QU0000567	Report to Legatus Lanius to begin the Battle for Hoover Dam.
+0QU0000568	Return to Lucius after President Kimball has been assassinated.
+0QU0000569	Return to Lucius to be recognized for your service.
+0QU0000570	Return to Lucius to answer for your failure.
+0QU0000571	Accept Caesar's first task.
+0QU0000572	Deal with Benny
+0QU0000573	Speak with Caesar about his next task.
+0QU0000574	Meet with Caesar for a private conversation.
+0QU0000575	Speak with Caesar once he's been cured to find out your next task.
+0QU0000576	(Optional) Fool Caesar by setting off an explosion in the Vault without destroying Mr. House's technology.
+0QU0000577	Return to Caesar and inform him that President Kimball's visit was cancelled.
+0QU0000578	Return to Lucius and inform him that President Kimball's visit was cancelled.
+0QU0000579	Obtain a Lucky 38 VIP Keycard.
+0QU0000580	Booted Complete.
+0QU0000581	Rescue the captives.
+0QU0000582	Report to Ranger Grant.
+0QU0000583	Protect President Kimball.
+0QU0000584	Report your findings to Ranger Grant.
+0QU0000585	Kimball saved, report back to Ranger Grant.
+0QU0000586	Kimball killed, report back to Ranger Grant.
+0QU0000587	Meet Ranger Grant on the Observation Deck.
+0QU0000588	(Optional) Investigate the area for clues.
+0QU0000589	Keep an eye on sniper locations.
+0QU0000590	Kill President Kimball.
+0QU0000591	Rendezvous with Cato Hostilius.
+0QU0000592	Report to Cato when you are prepared.
+0QU0000593	Find relief for Captain Gilles at Bitter Springs.
+0QU0000594	Talk to Camp Golf about reassigning soldiers to Bitter Springs.
+0QU0000595	Find supplies for the camp.
+0QU0000596	Talk to Capt. Gilles for your reward.
+0QU0000597	Talk to Camp McCarran about reassigning soldiers to Bitter Springs.
+0QU0000598	Talk to Camp Forlorn Hope about reassigning soldiers to Bitter Springs.
+0QU0000599	Bring the supplies back to Captain Gilles.
+0QU0000600	Talk to Lt. Markland about finding medical supplies for the camp.
+0QU0000601	Find the source of the attacks on Bitter Springs.
+0QU0000602	Tell Captain Gilles about Oscar Velasco.
+0QU0000603	(Optional) Mike Lawson suggested flushing the Legionnaires through the turbines to stop their invasion of the station.
+0QU0000604	The Legion is attacking Hoover Dam, the Legate's camp must be destroyed to protect the dam.
+0QU0000605	(Optional) Activate the pressure release valve to flush the Legionnaires through the turbines.
+0QU0000606	The dam overflow has been diverted into the turbines, the Legion can no longer use them to access the power plant.
+0QU0000607	The battle has been won. Return to General Oliver.
+0QU0000608	Find general intel on Legion troop movement.
+0QU0000609	[Optional] Give First Sergeant Astor the old intel.
+0QU0000610	Return to First Sergeant Astor with the intel.
+0QU0000611	Plant the NCR bug..
+0QU0000612	Find intel on Legion raids.
+0QU0000613	Kill all Legionaries in Cottonwood Cove.
+0QU0000614	[Optional] Find a way to block off Cottonwood Cove.
+0QU0000615	Return to First Sergeant Astor.
+0QU0000616	[Optional] Tell Aurelius of Phoenix about NCR plans.
+0QU0000617	Return to First Sergeant Astor if interested in clearing Cottonwood Cove.
+0QU0000618	Destroy the three Securitron Vault power regulators.
+0QU0000619	Tell Caesar the the Securiton army is no longer a threat.
+0QU0000620	Red Lucy needs Giant Mantis' eggs. It's faster to gather them at a breeding ground, like Vault 22.
+0QU0000621	Return to Red Lucy with the Giant Mantis Eggs
+0QU0000622	Red Lucy wants Radscorpion eggs. She suggested searching for them in the mountains north of Goodsprings.
+0QU0000623	Return to Red Lucy with the Radscorpion Eggs
+0QU0000624	Red Lucy wants Fire Gecko eggs. She suggested searching near the Ireteba Peaks.
+0QU0000625	Return to Red Lucy with the Fire Gecko Eggs
+0QU0000626	The elite hunters for The Thorn are looking for Night Stalker eggs. Red Lucy suggested to look at a cave near Bittersprings.
+0QU0000627	Return to Red Lucy with the Night Stalker Eggs
+0QU0000628	The elite hunters of The Thorn are now in search of Cazador eggs. Red Lucy suggested to look for them near Red Rocks.
+0QU0000629	Return to Red Lucy with the Cazador Eggs
+0QU0000630	Red Lucy has given the most dangerous task a hunter could face. She wants Deathclaw Eggs for the Thorn.
+0QU0000631	Return to Red Lucy with the Deathclaw Eggs
+0QU0000632	You are the greatest hunter that The Thorn has ever seen.
+0QU0000633	Red Lucy is dead. You can no longer help her.
+0QU0000634	Travel to Bitter Springs with Boone
+0QU0000635	Go with Boone to Coyote Tail Ridge.
+0QU0000636	Talk to Boone about staying overnight at Coyote Tail Ridge.
+0QU0000637	Talk to Boone.
+0QU0000638	Go to the Bitter Springs refugee camp and repel the Legion raid.
+0QU0000640	Spread word of Legion atrocities.
+0QU0000641	You told the NCR about Vulpes attack at Nipton.
+0QU0000642	Find Frank Weathers' Family.
+0QU0000643	Free the Weathers from slavery.
+0QU0000644	Return to Frank Weathers.
+0QU0000645	[Optional]'Free' the Weathers from slavery.
+0QU0000646	See Colonel Moore at Hoover Dam for further assignments.
+0QU0000647	Visit the Great Khans in Red Rock Canyon and either enlist their aid or destroy them.
+0QU0000648	Return to Colonel Moore with news that the Great Khans will help fight the Legion.
+0QU0000649	Return to Colonel Moore with news that the Great Khans have been destroyed.
+0QU0000650	Investigate the Omertas, and stop them if their plans oppose the NCR.
+0QU0000651	Return to Colonel Moore and report that the Omertas' plans have been foiled.
+0QU0000652	Return to Colonel Moore and lie about the Omertas' plans.
+0QU0000653	Remove Mr. House as a threat to the NCR.
+0QU0000654	Return to Colonel Moore and report that Mr. House is no longer a threat.
+0QU0000655	Find the Brotherhood of Steel chapter in this area and deal with them.
+0QU0000656	Return to Colonel Moore and report that the Brotherhood of Steel chapter in this area has been destroyed.
+0QU0000657	Return to Colonel Moore and report that the Brotherhood will support the NCR against Caesar's Legion.
+0QU0000658	Talk to Ranger Grant about protecting President Kimball during his visit.
+0QU0000659	Return to Colonel Moore and report that President Kimball has safely left.
+0QU0000660	Return to Colonel Moore and report that President Kimball is dead.
+0QU0000661	Talk to Colonel Moore.
+0QU0000662	Speak to Liza O'Malley at the NCR Embassy on the Strip for a lead on the Omertas.
+0QU0000664	Cross the dam and make your way to the western power plant.
+0QU0000665	Find the enemy commander, General Oliver.
+0QU0000666	Return to the Legate and tell him that General Oliver has been killed.
+0QU0000667	Return to the Legate and tell him that General Oliver has been driven off.
+0QU0000668	Kill General Oliver and the soldiers guarding him.
+0QU0000669	(Optional) Take out the snipers who've taken up position in the western portion of the dam.
+0QU0000670	(Optional) Release the waiting Legion reinforcements inside the intake tower.
+0QU0000671	Talk to Lt. Markland about ways to help the medical situation at Bitter Springs.
+0QU0000672	Find Lt. Markland a book on psychological treatment.
+0QU0000673	Bring the psychology textbook back to Lt. Markland.
+0QU0000674	Find a book on pediatric medicine for Lt. Markland.
+0QU0000675	Bring the pediatric medicine book back to Lt. Markland.
+0QU0000676	Bring Lt. Markland three Doctor's Bags.
+0QU0000677	<This Quest Not Yet Implemented>
+0QU0000678	Find a way to cut off access to the sulfur.
+0QU0000679	Report back to Samuel Cooke.
+0QU0000680	Speak with Papa Khan in Red Rock Canyon.
+0QU0000681	Report back to Philip Lem.
+0QU0000682	Eliminate the fire geckos in the caves under the vault.
+0QU0000684	Report back to Phillip Lem.
+0QU0000685	Talk to Lily about participating in Doctor Henry's experiment.
+0QU0000686	(Optional) Ask Lily to help you investigate the Nightstalker mutations.
+0QU0000687	Tell Doctor Henry to proceed with the experiment once Lily is present.
+0QU0000688	Kill the hostile Nightkin.
+0QU0000689	Speak with Doctor Henry.
+0QU0000690	Look for the source of the Nightstalker stealth mutation.
+0QU0000691	Tell Doctor Henry you've discovered a potential cause for the Nightstalker mutations.
+0QU0000692	Speak with Keene and try to defuse the situation.
+0QU0000693	Wait for Doctor Henry to complete the experiment.
+0QU0000694	Decide whether or not Lily should continue to wear the Mark II prototype and inform Doctor Henry.
+0QU0000695	Keep Lily alive.
+0QU0000696	Collect Dog Tags from ghoul NCR troopers within Camp Searchlight and take them to First Sergeant Astor.
+0QU0000697	All ghoul dog tags found, return to First Sergeant Astor.
+0QU0000698	Speak with someone in Nipton about the missing Radiation Suits.
+0QU0000699	Return with the suits to Logan.
+0QU0000700	Go with Logan to search the Police Station.
+0QU0000701	Go with Logan to search the Fire Station.
+0QU0000702	Find suits in a nearby cave.
+0QU0000703	Talk to Papa Khan about the alliance with Caesar.
+0QU0000704	Talk to Regis about convincing Papa Khan.
+0QU0000705	Convince Jack and Diane to speak out against Caesar.
+0QU0000706	Convince Melissa to speak out against Caesar.
+0QU0000707	Convince Regis to speak out against Caesar.
+0QU0000708	Talk to Papa Khan about breaking the alliance.
+0QU0000709	OPTIONAL: Find a way to disgrace Karl in front of Papa Khan.
+0QU0000710	Assassinate Papa Khan without being detected.
+0QU0000711	Talk to Regis about the Khans' allegiance.
+0QU0000712	Bring evidence of Karl's plan to Papa Khan.
+0QU0000713	Find Regis evidence that Caesar will annihilate the Great Khans.
+0QU0000714	Return the Legion slave ledger to Regis.
+0QU0000715	Find Diane proof that the Legion persecutes drug runners.
+0QU0000716	Talk to the Followers of the Apocalypse about the Great Khans.
+0QU0000717	Talk to Regis about the NCR.
+0QU0000718	Talk to Colonel Moore about a Great Khans/NCR alliance.
+0QU0000719	Wipe out the Great Khans at Red Rock Canyon.
+0QU0000720	Talk to Ezekiel about the history of the Great Khans.
+0QU0000721	Bring the history book back to Papa Khan.
+0QU0000722	Return to Red Rock Canyon and speak to Papa Khan.
+0QU0000723	Find Jack and Diane's missing drug runner.
+0QU0000724	Deliver drugs to Motor Runner.
+0QU0000725	Deliver drugs to Don Hostetler at the Crimson Caravan.
+0QU0000726	Return to Diane and tell her about Anders.
+0QU0000727	Return to Diane for your payment.
+0QU0000729	Talk to Jack about supplying the Great Khans' chem operation.
+0QU0000730	Teach Jack new chem recipes.
+0QU0000731	Find Jerry the Punk some painkillers to help him get through his initiation.
+0QU0000732	Return to Jerry the Punk.
+0QU0000733	Talk to the Followers of the Apocalypse about letting Jerry the Punk join their order.
+0QU0000734	Tell Jerry the Followers will accept him as a novice.
+0QU0000735	Talk to Mr. House at the Lucky 38.
+0QU0000736	Deliver the Platinum Chip to Mr. House.
+0QU0000737	Use the Platinum Chip to open the secret bunker at Fortification Hill.
+0QU0000738	Upgrade Mr. House's secret Securitron army.
+0QU0000739	Report back to Mr. House for further instructions.
+0QU0000740	Convince the Boomers to support Mr. House.
+0QU0000741	(Optional) Neutralize the Boomers by killing the tribe's leaders.
+0QU0000742	Inform Mr. House that the Boomers will support his cause.
+0QU0000743	Inform Mr. House that the Boomers have been neutralized.
+0QU0000744	Investigate the Omertas and stop them if their plans oppose Mr. House's interests.
+0QU0000745	Inform Mr. House that the Omerta threat has been neutralized.
+0QU0000746	Find the Brotherhood of Steel and destroy them.
+0QU0000747	(Optional) Inform Mr. House that you've negotiated a peaceful solution with the Brotherhood.
+0QU0000748	Inform Mr. House that the Brotherhood's bunker has been destroyed.
+0QU0000749	Go to Hoover Dam and protect President Kimball during his visit.
+0QU0000750	Inform Mr. House that President Kimball survived the assassination attempt.
+0QU0000751	Inform Mr. House that President Kimball is dead.
+0QU0000752	Go to Hoover Dam and defeat Caesar's Legion.
+0QU0000753	Bring the Platinum Chip to Mr. House
+0QU0000754	Recover the Platinum Chip from Benny at the Fort.
+0QU0000755	Go to the Basement of the Lucky 38.
+0QU0000756	Observe Upgrading of Securitrons.
+0QU0000757	Return to Mr. House.
+0QU0000758	Enter the hidden bunker.
+0QU0000759	Clear out the critters on the road to Ivanpah Lake.
+0QU0000760	Return to Ranger Jackson at Mojave Outpost.
+0QU0000761	Recon the Nipton Town Hall for Ranger Ghost.
+0QU0000762	Return to Ranger Ghost at Mojave Outpost.
+0QU0000763	Quest Complete.
+0QU0000764	Go with Veronica to talk to the Brotherhood of Steel elder at Hidden Valley.
+0QU0000765	Return with Veronica to the Brotherhood of Steel elder with evidence of the Brotherhood's misguided priorities.
+0QU0000766	Visit the Pawn Shop in Freeside and the Vault 21 gift shop with Veronica.
+0QU0000767	Look for the man who bought the rangefinder in Freeside near Mick and Ralph's.
+0QU0000768	Ask around to see what became of the rangefinder.
+0QU0000769	Recover the rangefinder.
+0QU0000770	Bring the rangefinder to the elder at Hidden Valley.
+0QU0000771	Find a way to enable the rangefinder at HELIOS One.
+0QU0000772	Speak with the director of OSI about his research project.
+0QU0000773	Recover the experimental data from Vault 22.
+0QU0000774	Bring the data back to the elder at Hidden Valley.
+0QU0000775	Access Father Elijah's notes at the comm terminal with Veronica.
+0QU0000776	Look for information about the pulse gun at Nellis Air Force Base.
+0QU0000777	Recover the pulse gun from Vault 34 if it still exists.
+0QU0000778	Bring the pulse gun back to the elder at Hidden Valley
+0QU0000779	Discuss your remaining options with Veronica.
+0QU0000780	Bring Veronica to check in with the Followers of the Apocalypse outpost.
+0QU0000781	Return to the Followers of the Apocalypse outpost when Dr. Schiller is there.
+0QU0000782	Talk to Veronica
+0QU0000783	Visit your private Suite on the 13th floor of the Tops.
+0QU0000785	Bring the Platinum Chip to Mr. House.
+0QU0000786	Recover the Platinum Chip at the Fort.
+0QU0000789	Observe as Mr. House upgrades Securitrons.
+0QU0000792	(Optional) Talk to Mr. House again if you want to work for him.
+0QU0000794	Enter the secret bunker.
+0QU0000797	(Optional) Change your mind and upgrade Mr. House's secret Securitron army.
+0QU0000800	Inform Mr. House that you've won the Boomers' support.
+0QU0000803	Inform Mr. House that the Omertas have been neutralized.
+0QU0000804	(Optional) Inform Mr. House of the Omertas' treachery.
+0QU0000805	Inform Mr. House that the Omertas are hostile to you.
+0QU0000806	Wipe out the Brotherhood of Steel by destroying its underground bunker.
+0QU0000812	Inform Mr. House that President Kimball's visit was cancelled.
+0QU0000813	Return to Mr. House when you're ready to fight the battle for Hoover Dam.
+0QU0000814	Speak with the leader of the mercenaries harassing Jacobstown.
+0QU0000815	Come to a peaceful arrangement with the mercenaries.
+0QU0000816	(Optional) Wipe the mercenaries out.
+0QU0000817	Return to Marcus.
+0QU0000818	(Optional) Ask Marcus for money to pay off the mercenaries.
+0QU0000819	Wipe the mercenaries out.
+0QU0000820	Disable the bottle cap press.
+0QU0000821	Return to Alice McLafferty and let her know the bottle cap press is out of action.
+0QU0000822	Deliver the radio security upgrade codes to each of the Ranger Stations.
+0QU0000823	Return to Sergeant Reyes and let her know the radio security upgrade is complete.
+0QU0000824	Upgrade Ranger Station Alpha.
+0QU0000825	Upgrade Ranger Station Bravo.
+0QU0000826	Upgrade Ranger Station Charlie.
+0QU0000827	Find out what else Sergeant Reyes needs you to do.
+0QU0000828	Confirm Sergeant Reyes' suspicions about the reports from Camp Golf.
+0QU0000829	Ask Ranger Lineholm about the battle losses at Ranger Station Alpha.
+0QU0000830	Find out about the Super Mutant Legionary attack at Ranger Station Delta.
+0QU0000831	Tell Sergeant Reyes that her suspicions about misinformation being fed to the NCR was correct.
+0QU0000832	Inform Chief Hanlon what you and Sergeant Reyes discovered.
+0QU0000833	Investigate the Deathclaw attacks on Ranger Station Foxtrot.
+0QU0000834	Upgrade Ranger Station Delta.
+0QU0000835	Upgrade Ranger Station Echo.
+0QU0000836	Upgrade Ranger Station Foxtrot.
+0QU0000837	Speak to Chief Hanlon in his office.
+0QU0000838	Find a ranger to take Chief Hanlon into custody.
+0QU0000839	Kill Chief Hanlon.
+0QU0000840	(Optional) Ask around Novac for information about who kidnapped Boone's wife.
+0QU0000841	(Optional) Look for evidence of the guilty party inside the Dino Dee-lite lobby.
+0QU0000842	Send someone in front of Dinky the Dinosaur. Put on the beret to signal to Boone that this is the culprit.
+0QU0000843	Return to Boone.
+0QU0000844	Explore the Vault 74 Overseer's Office
+0QU0000845	Go to the Control Room in Hoover Dam and install the override chip.
+0QU0000846	Activate the eastern power plant to power the Securitron Army.
+0QU0000847	Destroy the dam generators.
+0QU0000848	Exit out to the east side of the Dam.
+0QU0000849	Head to the Legate's camp and deal with the Legate and Caesar's Legion.
+0QU0000850	Deal with General Oliver and the NCR.
+0QU0000851	Return to Yes Man with news of your victory.
+0QU0000857	Return to Mr House with news of your victory.
+0QU0000858	Speak to Knight Lorenzo in Hidden Valley about ED-E.
+0QU0000859	Find the patrol Knight Lorenzo told you about to let the Brotherhood of Steel examine ED-E.
+0QU0000860	ED-E appears to have some Enclave log data stored that is triggered by some keywords.
+0QU0000861	The Followers of the Apocalypse would like to see ED-E to get access to the logs he has stored.
+0QU0000862	The patrol Lorenzo mentioned is dead, perhaps there is something on one of the corpses that may be useful.
+0QU0000863	There was a password on one of the Brotherhood corpses. Perhaps that could be used to bring ED-E to Lorenzo.
+0QU0000864	Lorenzo would like to examine the data on ED-E. He offered to upgrade ED-E's armor while he was working on it.
+0QU0000865	ED-E's upgrades are complete.
+0QU0000866	Lorenzo is examining ED-E and updating its armor. It should be ready in a few days.
+0QU0000867	April Martimer with the Followers would like access to ED-E's data. She promises to upgrade its weapons while she works on it.
+0QU0000868	April has ED-E and will be working with it for a few days to access the data and upgrade its weapons.
+0QU0000869	(Optional) Bring ED-E to the Gibson Scrapyard in Novac.
+0QU0000870	Kill or Disable Mr. House.
+0QU0000871	Install Yes Man's A.I. in the Lucky 38's mainframe.
+0QU0000872	Meet Yes Man at the Lucky 38.
+0QU0000874	Recover the Platinum Chip from Benny.
+0QU0000875	Deliver the Platinum Chip to Mr. House so he can upgrade his defensive systems.
+0QU0000876	Go the basement of the Lucky 38.
+0QU0000878	Return to Yes Man.
+0QU0000880	Make contact with the Boomers at Nellis AFB.
+0QU0000881	Go to Red Rock Canyon and make contact with Great Khans.
+0QU0000882	Observe the Omertas at their casino, Gomorrah.
+0QU0000883	Visit the White Glove Society at the Ultra-Luxe casino.
+0QU0000884	Make contact with the Brotherhood of Steel.
+0QU0000885	Tell Yes Man that the Boomers have vowed to support you.
+0QU0000886	Tell Yes Man that you've killed the Boomers' leaders.
+0QU0000887	(Optional) Kill the Boomers' other leader to neutralize the tribe's threat.
+0QU0000888	(Optional) Return to Yes Man and tell him that the Boomers can be ignored.
+0QU0000889	(Optional) Tell Yes Man that you've visited Gomorrah and wish to ignore the Omertas.
+0QU0000890	Inform Yes Man that the Omertas are no longer a threat.
+0QU0000891	Inform Yes Man that you approve of the Omertas' plans to attack the Strip.
+0QU0000892	Inform Yes Man that the Omertas are hostile to you.
+0QU0000893	(Optional) Return to Yes Man and tell him that you plan to ignore the Great Khans.
+0QU0000894	Inform Yes Man that you've convinced the Great Khans to support the NCR.
+0QU0000895	Inform Yes Man that the Great Khans have been wiped out.
+0QU0000896	Inform Yes Man that you convinced the Great Khans to leave the Mojave.
+0QU0000897	Inform Yes Man that the Great Khans will perform a suicide attack at Hoover Dam.
+0QU0000898	(Optional) Tell Yes Man that you've decided to ignore the White Glove Society.
+0QU0000899	Inform Yes Man that you've killed the White Glove Society's leaders.
+0QU0000900	Inform Yes Man that you've fixed the White Glove Society's cannibalism problem.
+0QU0000901	Inform Yes Man that all is well with the White Glove Society.
+0QU0000902	Tell Yes Man that you've convinced the White Glove Society to support Caesar's Legion.
+0QU0000903	(Optional) Tell Yes Man that you're familiar with the Brotherhood of Steel and wish to ignore them.
+0QU0000904	Inform Yes Man that you've convinced the Brotherhood of Steel to help the NCR.
+0QU0000905	Inform Yes Man that you destroyed the Brotherhood of Steel's bunker.
+0QU0000906	(Optional) Return to the Brotherhood's bunker at Hidden Valley.
+0QU0000907	Learn about the White Glove Society by talking to one of its leaders.
+0QU0000908	(Optional) Find out more about the White Glove Society by talking to Marjorie.
+0QU0000909	(Optional) Find out more about the White Glove Society by talking to Mortimer.
+0QU0000910	(Optional) Destroy the Brotherhood of Steel's bunker.
+0QU0000911	With Arcade, convince the Remnants to reunite for one last battle.
+0QU0000912	Ask Doctor Henry to come to the Remnants reunion.
+0QU0000913	Ask Daisy Whitman to come to the Remnants reunion.
+0QU0000914	Ask Cannibal Johnson to come to the Remnants reunion.
+0QU0000915	Ask Orion Moreno to come to the Remnants reunion.
+0QU0000916	Ask Judah Kreger to come to the Remnants reunion.
+0QU0000917	Gain access to the Remnants Bunker.
+0QU0000918	Ask the Remnants to support the fight against the Legion or the NCR.
+0QU0000919	Try to convince Orion Moreno to stay.
+0QU0000920	Acquire Power Armor training from Daisy Whitman.
+0QU0000921	Acquire Power Armor training from Orion Moreno.
+0QU0000922	Kill Orion Moreno to retrieve the door override keycard.
+0QU0000923	Tell Judah Kreger what happened with Orion Moreno.
+0QU0000924	Leave the Remnants' command room so they can plan for the coming battle.
+0QU0000925	(Optional) Protect President Kimball during his official visit to Hoover Dam before powering up El Dorado Substation.
+0QU0000926	Go to the El Dorado power station and install the Override Chip.
+0QU0000927	Meet with the Securitron outside El Dorado Substation and follow it.
+0QU0000928	Report back to Yes Man.
+0QU0000929	Go to Hoover Dam.
+0QU0000930	(Optional) Convince the Followers of the Apocalypse to support an Independent Vegas.
+0QU0000931	President Kimball's visit has been cancelled. Go to the El Dorado Substation and install the Override Chip.
+0QU0000932	Go to the El Dorado Substation and install the override module.
+0QU0000934	Report back to Mr. House.
+0QU0000935	Investigate the East Pump Station.
+0QU0000936	Find the source of the Radiation.
+0QU0000937	Shut down Vault 34's Reactor to help the Sharecropper Farms
+0QU0000938	(Optional) Save Vault 34's trapped dwellers by leaving its Reactor intact, dooming the Sharecropper Farms.
+0QU0000939	Find Jack's love interest.
+0QU0000940	Tell Jack Janet is interested in him.
+0QU0000941	Ask Pearl for permission for Janet to enter Nellis.
+0QU0000942	Take the Boomer Outfit to Janet.
+0QU0000943	Let Janet know McLafferty agreed to pay her.
+0QU0000944	Speak to Alice McLafferty on behalf of Janet.
+0QU0000945	Let Janet know McLafferty won't be paying her.
+0QU0000946	Return to Jack.
+0QU0000947	Meet Janet back at Nellis.
+0QU0000948	Janet is dead.
+0QU0000949	Find the missing Brotherhood patrol at Black Mountain and retrieve their mission holotape.
+0QU0000950	Find the missing Brotherhood patrol at REPCONN HQ and retrieve their mission holotape.
+0QU0000951	Find the missing Brotherhood patrol at Nellis AFB and retrieve their mission holotape.
+0QU0000952	Return to Elder McNamara with the three patrol mission holotapes.
+0QU0000953	Meet with a Brotherhood scout near the NCR Correctional Facility and collect his report.
+0QU0000954	Meet with a Brotherhood scout near the town of Nipton and collect his report.
+0QU0000955	Meet with a Brotherhood scout near Camp Forlorn Hope and collect his report.
+0QU0000956	Return to Elder McNamara with the three scouts' reports.
+0QU0000957	Search the vaults in the region for a differential pressure controller.
+0QU0000958	Return to Elder McNamara with the news that the air filtration system should be fine.
+0QU0000959	Speak to Elder McNamara in the command room.
+0QU0000960	(Optional) Talk to Senior Paladin Ramos on Hardin's behalf.
+0QU0000961	(Optional) Talk to Senior Scribe Ibsen about accessing the Brotherhood's datastore.
+0QU0000962	(Optional) Help Head Paladin Hardin find a way to oust Elder McNamara from his position.
+0QU0000963	(Optional) Look at the Brotherhood's history files relating to Elders being dismissed from their positions.
+0QU0000964	Speak to Elder McNamara.
+0QU0000965	Deal with an NCR Ranger who is camping in one of the bunkers of Hidden Valley.
+0QU0000966	Return to Elder McNamara with news that the ranger has been dealt with.
+0QU0000967	Speak to Senior Knight Lorenzo regarding the failing air filtration system.
+0QU0000968	Return to Senior Knight Lorenzo with the components.
+0QU0000969	Search the vaults in the region for a reverse pulse cleaner.
+0QU0000970	Search the vaults in the region for several HEPA cartridge filters.
+0QU0000971	(Optional) Return to Hardin with the lost patrols' mission discs.
+0QU0000972	(Optional) Return to Hardin with your findings about the Chain That Binds.
+0QU0000973	(Optional) Ask Paladin Ramos about the Chain That Binds.
+0QU0000974	(Optional) Check the datastore for more information on the Chain That Binds.
+0QU0000975	Find a Broc Flower and a Xander Root.
+0QU0000976	Bring the Broc Flower and Xander Root to Sunny at the Campfire.
+0QU0000977	Use the campfire to make Healing Powder.
+0QU0000979	Pay your respects with Cass at her caravan's grave.
+0QU0000980	Investigate the wreckage of the Griffin Wares caravan with Cass.
+0QU0000981	Track down Durable Dunn's missing caravan with Cass.
+0QU0000982	Investigate the Crimson Caravan for reasons behind the attack.
+0QU0000983	Investigate the Silver Rush in Freeside for evidence on the Van Graffs' guilt.
+0QU0000984	Find Alice McLafferty at the Crimson Caravan Camp and "settle accounts."
+0QU0000985	Find Gloria Van Graff at the Silver Rush in Freeside and make that bitch eat her hair.
+0QU0000986	Take the evidence of the Caravan attacks to Jackson at the Mojave Outpost.
+0QU0000987	Accounts settled.
+0QU0000988	Evidence passed to NCR.
+0QU0000989	Cass is drowning her sorrows at the Mojave Outpost. Her advice? Go work for the Crimson Caravan.
+0QU0000990	Pitch in at the Crimson Caravan company if you're looking for caravan work.
+0QU0000991	Return to Cass and see if you can get her to part with the title for Cassidy Caravans.
+0QU0000992	Clear the roads for Jackson in Mojave Outpost HQ to allow Cass freedom to leave.
+0QU0000993	(Optional) "Remove" Jackson as an obstacle without Cass or anyone the wiser.
+0QU0000994	Speak with Corporal Betsy about getting medical help for her trauma.
+0QU0000995	Talk to the other members of First Recon about getting help for Betsy.
+0QU0000996	Deliver Gorobets' message to Doctor Usanagi at the New Vegas Medical Clinic.
+0QU0000997	Tell Lieutenant Gorobets that Corporal Betsy will start receiving treatment.
+0QU0000998	Speak with 10 of Spades.
+0QU0000999	Speak with Corporal Sterling.
+0QU0001000	Speak with Sergeant Bitter-Root.
+0QU0001001	Tell Corporal Betsy that the rest of First Recon agrees she needs help.
+0QU0001002	Kill Ringo.
+0QU0001003	(Optional) Shake down Chet for supplies.
+0QU0001004	(Optional) Obtain Doc Mitchell's spare medical supplies for the Powder Gangers.
+0QU0001005	Defeat the Goodsprings militia.
+0QU0001006	Let Joe Cobb know once you're ready to take over Goodsprings.
+0QU0001007	Tell Joe Cobb that Ringo is dead.
+0QU0001008	Plan your attack on Goodsprings with Joe Cobb.
+0QU0001009	Hand the spare medical supplies over to Joe Cobb.
+0QU0001010	Repair the broken solar array panels.
+0QU0001011	Find spare array parts.
+0QU0001012	[Optional] Improve the solar array's efficiency.
+0QU0001013	Tell Loyal the array has been repaired.
+0QU0001014	Find the NCR Supply Cache
+0QU0001015	Kill the Van Graffs and their men.
+0QU0001016	Return to Elder Hardin with the news that the Van Graffs have been eliminated.
+0QU0001017	Find the Legion Dropbox.
+0QU0001018	Find the Legion Dropbox
+0QU0001019	Head to Black Mountain and install the remote signal transmitter in one of the consoles there.
+0QU0001020	Report to McNamara that the device has been installed.
+0QU0001021	Mr. House is dead. His grand dreams for New Vegas will never be realized.
+0QU0001022	You have irrevocably disconnected Mr. House from the Lucky 38's mainframe computers.
+0QU0001023	Search Benny's room in the Tops for clues.
+0QU0001024	Talk to Yes Man about how to take over Vegas.
+0QU0001025	Head to the summit of Black Mountain and end Tabitha's reign of terror.
+0QU0001026	(Optional) Meet Neil in the village near the summit of Black Mountain.
+0QU0001027	Little escapes the eyes of NCR Rangers. If you continue to work with Caesar's Legion, the NCR will brand you a terrorist.
+0QU0001028	The NCR has declared you a terrorist. Wherever the NCR has jurisdiction, you will be shot on sight.
+0QU0001029	The NCR has a robust network of informants. If you continue to work with Mr. House, the NCR will no longer accept your help.
+0QU0001030	The NCR has a robust network of informants. If you continue to work with Yes Man, the NCR will no longer accept your help.
+0QU0001031	The NCR has a robust network of informants. If you continue to work with Mr. House or Yes Man, the NCR will no longer accept your help.
+0QU0001032	The NCR knows that you are working against its interests and will no longer accept your help
+0QU0001033	The Legion has spies everywhere. If you continue to work against its interests, you will be marked an enemy.
+0QU0001034	For aiding and abetting the Legion's enemies, you have been declared "in damnatio memoraie" - an enemy of the Legion in perpetuity. Many will seek your head as a trophy.
+0QU0001035	(Optional) Find Mr. House's hidden bunker, buried beneath the Legion Stronghold at Fortification Hill.
+0QU0001036	(Optional) Upgrade the Securitron army, to use later for your own purposes.
+0QU0001037	(Optional) Destroy the Securitron army by overloading the bunker's reactor.
+0QU0001038	Explore the bunker.
+0QU0001039	Escape the Lucky 38 until Mr. House's security lockdown expires.
+0QU0001040	Escape the Lucky 38 or kill Mr. House as Caesar directed.
+0QU0001041	Escape the Lucky 38 or neutralize Mr. House as Colonel Moore directed.
+0QU0001042	Escape the Lucky 38 or neutralize Mr. House as Yes Man directed.
+0QU0001043	Escape the Lucky 38 or neutralize Mr. House.
+0QU0001044	Deliver the Platinum Chip to Mr. House when his 24 hour security lockdown has expired.
+0QU0001045	Return to Mr. House when his 24 hour security lockdown has expired if you want to continue working with him.
+0QU1000001	Get to the Gala Event control panel at the top of the belltower in Salida del Sol North and activate it.
+0QU1000002	Get to the Sierra Madre Main Gate and enter the casino.
+0QU1000003	Thread Vera's music sequence together at the Receptionist Terminal in the Lobby.
+0QU1000004	Escape the Sierra Madre Vault before your collar explodes.
+0QU1000005	Discover the secrets of the Sierra Madre at the Vault's central chamber.
+0QU1000006	Gain access to the Sierra Madre Vault.
+0QU1000007	Defeat Elijah.
+0QU1000008	(Optional) Sneak out of the Vault's chamber area undetected, trapping Elijah when he opens the vault.
+0QU1000009	Track down the source of the Sierra Madre invitation.
+0QU1000010	Wake up.
+0QU1000011	On your feet, before I set off your collar.
+0QU1000012	Look at your Pip-Boy. Listen to the audio log, follow the instructions.
+0QU1000013	From now on, do as I say. It's the only way you'll leave the Sierra Madre alive.
+0QU1000014	Try and run, disobey me? I'll set off your collar and find someone who knows how to listen.
+0QU1000015	...and no sleeping, no waiting around, not even for an hour. Waste my time, you're useless to me.
+0QU1000017	Villa's comm speakers have... aged poorly, like the Madre. Pre-War junk.
+0QU1000018	The speakers emit a signal that'll set off your collar. Too close, too long, you'll lose your head.
+0QU1000019	Some speakers may be damaged, blue ones, sparking - you can destroy those. Others, red, too well-shielded.
+0QU1000020	Don't be stupid. Pay attention, keep moving. Hear your collar beep, look around.
+0QU1000021	Don't go through the gate to Puesta del Sol yet, gather the others first.
+0QU1000022	Leave the Salida gate alone. You're not done with the Villa yet, so don't stray.
+0QU1000023	You sure have filled your Pip-Boy's archives with garbage.
+0QU1000024	Mitchell... that your name, Mitchell? No, wait... previous owner, Vault 21. Vegas.
+0QU1000025	No matter, not important. Probably stole this Pip-Boy from him, didn't you.
+0QU1000026	Don't worry, if you're a thief, a thief is just what I need.
+0QU1000027	Followed the Gala radio signal, just like I did, hoping to strike it rich?
+0QU1000028	Cooperate with me, follow along, we'll crack the Sierra Madre. Together.
+0QU1000029	There were others like you... turned on each other, even before the collars.
+0QU1000030	Play your cards right, be smart, you'll live through this. Be dumb...
+0QU1000031	..well, your head wasn't much use anyway, was it?
+0QU1000032	The Villa's toxic. The more you're outside, the more you breathe...
+0QU1000033	...then the Cloud wins. So move fast, don't stay outdoors too long.
+0QU1000034	Outside, you may notice your vision'll pulse, get dizzy.
+0QU1000035	It's the Cloud. Eats your insides, slowly. Too much exposure, death.
+0QU1000037	Collar 12's near you, in the building.
+0QU1000038	Getting an odd signal near your location. Some kind of emitter, hunt for it.
+0QU1000039	Lost the emitter signal. Your work, I presume?
+0QU1000040	Picked up another emitter signal, then lost it.
+0QU1000041	Maybe you think I wanted to send people here. To inhale toxins. Die. Kill each other.
+0QU1000042	Hardly. If robots could do this, I'd have sent them in.
+0QU1000043	That collar around your neck is because people are unreliable. Even chains of command - unreliable.
+0QU1000044	These collars, with adjustments, work much better.
+0QU1000045	Watch out for the Villa inhabitants.
+0QU1000046	The Villa's inhabitants seem obsessed with Holograms. Use it to distract them.
+0QU1000047	Picking up an emitter signature - watch for Security Holograms, dangerous.
+0QU1000048	Main power's down. How troublesome.
+0QU1000049	The ventilation system controls should be located in that building.
+0QU1000050	They should help with the Cloud.
+0QU1000051	Good, ventilation's back online.
+0QU1000052	Deciding to explore? Curiosity kills, get back to the main path.
+0QU1000053	I mean it - if you die here, then this starts all over again.
+0QU1000054	Collars weren't always linked to each other. A mistake.
+0QU1000055	Others who came, kept killing each other. Now, I've fixed that by linking them to each other.
+0QU1000056	Keep heading West, that's where you'll need to leave the mutant.
+0QU1000057	Damn power station levers need his strength to operate.
+0QU1000058	You're at one of the Gala locations, you'll need to bring the mutant here.
+0QU1000059	Only he has the strength to operate the levers, I've found.
+0QU1000060	Head north, get to the bell tower. There is where you'll trigger the event.
+0QU1000061	Provided you have everyone in place.
+0QU1000062	Toxins are thick in your area. Move East, avoid the clouds.
+0QU1000063	Don't test me or the Cloud... both will kill you without a second thought.
+0QU1000064	Covering a lot of ground, good. Still a ways to go.
+0QU1000065	Stay focused. Only one chance to do this.
+0QU1000066	Salida del Sol... now a maze of toxins.
+0QU1000067	Entire Villa is a deathtrap.
+0QU1000068	Keep north - that's where you'll find the bell tower.
+0QU1000069	Everyone needs to be in place, or it'll be a wasted trip.
+0QU1000070	You're resourceful. Had a daughter, foster daughter, like you.
+0QU1000071	She was willful, stubborn. But clever. She's gone now. Lost to me.
+0QU1000072	We don't have time for you to explore the Villa, stick to the Gala.
+0QU1000073	Are you paying attention? Roam the Villa, and you'll die.
+0QU1000074	The bell tower. That's where you'll trigger the Gala Event.
+0QU1000075	It's a ways up. I'm sure you'll find a way to climb up there.
+0QU1000076	Take the ladder. It should still be intact.
+0QU1000077	Once you're in the tower, throw the switch, then get ready to move.
+0QU1000078	What are you doing?
+0QU1000079	The others aren't in place yet. Get them to their stations, then return here.
+0QU1000080	Leave the mute at the Switching Station - she'll know what to do.
+0QU1000081	Your detours are getting tiresome.
+0QU1000082	What do you expect to find? A way to escape? No, I don't think so.
+0QU1000083	This must have been paradise before the war.
+0QU1000084	But no, radiation and the Cloud ruined that dream.
+0QU1000085	Head west, past the toxins, get to the Switching Station.
+0QU1000086	So that's what happened to that one.
+0QU1000087	Pray you don't end up like him. Greed killed him. Can kill you, too.
+0QU1000088	Remember - you need to bring the mute girl here.
+0QU1000089	If not, it's a long walk back, and time's running out.
+0QU1000090	Sick of having to herd all of you through the Villa...
+0QU1000091	...at least you're making more progress than the last team.
+0QU1000092	Don't waste time trying to catch a glimpse of the Sierra Madre.
+0QU1000093	Enough detours, get back to the task at hand.
+0QU1000094	The Gala target is straight ahead - southeast on the compass.
+0QU1000095	It's where you should leave the Ghoul.
+0QU1000096	You're at the Gala area... now, you need someone to stay there.
+0QU1000097	Bring the Ghoul... he'll do.
+0QU1000098	I can hear the event firing off. Now get to the main doors, quickly.
+0QU1000099	Keep moving. The doors will close unless you get there in time.
+0QU1000100	Faster!
+0QU1000101	What's taking you so long? Get to the casino!
+0QU1000103	If you're trying to crawl-and-hide, don't turn on your Pip-Boy light...
+0QU1000104	...that light? Makes it easier for... others to spot you.
+0QU1000105	See if you can access that terminal.
+0QU1000106	Might be some "Vending Machine" access codes you can download.
+0QU1000107	Those "Vending" Machines, the ones with the blue lights. Use them to resupply.
+0QU1000108	Gather any casino chips you see, take them to the machines.
+0QU1000109	Followed the signal here because of that damn voice.
+0QU1000110	Promising to "begin again?" Pre-War nonsense. More like "end again."
+0QU1000112	Follow my orders, freedom is yours. I promise.
+0QU1000113	The gate to the Sierra Madre's sealed, locked. For now.
+0QU1000114	Do as I say, and it won't be locked for much longer.
+0QU1000115	Those "vending" machines... vending wasn't their intended use.
+0QU1000116	They do so much more. Make the Villa self-sufficient.
+0QU1000117	< Elijah says the player disobeyed his warning about cooperating with companions, so player goes boom >
+0QU1000118	Now, piece together the words from her holotapes in the right sequence.
+0QU1000120	You found a way to the Vault... good. Now find a way into the Chamber.
+0QU1000124	Sierra Madre's still sealed up. Find a way to restore the power.
+0QU1000125	Trapped now. You won't be able to deal with the turrets alone.
+0QU1000126	That does it. I'm coming for you.
+0QU1000127	Your collar's set to detonate. You won't get far.
+0QU1000129	He knew a way to get to the starlet's room? Backstage "pass," indeed.
+0QU1000130	That starlet - Vera - must have had access the security? Maybe the audience controls...?
+0QU1000131	That Holotape needs a holo-emitter. Get to the projection booth, play it, and de-activate the Security Holograms.
+0QU1000133	Now - find the voice fragment and escape before your collar explodes. Move!
+0QU1000134	Talk all you want, I don't trust him. At least you can leave now.
+0QU1000136	The Ghoul's your burden - find the Holotape fragment, and keep it to yourself.
+0QU1000137	Until you deal with the Holograms, you can't reach the Ghoul - find a way to de-activate the Security Holograms.
+0QU1000138	Doors'll sealed until power's back.
+0QU1000139	The door won't open until you restore power. Check the main casino.
+0QU1000140	Power first, then the door unlocks. Understand?
+0QU1000143	Good, now keep moving. You still need to unlock the elevator to the vault.
+0QU1000144	Put him down, good. Now get out, before your collar blows.
+0QU1000145	Fix the valves and get out of there before his collar blows!
+0QU1000146	Good, now keep moving. Take the elevator to the vault.
+0QU1000147	Sounds like she's going to be difficult. Handle it.
+0QU1000149	Find a way past the Hologram Security and get to the power switch.
+0QU1000150	Lot of power lines... leading to a room near the cashier's counter. Check it out.
+0QU1000151	The vault has an audio lock. And it responds to the starlet's voice. We need to find more samples.
+0QU1000152	A theater... it may have the recordings of the Starlet's voice we need.
+0QU1000153	Gas leak has stopped - now, for the mutant.
+0QU1000154	He broke one of the valves. Wait for him to leave, then fix it.
+0QU1000156	The holotape... the starlet's voice is the key to the vault, look for more fragments.
+0QU1000157	What is wrong? Maybe... maybe you need to splice the fragment to make the phrase.
+0QU1000158	The Theater should have the tools you need to edit the tapes. Look around.
+0QU1000159	Ah, that's it. Try it out in the Suites at once.
+0QU1000160	That's it for the mutant reject. Now for the others.
+0QU1000161	Search for more recordings of the starlet. Maybe she had an admirer here, among the staff.
+0QU1000162	Look for more voice recordings. Might be something in her possessions.
+0QU1000164	The gas leak's sealed the main kitchen door. Check for an emergency entrance - the casino side corridors, look there.
+0QU1000166	Quick! Talk him down before he ignites the gas!
+0QU1000167	Find Dog at the Police Station in the Villa.
+0QU1000168	Search the basement of the Police Station for a way to free Dog from his cell.
+0QU1000169	Play the basement audio log on your Pip-Boy near Dog's cell.
+0QU1000170	Recruit Dog.
+0QU1000171	Get to Dean Domino at his hideout in the Residential District.
+0QU1000172	Recruit Dean Domino.
+0QU1000173	Search for Christine in the Clinic in the Medical District.
+0QU1000174	Get into the Clinic Basement and turn off the power to Shielded Speakers in the Auto-Doc wing.
+0QU1000175	Find Christine in the Auto-Doc wing of the Clinic.
+0QU1000176	Recruit Christine.
+0QU1000177	Retrieve the Emergency Door key to the Cantina Madrid kitchen.
+0QU1000178	Repair the three broken gas valves in the kitchen without being spotted by Dog.
+0QU1000179	Confront Dog and convince him to back down - one way or another.
+0QU1000180	Access the Cantina Madrid kitchen via the Emergency Door in the Casino.
+0QU1000181	Kill Dog.
+0QU1000182	Get out of the kitchen before Dog's collar detonates - and detonates yours, in turn.
+0QU1000183	Gain access to the Casino electrical closet and restore power to the rest of the Sierra Madre.
+0QU1000184	Travel to the Puesta del Sol Switching Station with Christine.
+0QU1000185	Repair the electrical box to gain access to the rest of the Switching Station.
+0QU1000186	Get Christine to the elevator to the Manual Override Chamber.
+0QU1000187	Ask Christine to take the elevator down into the Manual Override Chamber.
+0QU1000188	Gain access to the Remote Maintenance Terminal for Christine.
+0QU1000189	Use the elevator controls to send Christine down into the Manual Override Chamber.
+0QU1000190	Get Christine to the Remote Maintenance Terminal and let her know it can be used.
+0QU1000191	Get Dog to the Switching Substation in Salida del Sol.
+0QU1000192	Get Dog to wait in the Switching Substation.
+0QU1000193	Find two slabs of Ghost Harvester remains to convince Dog to stay in the Switching Substation.
+0QU1000194	(Optional) Use the Switching Substation terminal to lock Dog inside and force him to do his part of the Gala.
+0QU1000195	Speak to Elijah at the Fountain for further instructions.
+0QU1000196	Return to Dog with the Ghost Harvester remains.
+0QU1000197	Get Dean to the Puesta del Sol South rooftop.
+0QU1000198	Tell Dean to stay in position and fire off his part of the Gala Event.
+0QU1000199	Turn on both Security Holograms to guard the courtyard below Dean.
+0QU1000200	Let Dean know it's safe for him to get to his Gala position.
+0QU1000201	Return to the Puesta del Sol South rooftop with Dean.
+0QU1000202	Look for Dean in the Tampico Theater.
+0QU1000203	Find a way to disable the Tampico's hologram security.
+0QU1000204	Play Dean's Holotape at the Tampico's Holotape Projector.
+0QU1000205	Head to the Tampico's backstage and deal with Dean.
+0QU1000206	Search for the backstage key.
+0QU1000207	Kill Dean Domino.
+0QU1000208	Escape the Tampico before Dean's collar sets off your own.
+0QU1000209	Find Christine in the Executive Suites.
+0QU1000210	Kill Christine.
+0QU1000211	Escape the Executive Suites before Christine's collar sets off your own.
+0QU1000212	Gain access to the Casino electrical closet.
+0QU1000213	Restore power to the rest of the Sierra Madre.
+0QU1000214	Return to the Fountain and speak to Elijah to get your next tasks.
+0QU2000001	Find the Happy Trails caravan master.
+0QU2000002	Let Jed know you're ready to leave once you're traveling alone and carrying 75 pounds or less.
+0QU2000003	Let Jed know you're ready to leave once you're traveling alone and carrying 100 pounds or less.
+0QU2000004	Take the supplies to Daniel at the Narrows.
+0QU2000005	Optional: Speak to Follows-Chalk about taking him as a guide.
+0QU2000006	Optional: Defeat the White Legs assault.
+0QU2000007	Move into Zion Valley.
+0QU2000008	Travel to the Dead Horses camp at Eastern Virgin.
+0QU2000009	Speak with Joshua Graham.
+0QU2000010	Follow Jed.
+0QU2000011	Find a map of the Grand Staircase region.
+0QU2000012	Optional: Speak to Waking Cloud about taking her as a guide.
+0QU2000013	Find a way to unlock the door to the Survivalist's cache.
+0QU2000014	Locate the White Legs leader, Salt-Upon-Wounds, and deal with him.
+0QU2000015	Return to Daniel at The Narrows.
+0QU2000016	Fight your way to the Pine Creek Tunnel.
+0QU2000017	Deal with Salt-Upon-Wounds
+0QU2000018	Speak to Daniel.
+0QU2000019	Use the detonator to collapse the Pine Creek tunnel.
+0QU2000020	Pick the roots from 3 Sacred Datura plants.
+0QU2000021	Return the roots to the Shaman.
+0QU2000022	Return to the Shaman to start the ritual.
+0QU2000023	Retrieve the paw from Ghost of She.
+0QU2000024	Return to the Shaman.
+0QU2000025	Speak to White Bird the shaman.
+0QU2000027	Find the lost Mountain Bighorner Calf.
+0QU2000028	Get the calf to follow you back to its mother.
+0QU2000029	(Optional) Don't kill any of the Mountain Bighorners.
+0QU2000030	Get the calf to follow you back to the herd.
+0QU2000031	Speak with Follows-Chalk
+0QU2000032	Find a way up to the Cliffs.
+0QU2000033	Kill all of the Mountain Bighorners.
+0QU2000034	Take the calf to Follows-Chalk
+0QU2000035	Recover the map of Zion Canyon.
+0QU2000036	Leave Zion and return to the Mojave Wasteland.
+0QU2000037	Defeat the White Legs holding the bridge to Pine Creek.
+0QU2000038	Optional: Talk to the Sorrows at the burial ground.
+0QU2000039	Kill the White Legs desecrating the Sorrows' burial ground.
+0QU2000040	Optional: Kill the White Legs desecrating the Sorrows' burial ground.
+0QU2000041	Release the Sorrow prisoners at Ranger Substation Osprey.
+0QU2000042	Optional: Kill the White Legs at Ranger Substation Osprey.
+0QU2000043	Find the key to the cell door.
+0QU2000044	Optional: Steal the White Legs' war totems from the encampments.
+0QU2000045	Optional: Wipe out the White Leg encampments at Bighorn Bluff.
+0QU2000046	Deal with the White Legs' camp.
+0QU2000047	Optional: Disarm the traps on the bridge.
+0QU2000048	Optional: Kill the White Legs planting the traps.
+0QU2000049	Deal with the White Leg traps.
+0QU2000050	Optional: Collapse the Yao Guai Cave.
+0QU2000051	Optional: Kill the Yao Guai at Pine Creek.
+0QU2000052	Plant mining explosives at key points within the cave.
+0QU2000053	Leave the cave and set off the charges with the mining detonator.
+0QU2000054	Deal with the Yao Guai at Pine Creek.
+0QU2000056	Tell Daniel whether the Sorrows should fight or flee.
+0QU2000057	Search the ruins of the crashed scout bus for a compass.
+0QU2000058	Repair the broken compass at a workbench.
+0QU2000059	Optional: Find a sensor module to repair the compass.
+0QU2000060	Return the compass to Daniel at the Narrows.
+0QU2000062	Repair the broken compass with the sensor module.
+0QU2000063	Search the Zion Fishing Lodge for walkie-talkies.
+0QU2000064	Find the key to the locked cabinet in the Zion Fishing Lodge.
+0QU2000065	Search the Zion Ranger Station for a medical supply kit.
+0QU2000066	Find turpentine for the medical supply kit.
+0QU2000067	Find duct tape for the medical supply kit.
+0QU2000068	Optional: Find whiskey, vodka, or Scotch to sterilize the medical supply kit.
+0QU2000069	Search the Zion General Store for five Li'l Scout Lunchboxes.
+0QU2000070	Salvage the medical supply kit at a campfire.
+0QU2000071	Find the key to the desk in the Zion General Store.
+0QU2000072	Bring the supplies you've gathered to Daniel in the Narrows.
+0QU2000073	Return to the Mojave via the Southern Passage.
+0QU2000074	Find out what Daniel knows about Waking Cloud's family.
+0QU2000075	Tell Waking Cloud about her family.
+0QU2000076	Talk to Joshua Graham about Follows-Chalk's desire to see civilization.
+0QU2000077	Tell Follows-Chalk your opinion of civilization.
+0QU3000001	Investigate the midnight showing at the Mojave Drive-in.
+0QU3000002	Find out where the hell you are.
+0QU3000003	Speak to your... captors.
+0QU3000004	Get the X-2 antenna brain array thing, the sonic-soundwave-projecto-emitter spine thing... and the sneaky heart suit.
+0QU3000005	Correction: They have the sonic... projecto... emitter gun. They need a new frequency for it.
+0QU3000006	Correction: So get the X-2 antenna brain array thing... the new frequency for the Sonic Emitter, and the sneaky heart suit.
+0QU3000007	Correction: Wait, there's another optional Sonic Emitter frequency that disables Force Fields that's not the frequency they need...? Ugh, forget it.
+0QU3000008	Closing out these entry logs, clearing the utility partition.
+0QU3000009	Return to the Think Tank and let Dr. Klein know you've completed your tasks.
+0QU3000010	Travel to the Forbidden Zone Dome.
+0QU3000011	Confront Dr. Mobius at the Forbidden Zone Dome.
+0QU3000012	Retrieve your brain from the Forbidden Zone.
+0QU3000013	Confront Dr. Klein at the Think Tank and end your imprisonment at Big MT.
+0QU3000014	Kill Dr. Klein and the other members of the Think Tank.
+0QU3000015	Satisfy Dr. Mobius' curiosity about what it's like to be killed.
+0QU3000016	Disable or destroy the Giant Robo-Scorpion.
+0QU3000017	Leave the Think Tank.
+0QU3000018	(Optional) Use the Sink Auto-Doc to retrieve your original heart.
+0QU3000019	(Optional) Use the Sink Auto-Doc to retrieve your original spine.
+0QU3000020	(Optional) Retrieve the Sink Auto-Doc's personality holotape from Y-17 to restore the Auto-Doc's functionality.
+0QU3000021	Climb up to the satellite dish and retrieve the X-2 Antenna.
+0QU3000022	Travel to the X-2 Transmitter Antenna Array.
+0QU3000023	Travel to the X-8 Research Center.
+0QU3000024	Initiate the Institutional Data Retrieval test at the X-8 Test Terminal.
+0QU3000025	Exit the X-8 Institutional Facility.
+0QU3000026	Initiate the Residential Cyberdog Guard Test at the X-8 Test Terminal.
+0QU3000027	Search Gabe's digging spots in the X-8 Residential Test Facility for the audio sample of Gabriel's Bark.
+0QU3000028	Retrieve the three student records from the desk terminals in the X-8 Institutional Facility.
+0QU3000029	Enter the X-8 Residential Test Facility.
+0QU3000030	Travel to the X-13 Research Facility.
+0QU3000031	Recover the Prototype X-13 Gloves.
+0QU3000032	Recover the Prototype X-13 Boots.
+0QU3000033	Recover the Prototype X-13 Chest Plate.
+0QU3000034	Activate the Basic Infiltration Test to begin initializing the Stealth Suit.
+0QU3000035	Basic Infiltration Test: Acquire the X-13 Document from the Administrator's Wall Safe to complete Stealth Suit initialization.
+0QU3000036	Return to the Experiment Terminal.
+0QU3000037	Complete the Basic Infiltration Test.
+0QU3000038	Complete the Robot Compliance Test.
+0QU3000039	Complete the Advanced Infiltration Test.
+0QU3000040	Assemble the Experimental Stealth Suit.
+0QU3000041	[Optional] Complete all X-13 tests.
+0QU3000042	Complete the Expert Infiltration Test.
+0QU3000043	Complete the Basic Infiltration Test Replay.
+0QU3000044	Complete the Advanced Infiltration Test Replay.
+0QU3000045	Complete the Expert Infiltration Test Replay.
+0QU3000046	Complete the Robot Compliance Test Replay.
+0QU3000047	Gather the three student records.
+0QU3000048	Exit the testing area.
+0QU3000049	Download the Field Disrupter EM Pulse Wave for the Sonic Emitter.
+0QU3000052	Activate Institutional Data Retrieval Test (Advanced) at the X-8 Test Terminal.
+0QU3000053	Release the unusual specimen into the testing area.
+0QU3000059	Enter the testing area.
+0QU3000062	Activate Institutional Data Retrieval Test (Basic) at the X-8 Test Terminal.
+0QU3000065	Retrieve test data from the X-8 Test Terminal.
+0QU3000066	Find the key to the X-8 kennels (Sonic Emitter EM Pulse Wave Upgrade Required).
+0QU3000067	Find more information about the X-8 Test.
+0QU3000075	Travel to the X-8 Research Center to find the force field disrupting EM Pulse Wave Upgrade for the Sonic Emitter.
+0QU3000076	Test the Sonic Emitter EM Pulse Wave on a force field.
+0QU3000077	Begin the Institutional test at the X-8 Test Terminal.
+0QU3000078	Find the three student records on the X-8 Institutional Facility terminals.
+0QU3000079	Leave the X-8 Institutional Facility through the upstairs exit.
+0QU3000080	Begin the Advanced Institutional test at the X-8 Test Terminal.
+0QU3000081	Upgrade the Sonic Emitter.
+0QU3000082	Find all of the audio samples for the Jukebox.
+0QU3000083	Find samples for the Biological Research Station.
+0QU3000084	Return the samples to The Sink.
+0QU3000085	Find the missing modules for the Sink, Auto-Doc, and the Biological Research Station.
+0QU3000086	Find the missing modules for the Light Switches and the Jukebox.
+0QU3000087	Find the missing modules for the Toaster, Muggy, and the Book Chute.
+0QU3000088	Install the personality modules in The Sink.
+0QU3000089	Find the missing personality modules.
+0QU3000090	Find the first set of personality modules for The Sink.
+0QU3000091	Find the second set of personality modules for The Sink.
+0QU3000092	Find the third set of personality modules for The Sink.
+0QU3000093	Go to The Sink and install the Central Intelligence Unit.
+0QU3000094	Find the upgrades to The Sink's Central Intelligence Unit.
+0QU3000095	Find the upgrades to The Sink's Auto-Doc.
+0QU3000096	Find the upgrades to The Sink's support AIs.
+0QU3000097	Install the upgrades in The Sink.
+0QU3000098	Talk to Dr. Klein, despite your lack of earmuffs.
+0QU3000099	Chat with Dr. O.
+0QU3000100	Introduce yourself to Dr. Dala.
+0QU3000101	Say hello to Dr. Borous. Carefully.
+0QU3000102	"Speak" to Dr. 8 - if you can.
+0QU3000103	Try to find any trace of Gabe in Higgs Village.
+0QU3000104	See if you can find more evidence of Gabe in X-8.
+0QU3000105	Return Gabe's Bowl to Dr. Borous.
+0QU3000106	Get to the bottom of Dala's biological fascination.
+0QU3000107	Ask Dr. Klein about the conversation he had with the last visitor to the Big Empty.
+0QU3000108	Investigate 8's termlink code.
+0QU3000109	See if you can resolve O's problem with his name.
+0QU3000110	Ask Dr. O about the attack on the Think Tank.
+0QU4000001	Travel to the Canyon Wreckage near Primm and enter the Divide.
+0QU4000002	Find the Laser Detonator.
+0QU4000003	Escape the Tunnelers' cave and reach the High Road.
+0QU4000004	Make your way through the Lonesome Road to the collapsed overpass tunnel.
+0QU4000005	Use the Laser Detonator on the warhead.
+0QU4000006	Traverse the Divide.
+0QU4000007	Make your way to the roof of the collapsed office building and reach the Divide.
+0QU4000008	Use the caves to bypass the collapsed building.
+0QU4000009	Travel to Ulysses' Temple.
+0QU4000010	Activate the Ashton Missile Silo lift and head for the Divide.
+0QU4000011	Survive the elevator ride to Ashton Missile Silo.
+0QU4000012	Get through the Cave of the Abaddon and continue to the Temple.
+0QU4000013	Cancel the missile launch.
+0QU4000014	Run for the Canyon Wreckage.
+0QU4000015	Optional: Deliver Ulysses' last message.
+0QU4000016	Deal with Ulysses.
+0QU4000017	Track down Ulysses in his Temple.
+0QU4000018	Optional: Rescue ED-E.
+0QU4000019	Optional: Disable Ulysses' Eyebots.
+0QU4000020	Fight off the Marked Men.
+0QU4000021	Navigate Hopeville Missile Silo to reach the Lonesome Road.
+0QU4000022	Find something to break the encryption on the blast door terminal.
+0QU4000023	Use ED-E to break the encryption on the blast door terminal.
+0QU4000024	Use ED-E to unlock the mainframe.
+0QU4000025	Find the security codes for the missile silo network.
+0QU4000026	Optional: Have ED-E access the Commissary for you.
+0QU4000027	Turn the silo's power back on.
+0QU4000028	Activate the mainframe to unlock the silo's exterior doors.
+0QU4000029	Activate the console to gain access to Ashton Missile Silo.
+0QU4000030	Reach Ashton Silo Control Station at the end of the High Road.

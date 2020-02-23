@@ -1,0 +1,509 @@
+<!-- inventory_menu.xml -->
+<!-- 
+// ZENIMAX MEDIA PROPRIETARY INFORMATION
+//
+// This software is developed and/or supplied under the terms of a license
+// or non-disclosure agreement with ZeniMax Media Inc. and may not be copied
+// or disclosed except in accordance with the terms of that agreement.
+//
+//   Copyright (c) 1999 ZeniMax Media Incorporated.
+//   All Rights Reserved.
+//
+// ZeniMax Media Incorporated, Rockville, Maryland 20850
+// http://www.zenimax.com
+//
+// FILE			inventory_menu.xml
+// VERSION		2.0
+// AUTHOR:		Ricardo Gonzalez
+// DATE			February 6, 2006
+// INFO			Pipboy inventory menu
+-->
+<menu name="InventoryMenu">
+	<class> &InventoryMenu; </class>
+	<id> &pipboymenu; </id>
+
+	<!-- User traits -->
+	<_KeyringOpen> &false; </_KeyringOpen>
+	<!-- True if the Keyring page is open -->
+	<_EquippableItem> &false; </_EquippableItem>
+	<!-- True if the highlighted item can be used or equipped -->
+	<systemcolor>&pipboy;</systemcolor>
+
+	<_PCButton_R> IM_RepairButton </_PCButton_R>
+	<_PCButton_E> IM_CancelButton </_PCButton_E>
+	<_PCButton_X> IM_ModButton </_PCButton_X>
+	<xbuttonx>
+		<ref src="IM_DropButton" trait="clicked"/>
+	</xbuttonx>
+	<xbuttony>
+		<ref src="IM_RepairButton" trait="clicked"/>
+	</xbuttony>
+
+	<rect name="NOGLOW_BRANCH">
+		<id> &noglow_branch; </id>
+		<!-- NOT USED IN PIPBOY MENUS -->
+	</rect>
+
+
+	<rect name="GLOW_BRANCH">
+		<id> &glow_branch; </id>
+
+		<!-- ===== BACKGROUND TEXTURE ===== -->
+		<image name="IM_Background">
+			<filename> Interface\Shared\Background\pipboy.dds </filename>
+			<width>
+				<copy src="globals()" trait="_pipboy_width"/>
+			</width>
+			<height>
+				<copy src="globals()" trait="_pipboy_height"/>
+			</height>
+			<zoom> &scale; </zoom>
+			<depth> 1 </depth>
+			<brightness> 90 </brightness>
+		</image>
+
+		<!-- ===== MAIN POSITIONING RECT ===== -->
+		<rect name="IM_MainRect">
+			<x> 50 </x>
+			<y> 50 </y>
+			<width> 855 </width>
+			<height> 650 </height>
+			<depth> 2 </depth>
+			<locus> &true; </locus>
+
+			<!-- ===== HEADLINE RECT ===== -->
+			<rect name="IM_HeadlineRect">
+				<width> 855 </width>
+				<height> 50 </height>
+
+				<!-- Upper-left corner -->
+				<image name="IM_Headline_v1">
+					<include src="vertical_fade_line.xml"/>
+				</image>
+
+				<image name="IM_Headline_h1">
+					<include src="line.xml"/>
+
+					<_length> 50 </_length>
+				</image>
+
+				<!-- Menu title -->
+				<text name="IM_Headline_Title">
+					<font> 4 </font>
+
+					<x> 70 </x>
+					<string> &-sInventoryItems; </string>
+				</text>
+
+				<image name="IM_Headline_h2">
+					<include src="line.xml"/>
+
+					<x>
+						<copy> 90 </copy>
+						<add src="sibling(IM_Headline_Title)" trait="width"/>
+					</x>
+					<_length>
+						<copy> 215 </copy>
+						<sub src="me()" trait="x"/>
+						<max> 0 </max>
+					</_length>
+				</image>
+
+				<!-- Player's caps amount ( money ) -->
+				<!-- Player's weight display -->
+
+				<!-- Player's weight info -->
+				<rect name="IM_Headline_PlayerWGInfo">
+					<include src="card_info.xml"/>
+					<id> 3 </id>
+
+					<x> 215 </x>
+					<width> 155 </width>
+					<_Title> &-sInventoryWeight; </_Title>
+					<!-- Widest possible value: Wg 333/333 -->
+				</rect>
+
+				<!-- Player's HP -->
+				<rect name="IM_Headline_PlayerHPInfo">
+					<include src="card_info.xml"/>
+					<id> 1 </id>
+
+					<x> 380 </x>
+					<width> 155 </width>
+					<_Title> &-sHitPointsShort; </_Title>
+					<!-- Widest possible value: HP 333/333 -->
+				</rect>
+
+				<!-- Player's damage resistance (DR) info -->
+				<rect name="IM_Headline_PlayerDRInfo">
+					<include src="card_info.xml"/>
+					<id> 2 </id>
+
+					<x> 545 </x>
+					<width> 110 </width>
+					<_Title> &-sInventoryDamageResistance; </_Title>
+					<!-- Widest possible value: DR 100 -->
+				</rect>
+
+				<rect name="IM_Headline_PlayerDTInfo">
+					<include src="card_info.xml"/>
+					<id> 21 </id>
+
+					<x> 545 </x>
+					<width> 110 </width>
+					<_Title> &-sInventoryDamageThreshold; </_Title>
+					<!-- Widest possible value: DR 100 -->
+				</rect>
+
+				<rect name="IM_Headline_PlayerCapsInfo">
+					<include src="card_info.xml"/>
+					<id> 0 </id>
+
+					<x> 665 </x>
+					<width> 190 </width>
+
+					<_Title> &-sInventoryCaps; </_Title>
+					<!-- Widest possible value: Caps 1000000+ -->
+				</rect>
+			</rect>
+			<!-- end IM_HeadlineRect -->
+
+			<!-- ===== INVENTORY LIST BOX ===== -->
+			<hotrect name="IM_InventoryList">
+				<include src="list_box.xml"/>
+				<id> 4 </id>
+
+        <x> -15 </x>
+        <y> 55 </y>
+        <width> 413 </width>
+        <height> 495 </height>
+
+				<!-- Hollow square that appears next to highlighted items that can be equipped -->
+				<image name="IM_EquipItemMarker">
+					<filename> square.dds </filename>
+					<texatlas> Interface\InterfaceShared.tai </texatlas>
+					<width> 25 </width>
+					<height> 25 </height>
+
+					<x> 40 </x>
+					<y>
+						<copy src="sibling(lb_highlight_box)" trait="y"/>
+						<add> 17.5 </add>
+					</y>
+					<visible>
+						<copy src="io()" trait="_EquippableItem"/>
+					</visible>
+					<clips> &true; </clips>
+					<!-- 41459: Make sure this clips -->
+				</image>
+			</hotrect>
+
+			<!-- ===== HOT KEY MENU ===== -->
+			<rect name="IM_HotKeyWheel">
+				<id> 5 </id>
+				<include src="HotKeys.xml"/>
+				<visible> &false; </visible>
+				<x> 380 </x>
+				<y> 52 </y>
+				<width> 290 </width>
+				<height> 250 </height>
+
+				<text name="IM_HotKeyText">
+					<justify> &center; </justify>
+					<font> 2 </font>
+
+					<x> 150 </x>
+					<y> 262 </y>
+					<string>
+						<copy src="parent()" trait="_SelectedText"/>
+					</string>
+				</text>
+
+				<image name="IM_CompassRose">
+					<filename> Interface\HotKeys\hot_keys_rose.dds </filename>
+					<zoom> &scale; </zoom>
+					<width> 150 </width>
+					<height> 150 </height>
+					<x> 100 </x>
+					<y> 80 </y>
+				</image>
+
+				<image name="IM_HotkeyIcon">
+					<filename></filename>
+					<!-- Set in code -->
+					<zoom> &scale; </zoom>
+					<width> 50 </width>
+					<height> 50 </height>
+					<x> 120.5 </x>
+					<y> 102 </y>
+				</image>
+			</rect>
+
+			<!-- ===== BUTTON RECT ===== -->
+			<rect name="IM_ButtonRect">
+				<x> 855 </x>
+				<y> 45 </y>
+				<locus> &true; </locus>
+				<visible>
+					<not src="IM_HotKeyWheel" trait="visible"/>
+				</visible>
+
+				<!-- Equip button: Equips the currently selected item -->
+				<image name="IM_EquipButton">
+					<id> 6 </id>
+					<include src="text_box.xml"/>
+
+					<_line_alpha>
+						<copy> 128 </copy>
+						<add>
+							<copy> 127 </copy>
+							<onlyif src="me()" trait="target"/>
+						</add>
+					</_line_alpha>
+					<target> &false; </target>
+
+					<_horbuf> 20 </_horbuf>
+					<_verbuf> 15 </_verbuf>
+					<justify> &right; </justify>
+					<string> &-sInventoryEquip; </string>
+
+					<_xbox_button> &xbuttona; </_xbox_button>
+					<!-- Only visible on XBox; not when keyring is open -->
+					<visible>
+						<copy src="globals()" trait="_Has360Controller"/>
+						<and>
+							<not src="io()" trait="_KeyringOpen"/>
+						</and>
+					</visible>
+				</image>
+
+				<!-- Drop Button: Drops the currently selected item -->
+				<image name="IM_DropButton">
+					<id> 7 </id>
+					<include src="text_box.xml"/>
+
+					<_y> 47 </_y>
+					<_horbuf> 20 </_horbuf>
+					<_verbuf> 15 </_verbuf>
+					<justify> &right; </justify>
+					<string> &-sInventoryDrop; </string>
+
+					<_line_alpha>
+						<copy> 128 </copy>
+						<add>
+							<copy> 127 </copy>
+							<onlyif src="me()" trait="target"/>
+						</add>
+					</_line_alpha>
+					<target> &false; </target>
+
+					<_xbox_button> &xbuttonx; </_xbox_button>
+					<visible>
+						<copy src="sibling(IM_EquipButton)" trait="visible"/>
+					</visible>
+				</image>
+
+				<image name="IM_RepairButton">
+					<id> 8 </id>
+					<include src="text_box.xml"/>
+
+					<_y>
+						<copy> 0 </copy>
+						<add>
+							<copy> 94 </copy>
+							<onlyif src="globals()" trait="_Has360Controller"/>
+						</add>
+					</_y>
+					<_horbuf> 20 </_horbuf>
+					<_verbuf> 15 </_verbuf>
+					<justify> &right; </justify>
+					<string> &-sInventoryRepair; </string>
+					<_line_alpha>
+						<copy> 128 </copy>
+						<add>
+							<copy> 127 </copy>
+							<onlyif src="me()" trait="target"/>
+						</add>
+					</_line_alpha>
+					<target> &false; </target>
+
+					<_xbox_button> &xbuttony; </_xbox_button>
+					<_PCButtonText> &-sPCMenuHintR; </_PCButtonText>
+					<visible>
+						<not src="io()" trait="_KeyringOpen"/>
+					</visible>
+				</image>
+
+				<!-- Hot Key Button: Opens the Hot Key menu -->
+				<image name="IM_HotkeyButton">
+					<id> 9 </id>
+					<include src="text_box.xml"/>
+
+					<_y> 141 </_y>
+					<_horbuf> 20 </_horbuf>
+					<_verbuf> 15 </_verbuf>
+					<justify> &right; </justify>
+					<string> &-sInventoryHotKey; </string>
+
+					<_xbox_button> &xbuttonrb; </_xbox_button>
+					<visible>
+						<copy src="sibling(IM_EquipButton)" trait="visible"/>
+					</visible>
+				</image>
+
+				<!-- Hot Key Button: Opens the Mod menu -->
+				<image name="IM_ModButton">
+					<id> 19 </id>
+					<include src="text_box.xml"/>
+
+					<_y>
+						<copy>47</copy>
+						<add>
+							<copy>141</copy>
+							<onlyif src="globals()" trait="_Has360Controller"/>
+						</add>
+					</_y>
+					<_horbuf> 20 </_horbuf>
+					<_verbuf> 15 </_verbuf>
+					<justify> &right; </justify>
+					<string> &-sInventoryMod; </string>
+
+					<_xbox_button> &xbuttonlb; </_xbox_button>
+					<_PCButtonText> &-sPCMenuHintX; </_PCButtonText>
+					<visible>
+						<copy src="sibling(IM_RepairButton)" trait="visible"/>
+					</visible>
+				</image>
+
+				<image name="IM_CancelButton">
+					<id> 10 </id>
+					<include src="text_box.xml"/>
+
+					<_horbuf> 20 </_horbuf>
+					<_verbuf> 15 </_verbuf>
+					<justify> &right; </justify>
+					<string> &-sCancel; </string>
+
+					<_xbox_button> &xbuttonb; </_xbox_button>
+					<_PCButtonText> &-sPCMenuHintE; </_PCButtonText>
+					<visible>
+						<copy src="io()" trait="_KeyringOpen"/>
+					</visible>
+				</image>
+			</rect>
+
+			<!-- ===== ITEM ICON ===== -->
+
+			<image name="IM_ItemIcon">
+				<id> 11 </id>
+
+				<x> 450 </x>
+				<y> 10 </y>
+				<width> 380 </width>
+				<height> 380 </height>
+
+				<visible> &false; </visible>
+				<zoom> &scale; </zoom>
+				<cropx> 20 </cropx>
+			</image>
+
+
+			<image name="IM_ItemIconBadge">
+				<id> 20 </id>
+				<x>390</x>
+				<y>260</y>
+				<width> 64 </width>
+				<height> 64 </height>
+
+				<visible>&false;</visible>
+				<zoom> &scale; </zoom>
+			</image>
+
+			<text name="IM_StrReq">
+				<id> 22 </id>
+				<x> 440 </x>
+				<y> 300 </y>
+				<font>7</font>
+				<justify>&left;</justify>
+				<string></string>
+				<!-- Set it code! -->
+				<visibility>
+					<copy src="sibling(IM_ItemIconBadge)" trait="visible"/>
+				</visibility>
+			</text>
+
+
+			<!-- ==== ITEM INFORMATION ===== -->
+			<rect name="IM_ItemInfoRect">
+				<include src="item_stats_display.xml"/>
+				<id> 12 </id>
+				<x> 395 </x>
+				<y> 380 </y>
+				<width> 436 </width>
+				<height> 150 </height>
+
+				<visible>
+					<not src="sibling(IM_HotKeyWheel)" trait="visible"/>
+				</visible>
+				<font> 4 </font>
+			</rect>
+		</rect>
+		<!-- end IM_MainRect -->
+
+		<rect name="IM_Tabline">
+			<include src="tabline.xml"/>
+			<id> 13 </id>
+
+			<x> 50 </x>
+			<y> 650 </y>
+			<width> 855 </width>
+			<depth> 2 </depth>
+		</rect>
+	</rect>
+	<!-- end GLOW_BRANCH-->
+
+	<!--======================== LIST BOX TEMPLATE =========================-->
+	<template name="IM_InventoryListTemplate">
+		<hotrect name="IM_InventoryListTemplateRect">
+			<include src="list_box_template.xml"/>
+
+			<mouseoversound> &nosound; </mouseoversound>
+			<clicksound> &nosound; </clicksound>
+
+			<x> 27 </x>
+			<width> 397 </width>
+			<target> &true; </target>
+			<visible> &true; </visible>
+
+			<text name="ListItemText">
+				<font> 2 </font>
+				<string>
+					<copy src="parent()" trait="string"/>
+				</string>
+				<wrapwidth> 344 </wrapwidth>
+
+				<x> 32 </x>
+				<y> 20 </y>
+			</text>
+
+			<!-- Small square that becomes filled if item is equipped -->
+			<image name="IM_Template_ItemMarker">
+				<filename> square_filled.dds </filename>
+				<texatlas> Interface\InterfaceShared.tai </texatlas>
+				<width> 25 </width>
+				<height> 25 </height>
+
+				<x> 12 </x>
+				<y> 18 </y>
+				<visible> &false; </visible>
+			</image>
+		</hotrect>
+	</template>
+
+	<!-- TAB BUTTON TEMPLATE: Used by tabline.xml -->
+	<template name="TabButtonTemplate">
+		<hotrect name="TabButton">
+			<include src="tabline_template.xml"/>
+		</hotrect>
+	</template>
+</menu>

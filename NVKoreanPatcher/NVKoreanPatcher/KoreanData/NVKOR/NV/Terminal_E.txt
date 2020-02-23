@@ -1,0 +1,1178 @@
+0TE0000007	Diary Entry #86
+0TE0000008	DCTA Metro Map ------------------------------------
+0TE0000079	Reset Mainframe Connection
+0TE0000081	ARCHIMEDES Testing
+0TE0000082	Upcoming Visit
+0TE0000091	Configure Power Grid
+0TE0000092	Arm ARCHIMEDES Plant Defense System
+0TE0000093	Disarm ARCHIMEDES Plant Defense System
+0TE0000094	Initial Trials
+0TE0000101	Hoover Dam Security Report
+0TE0000102	Security Duty Roster
+0TE0000103	Engineering Report
+0TE0000104	Flight Control Update
+0TE0000105	Select output configuration.
+0TE0000107	1) McCarran and Las Vegas Strip
+0TE0000108	2) Fremont and Westside
+0TE0000109	3) Full Region
+0TE0000110	4) ARCHIMEDES II
+0TE0000111	5) Full Region (Emergency Output Level)
+0TE0000112	Hidden Valley Datastore
+0TE0000116	Incident #1
+0TE0000117	Incident #2
+0TE0000118	Incident #3
+0TE0000119	Incident #4
+0TE0000134	Vault 22 Interlab Network, Oxygen Recycling Main System
+0TE0000135	Warning: System diagnostic shows that memory has been corrupted.
+0TE0000137	Check inventory
+0TE0000144	New Canaan Branch Proposal
+0TE0000145	Re: Henry Jamison
+0TE0000146	Gun Runner Tariff
+0TE0000147	War Effort
+0TE0000151	Results
+0TE0000153	"Can I Tell Him?"
+0TE0000155	Hidden Valley Network
+0TE0000156	Are you sure you would like to initiate the self-destruct sequence?
+0TE0000158	Yes.
+0TE0000161	By order of Elder McNamara, engaging the bunker's self-destruct sequence requires the assent of the Head Scribe, Head Paladin, and Elder of the chapter.
+0TE0000162	Each of these Brothers has been given a keycard to be produced in case of emergency. When all three keycards are inserted below, the password to the self-destruct terminal to the right will be generated.
+0TE0000163	Please report a lost or stolen keycard immediately.
+0TE0000165	Generate self-destruct password
+0TE0000168	Welcome to the Hidden Valley Self-Destruct System.
+0TE0000170	Begin bunker self-destruct sequence
+0TE0000171	Abort self-destruct sequence
+0TE0000332	Cancel security alert.
+0TE0000355	Activate Turret Defense System
+0TE0000389	Current Inventory
+0TE0000390	Log Entry #1836
+0TE0000391	Log Entry #2257
+0TE0000392	Access Safe
+0TE0000393	Sunset Sarsaparilla Custodial Control
+0TE0000394	Worker MHDY133 - Area: Hallways
+0TE0000395	Current Status: Unavailable
+0TE0000396	Worker MHDY134 - Area: Offices
+0TE0000398	Worker MHDY135 - Area: Bottling, Shipping
+0TE0000399	Current Status: Standby
+0TE0000401	Activate Worker MHDY135
+0TE0000409	Disable Terminals
+0TE0000410	Change targeting parameters
+0TE0000414	Set allowed targets
+0TE0000417	Choose allowed targets. Only stored entries may be chosen:
+0TE0000419	Registered Brotherhood Personnel
+0TE0000420	All unregistered personnel
+0TE0000422	Welcome, Paladin Ramos.
+0TE0000423	Displaying last three files accessed.
+0TE0000425	Read Journal 651
+0TE0000426	Read Journal 652
+0TE0000427	Read Journal 653
+0TE0000431	Welcome, Schuler.
+0TE0000434	Journal Entry 01
+0TE0000435	Journal Entry 260
+0TE0000436	Journal Entry 261
+0TE0000438	Initial Inventory Report
+0TE0000439	No Clue What These Are
+0TE0000440	Great. Just Great.
+0TE0000445	A Message From The Overseer
+0TE0000446	Log #45
+0TE0000447	Log #46
+0TE0000451	Journal Entry 98
+0TE0000455	Journal Entry 65
+0TE0000459	Log #479
+0TE0000460	Log #480
+0TE0000461	Log #481
+0TE0000462	Log #482
+0TE0000463	Log #483
+0TE0000464	Log #484
+0TE0000468	Journal #138
+0TE0000469	Journal #139
+0TE0000473	Journal Entry #209
+0TE0000474	Journal #210
+0TE0000478	Log Entry 56
+0TE0000479	Log Entry 74
+0TE0000483	Journal Entry 194
+0TE0000484	Journal Entry 206
+0TE0000488	Journal Entry # 86
+0TE0000491	Recover Data
+0TE0000495	Journal Entry 167
+0TE0000496	Journal Entry 168
+0TE0000500	My Journal: Entry 74
+0TE0000505	NCRA RECORDOTRON Squad Readiness Report Database
+0TE0000508	Squad CG554-2 "Misfits"
+0TE0000509	Ranger Detachment Alpha
+0TE0000510	Ranger Detachment Bravo
+0TE0000511	Ranger Detachment Charlie
+0TE0000512	NCRA Troop Dispositionator ME
+0TE0000515	Delete Misfits Combat Patrol Mission
+0TE0000519	Rifle Range Report
+0TE0000521	Grenade Range Report
+0TE0000523	Alter Readiness Reports
+0TE0000524	REPCONN Security Terminal
+0TE0000526	Add user Facial Data To Database
+0TE0000527	Inter-office Correspondence #345759
+0TE0000528	Inter-office Correspondence #345776
+0TE0000531	Hermes Communications, Inc.
+0TE0000532	Black Mountain Submatrix
+0TE0000558	REPCON
+0TE0000560	Add user Facial Data To Security Database
+0TE0000561	REPCONN Badge Processing
+0TE0000563	Print Executive Security Badge
+0TE0000564	Inter-office Correspondence #3262725
+0TE0000565	Good day Mr. Isley
+0TE0000568	RE: RobCo
+0TE0000569	Inter-office Correspondence #3457477
+0TE0000570	Journal-It Software ?2072 PagSoft
+0TE0000571	USER: suk me  hahaha
+0TE0000577	Good day Ms. Masters
+0TE0000579	Encrypted Message
+0TE0000580	Q-35 Release Notes
+0TE0000581	Inter-office Correspondence #3262173
+0TE0000582	Inter-office Correspondence #3262178
+0TE0000583	Inter-office Correspondence #3262719
+0TE0000587	Vault 11 Election Guide
+0TE0000588	Notice of Postponement
+0TE0000592	Security Recording
+0TE0000598	Deposition
+0TE0000605	Open Sacrificial Chamber
+0TE0000606	Close Sacrificial Chamber
+0TE0000609	Prepared Speech of Gus Olson, Ombudsman
+0TE0000611	Override Lockdown.
+0TE0000613	Automated Response: Vault 11 Solution
+0TE0000620	*** East Pump Station Terminal ***
+0TE0000621	*** Authorized Personnel Only ***
+0TE0000623	WARNING
+0TE0000626	Lake Las Vegas Status
+0TE0000627	East Station Status
+0TE0000628	West Station Status
+0TE0000632	Activate Reactor
+0TE0000633	Inactive Reactor
+0TE0000637	Power Reactor.
+0TE0000638	Good day Mr. Steeple
+0TE0000640	Inter-office Correspondence #3262091
+0TE0000641	Inter-office Correspondence #3262099
+0TE0000642	Inter-office Correspondence #3262105
+0TE0000643	Inter-office Correspondence #3458503
+0TE0000644	Disable Robots
+0TE0000645	Good day Ms. Wang
+0TE0000648	Inter-office Correspondence #3457785
+0TE0000649	Inter-office Correspondence #3458631
+0TE0000650	Inter-office Correspondence #3458642
+0TE0000651	Inter-office Correspondence #3458648
+0TE0000656	Marcus made me type this
+0TE0000657	It's a radio station!
+0TE0000658	On the air!
+0TE0000659	The elite!
+0TE0000660	Alone at last!
+0TE0000661	Safe!
+0TE0000662	Lucky!
+0TE0000671	Vault Security and Control Center
+0TE0000672	Please Select from the Following Menu Options:
+0TE0000674	Vault Security
+0TE0000675	Vault Life Support
+0TE0000676	Vault Access Control
+0TE0000678	Security Recording: Vault Entrance
+0TE0000685	Parts
+0TE0000686	Welcome, Mr. House.
+0TE0000688	Status Log
+0TE0000689	Turret Status
+0TE0000690	Protectron Status
+0TE0000691	Sentrybot Status
+0TE0000713	Isabella Proud's Journal
+0TE0000739	Reload DataStore
+0TE0000742	Download Research Notes
+0TE0000746	Open Antechamber.
+0TE0000751	Unseal LS Chamber.
+0TE0000752	Sterilize LS Chamber.
+0TE0000753	Disable Cerebral Interface.
+0TE0000755	Main Menu
+0TE0000757	Check mail
+0TE0000758	Check maintenance system
+0TE0000761	Mail System
+0TE0000762	You have the following messages:
+0TE0000764	Water Leak
+0TE0000765	Great Job
+0TE0000768	From: Clark Weathers, VP of Operations
+0TE0000769	Subject: Water Leak
+0TE0000770	Body: Just letting you guys know we've had reports of a possible small water leak in the upstairs meeting room. The long term effects of water damage can be very, very expensive, so let's get this problem solved before it gets any worse, shall we?
+0TE0000774	From: Kenneth Aguilar, President
+0TE0000775	Subject: Great Job
+0TE0000776	Body: I wanted to personally congratulate you on the success of the new automated janitorial system. In particular, #135 has proven very popular with the staff. I can't tell you how many complaints I used to hear about stray bottle caps getting into the machinery. Oh, and we should have a meeting soon concerning the rest of your staff. How's Tuesday?
+0TE0000784	Current Status: Activated
+0TE0000786	Sunset Sarsaparilla Company Intranet
+0TE0000787	Welcome, Miss Paige! The president has no new messages since the last time you logged in.
+0TE0000789	Check saved inbox messages
+0TE0000790	Check saved sent messages
+0TE0000792	Local Saved Messages
+0TE0000794	What contest?
+0TE0000795	How's your new toy?
+0TE0000799	RE: What contest?
+0TE0000800	While the iron is hot
+0TE0000801	RE: How do you like your new toy?
+0TE0000803	From: Nathan Stanley, Director of PR
+0TE0000804	Subject: What contest?
+0TE0000805	Body: Sir, the rumors of some sort of contest are quickly growing out of control. We're getting flooded with calls and messages asking if it's true we're redeeming bottle caps for prizes. Do you want me to make an official statement denouncing this rumor?
+0TE0000808	To: Nathan Stanley, Director of PR
+0TE0000809	Subject: RE: What contest?
+0TE0000810	Body: Stanley, are you out of your mind? Have you seen the latest sales figures? We're up 300% since these rumors started and you're asking if I want you to make it stop? Please stop by my office so we can further discuss the issue.
+0TE0000813	To: Marcus Brody, VP of Technology
+0TE0000814	Subject: While the iron is hot
+0TE0000815	Body: Marcus, I have a few ideas about how we can turn this whole contest situation to our advantage. I'm going to need you to work with the advertising guys on a very special project. A meeting request will be sent out soon. By the way, how do you feel about cowboys?
+0TE0000818	From: Lucas Nash, VP of Sales, RobCo Corp.
+0TE0000819	Subject: How do you like your new toy?
+0TE0000820	Body: Kenneth, I hope you've been impressed thus far with your recent purchase. Your company has been and continues to be a valued customer. Contact me if you have any questions.
+0TE0000823	To: Lucas Nash, VP of Sales, RobCo Corp.
+0TE0000824	Subject: RE: How do you like your new toy?
+0TE0000825	Body: Lucas, I couldn't be happier with the performance of the new model. If it's current performance is any measure, it promises to reinvent my company's entire distribution network. I'd like to tentatively discuss purchasing a few more in the near future. How soon do you expect more to become available?
+0TE0000828	You have 1 saved message and 1 saved draft.
+0TE0000830	Check message
+0TE0000831	Check draft
+0TE0000833	To: Margie Walker, Truckers' Union Rep
+0TE0000834	Subject: Worse news
+0TE0000835	Body: We've got trouble. That hush-hush experimental robot I told you about the other day? The damn thing is single-handedly running all of our distribution in the Vegas area now. Your boys aren't on temporary leave. It's permanent. Damn, the president wants to see me in his office. I'll finish this later.
+0TE0000839	Subject: Bad news
+0TE0000840	Body: I'll apologize up front if there are any mistakes in this message. I'm trying out a new dictation headset. Margie, the boss man just ordered some kind of newfangled robot that's supposed to take over some of your deliveries. I'm not supposed to talk about it, but you should hear about it soon. I'll write again when I know more. Do not pass this along.
+0TE0000843	Welcome, Mr. Brody!
+0TE0000845	Check automated messages
+0TE0000850	Automated Messages System
+0TE0000852	Go to page 1
+0TE0000853	Go to page 2
+0TE0000854	Go to page 3
+0TE0000857	HDY074 reports a servo failure!
+0TE0000858	HDY074 reports all systems OK!
+0TE0000859	HDY019 & 291 report a line malfunction!
+0TE0000860	HDY117 reports oil maintenance needed soon!
+0TE0000861	PRO802 reports a weapon malfunction!
+0TE0000862	HDY019 & 291 report all is OK!
+0TE0000863	HDY117 reports all systems OK!
+0TE0000864	PRO802 reports weapon OK!
+0TE0000865	HDY074 reports a line malfunction!
+0TE0000870	HDY117 reports an actuator failure!
+0TE0000871	PRO496 reports minor structural damage!
+0TE0000872	HDY291 reports a line malfunction!
+0TE0000873	HDY074 reports oil maintenance needed soon!
+0TE0000874	HDY019 reports a line malfunction!
+0TE0000876	HDY019 & 291 report inactivity!
+0TE0000877	HDY074 reports inactivity!
+0TE0000878	HDY074, 019, & 291 report inactivity!
+0TE0000883	PRO931 reports an intruder!
+0TE0000884	PRO931 reports major structural damage!
+0TE0000885	HDY291 & 074 report major structural damage!
+0TE0000886	PRO802 & 496 report an intruder!
+0TE0000887	PRO802 & 496 report major structural damage!
+0TE0000888	PRO805 & 014 report major structural damage!
+0TE0000889	PRO446 reports the intruder has been injured!
+0TE0000890	PRO446 reports major structural damage!
+0TE0000891	HDY117 reports major structural damage!
+0TE0000894	USER: NO ENTRY
+0TE0000934	Annual Sales Report
+0TE0000935	Our performance in the east continues to improve, thanks to the new "Build Mass with Sass" campaign. The Northeast continues to be a tough nut to crack, and continued slow growth is expected. Things are shaping up in the North- and Midwest, and the leaders of those teams are to be commended. As usual, performance in the Southwest is strong. Overall, this has been a banner year for Sunset Sarsaparilla, and you should all be proud of yourselves.
+0TE0000940	Subject: Festus
+0TE0000941	I knew I could count on you, Marcus. That new robot down in the lobby has been massively popular with tourists, and word of the contest has spread far and wide.
+0TE0000945	Embassy Report
+0TE0000946	Captain Pappas' Report
+0TE0000947	Liza's Personal Notes
+0TE0000949	Strip Security Note
+0TE0000950	MP Shift Reports
+0TE0000951	Trooper Behavior Report
+0TE0000957	H&H Tools, Inc.
+0TE0000958	"Building the things you need to build a better tomorrow!"
+0TE0000959	Employee access terminal
+0TE0000961	HR E-mail 05/14/2020
+0TE0000962	HR E-mail 07/25/2022
+0TE0000963	HR E-mail 11/08/2023
+0TE0000964	House Industries Network
+0TE0000966	Central Sewer Control
+0TE0000968	Ryan Brigg's Journal
+0TE0000974	Communications Status
+0TE0000975	Communications Entry #842
+0TE0000976	Communications Entry #923
+0TE0000977	Communications Entry #937
+0TE0000982	USER: Ryan Brigg's
+0TE0000995	Storage Room Terminal
+0TE0000996	Re: Retirement
+0TE0000999	RE: Shipment Mistake?
+0TE0001000	RE: Workplace Misbehavior
+0TE0001001	RE: Shipment Sent Back
+0TE0001002	Public Server Access
+0TE0001004	Public Kitchen
+0TE0001005	Welcome to RobCo!
+0TE0001008	Message: Khan Hospitality
+0TE0001011	Current Administrator: None
+0TE0001014	Reset administrator password.
+0TE0001015	Reset turret targeting data.
+0TE0001016	Activate lockdown protocol.
+0TE0001019	Happy Birthday!
+0TE0001020	Upcoming Election
+0TE0001022	Weapon Lockers
+0TE0001023	Unlock Storage Room Doors
+0TE0001024	Security Disabled, doors unlocked
+0TE0001027	Security Lockdown in place. Please enter override.
+0TE0001030	Server HV-VR1078
+0TE0001031	Current Simulation: Base Defense
+0TE0001033	Change simulation enemy type
+0TE0001034	Change simulation ally type
+0TE0001064	Download manufacturing specifications.
+0TE0001065	Vendortron Naming
+0TE0001066	Camp McCarran Order #172
+0TE0001067	Persona Non Grata
+0TE0001073	Engage Lock
+0TE0001075	Confirm
+0TE0001076	Abort
+0TE0001081	Retirement
+0TE0001086	Cake
+0TE0001091	Martin's Retirement
+0TE0001092	Private Server Access
+0TE0001093	Piers Isley
+0TE0001095	RobCo Visit
+0TE0001096	Re: RobCo Visit
+0TE0001108	Visitor Policy
+0TE0001109	Navitron, Inc
+0TE0001110	"Steering You Right"
+0TE0001112	Current coordinates for rocket 1: 689.7, 457.3, 598.1
+0TE0001113	Current coordinates for rocket 2: 709.7, 459.3, 598.1
+0TE0001114	Current coordinates for rocket 3: 729.7, 461.3, 598.1
+0TE0001115	Alter coordinates?
+0TE0001117	Set rocket 1 to collide with rocket 2.
+0TE0001121	WARNING: Until further notice, the door to the caves is to be sealed at all times, by order of Administrator Bailey. See him for further details.
+0TE0001127	Warning: Flooding
+0TE0001129	Warning: Reactor
+0TE0001131	System
+0TE0001134	Activate Pump Station
+0TE0001135	RobCo Service Terminal[CRLF]V 6.0.1[CRLF][CRLF]------------------------------------
+0TE0001138	NCR Army Supply Database.
+0TE0001139	McCarran Branch.
+0TE0001141	Download Weapons Manifest
+0TE0001145	East Vegas Distribution
+0TE0001146	West Vegas Distribution
+0TE0001147	The Strip Distribution
+0TE0001148	Vault 22 Interlab Network, Vault-Tec Data Backup System
+0TE0001149	Current data integrity: 31%
+0TE0001151	Download research data
+0TE0001179	RobCo Service Terminal[CRLF]V 6.0.3.2.1.a[CRLF][CRLF]------------------------------------
+0TE0001197	Disengage Lock to Overseer
+0TE0001206	Open armory door
+0TE0001211	Overseer's Journal
+0TE0001217	Vault 22 Interlab Network, Patient Case Database
+0TE0001218	Warning: System diagnostic shows that memory has been corrupted. Retrieving uncorrupted files only.
+0TE0001220	Case 162
+0TE0001221	Case 164 (Group)
+0TE0001222	Case 162 update
+0TE0001223	Case 173 (Group)
+0TE0001226	Vault 22 Interlab Network, Food Production Subsystem
+0TE0001229	Status Report 9228
+0TE0001230	Status Report 9253
+0TE0001231	Status Report 9312
+0TE0001234	Welcome
+0TE0001243	Open Reactor Door
+0TE0001244	Close exterior vents
+0TE0001245	Reroute vault control
+0TE0001247	Access Presidential Flight Plan
+0TE0001320	Internal Memorandum Network
+0TE0001321	Current User: dhostetler
+0TE0001323	Memorandum 05/17/80
+0TE0001324	Memorandum 06/02/80
+0TE0001325	Memorandum 06/03/80
+0TE0001332	Open Access Panel
+0TE0001333	Close Access Panel
+0TE0001340	Access warden's log.
+0TE0001346	E-mail from Alan Dalton
+0TE0001354	E-mail from Jenny DeSoto
+0TE0001385	[Guard transfers to the east.]
+0TE0001386	[Comments on Caesar's Legion threat.]
+0TE0001387	[Suspicions about prisoner conspiracy.]
+0TE0001388	[Draft of complaint to NCR command.]
+0TE0001390	Warning: System diagnostic shows that memory has been corrupted. Three messages retrieved:
+0TE0001392	Security request
+0TE0001393	Medical Emergency
+0TE0001395	Vault 22 Interlab Network, Main Entrance Security Station
+0TE0001396	Warning: System integrity compromised! Unauthorized login deteczhglkhjslkjhzoohglk;lkjhg
+0TE0001398	Vault 22 Expedition, entry 1
+0TE0001399	Vault 22 Expedition, entry 2
+0TE0001400	Vault 22 Interlab Network, Oxygen Lab System
+0TE0001401	Warning: System security has been compromised!
+0TE0001403	Vault 22 Expedition, entry 3
+0TE0001404	Vault 22 Expedition, entry 4
+0TE0001405	Vault 22 Expedition, entry 5
+0TE0001406	Open Entrance Door
+0TE0001407	Vault 22 Interlab Network, Atmospheric Effects Subsystem
+0TE0001410	Noise complaint
+0TE0001411	Vault 22 Interlab Network, Water Purification Subsystem
+0TE0001414	Vault 22 Expedition, entry 6
+0TE0001415	Vault 22 Expedition, entry 7
+0TE0001416	Vault 22 Interlab Network, Guess What Trivia Game
+0TE0001417	Warning: System security has been compromised! Current data integrity is unknown.
+0TE0001419	Vault 22 Expedition, entry 8
+0TE0001420	Vault 22 Expedition, entry 9
+0TE0001421	Vault 22 Interlab Network, Maintenance Help System
+0TE0001424	Ticket 1 - Strange noises
+0TE0001425	Ticket 2 - Gas leak?
+0TE0001426	Vault 22 Interlab Network, Pest Control Subsystem
+0TE0001429	Species 1
+0TE0001430	Species 2
+0TE0001431	Species 3
+0TE0001445	If you aren't Big Sal, keep your grubby fucking fingers to yourself!
+0TE0001449	"Cleanliness is next to godliness. Both are below freshness."
+0TE0001454	DeepFreeze Kitchen Storage Corp.
+0TE0001461	Access Duty Roster
+0TE0001474	Vault 22 Interlab Network, Overseer Node
+0TE0001475	Warning: System diagnostic indicates some systems are damaged or offline. Please contact maintenance.
+0TE0001477	Unlock Crew Quarters
+0TE0001478	Unlock Data Backup
+0TE0001479	Unlock Cavern Access
+0TE0001481	Welcome, user.
+0TE0001483	Access Datastore
+0TE0001487	Check isolation
+0TE0001488	Check partition
+0TE0001497	Isolate virus
+0TE0001498	Partition virus
+0TE0001501	Isolate virus.
+0TE0001510	Seal external ventilation
+0TE0001511	Reroute control of the vault
+0TE0001515	Specifications.
+0TE0001519	Prison Break
+0TE0001520	High Roller
+0TE0001521	Testing...
+0TE0001539	A message will be delivered to all current companions, wherever they happen to be, that they are to return home.
+0TE0001540	Are you sure you wish to do this?
+0TE0001546	Dismiss all companions.
+0TE0001566	Informant Report
+0TE0001567	Freeside Report
+0TE0001568	Farm Report
+0TE0001569	Fiend Report
+0TE0001571	Control Tower Access Log
+0TE0001572	Hoover Dam Maintenance System
+0TE0001573	Warning: Intake tower maintenance should only be performed during scheduled periods of inactivity, and then only with the proper equipment. See you supervisor for more details.
+0TE0001575	Unlock Maintenance Hatch
+0TE0001581	E-Mail from Jack Maynard
+0TE0001591	E-mail from Dobson O'Gill
+0TE0001598	Journal Entry 05/14/2061
+0TE0001599	Journal Entry 01/19/2062
+0TE0001600	Journal Entry 06/19/2077
+0TE0001601	Lucky 38 Executive Override.
+0TE0001602	SECRET JOURNAL ACCESS
+0TE0001603	STAY OUT YOU RED MENACE
+0TE0001605	Journal Entry 07/12/2062
+0TE0001613	Access Hidden Network Drive
+0TE0001623	Vincent Vanmiller
+0TE0001624	Maintenance Chief
+0TE0001627	Dinner?
+0TE0001628	Re: Dinner?
+0TE0001665	Journal Entry 11/08/2063
+0TE0001669	Journal Entry 04/06/2068
+0TE0001673	Journal Entry 12/27/2074
+0TE0001677	Journal Entry 04/15/2077
+0TE0001679	Redhead
+0TE0001681	Hi there!
+0TE0001691	Please remember to change your passwords daily!
+0TE0001693	Generator Security Diagnostic
+0TE0001694	Activate Generator Diagnostics
+0TE0001698	Unlock Control Room elevator.
+0TE0001701	Nightkin Test Data
+0TE0001702	Mark II Prototype
+0TE0001703	Keene
+0TE0001711	The Water Situation
+0TE0001712	External Relations
+0TE0001713	Your Endorsement
+0TE0001715	Headmaster
+0TE0001717	Michelle Dallian
+0TE0001718	Head of External Associations Committee
+0TE0001724	Compose Automated Blast Message
+0TE0001748	Messages for Sarah Weintraub
+0TE0001750	New Message from Sheldon Weintraub.
+0TE0001751	Our Influential Friends.
+0TE0001752	Sent Messages
+0TE0001754	Hey, you!
+0TE0001755	Welcome to Vault 21
+0TE0001758	Services
+0TE0001759	History of Vault 21
+0TE0001760	Mail Messaging
+0TE0001763	Diner Menu
+0TE0001764	Gift Catalogue
+0TE0001765	Convenience
+0TE0001768	Vault 21 - A Paradise of Equality
+0TE0001769	Opening to a New World
+0TE0001770	A Tribute to Mr. House
+0TE0001773	Messages
+0TE0001774	Sent
+0TE0001775	Sarah Weintraub
+0TE0001776	Vault 21 Hotel and Shop Manager
+0TE0001778	Sarah Weintraub's Mail
+0TE0001782	Sent Mail
+0TE0001787	Sheldon Weintraub... Logged In.
+0TE0001788	Welcome, Michael Angelo!
+0TE0001790	Sheldon Weintraub's Mail
+0TE0001795	Messages for Sheldon Weintraub
+0TE0001797	New Message from Sarah Weintraub
+0TE0001798	Upcoming Billboard Requirements
+0TE0001801	Sis, missing you like never before.
+0TE0001802	Flight Control Update Accessed
+0TE0001804	Modify Update Settings
+0TE0001818	Upgrade Suite?
+0TE0001819	ERROR #P38C4K
+0TE0001820	"Generator power source unavailable"
+0TE0001823	-Nellis Air Force Base-
+0TE0001824	Solar Array Command Interface
+0TE0001826	Check Array Efficiency
+0TE0001833	[Science 50] Optimize Array Alignment
+0TE0001834	[Science 50] Press a bunch of buttons
+0TE0001837	The Thorn's Mainframe Control
+0TE0001838	The Thorn's Ledger.
+0TE0001839	Miss Red's Messages.
+0TE0001840	McMurry's Neon Sign Designs
+0TE0001841	Factory Foreman Station
+0TE0001843	Shipping Invoice #0812
+0TE0001844	Shipping Invoice #1542
+0TE0001845	Accident Report Log
+0TE0001846	Maintenance Power Shutdown.
+0TE0001847	Shut Down Power to Creature Cages (Y/N)?
+0TE0001853	Power Flow Status
+0TE0001854	Creature Cage Status.
+0TE0001856	ERROR #K1
+0TE0001857	"Array damaged or disconnected"
+0TE0001867	Security Override.
+0TE0001868	Select Routine to Upload
+0TE0001869	-------------------------------
+0TE0001871	> [Science] <Program Sexbot Routine>
+0TE0001872	Upload Ralph's Sexbot Routine
+0TE0001873	Cerulean Robotics R&D
+0TE0001875	Fully Integrated Security Technology Officer ------------------------------------
+0TE0001878	Data Entry Terminal
+0TE0001880	Run Diagnostic Routine
+0TE0001881	Upload Programming Routine
+0TE0001892	Welcome, Lorenzo.
+0TE0001895	Journal Entry 745
+0TE0001896	Journal Entry 746
+0TE0001897	Journal Entry 747
+0TE0001902	Bunker Information
+0TE0001903	Elder Dismissal Incidents
+0TE0001904	Chain That Binds
+0TE0001909	Project Goals: Hidden Valley
+0TE0001910	Systems Overview
+0TE0001911	New Vegas Steel
+0TE0001912	Factory Automation Test in Progress
+0TE0001913	Current Test Time: 204 years
+0TE0001920	Connection reset. Waiting for mainframe...
+0TE0001921	Connection reset. Handshaking ...complete.
+0TE0001922	Message loading...
+0TE0001926	Loading Message...
+0TE0001928	System armed. Keep personnel indoors.
+0TE0001929	System disarmed.
+0TE0001934	Accessing...
+0TE0001938	Configuration saved.
+0TE0001940	Insufficient capacity. Brownouts likely.
+0TE0001942	Warning: System Overload imminent.
+0TE0001943	Retrieving inventory information...
+0TE0001949	Confirming...
+0TE0001951	Generating...
+0TE0001952	Please insert all three keycards below.
+0TE0001953	Note: Need to implement this - Taggart
+0TE0001954	Starting...
+0TE0002045	Protectrons standing down.
+0TE0002046	Turret Defense Activated
+0TE0002051	ERROR! DOOR MALFUNCTION! ERROR!
+0TE0002056	Current Inventory Status Unknown
+0TE0002058	Commencing minor garbage collection...
+0TE0002059	Canceled, logs show cleaning done recently
+0TE0002060	Disabling...
+0TE0002061	Changing...
+0TE0002062	Setting...
+0TE0002063	Resetting targeting parameters...
+0TE0002065	Loading document...
+0TE0002076	Accessing
+0TE0002080	Mission orders deleted
+0TE0002085	Altering
+0TE0002086	Facial data added for first floor access.
+0TE0002087	Opening Message...
+0TE0002089	Opening file...
+0TE0002106	Facial data added for second floor access.
+0TE0002107	Executive Security Badge Printed
+0TE0002115	Decoding Message...
+0TE0002116	Accessing Records...
+0TE0002135	Overriding... complete.
+0TE0002136	Recording downloaded.
+0TE0002138	Operational
+0TE0002140	Offline
+0TE0002147	Disabling Security Robots
+0TE0002160	Opening log...
+0TE0002165	Vault Life Support Systems
+0TE0002169	Turrets: Active
+0TE0002170	Protectrons: Active
+0TE0002171	Sentrybots: Standby
+0TE0002181	Turrets reverting to standby mode.
+0TE0002183	Downloading... completed.
+0TE0002189	Loading mail system...
+0TE0002190	Loading maintenance system...
+0TE0002194	Loading messages...
+0TE0002203	Loading automated messaging system...
+0TE0002239	... ACCESS OVERRIDE - HOUSE DIRECTIVE 449b
+0TE0002240	All Communications Offline
+0TE0002247	Password reset.
+0TE0002248	Warning: Turret target priorities reset!
+0TE0002249	Lockdown protocol in effect.
+0TE0002254	Unlocking Doors
+0TE0002257	Processing request... complete!
+0TE0002259	Clearance granted, engaging lock...
+0TE0002260	Course change confirmed.
+0TE0002261	Course change aborted.
+0TE0002262	DECODING!
+0TE0002263	Invalid command.
+0TE0002264	Access granted, Unlocking...
+0TE0002265	Access denied, contact admin for clearance
+0TE0002266	Clearance granted, activating pump station
+0TE0002268	Percent: 65
+0TE0002269	Percent: 15
+0TE0002271	Downloading...
+0TE0002289	Clearance granted, disengaging lock...
+0TE0002348	[data corrupted]
+0TE0002355	Opening Access Panel...
+0TE0002356	Closing Access Panel...
+0TE0002357	Welcome back, Warden.
+0TE0002367	Accessing mail subsystem...
+0TE0002375	Door opened.
+0TE0002376	Accessing mail server...
+0TE0002390	Clearance granted, locking...
+0TE0002393	Duty Roster Accessed
+0TE0002403	Crew Quarters door unlocked.
+0TE0002404	Data Backup door unlocked.
+0TE0002405	Error! Override engaged at door site.
+0TE0002410	Isolation confirmed.
+0TE0002411	Partition confirmed.
+0TE0002418	Isolating...
+0TE0002419	Partitioning...
+0TE0002424	Closing external vents...
+0TE0002425	Transfering control to backup terminal...
+0TE0002433	Notification sent...
+0TE0002434	Accessing confirmation menu...
+0TE0002495	Attempting to Activate Remote Diagnostics
+0TE0002502	System Offline...
+0TE0002503	... Mail Loaded Successfully.
+0TE0002506	Vault 21 Guest Services
+0TE0002507	A World of Its Own!
+0TE0002508	Your Mail Away from Home!
+0TE0002509	Enjoy Our Hearty Meals!
+0TE0002510	A Piece of the Past for Your Future
+0TE0002511	Your Satisfaction Guaranteed!
+0TE0002512	A Story to Be Told
+0TE0002513	Our Story is Your Story Now
+0TE0002514	Meet our Benefactor!
+0TE0002515	Keeping You in Touch!
+0TE0002517	... Mail Listing Loaded Successfully.
+0TE0002524	... Mail Message Loaded
+0TE0002525	... Mail Message Loaded.
+0TE0002527	Settings Updated
+0TE0002537	Array operating at 75% efficiency.
+0TE0002538	Array operating at 80% efficiency.
+0TE0002539	Array operating at 85% efficiency.
+0TE0002540	Array operating at 90% efficiency.
+0TE0002541	Array operating at 95% efficiency.
+0TE0002542	Array operating at 100% efficiency.
+0TE0002543	Array operating at 120% efficiency.
+0TE0002544	Array alignment optimized.
+0TE0002545	... Accessing Data.
+0TE0002547	... Messages Can't Be Read.
+0TE0002548	... Shutting Down Power to Creature Cages.
+0TE0002549	... Returning to Mainframe.
+0TE0002550	... Electricity Supply at 74% Capacity.
+0TE0002551	... Cage Access Secure.
+0TE0002552	... Accessing Options.
+0TE0002554	...Routine Accepted...
+0TE0002556	...All Systems Nominal...
+0TE0002557	Please Select Routine
+0TE1000003	Check Security Hologram Status
+0TE1000005	Set Behavior: First Floor Patrol
+0TE1000006	Set Behavior: Second Floor Patrol
+0TE1000007	View Security Postings
+0TE1000008	View Maintenance Posts
+0TE1000009	Sierra Madre Theater Network
+0TE1000011	Power Off Ambient Audio System
+0TE1000012	Status Report
+0TE1000018	Set Behavior: Computer Control Patrol
+0TE1000019	Set Behavior: Electric Pod Access Guard
+0TE1000020	Mr. Sinclair - E.B.E
+0TE1000025	Set Behavior: Water Valve Control Patrol
+0TE1000026	Set Behavior: Terminal Control #2 Patrol
+0TE1000032	Set Behavior: Casino Floor West Patrol
+0TE1000033	Set Behavior: Bar Stairs Patrol
+0TE1000034	Set Behavior: Bar Stairs Guard
+0TE1000041	Set Behavior: Bar Door Guard
+0TE1000042	Set Behavior: Personnel Office Patrol
+0TE1000043	Set Behavior: Security Office Patrol
+0TE1000049	Set Behavior: Cashier's Counter Patrol
+0TE1000050	Set Behavior: Guard Switch Room
+0TE1000051	Unlock Electrical Closet Door
+0TE1000052	Security Log 1
+0TE1000053	Security Log 2
+0TE1000056	Sinclair Visit
+0TE1000057	Holding Cell
+0TE1000058	Communications
+0TE1000061	Disable Hallway Loudspeakers
+0TE1000062	> <Download Starlet Hologram Code Snippet>
+0TE1000063	Download Recipe: Super-Heated Knife!
+0TE1000070	Set Behavior: Area #1 Patrol
+0TE1000071	Set Behavior: Area #2 Patrol
+0TE1000072	Sierra Madre Audio Subsystem
+0TE1000074	Turn Speakers Off
+0TE1000092	Turn Off Speakers
+0TE1000110	Disengage Vault Security Protocols
+0TE1000111	Engage Vault Security Protocols
+0TE1000114	Vault Security Protocols Information
+0TE1000115	Vault Security System Protocols: Warning.
+0TE1000120	Clinic Power Status
+0TE1000122	Disengage Main Power
+0TE1000125	Shut Alarms Down
+0TE1000126	Start Alarms
+0TE1000127	Sierra Madre Host Services Protocol
+0TE1000129	Deactivate Hologram
+0TE1000130	Activate Hologram
+0TE1000137	Activate Holographic Greeter
+0TE1000138	Activate Holographic Security
+0TE1000143	Access Music Controls
+0TE1000146	Vera Keyes.
+0TE1000147	Vera.
+0TE1000148	Sinclair's Personal Accounts.
+0TE1000149	Security Enabled - Terminal Locked.
+0TE1000152	Disengage Contraband Room Lock
+0TE1000153	Prohibited Items
+0TE1000154	Security System Installation
+0TE1000156	Elevator Will Depart Shortly Upon Security Shutdown
+0TE1000157	Proceed?
+0TE1000159	Yes
+0TE1000160	No
+0TE1000162	Only the trustworthy may enter my Vault.
+0TE1000163	F.S.
+0TE1000165	Unlock Door to Vault
+0TE1000168	Vault Door Control
+0TE1000171	Unlock Security Door
+0TE1000174	Dispenser Codes
+0TE1000175	Download Dispenser Code: Med-X
+0TE1000184	Open Maintenance Access
+0TE1000185	Lock Maintenance Access
+0TE1000186	Unable To Access Maintenance Controls
+0TE1000187	Elevator Protocols: Warning.
+0TE1000190	Retrieve Hologram Technology Data
+0TE1000191	Retrieve Vending Replicator Schematics
+0TE1000192	Retrieve Atmospheric Systems Analysis
+0TE1000195	Unlock Security Closet
+0TE1000196	Recalibrate Hologram IFF
+0TE1000200	Gas Leak
+0TE1000201	-Ventilation Control System-
+0TE1000203	Warning: The ventilation system should only be taken down for routine maintenance.
+0TE1000205	Activate Ventilation System.
+0TE1000206	Deactivate Ventilation System.
+0TE1000209	Subject: In Case of Emergency.
+0TE1000210	Second Shifts
+0TE1000211	Suits are here.
+0TE1000221	More Explosives
+0TE1000228	Disable Hologram
+0TE1000229	Chat
+0TE1000232	Substation Status
+0TE1000233	Ventilation System Status
+0TE1000235	Reset Ventilation System
+0TE1000236	Lock Gate
+0TE1000239	Locker Key
+0TE1000240	Suit Damage
+0TE1000242	Welcome, Mr. Ennis!
+0TE1000243	Recent e-mails:
+0TE1000245	To: Director Simmons
+0TE1000247	In case of emergencies, power regulation procedures can be carried out from this station. However, this practice is not recommended for regular use. Please see your supervisor concerning whether use of this station is warranted.
+0TE1000249	Transfer Control To This Station.
+0TE1000252	Check Hologram Status
+0TE1000261	Maintenance Staff Information:
+0TE1000263	Maintenance Staff Warning
+0TE1000266	Download Starlet Hologram Code Snippet
+0TE1000267	Another Shipment?
+0TE1000268	These Knives!
+0TE1000271	Theater Controls
+0TE1000272	Stage Controls
+0TE1000275	The Tampico's Shows List
+0TE1000276	The Tampico's Performance Protocols
+0TE1000277	Sierra Madre's Lobby Security Code
+0TE1000278	Urgent Message for Mrs. E. Sainz
+0TE1000281	Open Theater Doors
+0TE1000282	Activate Hologram Security Protocols
+0TE1000284	Unlock Door
+0TE1000285	Bunker 13 Network
+0TE1000286	Welcome, Father Elijah.
+0TE1000288	Science Entry 112
+0TE1000289	Download Holomessage
+0TE1000290	Automated Message From Sierra Madre
+0TE1000292	Download Atmospheric Systems Analysis?
+0TE1000297	Download Replicator Schematics?
+0TE1000302	Download Hologram Technology Module?
+0TE1000309	Safety Suits
+0TE1000312	Exhaustion
+0TE1000315	Appointment Calendar
+0TE1000319	Unpleasant Visit
+0TE1000322	Security Measure Meeting
+0TE1000325	Notes on Emergency Protocols
+0TE1000326	Hologram: Service Protocols 2.3
+0TE1000327	Sierra Madre Police Network
+0TE1000330	Dispenser Report
+0TE1000333	Contracts
+0TE1000336	Promotion
+0TE1000339	Special Orders
+0TE1000342	Damn Raid
+0TE1000345	Survey Schedules
+0TE1000348	Visit
+0TE1000351	Vending Machine Installation
+0TE1000352	Search and Seizure
+0TE1000353	No More Parking Tickets
+0TE1000356	Maintenance Report
+0TE1000365	Personal Log
+0TE1000374	Infrastructure
+0TE1000377	Retrieve Theater Ambient Track
+0TE1000379	Retrieve Restaurant Ambient Track
+0TE1000381	Retrieve Suites Ambient Track
+0TE1000385	Reprogram Turret Defenses.
+0TE1000390	Override Emergency Door Seal
+0TE1000394	To Vera.
+0TE1000395	Warning : Private Access Only
+0TE1000396	Open Personal Logs?
+0TE1000402	Back.
+0TE1000418	Hologram: Security Protocols 2.4
+0TE1000419	Hologram: Addendum: Appearance 2.4.1
+0TE1000420	Hologram: Security Protocols 2.5
+0TE1000421	Hologram: Threat Detection 2.6
+0TE1000422	Hologram: Threat Response 2.6.2
+0TE1000423	Hologram: Security Patrols 2.7
+0TE1000424	Hologram: Hologram Emitters 5.0
+0TE1000427	Hologram: Installation and Maintenance 1.1
+0TE1000428	Hologram: Maintenance 8.3
+0TE1000433	Set Behavior: Alternate Route Patrol
+0TE1000434	Set Behavior: Default Route Patrol
+0TE1000435	Turn Off Security Force Field
+0TE1000436	Turn On Security Force Field
+0TE1000439	Status: Patrolling first floor.
+0TE1000440	Status: Patrolling second floor.
+0TE1000441	Uploading new behavior pattern...
+0TE1000443	Powering down ambient audio system...
+0TE1000444	Checking status...
+0TE1000446	Status: Guarding Electric Pod Access.
+0TE1000447	Status: Patrolling Computer Control.
+0TE1000450	Accessing Data...
+0TE1000451	Currently patrolling Water Valve Control.
+0TE1000452	Currently patrolling Terminal Control #2.
+0TE1000455	Currently patrolling Casino Floor West.
+0TE1000456	Currently patrolling Bar Stairs.
+0TE1000457	Currently guarding Bar Stairs.
+0TE1000461	Displaying log...
+0TE1000462	Currently guarding Bar Door.
+0TE1000463	Currently patrolling Personnel Office.
+0TE1000464	Currently patrolling Security Office.
+0TE1000469	Currently patrolling Cashier's Counter.
+0TE1000470	Currently guarding Electrical Switch Room.
+0TE1000473	Unlocking...
+0TE1000479	Hallway Speakers Disabled.
+0TE1000480	Starlet Hologram Code Downloaded.
+0TE1000481	Recipe Downloaded.
+0TE1000484	Currently patrolling default route.
+0TE1000485	Currently patrolling alternate route.
+0TE1000488	Shutting down...
+0TE1000500	Disengaging vault security...
+0TE1000501	Activating vault security...
+0TE1000502	Displaying maintenance staff warning...
+0TE1000503	Accessing Log...
+0TE1000504	Accessing security protocols...
+0TE1000508	Shutting down main power...
+0TE1000509	Turning alarms off...
+0TE1000510	Turning alarms on...
+0TE1000512	Starting up projector...
+0TE1000515	Activating greeter...
+0TE1000516	Activation code required.
+0TE1000517	Code incomplete.  Not enough power...
+0TE1000518	Code incomplete. Cannot process request...
+0TE1000519	Code incomplete. Running on limited power.
+0TE1000520	Activating lobby security...
+0TE1000521	Accessing music database...
+0TE1000522	Holodisk Extracted. File not found...
+0TE1000524	Accessing logs...
+0TE1000525	Error. Vault Security Enabled...
+0TE1000530	Vault Security Active...
+0TE1000531	Unlocking vault's seals...
+0TE1000532	Accessing vault mechanism...
+0TE1000533	Unlocking security door...
+0TE1000537	Warming up projector...
+0TE1000538	Opening maintenance door...
+0TE1000539	Locking maintenance door...
+0TE1000540	Vault Security Systems Compromised...
+0TE1000542	Granting database access...
+0TE1000545	Unlocking security closet...
+0TE1000546	Reprogramming security hologram IFF...
+0TE1000549	Turning on ventilation system...
+0TE1000550	Turning off ventilation system...
+0TE1000563	Power Levels Minimal
+0TE1000564	System Reset
+0TE1000565	Substation Lock Activated
+0TE1000569	Transferring...
+0TE1000570	Cashier is currently active.
+0TE1000573	Dealer 1 Servicing Roulette Table.
+0TE1000574	Dealer 2 Servicing Blackjack Table A.
+0TE1000576	Download Complete.
+0TE1000579	Accessing theater controls...
+0TE1000580	System Error...
+0TE1000581	Displaying upcoming shows...
+0TE1000582	Displaying performance protocols...
+0TE1000583	Retrieving security code information...
+0TE1000584	Welcome, Evelyn...
+0TE1000585	Unlocking theater doors...
+0TE1000591	Downloading analysis...
+0TE1000592	Canceling request...
+0TE1000593	Downloading schematics...
+0TE1000595	Downloading module...
+0TE1000628	Theater control inaccessible.
+0TE1000629	Retrieving music track...
+0TE1000630	Restaurant control inaccessible.
+0TE1000632	Suites control inaccessible.
+0TE1000634	Access Denied. Security System Lockdown...
+0TE1000635	Sentry Turrets Reprogrammed...
+0TE1000636	Unable to Reprogram Turret Defenses...
+0TE1000637	Emergency Door Seal Released.
+0TE1000641	Returning to Previous Menu...
+0TE1000664	Deactivating security force field...
+0TE1000665	Activating security force field...
+0TE1000666	Turning off alarms...
+0TE2000003	Download Grand Staircase Map
+0TE2000006	Year 2077.
+0TE2000007	Year 2078.
+0TE2000010	Electric Door Control.
+0TE2000017	Year 2083.
+0TE2000018	Year 2084.
+0TE2000019	Year 2095.
+0TE2000022	Year 2097.
+0TE2000023	Year 2100.
+0TE2000024	Year 2101.
+0TE2000027	Year 2108.
+0TE2000028	Year 2113.
+0TE2000029	Year 2123.
+0TE2000032	Year 2096 I.
+0TE2000033	Year 2096 II.
+0TE2000036	Re: Shipping Error
+0TE2000037	Re: Bus Tour?
+0TE2000038	Re: Shipping Problems (AGAIN!)
+0TE2000039	Downloading map...
+0TE2000053	Accessing E-Mail....
+0TE3000003	Research Projects
+0TE3000004	Log Entries
+0TE3000005	Requisition Supplies and Equipment
+0TE3000007	X-8 Bio-Mechanical Testing Facility
+0TE3000009	Release Cyberdogs
+0TE3000010	Release Unusual Specimen
+0TE3000011	Shipping Department: Unusual Shipment
+0TE3000012	Shipping Department: Please Advise
+0TE3000013	Shipping Department in Lockdown
+0TE3000014	Regarding Shipping Department Lockdown
+0TE3000018	X-8 Test Subject Information
+0TE3000019	X-8 Institutional Test Internal Memo
+0TE3000020	X-8 Residential Test Internal Memo
+0TE3000024	Bio-Mechanical Splicing Rules
+0TE3000025	Splice Robot and Dog
+0TE3000028	Splice Lobotomite and Robot
+0TE3000030	Splice Lobotomite and Dog
+0TE3000032	Splice Robot and Unusual Specimen
+0TE3000034	Clear Splicing Area
+0TE3000035	Disable Splicing Room Security
+0TE3000038	Kudos!
+0TE3000039	RE: Test Subject Observations
+0TE3000040	RE: RE: RE: Test Subject Observations
+0TE3000041	Fwd: Re: Field Gun Prototype
+0TE3000044	Nightstalker Research
+0TE3000045	Server Sniffer - FW: RE: VR Test
+0TE3000046	X-13 Shipment Notice
+0TE3000047	Test Subject Observations
+0TE3000048	RE: RE: Test Subject Observations
+0TE3000049	Please Select From The Following Options;
+0TE3000051	Begin Basic Infiltration Test
+0TE3000052	Replay Basic Infiltration Test
+0TE3000054	Begin Advanced Infiltration Test
+0TE3000055	Replay Advanced Infiltration Test
+0TE3000057	Begin Expert Infiltration Test
+0TE3000058	Replay Expert Infiltration Test
+0TE3000060	Begin Robot Compliance Test
+0TE3000061	Replay Robot Compliance Test
+0TE3000079	Retrieve Student Records
+0TE3000089	X-12 Request for Assistance
+0TE3000090	Assistance Granted
+0TE3000091	K9000 Cyberdog Gun Sealed in X-12
+0TE3000092	Facility X-13, Project 'Blue Blood'
+0TE3000093	>\ Scanning for authorized suit signatures...
+0TE3000095	Unlock Elevator to Test Chamber
+0TE3000099	New Target: X-42 Giant Robo-Scorpion
+0TE3000103	Basic Test
+0TE3000104	Replay Basic Test
+0TE3000105	Advanced Test
+0TE3000107	Replay Advanced Test
+0TE3000111	X-42 Giant Robo-Scorpion Test Log
+0TE3000112	Target Drone Effectiveness Log
+0TE3000113	Activate Target Drones
+0TE3000116	Backup Generator Log
+0TE3000117	Activate Backup Generator
+0TE3000118	WARNING: Activating backup power at this stage can damage or destroy the prototype.
+0TE3000124	Emergency Shutdown Procedure Log
+0TE3000125	Initiate Emergency Shutdown
+0TE3000129	Suggestion.
+0TE3000136	What the hell...?!
+0TE3000137	Check out this mod I've been working on!
+0TE3000141	Get off your butt, Butz!
+0TE3000146	Mk II Torso Research
+0TE3000150	Mk II Boot Research
+0TE3000154	Mk II Glove Research
+0TE3000157	Test Area A - Review
+0TE3000162	RE: X-13 Shipment Notice
+0TE3000167	Test Observations
+0TE3000170	Begin Weather Test
+0TE3000171	End Weather Test
+0TE3000174	Retrieve Richie Marcus' Midterm Grades
+0TE3000177	Retrieve Cherie O'Bannon's Schedule
+0TE3000180	Retrieve Betsy Bright's Records
+0TE3000184	Sonic Emitter Data
+0TE3000189	Download EM Pulse Wave Module
+0TE3000192	Begin Testing
+0TE3000193	Display Test Status
+0TE3000201	Test Selection
+0TE3000209	Requisition Order: Dispensers
+0TE3000210	Dispenser Funding Update
+0TE3000213	Sierra Madre: Test Case?
+0TE3000214	Y-17 Trauma Harness Testing Results
+0TE3000215	Y-17 Trauma Harness Action Items
+0TE3000218	Requisition Order: Holograms
+0TE3000219	Vera Keyes Hologram Progress Report
+0TE3000222	Requisition Order: Chemical Suits
+0TE3000226	EM Pulse Wave Module on Loan
+0TE3000227	Project: Burke and Project: Hare
+0TE3000228	Important Reminder to Myself
+0TE3000237	Log Entry 01
+0TE3000238	Log Entry 02
+0TE3000239	Log Entry 03
+0TE3000240	Elijah's Journal - Day 2
+0TE3000241	Elijah's Journal - Day 3
+0TE3000242	Elijah's Journal - Day 4
+0TE3000243	Elijah's Journal - Day 4 - Addendum
+0TE3000253	Enter Institutional Data Retrieval
+0TE3000254	Enter Residential Cyberdog Guard Test
+0TE3000256	Unusual Specimen Test Results
+0TE3000257	Accessing current research projects...
+0TE3000259	Accessing available supplies...
+0TE3000260	Releasing Dogs...
+0TE3000261	Releasing Specimen...
+0TE3000262	Initiating Splicing Procedure...
+0TE3000263	Insufficient Supplies
+0TE3000264	Restocking...
+0TE3000271	Initiating Clean Up...
+0TE3000272	Security Disabled...
+0TE3000273	Displaying Message...
+0TE3000277	Displaying Research Notes
+0TE3000282	X-13 Simple Detection Grid Online.
+0TE3000285	X-13 Detection Grid Online.
+0TE3000288	X-13 Advanced Detection Grid Online.
+0TE3000291	Tactical Robobrains Deployed.
+0TE3000302	Acquiring Records...
+0TE3000305	Access Denied.
+0TE3000306	Elevator Door Unlocked.
+0TE3000307	Altering target parameters...
+0TE3000308	Area Loaded...
+0TE3000311	Test Subject Improperly Equipped...
+0TE3000316	Powering up drones...
+0TE3000318	Activating backup power...
+0TE3000320	Initiating emergency shutdown...
+0TE3000331	Displaying Note...
+0TE3000336	Displaying Data...
+0TE3000342	Initiating...
+0TE3000344	Records Acquired...
+0TE3000348	Module Previously Downloaded...
+0TE3000349	Module Downloaded...
+0TE3000350	Please Equip Stealth Suit Mk II.
+0TE3000351	Basic Infiltration Test In Progress...
+0TE3000352	Basic Infiltration Test In Progress
+0TE3000353	Advanced Infiltration Test In Progress...
+0TE3000354	Advanced Infiltration Test In Progress
+0TE3000355	Expert Infiltration Test In Progress...
+0TE3000356	Expert Infiltration Test In Progress
+0TE3000357	Robot Compliance Test In Progress...
+0TE3000358	Robot Compliance Test in Progress
+0TE3000361	Abnormal Readings... Caution When Entering
+0TE3000362	Retrieving Results...
+0TE4000001	Hopeville Missile Silo Maintenance:
+0TE4000004	Unlock Maintenance Access Door
+0TE4000005	Maintenance Access Status
+0TE4000007	Maintenance Access Status Log
+0TE4000009	Hopeville Missile Silo Security Systems:
+0TE4000012	Deactivate Second Level Robot Security
+0TE4000013	Second Level Security Status
+0TE4000015	Second Level Security Log
+0TE4000016	Hopeville Missile Silo Mainframe:
+0TE4000019	Unlock Silo's Bunker Doors
+0TE4000022	Eyebot Maintenance Reports
+0TE4000024	Access Eyebot Maintenance Area
+0TE4000025	Access Main Corridor
+0TE4000027	Eyebot maintenance security system activated.
+0TE4000028	Do you wish to proceed?
+0TE4000033	Hopeville Missile Silo:
+0TE4000034	Welcome, Commander.
+0TE4000036	Deactivate Personal Sentry Systems
+0TE4000037	Open Personal Sentry Doors
+0TE4000038	Personal Sentry Security Status
+0TE4000043	Hack Security Turrets
+0TE4000044	First Level Turret Security Status
+0TE4000048	Email to City Treasurer
+0TE4000049	Reply from City Treasurer
+0TE4000052	Treasurer's Report
+0TE4000053	Inter-Office Email
+0TE4000054	Memo from Commander Devlin
+0TE4000057	Noise
+0TE4000058	Earthquakes
+0TE4000059	More Earthquakes
+0TE4000063	Unlock Prototype Bot Pod
+0TE4000064	Bot Pod Status
+0TE4000066	Maintenance Department Log
+0TE4000067	Commissary Notice
+0TE4000068	Commissary Reminder
+0TE4000071	Open Repair Pod 1 - Unoccupied
+0TE4000072	Open Repair Pod 2 - OCCUPIED
+0TE4000075	Open Repair Pod 3 - Unoccupied
+0TE4000076	Password "GUEST" Accepted
+0TE4000077	Welcome to the Mainframe
+0TE4000085	Unlock Hydraulics Access Door
+0TE4000086	Hydraulics Access Status
+0TE4000091	Sentry Security Access Door
+0TE4000092	Sentry Security Access Status
+0TE4000094	Hopeville Missile Base Armory:
+0TE4000097	Unlock Armory
+0TE4000098	Armory Access Status
+0TE4000100	Ashton Missile Silo:
+0TE4000104	Storage Room Alpha One:
+0TE4000110	Open Gate
+0TE4000111	Maintenance Door Unlocked.
+0TE4000112	Maintenance Access Locked.
+0TE4000113	Maintenance Access Unlocked.
+0TE4000114	Accessing Status Log...
+0TE4000116	Robot Security Deactivated.
+0TE4000117	Security Level Active.
+0TE4000118	Security Level Inactive.
+0TE4000119	Accessing Security Log...
+0TE4000120	Opening Silo...
+0TE4000121	Door Unlocked.
+0TE4000122	Doors Unlocked.
+0TE4000123	Security Systems Deactivated.
+0TE4000124	Sentry Doors Opened.
+0TE4000125	Sentry Security Active.
+0TE4000126	Sentry Security Deactivated.
+0TE4000127	Security Turrets Compromised...
+0TE4000128	Turret Security Active.
+0TE4000129	Error: Turret Security Compromised...
+0TE4000130	Prototype Bot Pod Unlocked.
+0TE4000131	Bot Pod Locked.
+0TE4000132	Bot Pod Unlocked.
+0TE4000133	Accessing Maintenance Log...
+0TE4000134	Door Malfunction...Please Try Again
+0TE4000135	Repair Pod 2 Opened
+0TE4000136	ERROR - Security robots still active.
+0TE4000137	ERROR: Pod 2 Occupant Non-Operational.
+0TE4000139	Hydraulics Door Unlocked.
+0TE4000140	Hydraulics Access Locked.
+0TE4000141	Hydraulics Access Unlocked.
+0TE4000142	Sentry Security Door Unlocked.
+0TE4000143	Sentry Security Access Locked.
+0TE4000144	Sentry Security Access Unlocked.
+0TE4000145	Unlocking Armory Access...
+0TE4000146	Armory Access Locked.
+0TE4000147	Armory Access Unlocked.
+0TE4000150	Opening Gate...

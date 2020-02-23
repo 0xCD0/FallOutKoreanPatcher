@@ -1,0 +1,578 @@
+1DE0000001	Vault 101 Access Terminal[CRLF]
+1DE0000002	Welcome Back, Administrator Berkeley
+1DE0000003	National Archives Robotics Terminal[CRLF]TJEFF002 Thomas Jefferson Pod
+1DE0000004	National Archives Robotics Terminal[CRLF]JADAM002 John Adams Pod
+1DE0000005	National Archives Robotics Terminal[CRLF]BFRAN001 Benjamin Franklin Pod
+1DE0000006	National Archives Robotics Terminal[CRLF]ERUTL001 Edward Rutledge Pod
+1DE0000007	National Archives Robotics Terminal[CRLF]JWILS002 John Wilson Pod
+1DE0000008	National Archives Robotics Terminal[CRLF]BACK001 Backup Protectron Pod
+1DE0000009	Identify Source for Download Subroutine Data
+1DE0000010	TJEFF002 Thomas Jefferson Pod Link Confirmed
+1DE0000011	Washington DC Metro Transit Authority[CRLF]Meresti Trainyard Remote Access Security Terminal[CRLF]
+1DE0000012	Strength is a measure of your raw physical power. It affects how much you can carry, and determines the effectiveness of all melee attacks.
+1DE0000013	A high Perception grants a bonus to the Explosives, Lockpick and Energy Weapons skills, and determines when red compass markings appear (which indicate threats).
+1DE0000014	Endurance is a measure of your overall physical fitness. A high Endurance gives bonuses to health, environmental resistances, and the Big Guns and Unarmed skills.
+1DE0000015	Having a high Charisma will improve people's disposition toward you, and give bonuses to both the Barter and Speech skills.
+1DE0000016	Intelligence affects the Science, Repair and Medicine skills. The higher your Intelligence, the more Skill Points you'll be able to distribute when you level up.
+1DE0000017	Agility affects your Small Guns and Sneak skills, and the number of Action Points available for V.A.T.S.
+1DE0000018	Raising your Luck will raise all of your skills a little. Having a high Luck will also improve your critical chance with all weapons.
+1DE0000019	The Barter skill affects the prices you get for buying and selling items. In general, the higher your Barter skill, the lower your prices on purchased items.
+1DE0000020	The Big Guns skill determines your combat effectiveness with all oversized weapons such as the Fat Man, Missile Launcher, Flamer, Minigun and Gatling Laser.
+1DE0000021	The Energy Weapons skill determines your effectiveness with weapons such as the Laser Pistol, Laser Rifle, Plasma Rifle and Plasma Pistol.
+1DE0000022	The Explosives skill determines the power of any set mines, the ease of disarming any hostile mines, and the effectiveness of any thrown grenades.
+1DE0000023	The Lockpick skill is used to open locked doors and containers.
+1DE0000024	The Medicine skill determines how many Hit Points you'll replenish upon using a Stimpak, and the effectiveness of Rad-X and RadAway.
+1DE0000025	The Melee Weapons skill determines your effectiveness with any melee weapon, from the simple lead pipe all the way up to the high-tech Super Sledge.
+1DE0000026	The Repair skill allows you to maintain any weapons and apparel. In addition, the higher your Repair skill, the better the starting condition of any custom-made weapons.
+1DE0000027	The Science skill represents your combined scientific knowledge, and is primarily used to hack restricted computer terminals.
+1DE0000028	Small Guns determines your effectiveness with all conventional projectile weapons, such as the 10mm pistol, BB Gun, Assault Rifle, and Combat Shotgun.
+1DE0000029	The higher your Sneak skill, the easier it is to remain undetected, steal an item, or pick someone's pocket. Successfully attacking while undetected grants an automatic critical hit.
+1DE0000030	The Speech skill governs how much you can influence someone through dialogue, and gain access to information they might otherwise not want to share.
+1DE0000031	The higher your Throwing skill, the more likely you are to hurl a thrown weapon like a rock, Molotov cocktail or grenade exactly where you want to.
+1DE0000032	The Unarmed skill is used for fighting without a weapon, or with the few weapons specifically designed for hand-to-hand combat, like Brass Knuckles or the Power Fist.
+1DE0000033	Used for medical services.
+1DE0000034	Vault-Tec Administration System[CRLF]Records Database 923-A[CRLF][CRLF]****NETWORK OFFLINE****[CRLF]Please check your local connection
+1DE0000035	DC Area Vault Listings
+1DE0000036	DCTA Metro Map[CRLF]------------------------------------
+1DE0000038	****ERROR****[CRLF]Files Corrupted.[CRLF]Please reinstall operating system software.
+1DE0000039	ACCESS RESTRICTED
+1DE0000040	Vault 87 Information
+1DE0000041	Vault 87 Equipment Issuances
+1DE0000042	ERROR 0x03C663A1[CRLF]"Network connection not found"[CRLF]"Dummy terminal inactive"
+1DE0000043	ERROR 0xFFFFF710[CRLF]"Processor Corru;xsfkleg,,g364[735}3__."
+1DE0000044	ERROR 0xBA53FFFA[CRLF]"Malicious Programs Detected."[CRLF]"Virus Detected. Shutting Down."
+1DE0000045	ERROR 0x357C5001[CRLF]"Bad Sectors Found In Boot Block."[CRLF]"Terminal Error."[CRLF]
+1DE0000046	ERROR 0x07F6BAAC[CRLF]"Bad Data. Cannot Read."
+1DE0000047	ERROR 0x00B636C6[CRLF]"No Input Device Recognized."[CRLF]"Reconnect Keyboard."
+1DE0000048	ERROR 0xF141A013[CRLF]"No Data Storage Detected."[CRLF]"Check Tape Drive Connection."
+1DE0000056	Super Mutants are often accompanied by Centaurs, which serve as "watchdogs" and alert their masters to danger.
+1DE0000057	Throughout the years since the bombs first fell, dogs have remained largely unaltered by radiation.
+1DE0000058	Deathclaws are some of the most frightening creatures ever encountered by settlers in the Capital Wasteland. Their speed and ferocity are matched only by the size of their claws...
+1DE0000059	Eyebots spread President Eden's pre-recorded Enclave message throughout the Capital Wasteland.
+1DE0000060	Feral Ghouls have lost the ability to reason, and will attack any human on sight.
+1DE0000061	Ghouls, both "normal" and Feral, are not only immune to radiation... they're healed by it.
+1DE0000062	A Glowing One is a unique Feral Ghoul that has become a living conduit of radiation.
+1DE0000063	Mirelurk Kings use a devastating sonic attack to debilitate their foes from afar.
+1DE0000064	The Mister Gutsy model of robot was commissioned by the U.S. Army just before the atomic apocalypse of 2077.
+1DE0000065	The sturdy Protectron model of robot was created before the great war, and served as a security automaton in both the private and business sectors.
+1DE0000066	The Robobrain, constructed by General Atomics International before the great nuclear war, is unique in that it uses an actual organic brain as its central processor.
+1DE0000067	Vault 101 Information
+1DE0000068	W. Brandice Personal Notes
+1DE0000069	Nuka-Cola Marketing Department[CRLF]Nuka-Cola Quantum Campaign Directives
+1DE0000070	Nuka-Cola Research Department[CRLF]Security Clearance NKC002 Only!
+1DE0000071	Os Abysmi vel Daath
+1DE0000072	Abraham Washington - Private Notes[CRLF]Current Expeditions and Status
+1DE0000073	Information[CRLF]Feel Free to Browse our Collection
+1DE0000074	If you're successfully hidden, your first attack against an opponent will always result in a critical hit.
+1DE0000075	A Glowing One uses its special ability to deliver radiation to its enemies, and heal any nearby Feral Ghouls.
+1DE0000076	Mister Gutsy is a combat variant of the popular Mister Handy, and is equipped with a Plasma weapon and flamethrower.
+1DE0000077	Zoe Hammerstein's Personal Diary
+1DE0000078	The Capital Wasteland lacks an institutional system of crime and punishment. If you wrong someone, prepare to pay with your life.
+1DE0000079	Sleeping in a rented or owned bed will give you a "Well Rested" bonus that boosts your earned XP for several hours.
+1DE0000080	Intelligence determines your effectiveness with the Science, Repair and Medicine skills.
+1DE0000081	The Medicine skill determines the effectiveness of drugs that help manage radiation, like Rad-X and RadAway.
+1DE0000082	The Church of the Children of Atom believe the war of 2077 was actually a great holy event perpetuated by their god, Atom.
+1DE0000083	Perception determines when red tick marks (which indicate threats) appear on your compass.
+1DE0000084	With the second rank of the Animal Friend perk, animals will come to your aid in combat (but not against other animals).
+1DE0000085	The higher your Repair skill, the better the starting condition of any custom-made weapons.
+1DE0000086	Security Chief Harkness and his officers are authorized to use deadly force when dealing with any and all transgressors.
+1DE0000087	If you want to stay hidden, stick to the shadows, move slowly, try to stay behind your opponent... and turn off your Pip-Boy light!
+1DE0000088	If you have the Robotics Expert perk and sneak up on a hostile robot undetected, you can put that robot into a permanent shutdown state.
+1DE0000089	After sleeping in a safe bed, you will wake well rested. You earn 10% more experience points for several hours.
+1DE0000090	Your body has been genetically enhanced with the strength and flame resistance of the Grayditch Fire Ants! Your Strength has increased by 1 and you are now 25% resistant to fire.
+1DE0000091	Your body has been genetically enhanced with the perception and flame resistance of the Grayditch Fire Ants! Your Perception has increased by 1 and you are now 25% resistant to fire.
+1DE0000092	The Overseer is the incontestable leader of Vault 101, and his word is law.
+1DE0000093	At age 10, every Vault 101 resident receives a Pip-Boy 3000 personal information processor.
+1DE0000094	At age 16, every Vault 101 resident takes the Generalized Occupational Aptitude Test, or G.O.A.T., which helps determine job placement.
+1DE0000095	Vault 101 security officers are hand-picked by the Overseer himself for their discretion and loyalty.
+1DE0000096	Vault 101's residents remain protected from the outside world, with the exception of the occasional Radroach attack.
+1DE0000097	National Archives Robotics Maintenance Terminal[CRLF]Current Issues Listed by Unit - P. Brantseg - Robotics Team
+1DE0000098	National Archives Robotics Terminal[CRLF]BGWIN009 Button Gwinnett Pod
+1DE0000099	National Archives Robotics Terminal[CRLF]JHANC003 John Hancock Pod
+1DE0000100	In general, the higher your Barter skill, the lower your prices on purchased items.
+1DE0000101	The Big Guns skill determines your combat effectiveness with the Fat Man, Rock-It Launcher, Missile Launcher, Flamer, Gatling Laser and Minigun.
+1DE0000102	The Energy Weapons skill determines your effectiveness with the Alien Blaster, Laser Pistol, Laser Rifle, Mesmetron, Plasma Rifle and Plasma Pistol.
+1DE0000104	New Amended Espionage Act, 50 U.S.C, 31 and 32 prohibits unauthorized use, subject to a fine of $500.00, and possible imprisonment.[CRLF][CRLF]IN CASE OF EMERGENCY: Activate Containment Doors to gain access to tunnel system. Stay clear of the tracks, and have a nice day.
+1DE0000105	Welcome to Metro Security[CRLF]
+1DE0000106	Doctor Weston Lesko[CRLF]Private - Please Do Not Access Without Permission
+1DE0000107	Field Report[CRLF]Protector Casdin[CRLF]0700 Surface Patrol (Fairfax)[CRLF][CRLF][CRLF]
+1DE0000108	Field Report[CRLF]Defender Rockfowl[CRLF]0300 SpecOps Recon Patrol[CRLF][CRLF][CRLF]
+1DE0000109	Vault-Tec Residential Computer Network v10.1[CRLF][CRLF]Welcome, Ms. Gomez...
+1DE0000110	Vault-Tec Residential Computer Network v10.1[CRLF][CRLF]Welcome, Beatrice...
+1DE0000111	LOUNGER #37 MONITOR STATION[CRLF]RESIDENT ID: 374 -- NEUSBAUM, G.
+1DE0000112	LOUNGER #37 MONITOR STATION[CRLF]RESIDENT ID: 375 -- NEUSBAUM, P.
+1DE0000113	LOUNGER #37 MONITOR STATION[CRLF]RESIDENT ID: 377 -- NEUSBAUM, T.
+1DE0000114	LOUNGER #37 MONITOR STATION[CRLF]RESIDENT ID: 226 -- ROCKWELL, R.
+1DE0000115	LOUNGER #37 MONITOR STATION[CRLF]RESIDENT ID: 115 -- ROCKWELL, J.[CRLF]
+1DE0000116	LOUNGER #37 MONITOR STATION[CRLF]RESIDENT ID: 227 -- SIMPSON, M.
+1DE0000117	LOUNGER #37 MONITOR STATION[CRLF]RESIDENT ID: HENDERSON, M.
+1DE0000118	LOUNGER #37 MONITOR STATION[CRLF]RESIDENT ID: 642 -- DITHERS, T.[CRLF][CRLF]WARNING: INCONSISTENT READINGS. PLEASE CHECK POD CONNECTIONS
+1DE0000119	LOUNGER #37 MONITOR STATION[CRLF]RESIDENT: 999 -- BRAUN, S.
+1DE0000120	"Chinese Invasion" Failsafe Subroutine Access[CRLF][CRLF]Welcome, Dr. Braun
+1DE0000121	Version Control Notes[CRLF][CRLF]Welcome, Dr. Braun
+1DE0000122	This perk allows you to regain health by consuming Bloodpacks.
+1DE0000123	The Child at Heart perk greatly improves your interactions with children, usually in the form of unique dialogue choices.
+1DE0000124	Press and hold your Pip-Boy button to turn the Pip-Boy light off and on.
+1DE0000125	The light generated from your Pip-Boy light actually makes you less stealthy. If you want to effectively sneak, turn it off.
+1DE0000126	Washington DC Metro Transit Authority[CRLF]Meresti Trainyard Remote Access Entry Terminal
+1DE0000127	RobCo Service Terminal[CRLF]V 6.0.3.2.1.a[CRLF][CRLF]------------------------------------[CRLF]For More Top Of The Line [CRLF]RobCo Products See[CRLF]Your Local Showroom.[CRLF]
+1DE0000128	SoftLock Solutions, Inc[CRLF]"Your Security is Our Security"[CRLF]>\ Welcome, USER[CRLF]
+1DE0000129	RobCo Service Terminal[CRLF]V 6.0.3.2.1.a[CRLF][CRLF]------------------------------------[CRLF]For More Top Of The Line [CRLF]RobCo Products See[CRLF]Your Local Showroom.
+1DE0000130	Vault-Tec Remote Access Terminal 07b
+1DE0000131	Sector B Terminal
+1DE0000132	Repair Sector Terminal
+1DE0000135	Sector A Terminal
+1DE0000136	Sector A Emergency Terminal
+1DE0000137	Vault-Tec Inc. -  Vault 101[CRLF]Settle in and stay a while!
+1DE0000138	Just like dear old Dad, you've devoted your time to intellectual pursuits. You gain an additional 5 points to both the Science and Medicine skills.
+1DE0000139	You're obsessed with using and maintaining a wide variety of conventional firearms. With each rank of the Gun Nut perk, you gain an additional 5 points to the Small Guns and Repair skills.
+1DE0000140	-RobCo Trespasser Management System-[CRLF]====================================
+1DE0000158	Take the Scoundrel perk, and you can use your wily charms to influence people -- each rank raises your Speech and Barter skills by 5 points.
+1DE0000159	You've been pushed around long enough! With the Nerd Rage! perk, your Strength is raised to 10 and you gain 50% to damage resistance whenever your Health drops to 20% or below.
+1DE0000160	Once you have the Contract Killer perk, any good character you kill will have an ear on their corpse. This ear can then be sold to a certain person (whose identity is disclosed when you take the perk) for caps and negative Karma.
+1DE0000161	With the Lead Belly perk, you take 50% less radiation every time you drink from an irradiated water source.
+1DE0000162	With Paralyzing Palm, you will sometimes perform a special V.A.T.S. palm strike that paralyzes your opponent for 30 seconds. Note that in order to perform the Paralyzing Palm, you must be completely unarmed.
+1DE0000163	You've made permanent enhancements to your body! The Cyborg perk instantly adds +10% to your Damage, Poison, and Radiation Resistances, and 10 points to the Energy Weapons skill.
+1DE0000164	Once you have the Lawbringer perk, any evil character you kill will have a finger on their corpse. This finger can then be sold to a certain person (whose identity is disclosed when you take the perk) for caps and positive Karma.
+1DE0000165	With the Impartial Mediation perk, you gain an extra 30 points to Speech... so long as you maintain a Neutral Karma level.
+1DE0000166	With Concentrated Fire, your accuracy to hit any body part in V.A.T.S. increases slightly with each subsequent hit on that body part.
+1DE0000167	With Infiltrator, if a lock is broken, and can't normally be picked again, you can attempt to pick it again one more time. This includes locks previously broken by a "Force Lock" attempt.
+1DE0000168	With the Intense Training perk, you can put a single point into any of your S.P.E.C.I.A.L. attributes.
+1DE0000169	Advanced technology from the Commonwealth has increased your reaction speed, giving you a higher chance to hit in V.A.T.S.
+1DE0000170	Rivet City Clinic Computer System[CRLF]For doctor's eyes only. Unauthorized use will result in fine, confinement, or possible banishment by order of the City Council.
+1DE0000171	You better have permission to be using this computer.
+1DE0000172	Good morning, chief!
+1DE0000175	LOB Enterprises Front Desk[CRLF][CRLF]Welcome Ms. Warring[CRLF][CRLF]Please remember to always ask for I.D. and greet visitors with a smile.
+1DE0000176	National Archives Maintenance Terminal[CRLF]Current Issues Listed by Unit
+1DE0000177	Water Chip Undergoing Service. [CRLF][CRLF]System temporarily suspended. Do not run purge - vital systems may be compromised.
+1DE0000178	System Inactive - No Water Chip Located![CRLF][CRLF]Contact your Vault-Tec representative immediately for service. Evacuate to safe distance until repairs are complete.
+1DE0000179	*****------  FIELD OPERATIONS[CRLF]*****------      ENCLAVE [CRLF]*****------[CRLF]-----------[CRLF]-----------  GOD BLESS AMERICA
+1DE0000180	--Mariposa Station--[CRLF]Utitlity Terminal 6c
+1DE0000181	Vault 101 Security Cell Terminal
+1DE0000182	Disable a robot's Combat Inhibitor, and the confused machine will go into a killing frenzy, attacking friend and foe alike.
+1DE0000183	ERROR 0x0AABFF00[CRLF]"Primary power source unavailable"[CRLF]"Check all cords and plugs for connection"
+1DE0000184	Welcome to the Museum of Technology[CRLF]#System Upgrades Courtesy of Prime
+1DE0000185	#Good Luck
+1DE0000190	Museum of Technology Security[CRLF]
+1DE0000191	Planetarium Access Terminal
+1DE0000193	Galaxy News Radio Access Terminal
+1DE0000194	Welcome, Comrade!
+1DE0000197	Journal-It Software  2072 PagSoft[CRLF]USER: suk me  hahaha
+1DE0000198	A weapon's DAM indicates its approximate damage, and is modified by factors like the weapon's condition, and your associated skill.
+1DE0000199	Mr. Handy Remote Access Terminal
+1DE0000201	Historical algorithms engaged. Processing Capital Post articles. Extrapolating American cultural references.
+1DE0000202	Loading Tranquility Lane simulation. Please stand by.
+1DE0000203	Vault-Tec prototype simulation engaged. Active program: Tranquility Lane.
+1DE0000204	Accept your perceived reality.
+1DE0000205	Welcome, Overseer.
+1DE0000206	Vault 101 Access Terminal
+1DE0000207	Remember: Medical files are confidential!
+1DE0000208	Mirelurks are naturally armored throughout their body... with the exception of the face. Try using V.A.T.S. to target this area, and kill them before they get close enough to attack.
+1DE0000209	No job is too nasty for the mercenaries of Talon Company. If you encounter these heartless opportunists, be prepared for a fight to the death.
+1DE0000210	Raiders take whatever they want, whenever they want, and their favorite pastimes are torture and murder.
+1DE0000211	Welcome to the Rivet City computer system. What would you like to do today?
+1DE0000214	-***-------  FIELD OPERATIONS[CRLF]*-*-*------      ENCLAVE [CRLF]-***-------[CRLF]-----------[CRLF]-----------  GOD BLESS AMERICA[CRLF]
+1DE0000216	Journal-It Software  2072 PagSoft[CRLF]Isabella Proud's Journal
+1DE0000218	This is to make something glow.
+1DE0000219	The higher your Sneak skill, the easier it is to remain undetected, steal an item or pick someone's pocket.
+1DE0000220	High Charisma gives bonuses to both the Barter and Speech skills.
+1DE0000221	Journal-It Software  2072 PagSoft[CRLF]USER: NO ENTRY
+1DE0000222	National Catastrophe Relief Auxiliary[CRLF]Response Unit MD-478[CRLF][CRLF]Nancy Kroydon, Presiding Officer
+1DE0000223	Complaint Database - August 2077[CRLF]Please have guest be as descriptive as possible.
+1DE0000224	Nurse's Station 01[CRLF]Hospital Use Only
+1DE0000225	Nurse's Station 02[CRLF]Hospital Use Only
+1DE0000226	Nurse's Station 03[CRLF]Hospital Use Only
+1DE0000227	A high Endurance gives bonuses to Health, environmental resistances, and the Big Guns and Unarmed skills.
+1DE0000228	The higher your Intelligence, the more Skill Points you'll be able to distribute when you level up.
+1DE0000230	Raising your Luck raises all of your skill values, and improves your Critical Chance with all weapons.
+1DE0000231	The Unarmed skill is used for fighting without a weapon, or with hand-to-hand weapons like Brass Knuckles or the Power Fist.
+1DE0000232	The Medicine skill determines the effectiveness of a Stimpak used to heal Health or damaged limbs.
+1DE0000233	The Melee Weapons skill determines your effectiveness with any melee weapon, from a simple lead pipe to the high-tech Super Sledge.
+1DE0000234	A high Perception grants a bonus to the Explosives, Lockpick and Energy Weapons skills.
+1DE0000235	The Repair skill allows you to maintain any weapons and apparel.
+1DE0000237	Small Guns determines your effectiveness with conventional projectile weapons, including the 10mm Pistol, BB Gun, Assault Rifle, and Combat Shotgun.
+1DE0000240	Strength affects how much you can carry, and determines the effectiveness of all melee attacks.
+1DE0000241	Greetings Vault Technician![CRLF]How Can This Terminal Help You Today?
+1DE0000242	Auxiliary Command Terminal[CRLF]Please Consult A Supervisor Before Proceeding
+1DE0000243	** !! SELECTIVE ACCESS !! **[CRLF]DC Transit Authority Personnel Only[CRLF]
+1DE0000244	Journal-It Software  2072 PagSoft[CRLF]Ryan Brigg's Journal
+1DE0000245	Congratulations on your transferal to the position of ROBOT PROTOCOL OPERATOR! Your trusted co-workers will be the standard Protectron models stationed throughout the facility.[CRLF][CRLF]"Basic Operation" covers the factory duties of your co-workers, as described in your training manual.[CRLF][CRLF]"Pest Extermination" encourages your co-workers to track and sanitize any roaches, rodents, or other undesired pests on the premises.[CRLF][CRLF]"Total Liquidation" removes your co-workers' humanoid safety protocols, and is for use only in the unlikely event of criminal intrusion or communist attack.[CRLF][CRLF]"Stress Testing" allows you to test the construction quality of recently produced models by setting current workers against each other.[CRLF][CRLF]We trust you'll find the work simple, rewarding, and extremely safe! Enjoy!
+1DE0000246	Arlington Public Library - Virginia Reads![CRLF]Central Library Catalogue[CRLF][CRLF]Welcome, Head Librarian Munson!
+1DE0000247	Arlington Public Library - Virginia Reads![CRLF]Front Desk Check-In Station[CRLF][CRLF]Welcome, Librarian Meier!
+1DE0000248	Fort Constantine, MD[CRLF]Welcome, Commander[CRLF]                  (Private Use Only)[CRLF](All use monitored by USAF Intelligence)[CRLF]
+1DE0000249	Journal-It Software  2072 PagSoft[CRLF]USER: Ryan Brigg's
+1DE0000250	Fort Constantine, MD[CRLF]======================[CRLF]USAF One-Touch Command SysOps[CRLF]Welcome, Commander.
+1DE0000251	You wrote the book on how to survive in the Wasteland, and have shared your secrets with humanity. You've gained +6% bonus to Poison Resistance and Radiation Resistance, and +15 points to maximum Health.
+1DE0000252	You've been tested in some of the most dangerous parts of the wastes, and you've not only survived - you've learned a few things. You've gained +4% bonus to Poison Resistance and Radiation Resistance, and +10 points to maximum Health.
+1DE0000253	You've been tested in some of the most dangerous parts of the wastes, and you're still alive to tell the tale. You've gained +2% bonus to Poison Resistance and Radiation Resistance, and +5 points to maximum Health.
+1DE0000254	*******Authorized Personal Only*******[CRLF]This room is to remain locked at all times. Use of this terminal without proper clearance is strictly forbidden.[CRLF][CRLF]**Area is under surveillance**
+1DE0000257	LOB Enterprises Employee Terminal[CRLF][CRLF]Welcome Ms. McAndrews[CRLF][CRLF]
+1DE0000258	L.O.B. Enterprises Chief Executive Terminal[CRLF][CRLF][CRLF]
+1DE0000259	Welcome to the RobCo Facilities Robot Master Terminal![CRLF]How may I assist you this fine day?
+1DE0000260	Statesman Hotel Restaurant[CRLF]Mon - Th         7 AM - 2 AM[CRLF]Sun              7 AM - 9 PM[CRLF]Remember, after using the restroom, don't just walk out without cleaning up. Take a look around and see if there are any toilet tissues lying about and pick them up. A customer always appreciates a clean restroom.
+1DE0000261	Nuka-Cola Packing Terminal 3C[CRLF]Software Version 2.01.3a
+1DE0000262	MDCTA Service Terminal - [CRLF]Gas/Water Reservoir Exchange 456-12 Access Menu:
+1DE0000263	Reilly's Rangers Eyes Only[CRLF]Hope you asked Reilly first, you dumbass![CRLF]
+1DE0000266	Welcome to the RobCo Production Facility security terminal.
+1DE0000267	Roosevelt Academy[CRLF]EDU-OSv6.19.03[CRLF]Welcome, Headmaster Sweeney.[CRLF]
+1DE0000268	Delivery Terminal
+1DE0000269	Hubris Comics Publishing -[CRLF]Publishing Quality Prints at Quality Prices[CRLF]
+1DE0000270	Hubris Comics Publishing Printing Press Terminal.[CRLF][CRLF]Remember to make sure no one is near the press while operating.
+1DE0000271	Hubris Comics Publishing -[CRLF]Publishing Quality Prints at Quality Prices[CRLF][CRLF]Please keep hands away from Printing Press while it's in operation.
+1DE0000272	Dunwich Borers LLC[CRLF]Auto-dictation software  2074 PagSoft[CRLF][CRLF]Welcome, HERMAN GRANGER[CRLF]Available records in memory:
+1DE0000274	If you start a fight you can't finish, try putting away your weapon. Your opponent just might forgive you...
+1DE0000275	After an experimental treatment, intense radiation keeps your body operating at peak performance regardless of crippling injuries... right up until death. When you suffer from Advanced Radiation Poisoning, crippled limbs automatically regenerate.
+1DE0000276	Vault 87 Medical Wing Maintenance Access[CRLF]Emergency Use Only
+1DE0000278	Vault 112 Security Stockpile Access[CRLF]No Unauthorized Personnel Inside the Security Zone.
+1DE0000279	Vault 112 Overseer Access[CRLF]Welcome, Dr. Braun.
+1DE0000280	Something about your presence dampens others' desires to exceed. Any enemy's chance of getting critical hits on you is reduced by 50%.
+1DE0000282	LOUNGER #11 MONITOR STATION[CRLF]RESIDENT ID: UNOCCUPIED[CRLF][CRLF]
+1DE0000283	LOUNGER #23 MONITOR STATION[CRLF]RESIDENT ID: UNKNOWN[CRLF][CRLF]WARNING: UNVERIFIED RESIDENT STATUS[CRLF]PLEASE CHECK LOGS[CRLF]
+1DE0000284	DEPARTMENT OF THE ARMY[CRLF]   PEACEKEEPING AND RECOVERY[CRLF]  FIELD OPERATIONS SECTOR, 27P
+1DE0000287	Overseer Access Only!
+1DE0000288	Restricted to Section 4 Clearance Only[CRLF]
+1DE0000289	Engineer Section Use Only
+1DE0000290	Trading Post 92  Employees Only
+1DE0000291	Hello, Doctor Lesko.[CRLF]What can I do for you today?
+1DE0000292	Things a bit too tough, or too easy? You can pause the game and modify the difficulty at any time.
+1DE0000293	Rad Resistance allows you to -- what else? -- resist radiation. This perk grants an additional 25% to Radiation Resistance.
+1DE0000294	With the Scrounger perk, you'll find considerably more ammunition in containers than you normally would.
+1DE0000295	With each rank of this perk, all of your explosive weapons do an additional 20% damage.
+1DE0000296	The Here and Now perk immediately grants an additional experience level, complete with all the advantages that brings.
+1DE0000297	With the Mister Sandman perk, when you're in Sneak mode, you gain the option to silently kill any human or Ghoul while they're sleeping. And, all Mister Sandman kills earn bonus XP.
+1DE0000298	With the Life Giver perk, you gain an additional 30 Hit Points.
+1DE0000299	With the Pyromaniac perk, you do +50% damage with fire-based weapons, like the Flamer and Shishkebab.
+1DE0000300	With the Silent Running perk, you gain an additional 10 points to Sneak, and running no longer factors into a successful sneak attempt.
+1DE0000301	With the Sniper perk, your chance to hit an opponent's head in V.A.T.S. is significantly increased.
+1DE0000302	At the first rank of this perk, animals simply won't attack. At the second rank, they will actually come to your aid in combat, but never against another animal. This perk affects the Dog, Yao Guai, Mole Rat, and Brahmin.
+1DE0000303	With the Light Step perk, you'll never set off an enemy's mines or floor-based traps.
+1DE0000304	When you take the Master Trader perk, the price of every item you buy from a vendor is reduced by 25%.
+1DE0000305	With the Action Boy perk, you gain an additional 25 Action Points to use in V.A.T.S.
+1DE0000306	With the Better Criticals perk, you gain a 50% damage bonus every time a critical hit is scored on an opponent.
+1DE0000307	You've gained your own personal guardian angel... armed with a fully loaded .44 Magnum. With this perk, the Mysterious Stranger will appear occasionally in V.A.T.S. mode to lend a hand, with deadly efficiency.
+1DE0000308	The Tag! perk allows you to select a fourth Skill to be a Tag skill, which instantly raises it by 15 points.
+1DE0000309	With the Robotics perk, you do an additional 25% damage to any robot. But, even better, sneaking up on a hostile robot undetected and activating it will put that robot into a permanent shutdown state.
+1DE0000310	Fail a hack attempt and get locked out of a computer? Not if you're a Computer Whiz! With this perk, you can attempt to re-hack any computer you were previously locked out of.
+1DE0000311	With the Solar Powered perk, you gain an additional 2 points to Strength when in direct sunlight, and slowly regenerate lost Health.
+1DE0000312	The Ninja perk grants you the power of the fabled shadow warriors. When attacking with either Melee or Unarmed, you gain a +15% critical chance on every strike. Sneak attack criticals do 25% more damage than normal.
+1DE0000313	With each rank in the Swift Learner perk, you gain an additional 10% to total Experience Points whenever Experience Points are earned.
+1DE0000314	With each rank of the Thief perk, you gain an immediate bonus of 5 points to both the Sneak and Lockpick skills.
+1DE0000315	With the Educated perk, you gain three more skill points every time you advance in level. This perk is best taken early on, to maximize its effectiveness.
+1DE0000316	With the Entomologist perk, you do an additional +50% damage every time you attack a mutated insect, like the Radroach, Giant Ant, or Radscorpion.
+1DE0000317	With the Iron Fist perk, you do an additional 5 points of Unarmed damage per rank.
+1DE0000318	With the Strong Back perk, you can carry 50 more pounds of equipment.
+1DE0000319	With the Toughness perk, you gain +10% to overall Damage Resistance, up to the maximum of 85%.
+1DE0000320	With the Comprehension perk, you gain one additional skill point whenever a skill book is read.
+1DE0000321	With the Fortune Finder perk, you'll find considerably more Nuka-Cola caps in containers than you normally would.
+1DE0000322	When you choose the Explorer perk, every location in the world is revealed on your map. So get out there and explore!
+1DE0000323	Welcome to Paradise Falls
+1DE0000324	Reilly's Rangers Eyes Only[CRLF]If you're reading this, you better get your ass out of here![CRLF]
+1DE0000325	"Always remember the fires that we were forged in. Those who forget are lost."[CRLF][CRLF][CRLF]
+1DE0000326	Subject -> Laser Rifle/Pistol[CRLF]Researcher -> J. T. Benning[CRLF]
+1DE0000333	You've been tested in some of the most dangerous parts of the wastes, and you're still alive to tell the tale. You've gained +2% bonus to Poison Resistance and Radiation Resistance, and 2 points to both the Medicine and Science skills.
+1DE0000334	You've been tested in some of the most dangerous parts of the wastes, and you're still alive to tell the tale. You've gained +2% bonus to Poison Resistance, Radiation Resistance and Damage Resistance.
+1DE0000335	You've been tested in some of the most dangerous parts of the wastes, and you're still alive to tell the tale. You've gained +2% bonus to Poison Resistance & Radiation Resistance, and 2 points to both the Speech and Sneak skills.
+1DE0000336	You've been tested in some of the most dangerous parts of the wastes, and you're still alive to tell the tale. You've gained +2% bonus to Poison Resistance and Radiation Resistance, and a +1% bonus to Critical Chance.
+1DE0000337	You've been tested in some of the most dangerous parts of the wastes, and you've not only survived - you've learned a few things. You've gained +4% bonus to Poison Resistance and Radiation Resistance, and 4 points to both the Medicine and Science skills.
+1DE0000338	You've been tested in some of the most dangerous parts of the wastes, and you've not only survived - you've learned a few things. You've gained +4% bonus to Poison Resistance, Radiation Resistance and Damage Resistance.
+1DE0000339	You've been tested in some of the most dangerous parts of the wastes, and you've not only survived - you've learned a few things. You've gained +4% bonus to Poison Resistance & Radiation Resistance, and 4 points to both the Speech and Sneak skills.
+1DE0000340	You've been tested in some of the most dangerous parts of the wastes, and you've not only survived - you've learned a few things. You've gained +4% bonus to Poison Resistance and Radiation Resistance, and a +2% bonus to Critical Chance.
+1DE0000341	You wrote the book on how to survive in the Wasteland, and have shared your secrets with humanity. You've gained +6% bonus to Poison Resistance and Radiation Resistance, and 6 points to both the Medicine and Science skills.
+1DE0000342	You wrote the book on how to survive in the Wasteland, and have shared your secrets with humanity. You've gained +6% bonus to Poison Resistance, Radiation Resistance and Damage Resistance.
+1DE0000343	You wrote the book on how to survive in the Wasteland, and have shared your secrets with humanity. You've gained +6% bonus to Poison Resistance & Radiation Resistance, and 6 points to both the Speech and Sneak skills.
+1DE0000344	You wrote the book on how to survive in the Wasteland, and have shared your secrets with humanity. You've gained +6% bonus to Poison Resistance & Radiation Resistance, and +3% bonus to Critical Chance.
+1DE0000345	Medical Armor Prototype [CRLF]USAF Field Ops R&D[CRLF]
+1DE0000347	General Atomics Intntl. [CRLF]In-Home Servant Interface 3.1[CRLF]=========================[CRLF]Welcome Home, Mrs. McClellan![CRLF]Please choose a task.
+1DE0000348	Casey Smith Auto Body & Repair[CRLF]Authorized Corvega Repair and Reseller
+1DE0000349	Vault 76 Information
+1DE0000350	Vault 92 Information
+1DE0000351	Vault 106 Information
+1DE0000352	Vault 108 Information
+1DE0000353	Vault 112 Information
+1DE0000354	You can run faster with your weapon holstered.
+1DE0000355	Repair your weapons regularly -- the lower the condition, the lower a weapon's effectiveness.
+1DE0000356	The lower the condition of your armor or clothing, the less damage it resists in combat.
+1DE0000357	Limb damage can be repaired directly by applying Stimpaks to affected areas, using the Pip-Boy.
+1DE0000358	Heavier weapons and apparel will slow you down when they're equipped.
+1DE0000359	Zooming in with a ranged weapon slows you down, but improves your accuracy.
+1DE0000360	You can restore Health by using a Stimpak, eating food, drinking from a water source, or sleeping in a bed.
+1DE0000361	Crouching will both improve your accuracy, and activate sneak mode.
+1DE0000362	Sleeping in any bed will fully restore your Health and heal any crippled body parts.
+1DE0000363	Drinking from a water source is always a tactical choice -- you will usually restore lost Health, but raise your radiation level.
+1DE0000364	Running is noisier than walking and makes you easier to detect, even if you are sneaking.
+1DE0000368	Warning: This terminal is not authorized on the National Archives Security Grid. Please disengage immediately.
+1DE0000369	Vault-Tec Corporate Headquarters[CRLF]Washington D.C.[CRLF]Standard Employee Access
+1DE0000372	Vault-Tec Corporate Headquarters[CRLF]Washington D.C.[CRLF]System Operation Station 1
+1DE0000373	Vault-Tec Corporate Headquarters[CRLF]Washington D.C.[CRLF]System Operation Station 2
+1DE0000374	Vault-Tec Corporate Headquarters[CRLF]Washington D.C.[CRLF]System Operation Station 3
+1DE0000375	Years as the Vault little league MVP have honed your hitting and throwing. With every rank, you gain 5 points of Melee Weapons skill and 5 points of Explosives skill.
+1DE0000376	In combat, you do +10% damage against male opponents. Outside of combat, you'll sometimes have access to unique dialogue options when dealing with the opposite sex.
+1DE0000377	In combat, you do +10% damage against female opponents. Outside of combat, you'll sometimes have access to unique dialogue options when dealing with the opposite sex.
+1DE0000378	With the Bloody Mess perk, characters and creatures you kill will often explode into a red, gut-ridden, eyeball-strewn paste. Fun! Oh, and you'll do 5% extra damage with all weapons.
+1DE0000379	While using a pistol (or similar one-handed weapon), your accuracy in V.A.T.S. is significantly increased.
+1DE0000380	With the Cannibal perk, when you're in Sneak mode, you gain the option to eat a corpse to regain Health. But every time you feed, you lose Karma, and if the act is witnessed, it is considered a crime against nature.
+1DE0000381	When the sun is down, a Night Person gains +2 to both Intelligence and Perception (up to a maximum of 10). This perk directly affects your "internal clock," and remains active both inside and outside.
+1DE0000382	With the Fast Metabolism perk, you gain a 20% Health bonus when using Stimpaks.
+1DE0000383	With the Finesse perk, you have a higher chance to score a critical hit on an opponent in combat, equivalent to 5 extra points of Luck.
+1DE0000384	With the Adamantium Skeleton perk, your limbs only receive 50% of the damage they normally would.
+1DE0000385	Welcome, Confessor. May you walk in the Glow...
+1DE0000386	Men's Dorm Security System
+1DE0000387	Women's Dorm Security Terminal
+1DE0000389	Welcome to The Brass Lantern computer system, Mr. Stahl. What would you like to do today?
+1DE0000390	Welcome to the Museum of Technology
+1DE0000391	.......................[CRLF].PROJECT ZHU-RONG     .[CRLF].PROTOTYPE LAB REPORTS.[CRLF].......................[CRLF][CRLF]
+1DE0000392	(Mountainside)[CRLF]Grelok is here, spewing heresies.
+1DE0000393	LOUNGER #37 MONITOR STATION[CRLF]RESIDENT ID: 906 -- FOSTER, W.[CRLF][CRLF]
+1DE0000394	LOUNGER #37 MONITOR STATION[CRLF]RESIDENT ID: 642 -- UNOCCUPIED[CRLF][CRLF]WARNING: MECHANICAL MALFUNCTION DETECTED. PLEASE SCHEDULE MAINTENANCE
+1DE0000395	Answer all 8 questions correctly and win!!!
+1DE0000396	The Declaration of Independence was an act of what body?
+1DE0000397	Changing the difficulty affects how hard combat is. But you'll also get more or less XP for killing enemies.
+1DE0000398	Want to prevent an enemy from fleeing? Cripple the legs.
+1DE0000399	Dunwich Borers LLC
+1DE0000400	You've been exposed to Harold's mutation and your skin is now as hard as tree bark. As a result, you've gained a permanent +5% to Damage Resistance.
+1DE0000401	Museum Lobby Security Terminal
+1DE0000402	Museum Atrium Security Terminal
+1DE0000405	National Guard Depot [CRLF][CRLF]Bunker Access Terminal[CRLF][CRLF]
+1DE0000406	DC Metro Office of Urban Planning[CRLF]Project Management System[CRLF]Capital Beltway Reconstruction Project[CRLF][CRLF]You are logged in as Project Leader[CRLF]Please make your selection:
+1DE0000407	DC Metro Office of Urban Planning[CRLF]Human Resources Management System[CRLF][CRLF]You are logged in as Emily Weise[CRLF]Please make your selection:
+1DE0000409	Welcome, Brother
+1DE0000412	Welcome to the Pentagon Library, General
+1DE0000416	FEV Test Chamber 02 Authorized Personal Only!
+1DE0000417	FEV Test Chamber 03 Authorized Personal Only!
+1DE0000418	FEV Test Chamber 01 Authorized Personal Only!
+1DE0000419	FEV Test Chamber 04 Authorized Personal Only!
+1DE0000421	[DANGER] Extreme Radiation Levels [DANGER]
+1DE0000422	Vault 87 Chief Physician's Terminal[CRLF]Dr. Wayne Merrick
+1DE0000424	Doc-u-tron Desktop[CRLF]model 986[CRLF][CRLF]Welcome, MOIRA. What would you like to do today?
+1DE0000425	RobCo Security System v7.3[CRLF][CRLF]Enter command:
+1DE0000426	This door is for your own protection. Automated and highly deadly security systems are in place. DO NOT attempt to gain unauthorized entry.[CRLF][CRLF]You have been warned.
+1DE0000427	Thank you for calling the Germantown 911 Call Center, What is the nature of your emergency?
+1DE0000430	You have received the specialized training needed to move in any form of Power Armor.
+1DE0000431	Having the Chem Resistant perk means you're 50% less likely to develop an addiction to chems, like Psycho or Jet.
+1DE0000432	While using a rifle (or similar two-handed weapon), your accuracy in V.A.T.S. is significantly increased.
+1DE0000433	With the Chemist perk, any chems you take last twice as long.
+1DE0000434	You're obsessed with really big weapons. With each rank of this perk, you gain an additional 15 points to the Big Guns skill.
+1DE0000435	If you kill a target in V.A.T.S., all your Action Points are restored upon exiting V.A.T.S.
+1DE0000436	Greetings, Elder Lyons
+1DE0000437	Hi, Squire Maxson! How's the best kid in the Citadel doing today?
+1DE0000438	Hey Sawbones, you dumb son of a bitch! This is Glade -- I hacked your terminal again. Now change your password before I delete all your stupid robot poetry. ;p
+1DE0000439	Remember our Laws.
+1DE0000440	Use of this system is only by permission of Vance.
+1DE0000441	Tenpenny Tower is the brainchild of Allistair Tenpenny, a British refugee who came to the Capital Wasteland seeking his fortune.
+1DE0000442	Allistair Tenpenny now rarely leaves the comfort and safety of his penthouse suite. His is a madness reserved for the obscenely rich.
+1DE0000443	Although it has some crude fortifications, Big Town is the subject of constant attack from Slavers and Super Mutants, who view it as an easy target.
+1DE0000444	The population of Big Town has dwindled significantly in recent years. Most of the residents have been killed or dragged off by Slavers or Super Mutants.
+1DE0000445	The residents of Big Town are all refugees of another settlement, from which they were forcibly expelled...
+1DE0000446	Canterbury Commons is the end of the Capital Wasteland's established merchant caravan route.
+1DE0000447	The remains of a large robot repair center loom over the settlement of Canterbury Commons.
+1DE0000448	Canterbury Commons has become a constant battleground for two costumed "super humans" -- the sinister AntAgonizer and misguided Mechanist.
+1DE0000449	Sten-o-pool 3500 Word Processing System[CRLF][CRLF]Current User: Tulip[CRLF]Current Document: Paradise Lost Transcript
+1DE0000450	Welcome, Winthrop.
+1DE0000451	Docutron Database 7000x[CRLF]Welcome, Ahzrukhal
+1DE0000453	At the center of Megaton's crater sits an undetonated atomic bomb, a remnant of the great conflict that destroyed the world.
+1DE0000454	Some of Megaton's first settlers were lured by the misguided hope of entering the nearby Vault 101.
+1DE0000455	Some Megaton residents wonder who's really in charge -- Sheriff Simms, or saloon owner Colin Moriarty...
+1DE0000456	The members of the Church of the Children of Atom worship Megaton's atomic bomb.
+1DE0000457	Word is that Moira Brown, the eccentric owner of Craterside Supply, is looking for assistance on a new project.
+1DE0000458	The residents of Megaton feel safe behind their metal walls. Ironic, considering their proximity to a live atomic bomb.
+1DE0000459	The fore section of Rivet City is split from the rest of the carrier, and occupied by hostile Mirelurks.
+1DE0000460	What was once a small scientific community gradually grew into Rivet City, the largest settlement in the Capital Wasteland.
+1DE0000461	Doctor Madison Li, member of Rivet City's ruling council, is one of the greatest scientific minds of her generation.
+1DE0000462	Rivet City has no holding facilities for criminals, and zero tolerance for crime.
+1DE0000463	Underworld has become a haven for disenfranchised Ghouls throughout the Capital Wasteland.
+1DE0000464	Underworld was formed in the remains of the Museum of History's special exhibit, which showcased different civilizations' views on the the afterlife.
+1DE0000465	The Ghouls of Underworld generally aren't bothered by D.C.'s Super Mutants, but resent the Brotherhood of Steel for turning their back yard into a warzone.
+1DE0000466	Mama Dolce's Processed Foods[CRLF]An All-American Business[CRLF][CRLF]== Plant Operations Menu ==
+1DE0000467	Welcome, Agent Huang.[CRLF]Hail the People's Republic![CRLF]{display setting: English/US}
+1DE0000470	Welcome to the Museum Of American History's Internal Defense System (M.A.H.I.D.S.)
+1DE0000471	Picking someone's pocket and placing a mine or grenade in their inventory will activate the explosive... and cause one heck of a mess.
+1DE0000472	The Capital Wasteland lacks a unified government, and any institutional system of crime and punishment. If you wrong someone, prepare to pay with your life.
+1DE0000473	Stealth is affected by many factors, including light level, sound generated, weight and bulk of worn apparel, and line-of-sight.
+1DE0000474	With the Animal Friend perk, you will never be the victim of an unprovoked attack from any animal.
+1DE0000475	With the Action Boy perk, you gain an additional 20 Action Points to use in V.A.T.S.
+1DE0000477	The Child at Heart perk improves your interactions with children with unique dialogue choices.
+1DE0000478	With the Action Girl perk, you gain an additional 25 Action Points to use in V.A.T.S.
+1DE0000479	Reasearch & Development[CRLF]< !  !  !  !  !  >[CRLF]SOLE OWNERSHIP L.O.B. ENTERPRISES[CRLF]VIOLATORS PUNISHED UNDER #P47[CRLF][CRLF]
+1DE0000480	EEP Laboratory Technicians Eyes Only
+1DE0000481	Medical Records Section Personnel Only
+1DE0000482	Vault 87 Engineering Section Employees Only
+1DE0000483	Peter Stevens, Technician Class 3
+1DE0000484	The only way to reach the Super Mutant-occupied D.C. ruins is by traveling underground, usually through the abandoned Metro tunnels.
+1DE0000485	Moriarty's Property Only![CRLF]===================[CRLF]Motivational Phrase of the Month: "When the chips are down, it means the Brahmin is empty."
+1DE0000486	Nuka-Cola Shipping Department[CRLF]
+1DE0000489	Once you have the Contract Killer perk, any Good human or Ghoul character you kill will have an ear on their corpse, which can be sold or traded to a certain Evil character...
+1DE0000490	The Cyborg perk adds 10 points to your Damage, Poison and Radiation Resistances, and 10 points to your Energy Weapons skill.
+1DE0000491	With each rank of the Demolition Expert perk, all of your explosive weapons do an additional 20% damage.
+1DE0000492	With the Educated perk, you gain three more skill points every time you advance in level.
+1DE0000493	With the Entomologist perk, you do an additional +50% damage every time you attack a mutated insect.
+1DE0000495	With each rank of the Gun Nut perk, you gain an additional 5 points to the Small Guns and Repair skills.
+1DE0000499	With the Infiltrator perk, you gain one more chance to pick any lock broken by an unsuccessful "Force Lock" attempt.
+1DE0000503	Once you have the Lawbringer perk, any Evil human or Ghoul character you kill will have a finger on their corpse, which can be sold or traded to a certain Good character...
+1DE0000505	With each rank in the Life Giver perk, you gain an additional 30 Hit Points.
+1DE0000506	With the Light Step perk, you'll never set off an enemy's mines or floor-based mechanical traps.
+1DE0000507	With the Daddy's Boy perk, a male character gains an additional 5 points to both the Science and Medicine skills.
+1DE0000508	With the Daddy's Girl perk, a female character gains an additional 5 points to both the Science and Medicine skills.
+1DE0000509	The Little Leaguer perk improves your melee weapons and explosives skills, making you that much more efficient with a melee weapon or grenades.
+1DE0000511	With the Mister Sandman perk, you can perform a special move that instantly kills any sleeping character, and will gain bonus XP for doing so.
+1DE0000512	With the Finesse perk, you gain an additional +5% chance to score a critical hit on an opponent in combat.
+1DE0000513	With the Mysterious Stranger perk, your own personal guardian angel will appear occasionally in V.A.T.S. mode to lend a hand... with deadly efficiency.
+1DE0000514	You've been pushed around long enough! With the Nerd Rage perk, your Strength is raised to 10 and you gain 50% to Damage Resistance whenever your Health drops to 20% or below.
+1DE0000515	The Ninja perk grants you the power of the fabled shadow warriors, and increases your chance to do critical hits, and the damage of each.
+1DE0000516	With the Paralyzing Palm perk, you will sometimes perform a special V.A.T.S. palm strike that paralyzes your opponent for 30 seconds.
+1DE0000519	With the Robotics Expert perk, you do an additional 25% damage to any robot in combat.
+1DE0000520	Each rank of the Scoundrel perk raises your Speech and Barter skills by 5 points.
+1DE0000522	With the Silent Running perk, you gain 10 points to your Sneak skill, and running no longer factors into a successful sneak attempt.
+1DE0000527	The Tag! perk allows you to select a fourth Skill to be a Tag Skill, meaning it immediately raises by 15 points.
+1DE0000529	With the Toughness perk, you gain +10% to overall Damage Resistance.
+1DE0000531	Reign of Grelok (beta v.632)
+1DE0000532	Weapon Information Research Database[CRLF][CRLF]Choose Weapon
+1DE0000536	Museum of Technology Maintenance Dept.[CRLF]
+1DE0000537	Museum of Technology Employee Terminal[CRLF]
+1DE0000538	Far Out Space Facts![CRLF]
+1DE0000539	Delta IX Rocket
+1DE0000540	Hello, Daring! May the twilight of your life be filled with the same wonder and adventure as your youth.
+1DE0000544	Fort Independence Lower Access Door Terminal
+1DE0000546	Your Brain Softworks[CRLF]Version: ME
+1DE0000547	Vault-Tec Security System[CRLF]Software Version 1.02.f
+1DE0000552	Citadel System Link 39L[CRLF][CRLF]Welcome, Scribe Rothchild
+1DE0000556	It is a lovely day for science! What shall we test today, MOIRA?
+1DE0000557	Washington Monument Access Terminal[CRLF]Brotherhood of Steel and Galaxy News Radio Access Only
+1DE0000559	How many North American Colonies rebelled against Great Britain in 1776?
+1DE0000560	Who was the first person to sign the Declaration of Independence?
+1DE0000561	How many delegates signed the Declaration of Independence?
+1DE0000562	Which one of the following is NOT a written section of the Declaration of Independence?
+1DE0000563	Who was the ruler of Great Britain when the Declaration was enacted in 1776?
+1DE0000564	Complete this famous phrase from the Declaration: "Life, Liberty and the pursuit of..."
+1DE0000565	Who was the principal author of the Declaration of Independence?
+1DE0000566	Congratulations! Please press the selection below to dispense your prize voucher and take it to Redemption Terminal!
+1DE0000567	-=LOB Enterprises=-[CRLF]Welcome, EMP_ID_MISSING.[CRLF][CRLF][CRLF]
+1DE0000569	Yao Guai are fast, powerful predators, and are descended from the area's black bears.
+1DE0000570	Disabling the antennae of insects, like the Giant Ants, will make them frenzy and attack anything nearby.
+1DE0000572	National Archives Prize Redemption System[CRLF]Congratulations! You're a true American Patriot!
+1DE0000573	**New Fruit Mentats Prizes**[CRLF]Brought to you by Med-Tek Laboratories
+1DE0000578	--Personal Logs--
+1DE1000001	Virtual Strategic Solutions, Inc.[CRLF][CRLF]SIM-U-TEC Chamber 003
+1DE1000003	VSS, INC. SECURE STORAGE[CRLF]Proper Authorization Required
+1DE1000004	USAF auto-transcriber[CRLF]USER MODE: Colloquial American/Mid-western [CRLF]SOURCE LANG: Chinese/Guanhua Formal[CRLF]WARNING: Decryption errors found: 13%
+1DE1000005	You've recovered all the hidden intel from Operation:Anchorage. Good work, soldier!
+1DE1000006	USAF Protocols for Artillery Stations[CRLF]Chugach Overlook AFS - Anchorage, AK[CRLF]Section AFS-12.1[CRLF]Supervisory Installation: [CRLF]Elemndorf AFB - Anchorage, AK[CRLF]
+1DE1000007	Loading Anchorage, Alaska simulation. Mission: The Liberation of Anchorage Alaska from Communist Chinese forces. Safeties: Disengaged.
+1DE1000008	Loading Anchorage, Alaska simulation. Motion sickness is normal, and will subside momentarily.
+1DE1000009	U.S. Army Historical Archives: Anchorage, Alaska was invaded by Communist Chinese forces in the winter of 2066.
+1DE1000010	The VSS Facility, like those operated by many civilian contractors before the nuclear war, was eventually acquired by the U.S. Army and adapted for practical military applications.
+1DE1000011	The Brotherhood Outcasts now control the VSS Facility, and hope to gain access to the advanced technology contained within.
+1DE1000012	Welcome to Anchorage, soldier! Fight like you mean it, and we'll have you home by Christmas!
+1DE1000013	USAF auto-transcriber[CRLF]USER MODE: Colloquial American/Mid-western [CRLF]SOURCE LANG: Chinese/Mandarin Formal[CRLF]WARNING: Decryption errors found: 27%
+1DE1000014	USAF auto-transcriber[CRLF]USER MODE: Colloquial American/Mid-western [CRLF]SOURCE LANG: Chinese/Guanhua Formal[CRLF]WARNING: Decryption errors found: 16%
+1DE1000015	USAF auto-transcriber[CRLF]USER MODE: Colloquial American/Mid-western [CRLF]SOURCE LANG: Chinese/Mandarin Formal[CRLF]WARNING: Decryption errors found: 15%
+1DE1000016	Anchorage Telegraph Co.[CRLF]Open Broadcast Terminal AF-12e[CRLF]Special Contract US_DoD_Auth[CRLF][CRLF]ERROR: Archival Corruption Detected[CRLF]ERROR: Auth Code Invalid
+1DE1000017	H:>  \.[CRLF]H:> Welcome USER_ADMIN[CRLF]H:> ...|[CRLF][CRLF]
+1DE1000018	Welcome to VSS, a Limited Liability Company
+1DE1000019	Welcome Lieutenant Patterson[CRLF]Please Select Your Strike Team
+1DE1000020	Please select your requested gear package.
+1DE1000021	Strike Team Unit One with Requisition Marker Cost
+1DE1000022	Strike Team Unit Descriptions
+1DE1000023	Strike Team Unit Two with Requisition Marker Cost
+1DE1000024	Strike Team Unit Three with Requisition Marker Cost
+1DE1000025	WARNING: This will deploy your Strike Team selection.
+1DE2000002	Uptown Substation Power Supply:
+1DE2000003	Medical research from the Pitt has improved your life. Just try not to think of what it may have cost others. Your radiation resistance is improved by 10%.
+1DE2000004	Select new ammunition type for reprocessing.
+1DE2000005	10 millimeter round ammunition selected.[CRLF][CRLF]Ready to convert material to new ammo type.
+1DE2000006	5 millimeter round ammunition selected.[CRLF][CRLF]Ready to convert material to new ammo type.
+1DE2000007	.32 caliber round ammunition selected.[CRLF][CRLF]Ready to convert material to new ammo type.
+1DE2000008	.44 magnum round ammunition selected.[CRLF][CRLF]Ready to convert material to new ammo type.
+1DE2000009	5.56 millimeter round ammunition selected.[CRLF][CRLF]Ready to convert material to new ammo type.
+1DE2000010	.308 caliber round ammunition selected.[CRLF][CRLF]Ready to convert material to new ammo type.
+1DE2000011	Shotgun shell ammunition selected.[CRLF][CRLF]Ready to convert material to new ammo type.
+1DE2000012	You've become an expert with the Auto Axe. You do +25% damage whenever you use it. Vroom.
+1DE2000013	The vicious fights in the Hole have left you stronger. Both your damage and radiation resistance have been increased by +3%.
+1DE2000014	-->Pittsburgh Department Of Public Works[CRLF]-->Interoffice Mail Terminal[CRLF][CRLF]-->Logged in as: Director Hadley James
+1DE2000015	Doctor Borman's Office Log [CRLF]JournalSoft v2.3[CRLF][CRLF]-->Logged in as: Nurse Hicks
+1DE2000016	***********************************************[CRLF]* PRESDY BIORESEARCH STATION *[CRLF]* KRAG-JENSEN PROTOCOLS LOADED *[CRLF]***********************************************
+1DE2000017	**********************************[CRLF]*    PITT BIORESEARCH STATION    *[CRLF]*  KRAG-JENSEN PROTOCOLS LOADED  *[CRLF]**********************************
+1DE2000018	                                          [CRLF]
+1DE2000022	-RobCo Trespasser Manag---?#i!a(*bos&@![CRLF]======SYSTEM REPROGRAM START======[CRLF]ROOT USER "I.ASHUR"
+1DE2000023	----Steel Press Status Screen----[CRLF]---------------------------------[CRLF][CRLF]-Rotary Press 01 Status: Active[CRLF][CRLF]-Rotary Press 02 Status: Active
+1DE2000024	----Ammo Press Status Screen----[CRLF]---------------------------------[CRLF]-Ammo Press 01 Status: Active[CRLF]-Ammo Press 02 Status: Active
+1DE3000001	Old Olney Powerworks[CRLF]          A Division Of PPE[CRLF]>\ Welcome, USER[CRLF]
+1DE3000004	Take the Almost Perfect perk, and all S.P.E.C.I.A.L. stats are instantly raised to 9.
+1DE3000005	With the Nuclear Anomaly perk, whenever your Health is reduced to 20 or less, you will erupt into a devastating nuclear explosion. Note that any allies in the vicinity will also suffer the effects of the blast!
+1DE3000006	When you choose the Devil's Highway perk, your Karma is instantly set to Very Evil.
+1DE3000007	When you choose the Karmic Rebalance perk, your Karma is instantly set to Neutral.
+1DE3000008	When you choose the Escalator to Heaven perk, your Karma is instantly set to Very Good.
+1DE3000009	You have unlocked the secret to creating Nuka-Cola Quantum. With this perk, every ten Nuka-Colas in your inventory is immediately converted into a Nuka-Cola Quantum.
+1DE3000011	*************************[CRLF]*Mobile Platform Control*[CRLF]*************************
+1DE3000017	Logging on to Comms Relay...[CRLF]...[CRLF]Comms Active.
+1DE3000018	Satellite Uplink Terminal[CRLF]No Unauthorized Personnel
+1DE3000019	Satellite Fire Control System[CRLF]+WARNING: Safety Off/System Unlocked+
+1DE3000020	Satellite Fire Control System[CRLF]+TARGET ACQUIRED: Citadel+[CRLF]++WARNING: This will commit all warheads to target and lock this station.++
+1DE3000021	Satellite Fire Control System[CRLF]+TARGET ACQUIRED: Adams AFB Mobile Platform+[CRLF]++WARNING: This will commit all warheads to target and lock this station.++
+1DE3000022	Satellite Fire Control System[CRLF]+TARGET ACQUIRED: Adams AFB Mobile Platform+[CRLF]++FINAL WARNING: This target is for self-destruct purposes only! Final Approval required!++
+1DE3000023	Old Olney Powerworks[CRLF]-A Division Of PPE-[CRLF][CRLF]>\ Welcome, USER[CRLF]
+1DE3000025	Long Live the Enclave![CRLF]Robot Control Mainframe v2.7
+1DE3000028	Long Live the Enclave![CRLF]Security System Online
+1DE3000029	Armory Security Access Terminal[CRLF]=Please list all equipment checked in or out!=
+1DE3000030	United States Military Police[CRLF]Pentagon Substation 3A
+1DE3000031	Museum Authority Workstation 7[CRLF]Dallas Bryce
+1DE3000032	Water Distribution Mission and Personal Logs.
+1DE3000033	Mission Logs
+1DE3000034	Logs, Scribe Bigsley
+1DE3000038	Presidential Metro System[CRLF]Maintenance Logs
+1DE3000039	Logging on to Security Network...[CRLF]...[CRLF]
+1DE3000041	ENCLAVE RELAY 0X9-B
+1DE3000042	When you take the No Weakness perk, all S.P.E.C.I.A.L. stats that are less than 5 are instantly increased to 5.
+1DE3000044	You've figured out on your own how to build all the custom weapons! With the Warmonger perk, all custom weapon types become available to you without the schematics.
+1DE3000045	You are such a Party Boy that you no longer suffer the withdrawal effect from alcohol addiction.
+1DE3000046	You are such a Party Girl that you no longer suffer the withdrawal effect from alcohol addiction.
+1DE3000047	Although you are still notified when you get Minor Radiation Poisoning, you do not suffer any ill effects from it.
+1DE3000053	Deathclaw Research Terminal
+1DE3000054	Deathclaw Protection Station Terminal[CRLF][CRLF]In the event of instability in deathclaw neural manipulation, please make use of the nearby flame-inducing device.
+1DE3000055	With the Puppies! perk, if Dogmeat dies, you'll be able to get a new canine companion from his litter of puppies. Just wait a bit, and you'll find your new furry friend waiting outside Vault 101.
+1DE3000056	You sleep deeply no matter where you are. You get the Well Rested benefit of +10% XP for eight hours no matter what bed you sleep in.
+1DE3000057	Deathclaw Pen Door Terminal
+1DE4000001	USN Field Ops MD-PL-01a (dom.)[CRLF]Lt Krumfolz, DIA officer/Liason
+1DE4000002	encrypt k.v1910-mkIV[CRLF]clearance level GAMMA[CRLF]... SECURE TO TRANSMIT
+1DE4000003	ERROR: NO OPERATING SYSTEM
+1DE4000005	Covert Submarine SSN-37-1A[CRLF]==================[CRLF]Shi shang wu nan shi, [CRLF]zhi pa you xin ren
+1DE4000006	With the Superior Defender Perk, the player gains +5 to their damage and +10 to their armor rating while standing still.
+1DE4000007	With Swing For The Fences you'll do an additional 10 points of damage while any one or two handed melee weapon is equipped.
+1DE4000008	Protect what's important.  With the Gray Matters perk you'll receive 25% less damage when hit in the head.
+1DE4000009	You have learned to exploit the specific weaknesses of ghouls, and gain a +5 damage bonus when attacking one.
+1DE4000010	St. Aubin Medical Facility[CRLF]Division Of Records
+1DE4000011	St. Aubin Medical Facility[CRLF]Security Terminal Options
+1DE4000012	People's Bank of Point Lookout[CRLF]Subsidiary of Isla Negra Holdings
+1DE4000014	Collective Benevolence[CRLF]Volunteer Unit #MD18-02[CRLF]Non-profit Charter REGMD982.90.2012[CRLF]St Mary's County, Point Lookout Area
+1DE4000015	Relief Unit Lead[CRLF]Private .log File
+1DE4000016	The New Plague and YOU[CRLF]Copyright and Distributed by[CRLF]Presidential Fitness Program (2059)
+1DE4000017	ERROR: Security Database Corrupt[CRLF](exception at 01XC91DDDF)[CRLF]...11XC91EEHH[CRLF]...00XC00DDDF[CRLF]\>_secure_shell_layer <corruption>[CRLF]
+1DE4000018	DoD Networked OS v78.2[CRLF]---[CRLF]Electronic Message Transfer System[CRLF]Logged in as: Dr. Laura Stewart
+1DE4000019	DoD Networked OS v78.2[CRLF]---[CRLF]Electronic Message Transfer System[CRLF]Logged in as: Adam Tomco
+1DE4000020	DoD Networked OS v78.2[CRLF]---[CRLF]Lab Note System[CRLF][CRLF]Select note to view...
+1DE4000021	Private Field Journal[CRLF]S. Marcella J, Abbey of the Road[CRLF]Point Lookout Expedition[CRLF]...[CRLF]"I am the light of the world: he that followeth me, walketh not in darkness, but shall have the light of life."  John 8:12[CRLF]
+1DE4000022	After hours of studying, you've finally learned to exploit a mirelurk's weaknesses and gain a +5 damage bonus while attacking one.
+1DE4000023	Thousands of Confederate prisoners of war died near Point Lookout in the later years of the American Civil War.
+1DE4000024	Point Lookout's swamps are rich in natural gases, which sometimes manifest on the surface as explosive methane bubbles.
+1DE4000025	The Turtledove Detention camp was built near Point Lookout because of its isolated location.
+1DE4000026	The Ark & Dove Cathedral is named for two English settler ships which landed near Point Lookout in 1634, leading to Maryland's founding.
+1DE4000027	Point Lookout is said to be one of the most haunted locations in Maryland.
+1DE4000028	Blackhall Manor was the ancestral home of a wealthy family before the Great War.
+1DE4000029	The Calvert Family had a long history in Point Lookout, but Calvert Mansion is all that remains of their legacy.
+1DE4000030	Point Lookout remained very rural and isolated until the Isla Negra real estate company purchased land and began developing new homes and attractions.
+1DE4000031	Smugglers roam Point Lookout, hoping to find their fortune scavenging this relatively undisturbed desolation.
+1DE4000032	Swampfolk have no organized society or creed, but seem to mark their territory with totems of wood and bone.
+1DE4000033	Point Lookout's rural location shielded it from direct impact during the Great War, but the resulting fallout has irradiated the area in the intervening years.
+1DE4000034	The Swampfolk denizens of Point Lookout are the product of exposure to heavy radiation and generations of poor breeding.
+1DE4000035	The unchecked forces of erosion have carved sinkholes and grottoes throughout Point Lookout.
+1DE4000036	Mirelurks thrive in the humidity of Point Lookout's coastal shores and viciously defend their territory.
+1DE4000037	Coastal shipwrecks and buoys are good places to seek sunken riches.
+1DE4000038	Camp Turtledove[CRLF]Clearance Level Alpha[CRLF]C.O. Private Operations Terminal
+1DE4000039	Intelligence Records[CRLF]Person of Interest[CRLF]Yang, Wan (deceased)
+1DE4000040	Camp Turtledove[CRLF]Daily Operations Logs
+1DE4000041	Interrogation Reports[CRLF]* Personnel must report ALL intelligence up chain of command via Commanding Officer.
+1DE4000042	This is to make add the feral ghoul reaver visual effects.
+1DE4000043	Behold the power of the Punga! The restorative effects of Punga fruit now have a greater effect on you.
+1DE4000044	Behold the power of the Punga! When harvesting Punga plants, you will receive more fruit.
+1DE4000045	Bysshe Energy Partners[CRLF]Natural Gas Survey Vessel[CRLF]USS Ozymandias[CRLF]
+1DE5000001	Reid Underwood's Private Terminal[CRLF]++We Are Not Alone!++[CRLF]
+1DE5000002	Your familiarity with alien technology gives you better control over their weapons, increasing their damage output by 20%.

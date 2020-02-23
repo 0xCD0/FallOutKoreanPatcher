@@ -1,0 +1,480 @@
+1QU0000001	Walk to Dad.
+1QU0000002	Open the playpen's gate.
+1QU0000003	Exit the playpen.
+1QU0000004	Jump onto the chair to reach inside the toy box.
+1QU0000005	Grab a toy and drag it into the playpen.
+1QU0000006	Play with your toys.
+1QU0000007	Follow Dad.
+1QU0000008	Look at the "You're SPECIAL!" book.
+1QU0000009	Enjoy the party and speak with the guests.
+1QU0000010	Meet Jonas on the Reactor Level.
+1QU0000011	Use the BB Gun to kill the Radroach.
+1QU0000012	Stand next to Dad so Jonas can take the picture.
+1QU0000013	Shoot all three targets with the BB Gun.
+1QU0000014	Sit down and take the G.O.A.T.
+1QU0000015	Get to class and talk to Mr. Brotch about the G.O.A.T.
+1QU0000016	Exit the classroom.
+1QU0000017	Turn in the G.O.A.T. to Mr. Brotch.
+1QU0000018	Talk to Amata about her plan to escape the Vault.
+1QU0000019	Enter the Overseer's office.
+1QU0000020	Enter the reactor control room.
+1QU0000021	Turn the power back on.
+1QU0000022	Open the Vault door.
+1QU0000023	Use the Overseer's computer to access the secret tunnel.
+1QU0000024	Escape the Vault.
+1QU0000025	Investigate the nearby town of Megaton for information about Dad.
+1QU0000026	Speak to Colin Moriarty about Dad.
+1QU0000027	Find Galaxy News Radio.
+1QU0000028	Help defeat the Super Mutant Behemoth.
+1QU0000029	Ask Three Dog about Dad.
+1QU0000030	Continue your search for Dad.
+1QU0000031	(Optional) Deal with Silver in Springvale.
+1QU0000032	Retrieve the Fat Man from the dead Brotherhood soldier.
+1QU0000033	Find the Museum of Technology.
+1QU0000034	Retrieve the Communications Relay Dish.
+1QU0000035	Find the Washington Monument.
+1QU0000036	Repair the damaged radio relay.
+1QU0000037	Speak to Three Dog about Dad.
+1QU0000038	Speak to Three Dog about the Weapons Cache.
+1QU0000039	Gain entrance to Rivet City.
+1QU0000040	Talk to Doctor Li about Dad and Project Purity.
+1QU0000041	Look for Dad in Project Purity's Control Room.
+1QU0000042	Search Dad's holotapes for clues to his location.
+1QU0000043	Listen to Dad's personal journal entry 10.
+1QU0000044	Gain access to Vault 112.
+1QU0000045	Sit in the unoccupied "Tranquility Lounger."
+1QU0000046	Put on a Vault 112 suit.
+1QU0000047	Find and speak to Betty.
+1QU0000048	Make Timmy Neusbaum cry.
+1QU0000049	Report back to Betty.
+1QU0000050	Break up the Rockwells' marriage, without killing either of them.
+1QU0000052	Arrange a creative death for Mabel Henderson.
+1QU0000054	Retrieve the mask and knife from behind the Abandoned House.
+1QU0000055	Kill all the residents of Tranquility Lane.
+1QU0000057	Exit Tranquility Lane.
+1QU0000058	(Optional) Find and activate Tranquility Lane's Failsafe computer.
+1QU0000059	Find Dad.
+1QU0000060	Talk to Dad.
+1QU0000061	Join the scientists at Project Purity.
+1QU0000062	Go to the Rivet City Science Lab.
+1QU0000063	Turn on the Flood Control Pump Power.
+1QU0000064	Get the fuses from Dad.
+1QU0000065	Replace the damaged fuses.
+1QU0000066	Boot up the mainframe.
+1QU0000067	Return to the control room.
+1QU0000068	Escort Doctor Li to the evacuation point.
+1QU0000069	Escort Doctor Li through Taft Tunnel to the Citadel.
+1QU0000070	Deal with the Garza "situation."
+1QU0000072	Drain the intake pipes.
+1QU0000073	Clear Project Purity of any remaining Mutant threat.
+1QU0000074	Escort the scientists inside Project Purity.
+1QU0000075	Tell Dad it's safe to enter Project Purity.
+1QU0000076	Speak with Dad over the intercom.
+1QU0000077	Escort Doctor Li inside the Citadel.
+1QU0000078	Ask Scribe Rothchild for pre-war computer access.
+1QU0000079	Use the Vault-Tec computer in the Citadel Archives to locate a G.E.C.K.
+1QU0000080	Ask Scribe Rothchild for information about Vault 87.
+1QU0000081	Search Lamplight Caverns for a way into Vault 87.
+1QU0000082	Gain entrance to the town of Little Lamplight.
+1QU0000083	Enter Vault 87.
+1QU0000084	Gain entrance to Paradise Falls.
+1QU0000085	Connect the department store computer to the Paradise Falls secure network.
+1QU0000086	Tell Squirrel the computer is now connected to the network.
+1QU0000087	Arrange for Forty to be away from the slave pen.
+1QU0000088	Find a way to release Rory Maclaren from the box.
+1QU0000089	Speak with Penny and convince her to leave Paradise Falls.
+1QU0000090	Meet the children southwest of Paradise Falls.
+1QU0000091	Talk to Penny and tell her to leave Paradise Falls.
+1QU0000092	Escort the children out of Paradise Falls.
+1QU0000093	Tell Squirrel the guard has been distracted.
+1QU0000094	Reach the slave pen and speak with the children.
+1QU0000095	Find and speak with the kidnapped Lamplighters.
+1QU0000096	Tell the children to escape Paradise Falls.
+1QU0000097	Unlock the slave pen gate.
+1QU0000099	Locate the underground entrance to Vault 87.
+1QU0000100	(Optional) Rescue Fawkes from the Observation Cells.
+1QU0000101	Escape from Vault 87.
+1QU0000102	Retrieve the G.E.C.K.
+1QU0000103	Get free from the chair.
+1QU0000104	Retrieve equipment from the locker.
+1QU0000105	Meet President Eden in his office.
+1QU0000106	Take the vial of modified FEV.
+1QU0000107	Escape the Enclave base.
+1QU0000108	Report to Elder Lyons at the Citadel.
+1QU0000109	Speak with Sarah Lyons for the mission briefing.
+1QU0000110	Prepare for battle, and then report to Sarah Lyons.
+1QU0000111	Follow Liberty Prime as he makes his way to the Purifier.
+1QU0000112	Reach the Project Purity Control Room.
+1QU0000113	Secure the Project Purity Control Room.
+1QU0000114	Activate Project Purity!
+1QU0000115	Follow Elder Lyons to the Citadel Lab.
+1QU0000116	Cycle the airlock for Sarah.
+1QU0000117	Infect the Project Purity water supply... Or not.
+1QU0000118	You have infected the Project Purity water supply.
+1QU0000119	You have turned the FEV virus over to Elder Lyons.
+1QU0000120	Rescue the Big Town captives from the Super Mutants.
+1QU0000121	Escort Red safely back to Big Town.
+1QU0000122	[Optional] Rescue Shorty.
+1QU0000123	Escort Shorty safely back to Big Town
+1QU0000124	Ask the people of Big Town about their captured friends.
+1QU0000125	Explain Red's death to the people of Big Town.
+1QU0000126	Rescue Red.
+1QU0000127	Speak to Red about your reward.
+1QU0000128	Find the Mechanist or Antagonizer, and stop their rivalry.
+1QU0000129	Report back to town for your reward.
+1QU0000130	(Optional) Find the Mechanist and stop him.
+1QU0000131	(Optional) Find the AntAgonizer and stop her.
+1QU0000132	(Optional) Ask Derek for information about the Mechanist and Antagonizer.
+1QU0000133	Defend the Forge from the AntAgonizer!
+1QU0000134	Defend the Lair from the Mechanist!
+1QU0000135	Ask Moira Brown about her book.
+1QU0000136	Help Moira with Chapter 1.
+1QU0000137	Find food in the Super-Duper Mart.
+1QU0000138	(Optional) Find medicine in the Super-Duper Mart.
+1QU0000139	Return to Moira.
+1QU0000140	Contract radiation sickness (200 rads).
+1QU0000141	(Optional) Contract more severe radiation sickness (600 rads).
+1QU0000143	Travel to the playground in Minefield.
+1QU0000144	(Optional) Bring a landmine to Moira.
+1QU0000146	Help Moira with Chapter 2.
+1QU0000147	Test the repellent on three Mole Rats.
+1QU0000148	(Optional) Test the repellent on seven more Mole Rats.
+1QU0000150	Place the observer in a spawning pod in the Anchorage War Memorial.
+1QU0000151	(Optional) Do not kill any Mirelurks in the Anchorage War Memorial.
+1QU0000153	Become seriously injured (50% health or less).
+1QU0000154	(Optional) Receive a crippling injury.
+1QU0000155	Return to Moira with your injuries.
+1QU0000156	Help Moira with the last chapter.
+1QU0000157	Learn the history of Rivet City.
+1QU0000158	(Optional) Check other sources to confirm Rivet City's history.
+1QU0000159	(Optional) Uncover Rivet City's true history.
+1QU0000161	Install the processor widget in the RobCo production facility mainframe.
+1QU0000162	(Optional) Reprogram the RobCo facility mainframe.
+1QU0000164	Access the card catalogue in Arlington Public Library.
+1QU0000165	(Optional) Retrieve complete library archives.
+1QU0000167	Find Bryan Wilks's father.
+1QU0000168	Remove the source of the Fire Ants.
+1QU0000169	Eliminate all five Nest Guardians from the Ant Queen's Hatchery.
+1QU0000170	Return to Bryan Wilks.
+1QU0000171	Deliver the bad news to Bryan Wilks.
+1QU0000172	Find a home for Bryan Wilks.
+1QU0000173	Return to Doctor Lesko.
+1QU0000174	Investigate Marigold Metro Station and remove the source of the Fire Ants.
+1QU0000175	(Optional) Do not harm the Ant Queen.
+1QU0000176	Find Bryan Wilks in Grayditch.
+1QU0000177	Send the Inhibitor Pulse from Lesko's portable terminal or Kill the Ant Queen.
+1QU0000178	Take Sierra's Nuka-Cola Tour.
+1QU0000179	(Optional) Find the ruins of the Nuka-Cola Bottling Facility.
+1QU0000180	(Optional) Recover the Nuka-Cola Quantum shipping manifests.
+1QU0000181	Recover 30 bottles of Nuka-Cola Quantum and bring them to Sierra Petrovita.
+1QU0000182	Speak to Sierra Petrovita.
+1QU0000183	(Optional) Recover 30 bottles of Nuka-Cola Quantum and bring them to Ronald Laren.
+1QU0000184	Make sure the Lincoln Memorial is free of Super Mutants.
+1QU0000185	Get a picture of the Lincoln Memorial.
+1QU0000186	Kill all the slavers near the Lincoln Memorial.
+1QU0000187	Take the picture of the Lincoln Memorial to Caleb.
+1QU0000188	Meet Hannibal at the Memorial.
+1QU0000189	Sell Lincoln artifacts to Leroy Walker.
+1QU0000190	Find Hannibal Hamlin and the Temple of the Union.
+1QU0000191	Report Hannibal Hamlin's location to Leroy Walker.
+1QU0000192	Talk to Caleb Smith.
+1QU0000193	Tell Hannibal the Memorial is free of Super Mutants.
+1QU0000194	Tell Hannibal that Caleb is ready.
+1QU0000195	Join Leroy Walker in attacking the Temple of the Union.
+1QU0000196	Find at least one Lincoln artifact in Museum of History.
+1QU0000197	Talk to Hannibal Hamlin.
+1QU0000198	Talk to Leroy Walker.
+1QU0000199	Find the runaway slaves.
+1QU0000200	Search for clues about Zimmer's missing android.
+1QU0000201	Find out what Pinkerton at Rivet City knows about the android.
+1QU0000202	Report to Zimmer OR warn Harkness about Zimmer.
+1QU0000203	Learn more about the escaped android.
+1QU0000204	Visit Rivet City to learn more about the android from the Commonwealth.
+1QU0000205	Continue to search for clues to the android's identity OR tell Zimmer he's dead.
+1QU0000206	[Optional] Discover what Dr. Preston knows about the android.
+1QU0000207	Deliver Lucy's message.
+1QU0000208	Check the West Residence.
+1QU0000209	Locate the Family.
+1QU0000210	Locate Ian West.
+1QU0000211	Speak to Vance about Ian's decision.
+1QU0000212	Return to Evan King.
+1QU0000213	Check the Schenzy Residence.
+1QU0000214	Check the Ewers Residence.
+1QU0000215	Report to Evan King.
+1QU0000216	Discover what the Family did in Arefu.
+1QU0000217	Disarm Megaton's atomic bomb.
+1QU0000218	Rig Megaton's atomic bomb to explode.
+1QU0000219	Report to Lucas Simms in Megaton.
+1QU0000220	Report to Mister Burke in Tenpenny Tower.
+1QU0000221	Activate the detonator at Tenpenny Tower.
+1QU0000222	Receive reward from Mister Burke in Tenpenny Tower.
+1QU0000223	Disarm Megaton's atomic bomb... or rig it to explode.
+1QU0000224	Report to Lucas Simms' son, Harden, in Megaton.
+1QU0000225	[Optional] Ask Leo Stahl at the Brass Lantern about buying Mentats.
+1QU0000226	[Optional] Meet Leo Stahl at the water treatment plant for Mentats .
+1QU0000227	[Optional] Loot Leo Stahl's stash at the water treatment plant for Mentats.
+1QU0000228	Help the Ghouls get into Tenpenny Tower.
+1QU0000229	Kill Roy Phillips and his followers.
+1QU0000230	Kill Roy Phillips and his followers, or Help the Ghouls get into Tenpenny Tower.
+1QU0000231	Help the Ghouls get into Tenpenny Tower, or Kill Roy Phillips and his followers.
+1QU0000232	Report back to Chief Gustavo.
+1QU0000233	Tell Roy Phillips the Ghouls can move in.
+1QU0000234	Enslave the sniper Arkansas from Minefield.
+1QU0000235	Enslave Susan Lancaster from Tenpenny Tower.
+1QU0000236	Enslave Red from Big Town.
+1QU0000237	Enslave Flak from Rivet City.
+1QU0000238	Kill Allistair Tenpenny.
+1QU0000239	Kill Dukov and get his key.
+1QU0000240	Kill Ted Strayer and get his key.
+1QU0000241	Kill Dave and get his key.
+1QU0000242	Bring Dukov's key to Mister Crowley.
+1QU0000243	Bring Ted Strayer's key to Mister Crowley.
+1QU0000244	Bring Dave's key to Mister Crowley.
+1QU0000245	Tell Mister Crowley that Allistair Tenpenny is dead.
+1QU0000246	Find Dukov's key.
+1QU0000247	Find Ted Strayer's key.
+1QU0000248	Find Dave's key.
+1QU0000249	(Optional) Kill Mister Crowley.
+1QU0000250	Collect reward from Allistair Tenpenny.
+1QU0000251	Retrieve the Declaration of Independence from the National Archives.
+1QU0000252	Defend the Rotunda.
+1QU0000253	Return to Abraham Washington in Rivet City.
+1QU0000254	(Optional) Bring Button Gwinnett the ink.
+1QU0000255	Return to Vault 101.
+1QU0000256	Learn what happened to Vault 101.
+1QU0000257	End Vault 101's troubles.
+1QU0000258	Stop the Overseer.
+1QU0000259	Talk to Amata.
+1QU0000260	Stop the Rebels.
+1QU0000261	Talk to the Overseer.
+1QU0000262	(Optional) Sabotage Vault 101.
+1QU0000263	Evacuate the Vault
+1QU0000264	Leave Vault 101 forever.
+1QU0000265	Everyone in Vault 101 has been killed.
+1QU0000266	(Optional) Leave Vault 101 forever.
+1QU0000267	Recover the Soil Stradivarius from Vault 92.
+1QU0000268	(Optional) Locate Vault-Tec Headquarters.
+1QU0000269	Return to Agatha.
+1QU0000270	(Optional) Discover the location of Vault 92.
+1QU0000271	Find a buyer for the Soil Stradivarius.
+1QU0000272	Find Our Lady of Hope Hospital.
+1QU0000273	Locate Reilly's Rangers.
+1QU0000274	Lead Reilly's Rangers to safety.
+1QU0000275	Get to the Statesman Hotel exit.
+1QU0000276	Return to Reilly at Ranger Compound.
+1QU0000277	(Optional) Gear up at Ranger Compound.
+1QU0000278	(Optional) Locate the Ranger's ammo crate.
+1QU0000279	Locate a Fission Battery.
+1QU0000280	Find Reilly in Underworld inside the Museum of History.
+1QU0000281	Give a Fission Battery to Donovan
+1QU0000283	Enter the caves below and destroy Harold's Heart.
+1QU0000284	(Optional) Apply Birch's Sap to Harold's Heart and stop his growth.
+1QU0000285	(Optional) Apply Laurel's Liniment to Harold's Heart and accelerate his growth.
+1QU0000286	Speak with Tree Father Birch.
+1QU0000287	Speak with Leaf Mother Laurel.
+1QU0000288	Undertake the Treeminder's Ceremony.
+1QU0000289	(Optional) Obtain the key to the caves from Branchtender Cypress.
+1QU0000290	(Optional) Kill Harold by burning him.
+1QU1000001	Investigate the Outcast Radio Signal.
+1QU1000002	Find and enter the Outcast base.
+1QU1000003	Speak with the Outcast Leader.
+1QU1000004	Explore the VSS Outpost.
+1QU1000005	Enter the simulation pod.
+1QU1000006	Put on the Neural Interface Suit.
+1QU1000007	Follow Sibley to the simulator room.
+1QU1000008	Infiltrate the Chinese Artillery site.
+1QU1000009	Destroy all three Artillery Guns.
+1QU1000010	Report to General Chase at the U.S. Field Headquarters.
+1QU1000011	Rendezvous with Sergeant Montgomery.
+1QU1000012	Destroy two Fuel Tanks at the Chimera Depot.
+1QU1000013	Secure the Chinese Listening Post.
+1QU1000014	Speak with Lieutenant Morgan.
+1QU1000015	Listen to General Chase's briefing.
+1QU1000016	(Optional) Speak to Sergeant Montgomery to command your Strike Team.
+1QU1000017	Disable the Pulse Field.
+1QU1000018	Enter the Chinese Compound.
+1QU1000019	Kill General Jingwei.
+1QU1000020	Report to General Chase for debriefing.
+1QU1000021	Exit the Simulation.
+1QU1000022	Access the VSS Armory.
+1QU1000023	Enter the VSS Armory and take whatever you need.
+1QU2000001	Make contact with Midea.
+1QU2000002	(Optional) Prepare for the second fight.
+1QU2000003	Collect 10 Ingots from the Steelyard.
+1QU2000004	Return to Midea.
+1QU2000005	Listen to Ashur's speech in the courtyard.
+1QU2000006	Enter the Hole.
+1QU2000007	(Optional) Prepare for the Arena fight.
+1QU2000008	Defeat your opponent.
+1QU2000009	Leave the Hole.
+1QU2000011	Defeat your opponents.
+1QU2000013	Meet with Midea in private.
+1QU2000014	Sign up for the Arena.
+1QU2000016	(Optional) Prepare for the final fight.
+1QU2000017	Defeat your opponent..
+1QU2000019	(Optional) Get a weapon from Marco.
+1QU2000020	Find the source of the radio transmissions.
+1QU2000021	Acquire a slave outfit.
+1QU2000022	Return to Wernher.
+1QU2000024	Infiltrate The Pitt.
+1QU2000025	(Optional) Aquire a slave outfit.
+1QU2000026	Find out Wernher's location from Midea.
+1QU2000027	Meet Ashur in Haven.
+1QU2000028	Find the cure in Ashur's palace.
+1QU2000029	Kidnap the baby and leave OR leave without the baby.
+1QU2000030	Leave without the baby.
+1QU2000031	Find Wernher.
+1QU2000032	Steal the baby and leave.
+1QU2000033	Stop Wernher.
+1QU2000034	Give Wernher the baby, OR stop Wernher.
+1QU2000036	Give Wernher the baby.
+1QU2000037	Return the baby to her home.
+1QU2000038	Shut off power for Uptown's lights.
+1QU2000039	Return to Ashur.
+1QU2000040	Escape to Market Square.
+1QU2000041	Bring the baby to Midea.
+1QU2000042	Search Midea or her room for clues about Wernher's location.
+1QU2000043	Go through Uptown and enter Haven.
+1QU2000044	Retrieve your gear.
+1QU3000001	Speak with Scribe Rothchild.
+1QU3000002	Assist Paladin Tristan during the assault.
+1QU3000003	Retrieve data from the Satellite Relay.
+1QU3000004	Deliver the data to Scribe Rothchild.
+1QU3000005	Report to Elder Lyons.
+1QU3000006	Meet Paladin Tristan at the Rockland Car Tunnel.
+1QU3000007	Speak with Paladin Tristan.
+1QU3000008	Find the ruins of Olney Powerworks.
+1QU3000009	Acquire a Tesla Coil.
+1QU3000010	Deliver the Tesla Coil to Paladin Tristan.
+1QU3000011	Report to Paladin Tristan for your next assignment.
+1QU3000012	(Optional) Speak with Scribe Vallincourt in the Citadel Lab.
+1QU3000013	(Optional) Use Enclave-controlled Deathclaws to your advantage.
+1QU3000014	Enter the Presidential Metro.
+1QU3000015	Locate the Exit to Adams Airforce Base.
+1QU3000016	Retrieve your orders and equipment from the Resupply Crate.
+1QU3000017	Enter the Enclave Mobile Platform.
+1QU3000018	Destroy the Enclave Mobile Platform with an Orbital Strike.
+1QU3000019	Escape from the Enclave Mobile Platform.
+1QU3000020	Board the Captured Vertibird.
+1QU3000021	(Optional) Clear the security breach in the Presidential Metro.
+1QU3000022	Find the Access Terminal to lower the ramp on the Mobile Platform.
+1QU3000023	[Move this into WQ03] Discover what's happened to Megaton's water shipment.
+1QU3000024	Meet with Officers Davis and Lorin along the river north of Project Purity.
+1QU3000025	Discover who is ordering the attacks on the caravans.
+1QU3000026	Deal with Split Jack and his gang.
+1QU3000027	Report to Officer Lepelletier that the job is done.
+1QU3000028	Consult with Officer Lepelletier at Rivet City.
+1QU3000029	Ask Bigsley for a reward for helping Officer Lepelletier at Rivet City.
+1QU3000030	Report to Officer Lepelletier that the job is done, OR extort her for "Protection" money.
+1QU3000031	Collect caps from gang at Wilhelm's Wharf once a week.
+1QU3000032	Discover what Bigsley at Project Purity knows about Griffon's water supply.
+1QU3000033	Discover what Griffon at Underworld is doing with Aqua Pura.
+1QU3000034	Discover the location and proof of Griffon's bottling operation.
+1QU3000035	Confront Griffon about the operation in the Museum Authority building.
+1QU3000036	Discover who is supplying Griffon with Aqua Pura.
+1QU3000037	Ask about holy water at the Monastery of Eternal Light.
+1QU3000038	Investigate the area around Megaton to learn about the water situation.
+1QU3000039	(Optional) Become irradiated to gain entrance to the Monastery.
+1QU3000040	Stop the Apostles of Eternal Light.
+1QU3000041	Report back to Bigsley.
+1QU3000042	Drink the Holy Water.
+1QU3000043	Speak with Brother Gerard.
+1QU3000044	Gain entrance to the Monastery.
+1QU3000052	Cycle the airlock.
+1QU3000053	Tell your follower to start the purifer.
+1QU4000001	Recover Soil Survey 01.
+1QU4000002	Recover Soil Survey 03.
+1QU4000003	Recover Soil Survey 02.
+1QU4000004	Enter data aboard the survey vessel.
+1QU4000005	Retrieve the Blackhall Family's Book from the ritual site.
+1QU4000006	Return the Krivbeknih to Obadiah OR Marcella.
+1QU4000007	Take the Krivbeknih to Obadiah OR Take it to the Dunwich Building in the Capital Wasteland.
+1QU4000008	Retrieve the Krivbeknih from the ritual site.
+1QU4000009	Investigate Marcella's Death Scene
+1QU4000010	Return the Blackhall Family's Book to Obadiah.
+1QU4000011	Return the Krivbeknih to Marcella
+1QU4000012	Take the Krivbeknih to the Dunwich Building in the Capital Wasteland.
+1QU4000013	Bring Marguerite ten Refined Punga Fruit, or twenty Wild Punga Fruit.
+1QU4000014	Bring Marguerite three bags of Yeast.
+1QU4000015	Bring Marguerite 24 bottles of Purified Water.
+1QU4000016	Bring Marguerite six Fission Batteries.
+1QU4000017	Collect Moonshine from Marguerite when the batch is done brewing.
+1QU4000018	Recover the dead Chinese spy's mission debriefing from the locker in Point Lookout.
+1QU4000019	Use the password holotape to access safety deposit box 1207 at the Point Lookout Bank.
+1QU4000020	Search for clues about the fate of Agent Yang.
+1QU4000021	Investigate Agent Yang's fate at the Turtledove Detention Camp.
+1QU4000022	Activate the Chinese submarine self-destruct protocol.
+1QU4000023	Return to the Motel Safehouse Terminal for further instruction.
+1QU4000024	Use the Cryptochromatic Spectacles and Sequence Note to access the Spy Bunker.
+1QU4000025	Escape the double-cross!
+1QU4000026	Investigate the spy at Motel Room 1D.
+1QU4000027	Recover the dead Chinese spy's locker key from motel room 1D.
+1QU4000028	Listen to the Espionage Debriefing Holotape.
+1QU4000029	Recover the Cryptochromatic Spectacles from the Toilet Tank in Motel room 1D.
+1QU4000030	Seek the Spy's extraction details and payment in the spy bunker.
+1QU4000031	Confirm Submarine Self-Destruct by activating the Failsafe Lever.
+1QU4000032	Get clear of the Submarine before it self-destructs!
+1QU4000033	Investigate the riverboat.
+1QU4000034	Secure passage to Point Lookout.
+1QU4000035	Rest during the trip to Point Lookout.
+1QU4000036	Investigate the mansion.
+1QU4000037	Help the mansion's owner repel the invaders.
+1QU4000038	Talk to the mansion's owner.
+1QU4000039	Leave the Duchess Gambit.
+1QU4000040	Block off the breach upstairs in the West wing.
+1QU4000041	Block off the breach in the East wing.
+1QU4000042	Fend off the last of the invaders.
+1QU4000043	Investigate the Tribals at the Cathedral.
+1QU4000044	Collect seeds from the giant Punga plant.
+1QU4000045	Return to the Cathedral.
+1QU4000046	Talk with Desmond about his offer.
+1QU4000047	Find the location of the Tribal leader.
+1QU4000048	Find more information from the tribe's leader.
+1QU4000049	Learn more about the Brain.
+1QU4000050	Return to Desmond with the information.
+1QU4000051	Speak with Desmond.
+1QU4000052	Install the Cogwave Jammer on the Ferris Wheel.
+1QU4000053	Return to the Mansion.
+1QU4000054	Install the Cogwave Jammer on the Ferris Wheel OR use the Trash Compactor to destroy it.
+1QU4000055	Use the Trash Compactor to destroy the Cogwave Jammer.
+1QU4000056	Start the Ferris wheel.
+1QU4000057	Find Desmond.
+1QU4000058	Return to Desmond when you're ready.
+1QU4000059	Travel with Desmond to the Professor.
+1QU4000060	Kill Desmond OR kill the Professor.
+1QU4000061	Kill Desmond.
+1QU4000062	Kill the Professor.
+1QU4000063	Talk to the Professor OR kill the Professor.
+1QU4000064	Talk to the Professor.
+1QU4000067	Travel to the Lighthouse.
+1QU4000068	Find Desmond and stop him.
+1QU4000073	Talk to Desmond.
+1QU4000075	Enter the arena and signal Plik to begin the Safari.
+1QU4000076	Survive Plik's Safari.
+1QU4000077	Pay Plik 1,000 caps to participate in his Safari.
+1QU4000078	Let Plik know you survived the Safari.
+1QU5000001	Investigate the strange radio signal coming from the Wasteland.
+1QU5000002	Find a way out of the holding cell.
+1QU5000003	Retrieve your equipment.
+1QU5000004	Release Sally from her holding cell.
+1QU5000005	Reach the engineering core of the ship.
+1QU5000006	(Optional) Free additional prisoners from their holding cells.
+1QU5000007	Stage a fight with Somah to draw the guards' attention.
+1QU5000008	Defeat the alien guards.
+1QU5000009	Continue to look for a way out of the Holding Cells.
+1QU5000010	Release the humans in stasis.
+1QU5000011	Destroy the generator in the Cryo Labs.
+1QU5000012	Destroy the generator in the Hangar.
+1QU5000013	Destroy the generator in the Robot Assembly.
+1QU5000014	Gain access to the upper level of the alien ship.
+1QU5000015	Speak to Sally.
+1QU5000017	Find a way to activate the Access Teleporter.
+1QU5000018	(Optional) Request help from the people you've revived.
+1QU5000019	Reach the bridge of the alien ship.
+1QU5000020	Disable the Death Ray.
+1QU5000021	Secure the bridge.
+1QU5000022	Defeat the attacking alien ship.
+1QU5000023	Return to the Capital Wasteland.
+1QU5000024	(Optional) Set the alien ship to self-destruct.
+1QU5000025	Activate the Engine Core Teleporter.
+1QU5000026	Defeat the Alien Captain.

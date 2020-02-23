@@ -1,0 +1,1796 @@
+1TE0000004	Vault Door Activated
+1TE0000006	<Data Corrupt>
+1TE0000012	Notice u89003
+1TE0000013	Notice u89017
+1TE0000014	Notice u89110
+1TE0000015	Unlock Office Safe
+1TE0000016	National Archives Robotics Terminal
+1TE0000017	TJEFF002 Thomas Jefferson Pod
+1TE0000019	Unit Directives
+1TE0000020	Activate Unit
+1TE0000021	Recall Unit
+1TE0000022	Shutdown Unit
+1TE0000023	Maintenance Notice
+1TE0000025	JADAM002 John Adams Pod
+1TE0000032	BFRAN001 Benjamin Franklin Pod
+1TE0000039	ERUTL001 Edward Rutledge Pod
+1TE0000046	JWILS002 John Wilson Pod
+1TE0000053	BACK001 Backup Protectron Pod
+1TE0000065	Programming Subroutines
+1TE0000079	Execute Transfer
+1TE0000080	Cancel Transfer
+1TE0000084	Unlock Contraband Closet
+1TE0000085	Washington DC Metro Transit Authority
+1TE0000086	Meresti Trainyard Remote Access Security Terminal
+1TE0000088	Unlock Security Area Door
+1TE0000089	Activate Internal Security
+1TE0000090	Activate Protectron Security Unit
+1TE0000091	Vault-Tec Administration System
+1TE0000092	Records Database 923-A
+1TE0000093	****NETWORK OFFLINE****
+1TE0000094	Please check your local connection
+1TE0000097	Vault-Tec Personnel Assignments
+1TE0000098	Order Requisition Forms
+1TE0000101	Vault 76
+1TE0000111	View/Download Metro Map
+1TE0000116	Files Corrupted.
+1TE0000117	Please reinstall operating system software.
+1TE0000124	Equipment Issuances
+1TE0000125	Personnel Assignments
+1TE0000126	Project Goals
+1TE0000129	4 Stasis Chambers
+1TE0000130	3 Plasma Containment Fields
+1TE0000131	1 G.E.C.K.
+1TE0000134	ERROR 0x03C663A1
+1TE0000135	"Network connection not found"
+1TE0000136	"Dummy terminal inactive"
+1TE0000138	ERROR 0xFFFFF710
+1TE0000139	"Processor Corru;xsfkleg,,g364[735}3__."
+1TE0000141	ERROR 0xBA53FFFA
+1TE0000142	"Malicious Programs Detected."
+1TE0000143	"Virus Detected. Shutting Down."
+1TE0000145	ERROR 0x357C5001
+1TE0000146	"Bad Sectors Found In Boot Block."
+1TE0000147	"Terminal Error."
+1TE0000149	ERROR 0x07F6BAAC
+1TE0000150	"Bad Data. Cannot Read."
+1TE0000152	ERROR 0x00B636C6
+1TE0000153	"No Input Device Recognized."
+1TE0000154	"Reconnect Keyboard."
+1TE0000156	ERROR 0xF141A013
+1TE0000157	"No Data Storage Detected."
+1TE0000158	"Check Tape Drive Connection."
+1TE0000193	6-17-2277
+1TE0000194	4-02-2277
+1TE0000195	2-24-2277
+1TE0000196	11-15-2276
+1TE0000197	10-30-2276
+1TE0000198	10-02-2276
+1TE0000199	Nuka-Cola Marketing Department
+1TE0000200	Nuka-Cola Quantum Campaign Directives
+1TE0000202	Company Announcement
+1TE0000203	Stage One
+1TE0000204	Stage Two
+1TE0000205	Stage Three
+1TE0000206	Nuka-Cola Research Department
+1TE0000207	Security Clearance NKC002 Only!
+1TE0000210	Quantum Progress Report 0067
+1TE0000211	Quantum Progress Report 0055
+1TE0000212	Quantum Progress Report 0041
+1TE0000213	New Flavor Coming!
+1TE0000216	Vampires Defined
+1TE0000217	Daytime Fear
+1TE0000218	Vampire Destruction
+1TE0000219	Unlock Wall Safe
+1TE0000220	Regarding the Arefu Incident
+1TE0000221	Abraham Washington - Private Notes
+1TE0000222	Current Expeditions and Status
+1TE0000224	Declaration Expedition
+1TE0000225	Lincoln Artifacts Expedition
+1TE0000226	Liberty Bell Expedition
+1TE0000227	Information
+1TE0000228	Feel Free to Browse our Collection
+1TE0000230	Constitution of the U.S.A.
+1TE0000238	Zoe's Thoughts
+1TE0000239	More of Zoe's Thoughts
+1TE0000240	morre of Zoes Thoughts
+1TE0000241	klkhi plEAsse.HF puu HeLP meeLp
+1TE0000242	National Archives Robotics Maintenance Terminal
+1TE0000243	Current Issues Listed by Unit - P. Brantseg - Robotics Team
+1TE0000245	Unlock All Strongroom Doors
+1TE0000246	Unlock All East Wing Doors
+1TE0000247	Unlock Mag-Sealed Doors
+1TE0000249	BGWIN009 Button Gwinnett Pod
+1TE0000256	JHANC003 John Hancock Pod
+1TE0000262	New Amended Espionage Act, 50 U.S.C, 31 and 32 prohibits unauthorized use, subject to a fine of $500.00, and possible imprisonment.
+1TE0000263	IN CASE OF EMERGENCY: Activate Containment Doors to gain access to tunnel system. Stay clear of the tracks, and have a nice day.
+1TE0000265	Distress call to DCTA
+1TE0000266	Open Containment Door
+1TE0000267	Close Containment Door
+1TE0000268	Welcome to Metro Security
+1TE0000270	Activate Metro Protectron
+1TE0000271	Deactivate Metro Protectron
+1TE0000272	Turn on Metro Escalators
+1TE0000273	Turn on Metro Lights
+1TE0000274	Doctor Weston Lesko
+1TE0000275	Private - Please Do Not Access Without Permission
+1TE0000277	Personal Notes
+1TE0000278	Unlock Hatchery Access Door
+1TE0000283	<Transfer Audio Record>
+1TE0000289	Vault-Tec Residential Computer Network v10.1
+1TE0000290	Welcome, Ms. Gomez...
+1TE0000292	Vault 101 Electronic Postal Box
+1TE0000294	FROM: FreddieGomez
+1TE0000295	FROM: Overseer
+1TE0000296	FROM: DanielBrotch
+1TE0000298	Welcome, Beatrice...
+1TE0000306	LOUNGER #37 MONITOR STATION
+1TE0000307	RESIDENT ID: 374 -- NEUSBAUM, G.
+1TE0000309	DISPLAY RESIDENT STATUS
+1TE0000311	DISPLAY RESIDENT STRESS LEVEL
+1TE0000314	RESIDENT ID: 375 -- NEUSBAUM, P.
+1TE0000321	RESIDENT ID: 377 -- NEUSBAUM, T.
+1TE0000328	RESIDENT ID: 226 -- ROCKWELL, R.
+1TE0000335	RESIDENT ID: 115 -- ROCKWELL, J.
+1TE0000342	RESIDENT ID: 227 -- SIMPSON, M.
+1TE0000349	RESIDENT ID: HENDERSON, M.
+1TE0000356	RESIDENT ID: 642 -- DITHERS, T.
+1TE0000357	WARNING: INCONSISTENT READINGS. PLEASE CHECK POD CONNECTIONS
+1TE0000364	RESIDENT: 999 -- BRAUN, S.
+1TE0000368	"Chinese Invasion" Failsafe Subroutine Access
+1TE0000369	Welcome, Dr. Braun
+1TE0000371	Initiate "Chinese Invasion" Failsafe
+1TE0000373	Failsafe Program Documentation
+1TE0000374	Dr. Braun Entry: Failsafe
+1TE0000375	Version Control Notes
+1TE0000378	Display Current Version Control
+1TE0000379	Display Previous Version Notes
+1TE0000381	Meresti Trainyard Remote Access Entry Terminal
+1TE0000383	Unlock Station Access Door
+1TE0000384	RobCo Service Terminal
+1TE0000385	V 6.0.3.2.1.a
+1TE0000387	For More Top Of The Line
+1TE0000388	RobCo Products See
+1TE0000389	Your Local Showroom.
+1TE0000391	Reset Price List
+1TE0000392	10% Holiday Discount
+1TE0000393	Set up 50% VIP Discount
+1TE0000394	SoftLock Solutions, Inc
+1TE0000395	"Your Security is Our Security"
+1TE0000398	Disengage Lock
+1TE0000406	Run Maintenance Routine
+1TE0000411	Lock Door
+1TE0000414	Note from Management Regarding Sector B
+1TE0000415	Shut Down Security in Sector B
+1TE0000416	Activate Security in Sector B
+1TE0000423	Operate Lift
+1TE0000426	Raise Platform
+1TE0000427	Lower Platform
+1TE0000431	Shut Down Turrets in Sector A
+1TE0000432	Activate Turrets in Sector A
+1TE0000434	Note from Frank
+1TE0000440	Activate Emergency Pulse Explosion
+1TE0000442	6.KGGGL7.DDD.2KQP
+1TE0000443	Vault-Tec Inc. -  Vault 101
+1TE0000444	Settle in and stay a while!
+1TE0000446	Test Hydroponics Systems
+1TE0000449	Test Air Filtration Systems
+1TE0000452	Begin Water Chip Service
+1TE0000455	Seal Recording Studio
+1TE0000456	Open Recording Studio
+1TE0000457	Intra-Vault Mail 000339
+1TE0000458	Intra-Vault Mail 000344
+1TE0000459	Intra-Vault Mail 000350
+1TE0000460	-RobCo Trespasser Management System-
+1TE0000463	Re-configure Targeting Parameters
+1TE0000464	> <!>WARNING: No Targeting Data<!>
+1TE0000465	Activate Turret System
+1TE0000466	Deactivate Turret System
+1TE0000467	System Information
+1TE0000615	Run Ticket Check Routine
+1TE0000618	---Sewer Management Welcomes You---
+1TE0000619	Please insert a command.
+1TE0000620	v0.78
+1TE0000622	Water Treatment Status
+1TE0000623	Activate Storage Door
+1TE0000624	Purge Sewage Overflow
+1TE0000625	Rivet City Clinic Computer System
+1TE0000626	For doctor's eyes only. Unauthorized use will result in fine, confinement, or possible banishment by order of the City Council.
+1TE0000632	City Founders Log
+1TE0000633	Android log 1
+1TE0000634	Android log 2
+1TE0000635	Android log 3
+1TE0000636	Before Picture
+1TE0000637	After Picture
+1TE0000640	Commies Crushed - Alaska Liberated!
+1TE0000641	Food Riots Rile Feds
+1TE0000644	U.S. to Annex Canada!
+1TE0000645	Development of Super Weapon Confirmed
+1TE0000648	United Nations Disbanded!
+1TE0000649	Pint-Sized Slasher: More than Myth?
+1TE0000650	LOB Enterprises Front Desk
+1TE0000651	Welcome Ms. Warring
+1TE0000652	Please remember to always ask for I.D. and greet visitors with a smile.
+1TE0000654	All Personnel: Emergency Protocols
+1TE0000655	Email: Weapon Practice Tonight?
+1TE0000656	Sent Item: MAN THE DOORS!!
+1TE0000657	All Personnel: Caps in Emails
+1TE0000658	National Archives Maintenance Terminal
+1TE0000659	Current Issues Listed by Unit
+1TE0000661	BGWIN009 Tour Guide Protectron
+1TE0000662	TRT007 Automated Turret
+1TE0000663	EMT002 Mr. Handy Medical Unit
+1TE0000664	TJEFF002 Tour Guide Protectron
+1TE0000666	Run Water Chip Diagnostic
+1TE0000669	Begin Manual Service
+1TE0000670	End Manual Service
+1TE0000672	Run Systems Purge
+1TE0000675	Water Chip Undergoing Service.
+1TE0000676	System temporarily suspended. Do not run purge - vital systems may be compromised.
+1TE0000678	System Inactive - No Water Chip Located!
+1TE0000679	Contact your Vault-Tec representative immediately for service. Evacuate to safe distance until repairs are complete.
+1TE0000682	Notes On Stefan
+1TE0000683	Disable Chips
+1TE0000684	*****------  FIELD OPERATIONS
+1TE0000685	*****------      ENCLAVE
+1TE0000686	*****------
+1TE0000687	-----------  GOD BLESS AMERICA
+1TE0000690	[Read First]
+1TE0000691	Request Main Base Connection
+1TE0000692	Power Down Defense Grid
+1TE0000694	Unlock Data Storage Room
+1TE0000696	Allow Access
+1TE0000697	Deny Access
+1TE0000698	Noise Flush
+1TE0000699	--Mariposa Station--
+1TE0000700	Utitlity Terminal 6c
+1TE0000702	Vent Exhaust
+1TE0000706	Unlock Cell Door
+1TE0000707	Lock Cell Door
+1TE0000708	CONFIDENTIAL
+1TE0000709	ERROR 0x0AABFF00
+1TE0000710	"Primary power source unavailable"
+1TE0000711	"Check all cords and plugs for connection"
+1TE0000714	#System Upgrades Courtesy of Prime
+1TE0000716	Exhibit Guide
+1TE0000717	Special Events
+1TE0000718	Planetarium Tickets
+1TE0000719	Gigantomax Tickets
+1TE0000720	#000
+1TE0000721	#001
+1TE0000722	#001 Confirmed
+1TE0000723	#Get Passcode
+1TE0000724	#Error
+1TE0000725	#Passcode Given
+1TE0000728	#009
+1TE0000729	#019
+1TE0000730	#030
+1TE0000731	#049
+1TE0000740	#002
+1TE0000741	#002 Confirmed
+1TE0000747	#024
+1TE0000748	#038
+1TE0000749	#053
+1TE0000750	#088
+1TE0000759	#003
+1TE0000760	#003 Confirmed
+1TE0000766	#099
+1TE0000767	#105
+1TE0000768	#111
+1TE0000769	#113
+1TE0000770	Museum of Technology Security
+1TE0000772	Security Bulletin 001
+1TE0000773	Security Bulletin 002
+1TE0000774	Security Bulletin 003
+1TE0000776	#Unlock Safe
+1TE0000779	Unlock Planetarium Exit
+1TE0000783	Stop Show in Progress
+1TE0000784	Start Show
+1TE0000787	Unlock Broadcast Booth Access
+1TE0000791	Daily Affirmation
+1TE0000808	Journal-It Software  2072 PagSoft USER: suk me  hahaha
+1TE0000811	Log Entry #003
+1TE0000812	Log Entry #002
+1TE0000813	Log Entry #001
+1TE0000814	disconnect user: SUK ME  HAHAHA
+1TE0000817	Initiate Cleaning Program
+1TE0000818	Initiate Security Program
+1TE0000819	Discontinue Security Program
+1TE0000821	Disable Security Screening Parameters
+1TE0000822	Disable Security Screening
+1TE0000823	Enable Security Screening Parameters
+1TE0000825	Initialize Water Management Systems
+1TE0000826	Turn On Backup Generators
+1TE0000827	Unlock Secure Medical Safe
+1TE0000832	View External Contact Report
+1TE0000833	View Security Dossiers
+1TE0000834	View Scouting Reports
+1TE0000836	Open Overseer's Tunnel
+1TE0000837	Close Overseer's Tunnel
+1TE0000842	Unlock Vault Door Control Pod
+1TE0000843	Open Door to Overseer's Tunnel
+1TE0000844	Close Door to Overseer's Tunnel
+1TE0000851	Security Openings
+1TE0000867	Don Foster
+1TE0000870	Richard Wyneski
+1TE0000871	Drew Martinelli
+1TE0000873	Mission Suspended
+1TE0000875	Letter from Doctor Stanislaus Braun
+1TE0000876	Attachment A
+1TE0000877	Vault-Tec Scientific Entry: The G.E.C.K.
+1TE0000882	Entry 2R-A0
+1TE0000883	Entry 64D-A3
+1TE0000884	-***-------  FIELD OPERATIONS
+1TE0000885	*-*-*------      ENCLAVE
+1TE0000886	-***-------
+1TE0000890	Field Entry:  Bloatfly
+1TE0000891	Field Entry: Brahmin
+1TE0000892	Field Entry: Giant Ant
+1TE0000899	Field Entry:  "Mirelurk"
+1TE0000900	Field Entry: Great American Cockroach
+1TE0000901	Journal-It Software  2072 PagSoft Isabella Proud's Journal
+1TE0000904	Day 45
+1TE0000905	Day 51
+1TE0000906	Day 53
+1TE0000907	Day 58
+1TE0000908	Day 63
+1TE0000909	Day 67
+1TE0000910	Day 68
+1TE0000911	Day 75
+1TE0000912	disconnect user: ISABELLA PROUD
+1TE0000923	Journal-It Software  2072 PagSoft USER: NO ENTRY
+1TE0000926	Log Entry #006
+1TE0000927	Log Entry #005
+1TE0000928	Log Entry #004
+1TE0000932	disconnect user: NO ENTRY
+1TE0000934	Enter New Positioning Data
+1TE0000935	Decrypt Coordinates: Satcom Array NW-07c
+1TE0000936	Decrypt Coordinates: Satcom Array NN-03d
+1TE0000937	Upload 'Highwater Trousers' Activation
+1TE0000938	National Catastrophe Relief Auxiliary
+1TE0000939	Response Unit MD-478
+1TE0000940	Nancy Kroydon, Presiding Officer
+1TE0000942	Log Entry #008
+1TE0000943	Log Entry #007
+1TE0000950	disconnect user: N Kroydon
+1TE0000952	(Entry: Edgar)
+1TE0000953	(Entry: Rochelle)
+1TE0000954	(Entry: Tyrone)
+1TE0000955	(Entry: Doc J)
+1TE0000956	(Entry: Tyler)
+1TE0000958	(Entry: Jim)
+1TE0000962	28325
+1TE0000963	28483
+1TE0000964	28484
+1TE0000965	Feb 13 2078
+1TE0000966	Feb 14 2078
+1TE0000967	Feb 28 2078
+1TE0000969	Identify Specimen
+1TE0000971	Terminate Specimen
+1TE0000973	Guest Check-In
+1TE0000974	Guest Check-Out
+1TE0000975	Check Availability
+1TE0000976	Unlock Front Desk Safe
+1TE0000977	Guest Complaint Files
+1TE0000978	Complaint Database - August 2077
+1TE0000979	Please have guest be as descriptive as possible.
+1TE0000982	Complaint 0002
+1TE0000983	Complaint 0003
+1TE0000984	Complaint 0004
+1TE0000985	Nurse's Station 01
+1TE0000986	Hospital Use Only
+1TE0000988	Unlock Meds Supplies
+1TE0000989	Injury Report 09087768
+1TE0000990	Injury Report 09087790
+1TE0000991	Injury Report 09087882
+1TE0000992	Nurse's Station 02
+1TE0000999	Nurse's Station 03
+1TE0001006	Greetings Vault Technician!
+1TE0001007	How Can This Terminal Help You Today?
+1TE0001011	Auxiliary Command Terminal
+1TE0001012	Please Consult A Supervisor Before Proceeding
+1TE0001014	Access "Chinese Invasion" Program
+1TE0001015	Access Version Control
+1TE0001016	Dr. Braun Entry: Toucan Lagoon
+1TE0001017	Dr. Braun Entry: Slalom Chalet
+1TE0001018	Dr. Braun Entry: Tranquility Lane
+1TE0001019	** !! SELECTIVE ACCESS !! **
+1TE0001020	DC Transit Authority Personnel Only
+1TE0001022	Disengage Overflow Door
+1TE0001023	Journal-It Software  2072 PagSoft Ryan Brigg's Journal
+1TE0001026	Recent Journal Entries
+1TE0001027	Archived Journal Entries
+1TE0001029	"Basic Operation" covers the factory duties of your co-workers, as described in your training manual.
+1TE0001032	"Stress Testing" allows you to test the construction quality of recently produced models by setting current workers against each other.
+1TE0001035	Return to Operations
+1TE0001036	Arlington Public Library - Virginia Reads!
+1TE0001037	Central Library Catalogue
+1TE0001038	Welcome, Head Librarian Munson!
+1TE0001040	Literacy Programs
+1TE0001041	Access Card Catalogue
+1TE0001042	Transfer Library Archives
+1TE0001044	Front Desk Check-In Station
+1TE0001045	Welcome, Librarian Meier!
+1TE0001047	New Membership
+1TE0001049	Access Library Archives
+1TE0001050	Check-In Books
+1TE0001058	Mr. Burke
+1TE0001059	James (Vault 101)
+1TE0001060	Fort Constantine, MD
+1TE0001061	Welcome, Commander
+1TE0001062	(Private Use Only)
+1TE0001063	(All use monitored by USAF Intelligence)
+1TE0001065	Activate Bunker Door
+1TE0001066	Journal-It Software  2072 PagSoft USER: Ryan Brigg's
+1TE0001069	Log Entry #173
+1TE0001070	Log Entry #172
+1TE0001071	Log Entry #171
+1TE0001072	Log Entry #87
+1TE0001073	Log Entry #86
+1TE0001074	Archived Entries
+1TE0001075	disconnect user: RYAN BRIGGS
+1TE0001078	USAF One-Touch Command SysOps
+1TE0001081	Launch ICBM
+1TE0001082	ICBM Launching...
+1TE0001083	Missile Launch Error!
+1TE0001085	It's a secret to everybody.
+1TE0001086	*******Authorized Personal Only*******
+1TE0001087	This room is to remain locked at all times. Use of this terminal without proper clearance is strictly forbidden.
+1TE0001088	**Area is under surveillance**
+1TE0001094	Unlock Outer Door
+1TE0001100	Experiment 27CE
+1TE0001101	Experiment PP216
+1TE0001103	Tunnel Snakes
+1TE0001107	Rebels
+1TE0001110	Welcome Mr. Johnson
+1TE0001111	Please refrain from making inappropriate comments and actions towards the female employees.
+1TE0001112	As is company policy, this reminder will remain on screen for as long as Human Resources deems necessary.
+1TE0001115	Memo: Sexual Harassment Charge
+1TE0001116	Memo: Responding to Federal Raids
+1TE0001118	Welcome Ms. McAndrews
+1TE0001120	Sent: Hostile Workplace
+1TE0001122	Re: Weapon Practice Tonight
+1TE0001123	Memo: Caps in Emails
+1TE0001124	L.O.B. Enterprises Chief Executive Terminal
+1TE0001127	Memo: Weapon Practice Tonight
+1TE0001130	Welcome to the RobCo Facilities Robot Master Terminal!
+1TE0001131	How may I assist you this fine day?
+1TE0001133	Orientation Guide
+1TE0001134	Basic Operation
+1TE0001135	Initiate Pest Extermination
+1TE0001136	Cease Pest Extermination
+1TE0001137	Initiate Total Liquidation
+1TE0001138	Cease Total Liquidation
+1TE0001139	Initiate Stress Testing
+1TE0001140	Cease Stress Testing
+1TE0001142	Mon - Th         7 AM - 2 AM
+1TE0001143	Sun              7 AM - 9 PM
+1TE0001144	Remember, after using the restroom, don't just walk out without cleaning up. Take a look around and see if there are any toilet tissues lying about and pick them up. A customer always appreciates a clean restroom.
+1TE0001146	Seats Available
+1TE0001147	Nuka-Cola Packing Terminal 3C
+1TE0001148	Software Version 2.01.3a
+1TE0001151	Packing Line Instructions
+1TE0001153	Load Nuka-Cola into Sorting Unit
+1TE0001154	Load Quantum into Sorting Unit
+1TE0001155	WARNING - Conveyors Jammed
+1TE0001156	Activate Packing Line
+1TE0001159	MDCTA Service Terminal -
+1TE0001160	Gas/Water Reservoir Exchange 456-12 Access Menu:
+1TE0001163	Begin gas main flow test.
+1TE0001164	Stop gas flow test.
+1TE0001165	Unlock security safe
+1TE0001166	Lock security safe
+1TE0001167	Reilly's Rangers Eyes Only
+1TE0001168	Hope you asked Reilly first, you dumbass!
+1TE0001170	Current Personnel Listing
+1TE0001171	Current Contracts
+1TE0001172	Reilly's Personal Notes
+1TE0001184	Mapping Contract
+1TE0001185	Super Mutant Eradication
+1TE0001187	Report 2241-02-10
+1TE0001188	2241-02-10 Exhibit A
+1TE0001189	2241-02-10 Exhibit B
+1TE0001192	Override Robotic Target Exclusion
+1TE0001193	Exclude Humanoid Targets
+1TE0001198	Emergency Cell Release
+1TE0001201	EDU-OSv6.19.03
+1TE0001202	Welcome, Headmaster Sweeney.
+1TE0001204	Activate Protectron Unit
+1TE0001205	Deactivate Protectron Unit
+1TE0001208	Note Regarding Recent Delivery
+1TE0001209	Unlock Cage #364
+1TE0001210	Hubris Comics Publishing -
+1TE0001211	Publishing Quality Prints at Quality Prices
+1TE0001213	Air Conditioning Controls
+1TE0001214	Unlock Foreman Door
+1TE0001215	Release Schedule
+1TE0001216	Letters to the Editor
+1TE0001217	Press Release
+1TE0001218	Hubris Comics Publishing Printing Press Terminal.
+1TE0001219	Remember to make sure no one is near the press while operating.
+1TE0001221	Turn on Printing Press
+1TE0001224	Please keep hands away from Printing Press while it's in operation.
+1TE0001226	Operate Printing Press
+1TE0001228	Auto-dictation software  2074 PagSoft
+1TE0001229	Welcome, HERMAN GRANGER
+1TE0001230	Available records in memory:
+1TE0001232	About Auto-Dictation Software
+1TE0001233	[10/18/2077]
+1TE0001234	[10/23/2077]
+1TE0001236	[3/27/2134]
+1TE0001237	[4/27/2134]
+1TE0001238	[5/1/2134]
+1TE0001242	Turn Printing Press On
+1TE0001243	Check Manuscript
+1TE0001244	Check Ink Levels
+1TE0001245	Check Paper Stock
+1TE0001246	Vault 87 Medical Wing Maintenance Access
+1TE0001247	Emergency Use Only
+1TE0001249	Iso Room 01 Door Emergency Release
+1TE0001250	Iso Room 02 Door Emergency Release
+1TE0001251	Iso Room 03 Door Emergency Release
+1TE0001252	Iso Room 04 Door Emergency Release
+1TE0001253	Iso Room 05 Door Emergency Release
+1TE0001257	Personal Entry 176
+1TE0001258	Personal Entry 177
+1TE0001259	Personal Entry 178
+1TE0001260	Personal Entry 179
+1TE0001261	Vault 112 Security Stockpile Access
+1TE0001262	No Unauthorized Personnel Inside the Security Zone.
+1TE0001264	Open Vault-Tec Access Hatch
+1TE0001265	Vault 112 Overseer Access
+1TE0001266	Welcome, Dr. Braun.
+1TE0001278	LOUNGER #11 MONITOR STATION
+1TE0001279	RESIDENT ID: UNOCCUPIED
+1TE0001283	LOUNGER #23 MONITOR STATION
+1TE0001284	RESIDENT ID: UNKNOWN
+1TE0001285	WARNING: UNVERIFIED RESIDENT STATUS
+1TE0001286	PLEASE CHECK LOGS
+1TE0001294	Inventory: Weapons
+1TE0001295	Transient Census
+1TE0001319	Personal Entry 00897332
+1TE0001320	Personal Entry 00897357
+1TE0001321	Personal Entry 00897377
+1TE0001322	Personal Entry 00897398
+1TE0001323	Restricted to Section 4 Clearance Only
+1TE0001325	Intra-Vault Mail 00480
+1TE0001326	Intra-Vault Mail 00487
+1TE0001327	Intra-Vault Mail 00502
+1TE0001328	Intra-Vault Mail 00513
+1TE0001331	Trouble Ticket TT007
+1TE0001332	Trouble Ticket TT008
+1TE0001333	Trouble Ticket TT009
+1TE0001334	Trouble Ticket TT010
+1TE0001335	Trouble Ticket TT011
+1TE0001338	Intra-Vault Mail 000476
+1TE0001339	Intra-Vault Mail 000482
+1TE0001340	Intra-Vault Mail 000519
+1TE0001341	Unlock Safe
+1TE0001342	Hello, Doctor Lesko.
+1TE0001343	What can I do for you today?
+1TE0001345	Send Inhibitor Pulse
+1TE0001346	Destroy Mutagen Sample
+1TE0001347	Synthesize New Mutagen Formula
+1TE0001350	Update Network Connections
+1TE0001353	Personal Restraint Systems
+1TE0001355	If you're reading this, you better get your ass out of here!
+1TE0001358	Notice from Canterbury Search Party
+1TE0001359	"Always remember the fires that we were forged in. Those who forget are lost."
+1TE0001361	Research Log - Missile Launcher
+1TE0001365	Analysis
+1TE0001366	Critical Components
+1TE0001367	Field Operation
+1TE0001368	Maintenance
+1TE0001371	Research Log - Plasma Rifle
+1TE0001374	Research Log - Minigun
+1TE0001377	Research Log - Pulse Grenade
+1TE0001380	Research Log - Enclave Armor
+1TE0001383	<Data Log - Prot Casdin>
+1TE0001384	<Data Log - Def Rockfowl>
+1TE0001385	Log out
+1TE0001388	<Data Log - Defender Rockfowl>
+1TE0001389	Medical Armor Prototype
+1TE0001390	USAF Field Ops R&D
+1TE0001392	Disable Stasis Field
+1TE0001393	Enable Stasis Field
+1TE0001398	General Atomics Intntl.
+1TE0001399	In-Home Servant Interface 3.1
+1TE0001401	Welcome Home, Mrs. McClellan!
+1TE0001402	Please choose a task.
+1TE0001404	Deactivate Unit
+1TE0001405	Walk Muffy
+1TE0001406	Pick Up Grocery Order
+1TE0001407	Read Children Bedtime Poem
+1TE0001408	Home Security Mode
+1TE0001409	Casey Smith Auto Body & Repair
+1TE0001410	Authorized Corvega Repair and Reseller
+1TE0001440	Hydroponics Progress
+1TE0001441	Council Meeting Minutes
+1TE0001445	View Agenda
+1TE0001454	Unlock Rotunda Cargo Lift
+1TE0001455	Access Archives Mainframe
+1TE0001457	Vault-Tec Corporate Headquarters
+1TE0001458	Washington D.C.
+1TE0001459	Standard Employee Access
+1TE0001461	Important Bulletins
+1TE0001462	Company Store
+1TE0001463	Page Employee
+1TE0001468	Message 009AC Security Notice
+1TE0001472	Message 0114D Vault 92 Changes
+1TE0001477	Vault-Tec Baseball Cap
+1TE0001478	Vault-Tec T-Shirt
+1TE0001479	Vault-Tec Leather Bomber Jacket
+1TE0001480	Vault-Tec Golf Tee
+1TE0001481	Vault-Tec Drink Cozy
+1TE0001482	Vault-Tec Lunchbox
+1TE0001483	Vault-Tec Bobblehead
+1TE0001489	Mainframe Station 1 Access Approval
+1TE0001490	Station 1 Mainframe Access Approved
+1TE0001491	Masterbrain Shutdown
+1TE0001492	Masterbrain Station 1 Shutdown Approved
+1TE0001498	Mainframe Station 2 Access Approval
+1TE0001499	Station 2 Mainframe Access Approved
+1TE0001501	Station 2 Masterbrain Shutdown Approved
+1TE0001507	Mainframe Station 3 Access Approval
+1TE0001508	Station 3 Mainframe Access Approved
+1TE0001510	Station 3 Masterbrain Shutdown Approved
+1TE0001514	Atom's Nucleus
+1TE0001515	Treatise On Atom's Second Coming
+1TE0001516	Bringing About The Division
+1TE0001519	Intercom: Operator
+1TE0001520	Intercom: General Services
+1TE0001521	Intercom: Kitchen
+1TE0001522	Intercom: Climate Control
+1TE0001538	Notes On Leo
+1TE0001540	Cash Notes
+1TE0001542	Inventory Notes
+1TE0001543	Unlock Floor Safe
+1TE0001560	Vault-Tec's Vault of Tomorrow
+1TE0001562	Lecture: Oppenheimer's Folly?
+1TE0001564	View Security Feed
+1TE0001565	Bring Security Turrets Online
+1TE0001566	Saved Feed Still: 8:14am
+1TE0001567	Saved Feed Still: 8:21am
+1TE0001568	.......................
+1TE0001569	.PROJECT ZHU-RONG     .
+1TE0001570	.PROTOTYPE LAB REPORTS.
+1TE0001578	Saved Invoice
+1TE0001579	Company Policies
+1TE0001580	(Mountainside)
+1TE0001584	(Mountainside) Look Around
+1TE0001586	Use Sword Grelok
+1TE0001587	Use Magical Sword Grelok
+1TE0001588	Investigate glinting object
+1TE0001589	Go South
+1TE0001592	Rusty Sword
+1TE0001593	Drinking Flask
+1TE0001595	Zombie Head
+1TE0001596	Refined Gemstone
+1TE0001597	Magical Shard
+1TE0001598	Magic Sword
+1TE0001599	Brass Key
+1TE0001600	Raw Gemstone
+1TE0001602	(Town) Look Around
+1TE0001603	Speak with blacksmith
+1TE0001605	Speak with priest
+1TE0001608	Go North
+1TE0001611	(Chapel) Look Around
+1TE0001614	Use sword zombie
+1TE0001615	Examine chapel
+1TE0001616	Examine grave
+1TE0001619	Go West
+1TE0001622	(Swamp) Look Around
+1TE0001623	Talk to the wizard
+1TE0001627	Go East
+1TE0001630	Activate Barrier
+1TE0001631	Disable Barrier
+1TE0001639	RESIDENT ID: 906 -- FOSTER, W.
+1TE0001646	RESIDENT ID: 642 -- UNOCCUPIED
+1TE0001647	WARNING: MECHANICAL MALFUNCTION DETECTED. PLEASE SCHEDULE MAINTENANCE
+1TE0001654	Question One - CORRECT!
+1TE0001656	Question Two - CORRECT!
+1TE0001658	Question Three - CORRECT!
+1TE0001660	Question Four - CORRECT!
+1TE0001662	Question Five - CORRECT!
+1TE0001664	Question Six - CORRECT!
+1TE0001666	Question Seven - CORRECT!
+1TE0001667	Question Eight
+1TE0001668	Question Eight - CORRECT!
+1TE0001669	CONGRATULATIONS! Claim Your Prize!
+1TE0001672	Second Judgmental Congress
+1TE0001673	Second Orchestral Congress
+1TE0001674	First Continental Congress
+1TE0001675	Second Continental Congress
+1TE0001677	Field Entry: Dog (feral)
+1TE0001678	Field Entry: Large Scorpion
+1TE0001679	Field Entry: Molerat
+1TE0001682	Data Entry
+1TE0001685	Lock Down Museum
+1TE0001686	Activate Lobby Turrets
+1TE0001687	Shut Down Lobby Turrets
+1TE0001692	Activate Atrium Turrets
+1TE0001693	Shut Down Atrium Turrets
+1TE0001706	Shut Down Printing Press
+1TE0001713	Enter Access Code
+1TE0001715	DC Metro Office of Urban Planning
+1TE0001716	Project Management System
+1TE0001717	Capital Beltway Reconstruction Project
+1TE0001718	You are logged in as Project Leader
+1TE0001719	Please make your selection:
+1TE0001721	Project Overview
+1TE0001722	Project Mission Statement
+1TE0001723	Project Status
+1TE0001724	About the system
+1TE0001725	Reboot system
+1TE0001727	Human Resources Management System
+1TE0001728	You are logged in as Emily Weise
+1TE0001731	Submit time sheet.
+1TE0001732	Request tax information.
+1TE0001733	Review personal information.
+1TE0001734	Contact technical support.
+1TE0001735	About the system.
+1TE0001736	I don't know what's happening. The sirens went off twenty minutes ago and I hear something like thunder in the distance. We're not allowed to leave the building and I can't see what's happening in the street. I'm scared... I think this might be it. Everything that we've been building up for. This might be the last thing I ever write, so to whoever finds it, if I don't make it tell my family that I love them.
+1TE0001738	Elise Walton
+1TE0001739	CPA
+1TE0001740	GAO, Dept. of Research Subsidies
+1TE0001744	Maxson Family Dossiers
+1TE0001745	State of Maxson
+1TE0001746	Diary of Roger Maxson -- Vol. 1
+1TE0001747	Diary of Roger Maxson -- Vol. 2
+1TE0001750	Oct. 10, 2077
+1TE0001751	Oct. 12, 2077
+1TE0001752	Oct. 13, 2077
+1TE0001753	Oct. 15, 2077
+1TE0001754	Oct. 18, 2077
+1TE0001755	Oct. 20, 2077
+1TE0001758	Roger Maxson
+1TE0001759	Maxson II
+1TE0001760	John Maxson
+1TE0001761	New Entry: Scribe Arthur Maxson
+1TE0001764	Report on U.F.O. codenamed "Palandine"
+1TE0001769	Oct. 22, 2077
+1TE0001770	Oct. 23, 2077
+1TE0001771	Oct. 25, 2077
+1TE0001772	Oct. 26, 2077
+1TE0001773	Oct. 27, 2077
+1TE0001776	AVF Problem
+1TE0001777	Warning!: Leaky Hydraulics
+1TE0001778	Enclave Tactical Assessment
+1TE0001779	G.N.R. Battle After-Action Report
+1TE0001780	General Robot Diagnostics -- Updated
+1TE0001781	Notice: Reddin Funeral Canceled
+1TE0001784	G.N.R. Soldier Rotation
+1TE0001785	Important!: Squire Maxson Bailey Access
+1TE0001786	Lyons' Pride Recruiting
+1TE0001790	Chamber Status Check
+1TE0001791	FEV Reserves
+1TE0001810	Notice: Reddin Funeral Cancelled
+1TE0001829	Seal Radiation Chamber
+1TE0001830	Emergency Radiation Purge
+1TE0001831	Vault 87 Chief Physician's Terminal
+1TE0001834	Entry 87-34190
+1TE0001835	Entry 87-34224
+1TE0001836	Entry 87-34233
+1TE0001837	Entry 87-34265
+1TE0001838	Entry 87-34335
+1TE0001845	Field Report: PFC M.Scott
+1TE0001846	Orders (CO eyes only)
+1TE0001847	Doc-u-tron Desktop
+1TE0001848	model 986
+1TE0001849	Welcome, MOIRA. What would you like to do today?
+1TE0001851	Store Inventory
+1TE0001853	Track Current Experiments
+1TE0001855	Survival Guide Progress
+1TE0001858	RobCo Security System v7.3
+1TE0001859	Enter command:
+1TE0001861	Deactivate Unit "Deputy Steel"
+1TE0001862	Deactivate Unit "Deputy Weld"
+1TE0001863	This door is for your own protection. Automated and highly deadly security systems are in place. DO NOT attempt to gain unauthorized entry.
+1TE0001864	You have been warned.
+1TE0001866	Open Security Door
+1TE0001869	911 Call Log <Most Recent>
+1TE0001870	Sound Station Alarm
+1TE0001880	1. Ikkm00:Mvkz6x1ml:Nqtm
+1TE0001881	1. Open Secure Hatch
+1TE0001884	Squire Maxson Progress Report
+1TE0001885	Sarah's Birthday
+1TE0001886	Safe Lock Override
+1TE0001889	Diary Entry 1
+1TE0001890	Diary Entry 2
+1TE0001891	Story: The Guardians of Gillyfrond
+1TE0001892	Poem: Song of the Lightman
+1TE0001896	Casualty Report
+1TE0001897	Notes on Pendleton Appendectomy
+1TE0001898	Hovering Contemplatively, a Poem
+1TE0001899	Medical Storage Lock Override
+1TE0001902	The First Law
+1TE0001904	The Second Law
+1TE0001906	The Third Law
+1TE0001908	The Fourth Law
+1TE0001910	The Fifth Law
+1TE0001914	The Five Laws of The Family
+1TE0001917	Sten-o-pool 3500 Word Processing System
+1TE0001918	Current User: Tulip
+1TE0001919	Current Document: Paradise Lost Transcript
+1TE0001921	Paradise Lost: Book I
+1TE0001922	Paradise Lost: Book II
+1TE0001923	Paradise Lost: Book IV
+1TE0001924	Paradise Lost: Book VIII
+1TE0001927	Notes on the electrical system.
+1TE0001929	Docutron Database 7000x
+1TE0001930	Welcome, Ahzrukhal
+1TE0001932	Notes on Carol
+1TE0001933	Notes on Patchwork
+1TE0001934	Notes on Snowflake
+1TE0001935	Notes on Dr. Barrow
+1TE0001938	Examination of the Post-Necrotic Human
+1TE0001939	Neurology of Luminous Necrotic Post-Humans
+1TE0001940	Study Of Ferocious Post-Necrotic Dystrophy
+1TE0001950	An All-American Business
+1TE0001951	== Plant Operations Menu ==
+1TE0001953	1. Resource Levels
+1TE0001954	2. Quarterly Analysis
+1TE0001955	3. Human Resources Memo
+1TE0001956	4. Urgent Diagnostic Alert
+1TE0001957	5. Ikkm00:Mvkz6x1ml:Nqtm
+1TE0001958	5. Access Encrypted File
+1TE0001959	Welcome, Agent Huang.
+1TE0001960	Hail the People's Republic!
+1TE0001976	Secure Archives
+1TE0001977	Open Archive Doors
+1TE0001990	Secure Exhibit
+1TE0001991	Open Exhibit Door
+1TE0001994	<Secure Room>
+1TE0001995	<Open Cell Door>
+1TE0001996	Reasearch & Development
+1TE0001997	< !  !  !  !  !  >
+1TE0001998	SOLE OWNERSHIP L.O.B. ENTERPRISES
+1TE0001999	VIOLATORS PUNISHED UNDER #P47
+1TE0002001	Lab Reports
+1TE0002005	Unlock Storage Room Door
+1TE0002006	Notice #009
+1TE0002007	Notice #012
+1TE0002008	Notice #018
+1TE0002011	Unlock Medical Safe
+1TE0002012	All Employees Must Read!
+1TE0002013	Deceased Listing
+1TE0002014	Death Code Definitions
+1TE0002017	Service Issue Entry V87-002
+1TE0002018	Service Issue Entry V87-003
+1TE0002019	Service Issue Entry V87-004
+1TE0002020	Service Issue Entry V87-005
+1TE0002021	Service Issue Entry V87-006
+1TE0002022	Service Issue Entry V87-007
+1TE0002025	Journal Entry 06A01
+1TE0002026	Journal Entry 06A02
+1TE0002027	Journal Entry 06A03
+1TE0002028	Journal Entry 06A04
+1TE0002029	Journal Entry 06A05
+1TE0002030	Journal Entry 06A06
+1TE0002031	Journal Entry 06A07
+1TE0002032	Moriarty's Property Only!
+1TE0002034	Motivational Phrase of the Month: "When the chips are down, it means the Brahmin is empty."
+1TE0002036	Residents
+1TE0002037	Visitors
+1TE0002038	Tabs
+1TE0002039	Nuka-Cola Shipping Department
+1TE0002041	Quantum Test Shipments
+1TE0002043	From: Marketing
+1TE0002045	Security System Login
+1TE0002046	Saved Memo - Attn: Security Captain
+1TE0002061	(Plains) Look Around
+1TE0002067	Game Over
+1TE0002068	Weapon Information Research Database
+1TE0002069	Choose Weapon
+1TE0002071	N99 10mm Pistol
+1TE0002072	R91 5.56mm Assault Rifle
+1TE0002091	Museum of Technology Maintenance Dept.
+1TE0002093	Bulletin MT20761211
+1TE0002094	Bulletin MT20761130
+1TE0002095	Bulletin MT20761117
+1TE0002096	Bulletin MT20761020
+1TE0002097	Museum of Technology Employee Terminal
+1TE0002099	Log Entry 20770103
+1TE0002100	Log Entry 20761010
+1TE0002101	Log Entry 20760307
+1TE0002102	Log Entry 20760211
+1TE0002103	Log Entry 20760202
+1TE0002106	Space Fact #1
+1TE0002107	Space Fact #2
+1TE0002108	Space Fact #3
+1TE0002109	Space Fact #4
+1TE0002110	Space Fact #5
+1TE0002111	Space Fact #6
+1TE0002112	Space Fact #7
+1TE0002113	Space Fact #8
+1TE0002116	Delta IX Rocket Information
+1TE0002117	Show Instruments Section
+1TE0002118	Instruments Section Light Off
+1TE0002119	Show Crew Section
+1TE0002120	Crew Section Light Off
+1TE0002121	Show Propulsion Section
+1TE0002122	Propulsion Section Light Off
+1TE0002124	<Unlock Doors>
+1TE0002125	<Arm Security Systems>
+1TE0002126	<Disarm Security System>
+1TE0002129	People
+1TE0002130	Places
+1TE0002131	Pests
+1TE0002134	King Crag
+1TE0002135	Miss Penelope Chase
+1TE0002136	Destiny Chao
+1TE0002138	Harmon Jurley
+1TE0002143	Blue Destiny Brothel
+1TE0002149	Feral Ghouls
+1TE0002150	Radscorpions
+1TE0002152	Robobrains
+1TE0002155	Identity Verification
+1TE0002157	Begin Decontamination
+1TE0002163	Your Brain Softworks
+1TE0002164	Version: ME
+1TE0002166	You Know You Want To...
+1TE0002167	Vault-Tec Security System
+1TE0002168	Software Version 1.02.f
+1TE0002170	Urgent: Security Notice
+1TE0002174	A Note To Me
+1TE0002175	Another Note To Me
+1TE0002176	Please Read Me
+1TE0002180	Urgent: Preparations Report
+1TE0002187	Study #004-C
+1TE0002188	Citadel System Link 39L
+1TE0002189	Welcome, Scribe Rothchild
+1TE0002191	Historical Records
+1TE0002192	Diagnostic Reports
+1TE0002193	Lead Scribe's Journal
+1TE0002194	Voice Emitter Test
+1TE0002195	Initiate Activation Sequence
+1TE0002199	Project Summary
+1TE0002200	Capital Post Article -- June 3, 2072
+1TE0002201	Letter: Dr. Bloomfeld to Gen. Chase
+1TE0002205	28253
+1TE0002206	28320
+1TE0002207	Current
+1TE0002211	28254
+1TE0002213	28338
+1TE0002216	Do brahmin heads learn independently?
+1TE0002217	Can explosives be used to expand town?
+1TE0002218	Can Mole-Rats be domesticated?
+1TE0002219	How to prevent raider attacks?
+1TE0002220	What do Super-Mutants eat?
+1TE0002221	What happened to China?
+1TE0002222	Can centaurs talk?
+1TE0002223	What is the purpose of being?
+1TE0002224	Washington Monument Access Terminal
+1TE0002225	Brotherhood of Steel and Galaxy News Radio Access Only
+1TE0002227	Open Outer Security Gate
+1TE0002228	Close Outer Security Gate
+1TE0002235	Seven
+1TE0002236	Fifty
+1TE0002237	Thirteen
+1TE0002238	Twenty
+1TE0002241	John Hancock
+1TE0002242	George Washington
+1TE0002243	Benjamin Franklin
+1TE0002244	John Adams
+1TE0002248	56
+1TE0002249	80
+1TE0002250	50
+1TE0002253	Indictment
+1TE0002254	Preamble
+1TE0002255	Introduction
+1TE0002256	Ratification
+1TE0002259	Queen Victoria
+1TE0002260	King Arthur
+1TE0002261	King George III
+1TE0002262	King William IV
+1TE0002265	Freedom
+1TE0002266	Happiness
+1TE0002267	Equality
+1TE0002268	Unalienable Rights
+1TE0002271	Abraham Lincoln
+1TE0002272	James Monroe
+1TE0002273	James Madison
+1TE0002277	Press for Voucher
+1TE0002278	System Error
+1TE0002279	-=LOB Enterprises=-
+1TE0002280	Welcome, EMP_ID_MISSING.
+1TE0002291	National Archives Prize Redemption System
+1TE0002292	Congratulations! You're a true American Patriot!
+1TE0002294	Redeem Voucher
+1TE0002295	Voucher Required
+1TE0002296	**New Fruit Mentats Prizes**
+1TE0002297	Brought to you by Med-Tek Laboratories
+1TE0002299	Glamorously Grape Mentats
+1TE0002300	Brilliantly Berry Mentats
+1TE0002301	Observantly Orange Mentats
+1TE0002302	Sorry, Need a Prize Voucher
+1TE0002305	Protectron activated.
+1TE0002308	WARNING: System reports failure state. Please call Metro Maintenance for service.
+1TE0002312	Activate Science Robot
+1TE0002313	Science Robot Command Input
+1TE0002323	Synthman Surgery
+1TE0002324	Android Hoax?
+1TE0002325	Facial Surgery
+1TE0002326	Android Gratitude
+1TE0002327	Rumors of Android in Wasteland
+1TE0002329	Secret Android Project
+1TE0002331	VIP Slave from Commonwealth
+1TE0002332	Intercepted Android Message
+1TE0002333	Find that Android. Now!
+1TE0002335	New VIP Passenger. All Aboard!
+1TE0002336	Message from Railroad Passenger
+1TE0002337	Railroad in danger.
+1TE0002338	Success! Railroad Passenger Arrives Safely
+1TE0002339	*K!9Bfh6sK#J44H$f
+1TE0002340	Miss Danielle Faye
+1TE0002341	Ms. Jennifer Wilkins
+1TE0002342	$fJfk0h834lk%hHDS
+1TE0002343	Safe Unlocked
+1TE0002344	Unit Offline for Maintenance
+1TE0002345	Unit Present
+1TE0002346	Unit Offline
+1TE0002347	Unit not Present
+1TE0002348	Recall Uplink Not Available
+1TE0002359	Unit Not Programmed
+1TE0002360	Unit Activated
+1TE0002363	Uplink Malfunction
+1TE0002364	Recall Uplink Not Present
+1TE0002366	Remote Shutdown Sent
+1TE0002375	Transfer Complete
+1TE0002376	Transfer Canceled
+1TE0002379	Door Unlocked
+1TE0002380	Door Released
+1TE0002381	Error - Systems Offline
+1TE0002383	Metro Map Downloaded...
+1TE0002385	Strongroom Doors Unlocked
+1TE0002386	Maintenance Doors Unlocked
+1TE0002387	Mag System Down - Call Maintenance
+1TE0002394	FAILED to connect to DCTA Security.
+1TE0002395	Opening... FAILED relay to DCTA Sec.
+1TE0002396	Failure... contact DCTA maintenance office
+1TE0002397	Protectron Activated...
+1TE0002398	Protectron Deactivating...
+1TE0002399	FAILURE: Call Maintenance for service.
+1TE0002402	Audio stored on portable Device
+1TE0002404	Program Running. Proceed with Caution.
+1TE0002405	Review Documentation Before Proceeding
+1TE0002407	Prices reset.
+1TE0002408	Holiday price schedule loaded.
+1TE0002409	VIP discount enabled.
+1TE0002410	Clearance granted, Unlocking...
+1TE0002411	...Loading Sequence
+1TE0002412	<ERROR> Maintenance In Progress
+1TE0002413	Lock Disengaged
+1TE0002414	Lock Engaged
+1TE0002415	!!!Sector B Shutting Down Defenses!!!
+1TE0002416	!!!Security in Sector B Armed and Ready!!!
+1TE0002417	!!! Unable to Locate Platform !!!
+1TE0002419	!!!Sector A Turrets Shutting Down!!!
+1TE0002420	!!!Security Turrets Armed and Ready!!!
+1TE0002423	!!! Emergency Pulse Explosion Charging !!!
+1TE0002424	!!! ERROR - No Energy Source Available !!!
+1TE0002425	!!! Invalid Decryption Key !!!
+1TE0002426	Hydroponics fully functional.
+1TE0002427	Filtration systems fully functional.
+1TE0002428	Service Disabled - See Vendor
+1TE0002429	Studio Ready for Recording
+1TE0002430	Studio in Standby Mode
+1TE0002431	Target Data cleared.  Exercise Caution.
+1TE0002432	<!>Please Exercise Caution<!>
+1TE0002433	Booting...
+1TE0002434	Powering Down...
+1TE0002435	Loading LOG file...
+1TE0002522	Central Error - System Nonfunctional
+1TE0002523	Storage Door Activated
+1TE0002524	Local Error - Purge System Nonfunctional
+1TE0002525	Downloading... complete.
+1TE0002529	Downloading file to Pipboy... complete.
+1TE0002530	Downloading to Pipboy... complete.
+1TE0002531	All systems functional.
+1TE0002532	Systems disengaged for service.
+1TE0002533	No water chip found. Contact distributor.
+1TE0002534	System disengaged - do not run purge!
+1TE0002535	System re-engaged. Enjoy your water!
+1TE0002536	Error: System cannot be re-engaged.
+1TE0002537	Impurities purged. Cleanliness restored.
+1TE0002538	Purge error. Additional materials purged.
+1TE0002539	No purge controller located.
+1TE0002540	Welcome To Crater Camp
+1TE0002541	Function Disabled [MESSAGE 0]
+1TE0002544	Doors Opening
+1TE0002545	Deploying Countermeasures
+1TE0002546	Initiating Sound Sequence
+1TE0002547	Stand back, Flammable Gas...
+1TE0002548	ERROR: Exhaust has been recently vented
+1TE0002549	Cell Door Unlocked...
+1TE0002550	Error Locking Cell Door...
+1TE0002551	Need 3 Confirmations
+1TE0002552	Sequence Locked
+1TE0002553	Sequence Complete
+1TE0002560	Find Info Terminals
+1TE0002562	Planetarium Exits Now Unlocked
+1TE0002563	ERROR: Could Not Locate Door to Unlock
+1TE0002564	Show Stopped
+1TE0002565	Show Started
+1TE0002566	In the Wasteland, we can all be heroes!
+1TE0002567	Chairman Cheng is watching you, Comrade!
+1TE0002568	The invaded have been wiped out!
+1TE0002569	Glorious work, happy life!
+1TE0002570	Win glory for our motherland!
+1TE0002571	Hold aloft the red lantern!
+1TE0002572	Revolution brings happiness!
+1TE0002575	Loading Entry...
+1TE0002578	Progam running. Please wait...
+1TE0002579	Locking down residence. Please wait...
+1TE0002580	Unlocking residence. Please wait...
+1TE0002581	Please Re-Enable Security Screening
+1TE0002582	Disabling. Please stand clear...
+1TE0002583	Please Engage Security Program
+1TE0002584	Enabling Parameters. Please stand by...
+1TE0002585	Failure - Total System Malfunction
+1TE0002586	Error - Backup Generator Failure - Code 34
+1TE0002587	Medical Safe Unlocked
+1TE0002588	Door Has Been Unlocked
+1TE0002589	Opening...
+1TE0002590	Closing...
+1TE0002593	Control Pod Unlocked
+1TE0002594	Door opened
+1TE0002595	Door closed
+1TE0002596	Door opening...
+1TE0002597	Door closing...
+1TE0002598	Data Corrupted
+1TE0002601	Loading...
+1TE0002604	Field Entry:  "Bloat Fly"
+1TE0002605	Field Entry: "Brahmin"
+1TE0002608	Field Entry: "Radroach"
+1TE0002609	disconnecting user: ISABELLA PROUD
+1TE0002623	disconnecting user: NO ENTRY
+1TE0002624	ERROR: Dish Motivators Offline
+1TE0002625	Downloading Coordinates to User Device
+1TE0002627	Pinging USDOD-21TXH....
+1TE0002636	disconnecting user: N Kroydon
+1TE0002646	Subject D624
+1TE0002647	Lock Error - Call for Service
+1TE0002648	Danger: Do Not Enter Room
+1TE0002649	Reservation Server Unavailable
+1TE0002652	Unlocked
+1TE0002658	Overflow door disengaging...
+1TE0002659	Returning...
+1TE0002661	Information Transferred to Local Device
+1TE0002663	ERROR: Card Printer Jammed
+1TE0002665	Connection to central computer disrupted.
+1TE0002666	Warning: 201 years overdue!
+1TE0002667	Bunker Door Activated...
+1TE0002673	disconneting user: RYAN BRIGGS
+1TE0002674	EAM/Authentication: VERIFIED THREAT
+1TE0002675	Targeting Navigation Corrupted
+1TE0002676	Door Unlocked ...
+1TE0002677	!!! Error - Cannot locate Server !!!
+1TE0002679	ERROR: Factory Power Supply Insufficient
+1TE0002680	Initiating Sequence Alpha-Two-Roach
+1TE0002681	Ceasing Sequence Alpha-Two-Roach
+1TE0002682	Initiating Sequence Commie-Attack
+1TE0002683	Ceasing Sequence Commie-Attack
+1TE0002684	Initiating Sequence Omega-4-Breakdown
+1TE0002685	Ceasing Sequence Omega-4-Breakdown
+1TE0002686	Currently 100% of Seating Available
+1TE0002687	Error - Inventory Depleted
+1TE0002688	Ready
+1TE0002689	Call Technician Immediately!
+1TE0002690	WARNING! System Error!
+1TE0002692	Error - No Inventory Selected
+1TE0002693	Leak Detected - Auto-shutoff engaged
+1TE0002694	Auto-shutoff system already engaged.
+1TE0002695	Security safe unlocked.
+1TE0002696	Security safe locked.
+1TE0002697	File Unavailable
+1TE0002698	Robotic Hostiles Targeted.
+1TE0002699	Humanoid Targets Excluded
+1TE0002700	ERROR: Missing Telemetry Unit
+1TE0002705	Sending query//Unit#name:Dean_Dewey.rbco
+1TE0002706	ERROR COMM LINK//Unit#name:Dean_Dewey.rbco
+1TE0002707	Cage #364 Unlocked...
+1TE0002708	System Inoperative
+1TE0002710	Displaying Release Schedule
+1TE0002711	Displaying Inbox
+1TE0002712	Loading file....
+1TE0002713	!!Action Failed - No Power Supply!!
+1TE0002714	!!Action Failed!! Press Not Turned On.
+1TE0002715	!!! Warning - Machine Malfunctioning !!!
+1TE0002716	Grognak the Barbarian, #361 - LOADED
+1TE0002717	Red Ink Low
+1TE0002718	Low-Grade Pulp Available
+1TE0002719	Explosive Bolts Deployed -- Door Released
+1TE0002724	Opening hatch in main garage area...
+1TE0002725	Opening the door for you, Dr. Braun...
+1TE0002726	Welcome To Rho Camp
+1TE0002729	Loading Database...
+1TE0002743	Pulse Sending
+1TE0002744	Neutralizing Agent Added-Mutagen Destroyed
+1TE0002745	Error - Requires Master Cypher Sequence
+1TE0002746	No new connections found.
+1TE0002747	New Terminal Found. Network Updated.
+1TE0002748	Safe unlocked...
+1TE0002749	Access Denied
+1TE0002750	Door Release Engaged
+1TE0002752	Shutting Down.
+1TE0002753	Disabling Stasis Field
+1TE0002754	Error Enabling Stasis Field
+1TE0002755	Returning to Home Station...
+1TE0002756	Searching for Muffy...
+1TE0002757	Travelling to McGurty's Grocery...
+1TE0002758	Reporting to Children's Room...
+1TE0002759	Initiating Home Security Patrol...
+1TE0002761	Override Enabled
+1TE0002762	Access Blocked
+1TE0002763	Internal Paging System Offline
+1TE0002764	Cost Deducted from Paycheck... Enjoy!
+1TE0002770	Only Available to Executive Level Employee
+1TE0002771	Access Approved
+1TE0002772	Command Locked
+1TE0002773	Station 1 Masterbrain Shutdown Approved
+1TE0002783	MESSAGE 1J - Operator Unavailable
+1TE0002784	ERROR 862 - Please Speak With Operator
+1TE0002796	ERROR // No Source detected...
+1TE0002797	Turret Sentries active...
+1TE0002798	Loading Image...
+1TE0002805	Loading partial archive...
+1TE0002806	Thanks for playing!
+1TE0002807	You examine your surroundings...
+1TE0002809	Your puny weapons are useless on Grelok.
+1TE0002810	You take a rough gemstone from the rocks.
+1TE0002811	You retreat to the south....
+1TE0002812	Your weapon.  Rusty, but trusty.
+1TE0002813	A very small flask to carry water.
+1TE0002814	Your flask if full of blessed water.
+1TE0002815	The smell may make you unpopular...
+1TE0002816	A brilliant, faceted gemstone
+1TE0002817	The gem shard pulses with magical light...
+1TE0002818	An enchanted weapon to defeat Grelok
+1TE0002819	Key given to you by the priest
+1TE0002820	This gemstone may be valuable...
+1TE0002822	You approach the smithy...
+1TE0002824	You approach the clergyman...
+1TE0002827	You walk to the north...
+1TE0002831	Your blow knocks the zombie into a grave.
+1TE0002832	You step into the empty chapel...
+1TE0002833	You peer into the open grave...
+1TE0002836	You walk to the west...
+1TE0002838	You acknowledge the wizard...
+1TE0002842	You walk to the east...
+1TE0002843	!!! Security Barrier Activated !!!
+1TE0002844	!!! Security Barrier Disabled !!!
+1TE0002849	Lounger is not currently occupied
+1TE0002851	Question Already Answered
+1TE0002859	Incorrect! Please Play Again
+1TE0002862	CORRECT!
+1TE0002863	Field Entry: "Wild Dog"
+1TE0002864	Field Entry: "Large Scorpion"
+1TE0002866	ERROR:  Unable to Locate Museum Doors
+1TE0002867	!!! Lobby Turrets Activated !!!
+1TE0002868	!!! Lobby Turrets Shutting Down !!!
+1TE0002870	!!!! Atrium Turrets Activated !!!!
+1TE0002871	!!! Atrium Turrets Shutting Down !!!
+1TE0002875	Displaying Notice
+1TE0002876	Loading file...
+1TE0002878	Printing Press Shutting Down...
+1TE0002882	*** Access Granted ***
+1TE0002883	*** Incorrect Code - Access Denied ***
+1TE0002884	Error - Chamber Offline Code 0987YU
+1TE0002885	FEV Tanks Depleted
+1TE0002892	Subject B164
+1TE0002895	Subject B440
+1TE0002898	Subject A541
+1TE0002901	Subject C376
+1TE0002904	Error - Magnetic Locking System Offline
+1TE0002905	Error - Venting System Offline
+1TE0002906	Data corrupted! Use hardcopy backups.
+1TE0002907	Store profits up 20% since repurposing.
+1TE0002908	Displaying...
+1TE0002909	Experiments deleted.
+1TE0002910	File has been deleted.
+1TE0002911	File printed and distributed
+1TE0002912	Editing in progress
+1TE0002913	Deactivation signal sent...
+1TE0002915	Stand back. Door opening.
+1TE0002922	[ERROR HX40-399: invalid decry.key]
+1TE0002923	[decry.key valid]: Opening Hatch
+1TE0002925	Medical Storage Unlocked
+1TE0002930	[decry.key valid]
+1TE0002941	Please stand back.
+1TE0002954	Please Stand Back From Gate
+1TE0002955	Please Stand Back From The Gate
+1TE0002957	Loading Partial Archive
+1TE0002964	Welcome,  Mr. Humbert....
+1TE0002968	You venture to the north...
+1TE0002969	You walk to the south...
+1TE0002972	Load Submenu
+1TE0002973	Please play again!
+1TE0002974	Access Granted
+1TE0002975	Turrets Coming Online
+1TE0002976	Turrets Going Offline
+1TE0002977	Scanner Missing - Security Overridden
+1TE0002978	Door Activated
+1TE0002979	Anti-Bacterial Spray Depleted
+1TE0002983	And So You Did
+1TE0002985	Decoding...
+1TE0002988	Voice Emitter Test Initialized...
+1TE0002989	FAILURE: *Insufficient Power*
+1TE0002990	More study of brahmin language required.
+1TE0002991	Lucas Simms requests all testing cease.
+1TE0002992	Yes, if defanged, declawed, & lobotomized.
+1TE0002993	Raiders refuse to sit for interviews.
+1TE0002994	Research assistants.
+1TE0002995	Reports uncertain. China may be fictional.
+1TE0002996	Abundance of tongues suggests so.
+1TE0002997	To perform science.
+1TE0002998	Gate Opening
+1TE0002999	Gate Closing
+1TE0003011	Incorrect!
+1TE0003029	Dispensing
+1TE0003030	Voucher Dispenser is Empty
+1TE0003035	Error - Pod Empty
+1TE0003036	Error - Robot Out of Range
+1TE1000001	Virtual Strategic Solutions, Inc.
+1TE1000002	SIM-U-TEC Chamber 003
+1TE1000004	Latest Reports
+1TE1000005	Program Updates
+1TE1000009	9/06/77
+1TE1000010	8/15/77
+1TE1000011	VSS, INC. SECURE STORAGE
+1TE1000012	Proper Authorization Required
+1TE1000014	Unlock Secure Access Area
+1TE1000016	USAF auto-transcriber
+1TE1000017	USER MODE: Colloquial American/Mid-western
+1TE1000018	SOURCE LANG: Chinese/Guanhua Formal
+1TE1000019	WARNING: Decryption errors found: 13%
+1TE1000021	Decrypted/Transcribed Volume 99x87x010
+1TE1000022	USAF Protocols for Artillery Stations
+1TE1000023	Chugach Overlook AFS - Anchorage, AK
+1TE1000024	Section AFS-12.1
+1TE1000025	Supervisory Installation:
+1TE1000026	Elemndorf AFB - Anchorage, AK
+1TE1000028	1.1a: Co-op w/regional NORAD
+1TE1000029	1.1b: Diversionary Evacuations
+1TE1000030	1.1c: Atmospheric Counter-Espionage
+1TE1000033	SOURCE LANG: Chinese/Mandarin Formal
+1TE1000034	WARNING: Decryption errors found: 27%
+1TE1000036	Decrypted/Transcribed Volume 99x46x013
+1TE1000040	WARNING: Decryption errors found: 16%
+1TE1000042	Decrypted/Transcribed Volume 99x17x320
+1TE1000046	WARNING: Decryption errors found: 15%
+1TE1000048	Decrypted/Transcribed Volume 99x51x140
+1TE1000049	Anchorage Telegraph Co.
+1TE1000050	Open Broadcast Terminal AF-12e
+1TE1000051	Special Contract US_DoD_Auth
+1TE1000052	ERROR: Archival Corruption Detected
+1TE1000053	ERROR: Auth Code Invalid
+1TE1000055	Diagnose Archive?
+1TE1000056	Broadcast Message?
+1TE1000057	Recall Last Transmission?
+1TE1000058	H:>  \.
+1TE1000059	H:> Welcome USER_ADMIN
+1TE1000060	H:> ...
+1TE1000062	User Access Log
+1TE1000063	Access Mainframe Address
+1TE1000064	PowerRoutine.Actions
+1TE1000067	G - Ground Level
+1TE1000068	S1 - Sublevel One
+1TE1000069	S2 - Sublevel Two
+1TE1000070	Welcome Lieutenant Patterson
+1TE1000071	Please Select Your Strike Team
+1TE1000073	Recruitment Markers Required
+1TE1000074	Unit One Empty
+1TE1000075	Unit One: Infantryman
+1TE1000076	Unit One: Grenadier
+1TE1000077	Unit One: Missile Unit
+1TE1000078	Unit One: Sniper
+1TE1000079	Unit One: Mister Gutsy
+1TE1000080	Unit One: Sentry Bot
+1TE1000081	Unit Two Empty
+1TE1000082	Unit Two: Infantryman
+1TE1000083	Unit Two: Grenadier
+1TE1000084	Unit Two: Missile Unit
+1TE1000085	Unit Two: Sniper
+1TE1000086	Unit Two: Mister Gutsy
+1TE1000087	Unit Two: Sentry Bot
+1TE1000088	Unit Three Empty
+1TE1000089	Unit Three: Infantryman
+1TE1000090	Unit Three: Grenadier
+1TE1000091	Unit Three: Missile Unit
+1TE1000092	Unit Three: Sniper
+1TE1000093	Unit Three: Mister Gutsy
+1TE1000094	Unit Three: Sentry Bot
+1TE1000095	Requisition Full - Commit Team
+1TE1000096	Unit Descriptions
+1TE1000099	Change Gear Package
+1TE1000103	Fire Team Package Description
+1TE1000106	Close Assault Package Description
+1TE1000109	Sniper Package Description
+1TE1000112	Heavy Weapons Package Description
+1TE1000115	Infantryman - 1 Marker
+1TE1000116	Grenadier - 1 Marker
+1TE1000117	Missile Unit - 2 Markers
+1TE1000118	Sniper - 2 Markers
+1TE1000119	Mister Gutsy - 3 Markers
+1TE1000120	Sentry Bot - 4 Markers
+1TE1000121	Dismiss Unit
+1TE1000150	Deploy Team
+1TE1000151	Cancel
+1TE1000154	Access Granted. Proceed.
+1TE1000155	Loading Transcription...
+1TE1000162	ERROR: Archive Corruption 98xHHa
+1TE1000163	ERROR: Hard Line Unavailable
+1TE1000164	Loading Transmission Record...
+1TE1000165	Loading UserAccess.log
+1TE1000166	ERROR: Authorization Revoked
+1TE1000168	Allotment Reached
+1TE1000169	See Quartermaster
+1TE1000170	Requisition Dispensed
+1TE1000171	You are currently using that package.
+1TE2000007	Terminate Floodlight Power
+1TE2000008	Resume Floodlight Power
+1TE2000009	Check Power Levels
+1TE2000013	5 mm
+1TE2000014	5.56 mm
+1TE2000015	10 mm
+1TE2000016	.308 caliber
+1TE2000017	.32 caliber
+1TE2000020	10 millimeter round ammunition selected.
+1TE2000021	Ready to convert material to new ammo type.
+1TE2000023	Calculate Production Run
+1TE2000030	Press 10mm Rounds
+1TE2000031	5 millimeter round ammunition selected.
+1TE2000042	Press 5mm Rounds
+1TE2000043	.32 caliber round ammunition selected.
+1TE2000053	Press .32 caliber Rounds
+1TE2000054	.44 magnum round ammunition selected.
+1TE2000064	Press .44 Magnum Rounds
+1TE2000065	5.56 millimeter round ammunition selected.
+1TE2000076	Press 5.56mm Rounds
+1TE2000077	.308 caliber round ammunition selected.
+1TE2000087	Press .308 caliber Rounds
+1TE2000088	Shotgun shell ammunition selected.
+1TE2000099	Press Shotgun Shells
+1TE2000100	-->Pittsburgh Department Of Public Works
+1TE2000101	-->Interoffice Mail Terminal
+1TE2000102	-->Logged in as: Director Hadley James
+1TE2000104	Subject: New Smithfield Street Bridge
+1TE2000105	Subject: New Seating Assignments
+1TE2000106	Subject: Do You Hear That?
+1TE2000107	Subject: Phone Messages
+1TE2000108	Doctor Borman's Office Log
+1TE2000109	JournalSoft v2.3
+1TE2000110	-->Logged in as: Nurse Hicks
+1TE2000112	Patient Log 148
+1TE2000113	Patient Log 147
+1TE2000114	Personal Log 48
+1TE2000115	***********************************************
+1TE2000116	* PRESDY BIORESEARCH STATION *
+1TE2000117	* KRAG-JENSEN PROTOCOLS LOADED *
+1TE2000120	Trog Studies
+1TE2000122	**********************************
+1TE2000123	*    PITT BIORESEARCH STATION    *
+1TE2000124	*  KRAG-JENSEN PROTOCOLS LOADED  *
+1TE2000127	Baby Monitor
+1TE2000135	Regarding New Protectrons
+1TE2000136	Regarding Recent Employees
+1TE2000137	Regarding New Shipment
+1TE2000138	RobCo Service Terminal V 6.0.3.2.1.a ------------------------------------
+1TE2000150	Activate Security Bot #1
+1TE2000152	Activate Security Bot #2
+1TE2000154	Activate Security Bot #3
+1TE2000156	Activate Security Bot #4
+1TE2000161	Regarding Recent Incident
+1TE2000163	Private Entry #1
+1TE2000164	Private Entry #2
+1TE2000165	Private Entry #3
+1TE2000166	Private Entry #4
+1TE2000167	Private Entry #5
+1TE2000168	Private Entry #6
+1TE2000169	-RobCo Trespasser Manag---?#i!a(*bos&@!
+1TE2000170	======SYSTEM REPROGRAM START======
+1TE2000171	ROOT USER "I.ASHUR"
+1TE2000178	----Steel Press Status Screen---- ---------------------------------
+1TE2000180	-Rotary Press 01 Status: Active
+1TE2000181	-Rotary Press 02 Status: Active
+1TE2000183	Emergency Stop
+1TE2000184	----Ammo Press Status Screen---- ---------------------------------
+1TE2000186	-Ammo Press 01 Status: Active
+1TE2000187	-Ammo Press 02 Status: Active
+1TE2000189	Operating Instructions
+1TE2000191	Ammo Production
+1TE2000194	Uptown Power Terminated
+1TE2000195	Cannot Resume: ERROR BHA-00
+1TE2000196	Atomic Turbines at 10.8%
+1TE2000197	Atomic Turbines Redirected to Mill
+1TE2000198	Material will produce 3 or fewer rounds.
+1TE2000199	Material will produce 4 to 10 rounds.
+1TE2000200	Material will produce 11 to 25 rounds.
+1TE2000201	Material will produce 26 to 50 rounds.
+1TE2000202	Material will produce 51 to 100 rounds.
+1TE2000203	Material will produce 100 to 200 rounds.
+1TE2000204	Material will produce over 200 rounds
+1TE2000205	Pressing...
+1TE2000212	Material will produce 201 to 400 rounds.
+1TE2000213	Material will produce over 400 rounds.
+1TE2000248	Material will produce 3 or fewer shells.
+1TE2000249	Material will produce 4 to 10 shells.
+1TE2000250	Material will produce 11 to 25 shells.
+1TE2000251	Material will produce 26 to 50 shells.
+1TE2000252	Material will produce 51 to 100 shells.
+1TE2000253	Material will produce 100 to 200 shells.
+1TE2000254	Material will produce 201 to 400 shells.
+1TE2000255	Material will produce over 400 shells.
+1TE2000259	Baby Status: Healthy and Well
+1TE2000261	Baby Not Found. Insert Baby and Try Again.
+1TE2000266	Retrieving Data...
+1TE2000272	<ERROR> Security Bot Activated
+1TE2000293	Command Ignored - Override Enabled
+1TE2000294	Authorized Users Only
+1TE2000297	Error - No Usable Materials In Bin
+1TE3000001	Old Olney Powerworks
+1TE3000002	A Division Of PPE
+1TE3000005	Disengage Security System
+1TE3000006	Disengage Security Door
+1TE3000011	Vent Radiation
+1TE3000016	<!>ERROR: Turret(s) Not Responding<!>
+1TE3000025	Officer's Report
+1TE3000026	Official Orders
+1TE3000028	*Mobile Platform Control*
+1TE3000031	Open Mobile Platform Loading Ramp
+1TE3000032	Close Mobile Platform Loading Ramp
+1TE3000033	Contact Mobile Platform Control Center
+1TE3000034	Contact Vertibird Flight Control
+1TE3000039	Z Machine Failsafe [1/4]
+1TE3000044	Z Machine Failsafe [2/4]
+1TE3000051	Z Machine Failsafe [3/4]
+1TE3000052	Z Machine Failsafe [4/4]
+1TE3000062	Trigger Machine Failsafe
+1TE3000063	Logging on to Comms Relay...
+1TE3000065	Comms Active.
+1TE3000067	Transfer Request
+1TE3000068	Satellite Tracking Equipment
+1TE3000069	Mentats Abuse
+1TE3000070	Robots Gone Haywire
+1TE3000072	No Unauthorized Personnel
+1TE3000074	PAYLOAD COMMITTED
+1TE3000075	Check Satellite Status
+1TE3000076	Check Payload
+1TE3000077	Load Payload
+1TE3000078	Fire Payload
+1TE3000079	Satellite Fire Control System
+1TE3000080	+WARNING: Safety Off/System Unlocked+
+1TE3000082	Preset Target 01: Citadel
+1TE3000083	Preset Target 02: Project Purity
+1TE3000084	Preset Target 03: Megaton
+1TE3000085	Preset Target 04: Rivet City Carrier
+1TE3000086	Preset Target 05: Adams AFB Platform
+1TE3000088	+TARGET ACQUIRED: Citadel+
+1TE3000089	++WARNING: This will commit all warheads to target and lock this station.++
+1TE3000093	+TARGET ACQUIRED: Adams AFB Mobile Platform+
+1TE3000099	++FINAL WARNING: This target is for self-destruct purposes only! Final Approval required!++
+1TE3000103	-A Division Of PPE-
+1TE3000106	Shutdown Automated Process
+1TE3000107	Reactivate Automated Process
+1TE3000108	Load Control Manifest
+1TE3000109	Long Live the Enclave!
+1TE3000110	Robot Control Mainframe v2.7
+1TE3000112	Run Robotics Diagnostic
+1TE3000115	Perform Safety Shutdown
+1TE3000116	Scramble Robot Targeting Parameters
+1TE3000117	Target Enclave [Robotics Expert]
+1TE3000133	Security System Online
+1TE3000135	Unlock Interior Doors
+1TE3000136	Unlock Door to the Exterior
+1TE3000138	Armory Security Access Terminal
+1TE3000139	=Please list all equipment checked in or out!=
+1TE3000141	Log New Item Change
+1TE3000146	United States Military Police
+1TE3000147	Pentagon Substation 3A
+1TE3000153	Museum Authority Workstation 7
+1TE3000154	Dallas Bryce
+1TE3000156	Log Entry MA-0089
+1TE3000157	Log Entry MA-0088
+1TE3000158	Log Entry MA-0087
+1TE3000159	Log Entry MA-0086
+1TE3000160	Log Entry MA-0085
+1TE3000161	Log Entry MA-0084
+1TE3000164	Mission Brief
+1TE3000166	Mission Reports
+1TE3000167	Requisitions
+1TE3000168	Petty Cash Account
+1TE3000169	Logs
+1TE3000172	Big Town Report
+1TE3000173	Megaton Report
+1TE3000174	Rivet City Report
+1TE3000177	Day One
+1TE3000178	Incompetence
+1TE3000179	Work with me, people.
+1TE3000180	Dr. Li
+1TE3000181	First Casualty
+1TE3000182	More
+1TE3000185	MIA
+1TE3000188	Lepelletier
+1TE3000192	Leak
+1TE3000193	So tired...
+1TE3000194	New Personal Mantra
+1TE3000195	Megaton Gone
+1TE3000199	Awake
+1TE3000200	Missing Shipments
+1TE3000201	Project Purity Scientists
+1TE3000203	Presidential Metro System
+1TE3000204	Maintenance Logs
+1TE3000206	Log Entry AK197896
+1TE3000207	Log Entry AK197887
+1TE3000208	Log Entry AK197872
+1TE3000209	Log Entry AK197865
+1TE3000210	Log Entry AK197833
+1TE3000211	Logging on to Security Network...
+1TE3000214	Unlock Station Doors
+1TE3000217	Update Standing Orders
+1TE3000218	Request New Telemetry Data
+1TE3000219	Download Telemetry Data to User Device
+1TE3000220	Sever Uplink
+1TE3000252	Disable Deathclaw Field
+1TE3000253	Enable Deathclaw Field
+1TE3000254	Disable Protection Station Field
+1TE3000255	Enable Protection Station Field
+1TE3000256	Deathclaw Protection Station Terminal
+1TE3000257	In the event of instability in deathclaw neural manipulation, please make use of the nearby flame-inducing device.
+1TE3000265	Unlock and Open Pen Door
+1TE3000266	Close and Lock Pen Door
+1TE3000288	Ramp Open
+1TE3000289	Ramp Closed
+1TE3000290	Unavailable - Radio Silence Protocol A45
+1TE3000292	Powering Down Pylons.  Stand By...
+1TE3000300	Station Locked
+1TE3000301	Load Hardware Fault Detected
+1TE3000302	Satellite Not In Proper Orbit Path
+1TE3000305	Initiating Worker Shutdown Protocol...
+1TE3000306	Error 623 - Please Consult Manual
+1TE3000308	Robots are online and on defensive mode.
+1TE3000309	Robots are shut down.
+1TE3000310	Robots unstable. Potential safety hazard.
+1TE3000311	Robots are shutting down.
+1TE3000313	Enclave set to hostile target.
+1TE3000321	Interior Doors Unlocked
+1TE3000322	Exterior Door Unlocked
+1TE3000323	Armory Unlocked
+1TE3000324	Error - Mainframe Connection Lost
+1TE3000326	Log Corrupted
+1TE3000329	Station Doors Unlocked
+1TE3000330	Orders Remain Unchanged.
+1TE3000331	Telemetry Data Downloaded.
+1TE3000332	Data Downloaded.
+1TE3000333	Command Override. Unauthorized.
+1TE3000348	Deathclaw field disabled
+1TE3000349	Deathclaw fields enabled.
+1TE3000350	Station Field Disabled
+1TE3000351	Station Field Enabled
+1TE3000353	Deathclaw Field Enabled.
+1TE3000356	!!Warning - Deathclaw Pen Door Unlocked!!
+1TE3000357	Deathclaw Pen Door Locked
+1TE4000001	USN Field Ops MD-PL-01a (dom.)
+1TE4000002	Lt Krumfolz, DIA officer/Liason
+1TE4000004	Field Report - Yang Capture/Transfer
+1TE4000005	Public Release: Person Of Interest
+1TE4000006	Photo File: Wan Yang
+1TE4000007	encrypt k.v1910-mkIV
+1TE4000009	... SECURE TO TRANSMIT
+1TE4000011	Welcome to USA, Dr. Jiang.
+1TE4000013	Extraction Details
+1TE4000016	Extraction Debriefing
+1TE4000025	Covert Submarine SSN-37-1A
+1TE4000027	Shi shang wu nan shi,
+1TE4000028	zhi pa you xin ren
+1TE4000031	Initiate Self-Destruct
+1TE4000033	Self-Destruct Status
+1TE4000034	St. Aubin Medical Facility
+1TE4000035	Division Of Records
+1TE4000037	Information about lab goes here!
+1TE4000039	Security Terminal Options
+1TE4000041	Override Security Lock
+1TE4000043	Subsidiary of Isla Negra Holdings
+1TE4000052	Collective Benevolence
+1TE4000053	Volunteer Unit #MD18-02
+1TE4000054	Non-profit Charter REGMD982.90.2012
+1TE4000055	St Mary's County, Point Lookout Area
+1TE4000057	Unit Mission Parameters
+1TE4000058	New Plague Public Information
+1TE4000059	Unit Lead Logs
+1TE4000060	Relief Unit Lead
+1TE4000061	Private .log File
+1TE4000063	Log Entry 001
+1TE4000064	Log Entry 002
+1TE4000065	Log Entry 003
+1TE4000066	Log Entry 004
+1TE4000068	Copyright and Distributed by
+1TE4000069	Presidential Fitness Program (2059)
+1TE4000072	Remember to C.I.R.
+1TE4000075	ERROR: Security Database Corrupt
+1TE4000076	(exception at 01XC91DDDF)
+1TE4000077	...11XC91EEHH
+1TE4000078	...00XC00DDDF
+1TE4000079	\>_secure_shell_layer <corruption>
+1TE4000081	<!> Confidential <!>
+1TE4000082	DoD Networked OS v78.2
+1TE4000084	Electronic Message Transfer System
+1TE4000085	Logged in as: Dr. Laura Stewart
+1TE4000087	Construction Concerns
+1TE4000088	Subject Procedure Reminder
+1TE4000089	Notice to Staff
+1TE4000093	Logged in as: Adam Tomco
+1TE4000095	To: Doctor Stewart
+1TE4000096	From: Unknown
+1TE4000099	Lab Note System
+1TE4000100	Select note to view...
+1TE4000102	Core Research Progress Notes
+1TE4000103	An Oversight Review? Already?
+1TE4000104	Private Field Journal
+1TE4000105	S. Marcella J, Abbey of the Road
+1TE4000106	Point Lookout Expedition
+1TE4000108	"I am the light of the world: he that followeth me, walketh not in darkness, but shall have the light of life."  John 8:12
+1TE4000110	Latest Entry <audio file>
+1TE4000111	Found an ally?
+1TE4000112	Locals
+1TE4000113	Travel Journal
+1TE4000117	Tribal Culture (Cathedral)
+1TE4000118	Camp Turtledove
+1TE4000119	Clearance Level Alpha
+1TE4000120	C.O. Private Operations Terminal
+1TE4000122	ALERT: Suspected Spy (Ch.)
+1TE4000123	Interrogation Reports
+1TE4000124	Camp Operations Reports
+1TE4000125	Intelligence Dossier: Yang, Wan
+1TE4000126	Intelligence Records
+1TE4000127	Person of Interest
+1TE4000128	Yang, Wan (deceased)
+1TE4000130	Bulletin: Yang Capture/Transfer
+1TE4000131	ERROR: Incomplete Archive
+1TE4000133	Photo File: Yang, Wan (alias)
+1TE4000134	Intelligence File: Yang, Wan (alias)
+1TE4000136	Daily Operations Logs
+1TE4000138	Escape Route Patrols
+1TE4000141	* Personnel must report ALL intelligence up chain of command via Commanding Officer.
+1TE4000143	Doe, John (submariner)
+1TE4000145	Yang, Wan
+1TE4000147	The Pitt?
+1TE4000148	Leaving the Commonwealth...
+1TE4000149	Sojourn in Capital Wasteland
+1TE4000150	Bysshe Energy Partners
+1TE4000151	Natural Gas Survey Vessel
+1TE4000154	Access Expedition Supplies
+1TE4000156	Enter Auth Code 001
+1TE4000158	Auth Code 001 Verified
+1TE4000159	Enter Auth Code 002
+1TE4000161	Auth Code 002 Verified
+1TE4000162	Enter Auth Code 003
+1TE4000164	Auth Code 003 Verified
+1TE4000165	ERROR:12XU_user_shell
+1TE4000166	\.> backed up to user device...
+1TE4000167	Downloading Audio...
+1TE4000168	File Archived to Local Device
+1TE4000170	ERROR! ERROR!
+1TE4000176	CLASSIFIED! Captain's Eyes Only.
+1TE4000177	ERROR: Auth Codes Not Present!
+1TE4000178	Evacuation is Advised.
+1TE4000179	Protocol Imitated...
+1TE4000180	Thank you.  Have a pleasant day
+1TE4000187	Loading Sub-Menu...
+1TE4000196	Attempting File Recover....
+1TE4000205	Audio stored to user device...
+1TE4000206	Loading Note file...
+1TE4000207	Loading submenu...
+1TE4000212	loading high priority comm...
+1TE4000216	Loading Report...
+1TE4000217	Contact Technical Officer
+1TE4000219	Loading Image File...
+1TE4000229	Authorization Received.
+1TE4000230	ERROR: Auth Code Not Found !
+1TE4000231	C. Saunders: Authorization Received
+1TE4000239	Security Corruption!
+1TE5000001	Reid Underwood's Private Terminal
+1TE5000002	++We Are Not Alone!++
+1TE5000008	Remote Unlock Safe
+1TE5000011	Contents Compromised!

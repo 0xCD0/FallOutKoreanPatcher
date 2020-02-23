@@ -1,0 +1,874 @@
+0DE0000001	In order to heal a crippled limb, you have three choices: sleep in a bed, find a doctor, or use a Stimpak to heal yourself. In Hardcore Mode, you may only heal crippled limbs by usingDoctor's Bags or by visiting a doctor for medical care.Stimpaks can be used for general healing (which will also slightly heal crippling damage), orthey can be applied directly to a limb to heal crippling damage.To heal a crippled limb directly using a Stimpak, navigate to the Stats screen in yourPip-Boy, then left-click on a limb to use a Stimpak on that limb.
+0DE0000003	Strength is a measure of your raw physical power. It affects how much you can carry, the power of all melee attacks, and your effectiveness with many heavy weapons.
+0DE0000005	Endurance is a measure of your overall physical fitness. A high Endurance gives bonuses to health, environmental resistances, and the Survival and Unarmed skills.
+0DE0000008	Agility affects your Guns and Sneak skills, and the number of Action Points available for V.A.T.S.
+0DE0000012	The Energy Weapons skill determines your effectiveness with any weapon that uses Small Energy Cells, Micro Fusion Cells, EC Packs, or Flamer Fuel as ammunition.
+0DE0000013	The Explosives skill determines the ease of disarming any hostile mines and the effectiveness of any explosive weapon (all mines, all grenades, Missile Launcher, Fat Man, etc.).
+0DE0000017	The Repair skill allows you to maintain any weapons and apparel. In addition, Repair allows you to create items and Guns ammunition at reloading benches.
+0DE0000018	The Science skill represents your combined scientific knowledge, and is primarily used to hack restricted computer terminals. It can also be used to recycle Energy Weapon ammunition at workbenches.
+0DE0000019	Guns determines your effectiveness with any weapon that uses conventional ammunition (.22 LR, .357 Magnum, 5mm, 10mm, 5.56mm, .308, .45-70 Gov't etc.).
+0DE0000022	The Survival skill increases the Hit Points you receive from food and drink. It also helps you create consumable items at campfires.
+0DE0000023	The Unarmed skill is used for fighting without a weapon, or with weapons designed for hand-to-hand combat, like Brass Knuckles, Power Fists, and Displacer Gloves.
+0DE0000024	Despite relying on energy to harm their victims, Plasma Mines, EMP Grenades, and related items use the Explosives skill to determine their effectiveness.
+0DE0000025	EFFECT: When eaten, temporarily knocks out animals.
+0DE0000042	Super Mutants in the Mojave Wasteland are remnants of the Master's Army and the Enclave's experiments at Mariposa Military Base.
+0DE0000043	Dogs and coyotes can be found throughout the Mojave, typically wherever humans are traveling.
+0DE0000044	Despite the best efforts of well-equipped hunters, Deathclaws continue to establish nests across the Mojave Wasteland.
+0DE0000045	Securitrons are a creation of Mr. House, the enigmatic de facto ruler of New Vegas.
+0DE0000049	Lakelurks use a devastating sonic attack to debilitate their foes from afar.
+0DE0000053	This recipe allows you to make Ruby's spicy casserole.
+0DE0000055	Agility improves the speed of weapon reloads, drawing, and holstering.
+0DE0000056	A Glowing One uses its special ability to deliver radiation to its enemies and heal any nearby Feral Ghouls.
+0DE0000058	If someone sees you commit a crime against their faction, expect your reputation with that group to suffer.
+0DE0000064	Once your weapons and armor reach a certain condition level, your Repair skill can be used to maintain them, keeping them at maximum power for longer.
+0DE0000070	In general, the higher your Barter skill, the lower your prices on purchased items. It can also be used to negotiate for better rewards in conversation.
+0DE0000071	The Energy Weapons skill determines your effectiveness with any weapon that uses Energy Cells, Microfusion Cells, EC Packs, Microfusion Breeder, or Flamer Fuel as ammunition.
+0DE0000073	Welcome to PoseidoNet.
+0DE0000075	Welcome to PoseidoNet, General.
+0DE0000077	This is to add the feral ghoul reaver visual effects.
+0DE0000078	With the Nerves of Steel perk, you regenerate Action Points much more quickly than you normally would.
+0DE0000079	With the Rad Absorption perk, your radiation level slowly decreases on its own over time.
+0DE0000081	> Search for "Elder+dismissal" in topic History returned the following results.[CRLF][CRLF]> Choose a result:
+0DE0000082	> Let it be recorded that on this day, April 23rd, 2237, Raymond Lorn was dismissed from his post as Elder for committing the crime of murder. Brother Lorn was known to have hostile feelings toward the victim, Senior Scribe Ritter. The guilty party insists that Ritter's death was a tragic case of friendly fire (the bunker was under attack at the time), but the tribunal felt they could not let him persist as Elder with such suspicion hanging over him.
+0DE0000083	> Be it known that from this day, the 7th of October, 2259, Kenneth Jones shall no longer bear the title of Elder. Brother Jones has willfully gone against the Chain That Binds and has been forced to step down. Head Paladin Lindquist succeeds him as Elder.
+0DE0000084	> Let the record show that I have stood witness to the dismissal of David James from the post of Elder today, March 17th, 2265. Brother James was charged with destroying an unknown device recovered from a recent expedition. The purpose and function of the device remain unknown, and Brother James has thus far proven unwilling to discuss the matter with anyone.
+0DE0000085	> The Chain That Binds is the cornerstone of our organization, the rock that supports the great tree of the Brotherhood and its myriad branches. It holds that:[CRLF][CRLF]1. Orders are to flow from on high down through the ranks. An order from a superior must always be obeyed, that their wisdom may be carried out without hesitation.[CRLF][CRLF]2. Orders are to observe the flow and not skip ranks. A superior may only give orders to his direct subordinates, and not to those beneath them. In this way harmony of intent and cohesion of thought is maintained.
+0DE0000086	Vault 22 Interlab Network, Oxygen Recycling Main System[CRLF][CRLF]Warning: System diagnostic shows that memory has been corrupted.[CRLF][CRLF]
+0DE0000087	Cass does 15% more damage with all Guns.
+0DE0000088	Cass has +50 hit points.
+0DE0000095	Hidden Valley Network[CRLF][CRLF]Are you sure you would like to initiate the self-destruct sequence?
+0DE0000096	Hidden Valley Network[CRLF][CRLF]By order of Elder McNamara, engaging the bunker's self-destruct sequence requires the assent of the Head Scribe, Head Paladin, and Elder of the chapter.[CRLF][CRLF]Each of these Brothers has been given a keycard to be produced in case of emergency. When all three keycards are inserted below, the password to the self-destruct terminal to the right will be generated.[CRLF][CRLF]Please report a lost or stolen keycard immediately.[CRLF]
+0DE0000097	Hidden Valley Network[CRLF][CRLF]Welcome to the Hidden Valley Self-Destruct System.
+0DE0000098	The essence of champions flows through your veins. When you cannibalize corpses, you temporarily gain Caesar's intelligence, Mr. House's luck, The King's charisma, and President Kimball's strength.
+0DE0000099	[CRLF][CRLF]>\ Warning! Unauthorized user! Proceed?[CRLF]
+0DE0000101	From Frag Grenades to Throwing Spears, you can throw weapons 30% faster at the cost of 25% less range.
+0DE0000119	You are a true friend of the night. Your eyes adapt quickly to low-light conditions indoors and when darkness falls across the wasteland.
+0DE0000120	The power of your personality inspires die-hard loyalty from your followers. When you drop below 50% Health, your companions temporarily gain much greater resistance to damage.
+0DE0000121	Your attacks do much less damage to companions, allowing you to liberally spray an area with reckless abandon.
+0DE0000122	You don't fool around with fancy trick shots. Straight to the midsection and down they go. In VATS, you do an additional 15% damage with attacks targeting the torso.
+0DE0000123	You've been pushed around long enough! With the Nerd Rage! perk, your Strength is raised to 10 and you gain +15 Damage Threshold whenever your Health drops to 20% or below.
+0DE0000124	With the Lead Belly perk, you take 50% less radiation when consuming irradiated food and drink.
+0DE0000129	Your extensive familiarity with Explosives allows you to ignore a portion of their damage. Your Damage Threshold is increased by 25 against any and all Explosives -- even your own.
+0DE0000131	SoftLock Solutions, Inc[CRLF]"Your Security is Our Security"[CRLF]>\ Welcome, Mr. House[CRLF]
+0DE0000135	The slayer walks the earth! The speed of all Melee Weapons and Unarmed attacks is increased by 30%.
+0DE0000136	Your martial might is truly legendary. You do a large amount of additional damage through enemy blocks with all Melee Weapons and Unarmed attacks.
+0DE0000137	You gain +5 Damage Threshold against all Melee Weapons and Unarmed attacks and cannot be knocked down in combat.
+0DE0000138	You truly are a rad child. As you go through the increasingly devastating stages of radiation sickness, you will regenerate more and more health.
+0DE0000139	You Run Barter Town [%]\10000 Sell items through Barter.
+0DE0000140	Stim-ply Amazing [%]\10000 Heal damage with stimpaks.
+0DE0000141	Desert Survivalist [%]\10000 Heal with food.
+0DE0000142	[%]\10 Play slots.
+0DE0000143	Double Down [%]\10 Play blackjack.
+0DE0000144	Little Wheel [%]\10 Play roulette games.
+0DE0000145	Know When to Hold 'Em [%]\3 Win at Caravan.
+0DE0000146	Know When to Fold 'Em [%]\5 Lose at Caravan.
+0DE0000147	From the humble Laser Pistol to the mighty Gatling Laser, you do +15% damage and have +10% chance to critically hit with any laser weapon.
+0DE0000148	Your precision with a scattergun is something to behold. When using shotguns, regardless of ammunition used, you ignore an additional 10 points of a target's Damage Threshold.
+0DE0000149	You possess the amazing ability to repair any item using a roughly similar item. Fix a Trail Carbine with a Hunting Rifle, a Plasma Defender with a Laser Pistol, or even Power Armor with Metal Armor. How does it work? Nobody knows... except you.
+0DE0000150	Waste not, want not. When you use Energy Weapons, you are more likely to recover drained ammunition. You also have more efficient recycling recipes available at the Workbench.
+0DE0000151	You know your way around a reloading bench and don't let good brass and hulls go to waste. When you use Guns, you are more likely to recover cases and hulls. You also have all hand load recipes unlocked at the Reloading Bench.
+0DE0000152	You have unraveled some of the greatest mysteries of Pre-War masters: formulas for developing special Nuka-Colas! This perk unlocks special Nuka-Cola recipes at the Workbench.
+0DE0000153	Up close and personal, that's how you like it. Your Sneak Attack Criticals with pistols, revolvers, and submachine guns, whether Guns or Energy Weapons, all inflict an additional 20% damage.
+0DE0000154	You're just so excited about plasma that you can't (magnetically) contain yourself! The AP costs for all plasma weapons (including Plasma Grenades) are reduced by 20%.
+0DE0000155	When you're deep in enemy territory, you just start chucking grenades and hope for the best. All Explosives have a 25% larger area of effect.
+0DE0000157	Camp Searchlight Turret Defense Terminal North Sector
+0DE0000158	Camp Searchlight Turret Defense Terminal North East Sector
+0DE0000159	Camp Searchlight Turret Defense Terminal East Sector
+0DE0000160	Camp Searchlight Turret Defense Terminal South Sector
+0DE0000161	Camp Searchlight Turret Defense Terminal West Sector
+0DE0000162	While wearing light armor or no armor, you run 10% faster.
+0DE0000163	Weapon Strength Requirements are now 2 points lower than normal for you.
+0DE0000164	You have learned how to pack mountains of gear for the Long Haul. Being over-encumbered no longer prevents you from using Fast Travel.
+0DE0000165	Living Anatomy allows you to see the Health and Damage Threshold of any target. It also gives you a +5% bonus to damage against Humans and non-feral Ghouls.
+0DE0000166	Meltdown causes foes killed by your Energy Weapons to give off a corona of harmful energy. Note: this can cause a chain reaction.
+0DE0000167	You have learned the value of careful packing. Items with a weight of 2 or less weigh half as much for you.
+0DE0000168	Quite an arm you've got there. All thrown weapons fly farther and faster for you.
+0DE0000169	The Run 'n Gun perk reduces accuracy penalties with one-handed Guns and Energy Weapons while walking or running.
+0DE0000170	All Melee Weapons (except thrown) and Unarmed attacks have a chance of knocking your target down.
+0DE0000171	Piercing Strike makes all of your Unarmed and Melee Weapons (including thrown) negate 15 points of Damage Threshold on the target.
+0DE0000175	New California Republic Camp Searchlight Storage Database
+0DE0000176	Sunset Sarsaparilla Custodial Control[CRLF][CRLF]Worker MHDY133 - Area: Hallways[CRLF]Current Status: Unavailable[CRLF][CRLF]Worker MHDY134 - Area: Offices[CRLF]Current Status: Unavailable[CRLF][CRLF]Worker MHDY135 - Area: Bottling, Shipping[CRLF]Current Status: Standby
+0DE0000177	Chief Fire Officer Terminal
+0DE0000178	Hidden Valley Network[CRLF][CRLF]      Turret Control System
+0DE0000180	Hidden Valley Network[CRLF][CRLF]      Turret Control System[CRLF][CRLF]Choose allowed targets. Only stored entries may be chosen:
+0DE0000181	Hidden Valley Network[CRLF][CRLF]Welcome, Paladin Ramos.[CRLF][CRLF]Displaying last three files accessed.[CRLF]
+0DE0000182	Hidden Valley Network[CRLF][CRLF]Welcome, Schuler.[CRLF][CRLF]Displaying last three files accessed.
+0DE0000183	All weapons have two requirements: Strength and Skill. If you don't meet the requirements, the weapon may be less accurate (if a firearm) or attack more slowly (if an Unarmed or Melee Weapon).
+0DE0000184	At Workbenches, the Science skill can help you recycle Energy Weapon ammo and craft other useful items like Stimpaks.
+0DE0000185	In 2277, NCR forces defeated Caesar's Legion during the Battle of Hoover Dam. The NCR has held Hoover Dam since then, but the Legion has not made it easy for them.
+0DE0000186	Aaron Kimball is a former war hero and the current president of the New California Republic. His insistence on defending Hoover Dam has kept NCR troops in Nevada for years.
+0DE0000187	Though their power in the west has diminished greatly over the years, the Brotherhood of Steel still maintains hidden, heavily fortified bunkers throughout the Mojave.
+0DE0000188	Though they have had a rough history, the legendary Great Khans are one of the longest-lived gangs to come out of the southwest.
+0DE0000189	Brutalized by the NCR, the once-legendary Vipers and Jackals gangs have become little more than opportunistic, petty raiders.
+0DE0000190	The New California Republic Rangers are volunteer elite special forces renowned as much for their shrewd reconnaissance capabilities as their bravery and combat prowess.
+0DE0000191	Troopers are volunteer and conscripted forces in NCR's military. They vary widely in devotion, experience, and even in basic equipment. What they lack in consistency they make up for in numbers.
+0DE0000192	Explorers are Caesar's advance scouts. Typically equipped in light armor and carrying binoculars, they are the Legion's message runners and keen eyes across the Mojave.
+0DE0000193	Caesar's most trusted commanders are the centurions: battle-hardened front-line officers who dress in patchwork armor pieced together from their fallen foes.
+0DE0000194	Legionaries are the standard soldiers in Caesar's Legion. Their level of experience and overall toughness can be determined by noting the color of their armor.
+0DE0000195	Not commonly seen on the front lines, the vexillarius is a standard-bearer for Caesar's Legion. Their presence on the battlefield inspires legionaries to fight to the death for the glory of Caesar.
+0DE0000196	Mr. House is the mysterious overlord of The Strip. He controls his small empire from the confines of the Lucky 38 casino, where no other living person has set foot for over two hundred years.
+0DE0000197	The Followers of the Apocalypse are an organization with roots in the pre-NCR Boneyard. Dedicated to teaching the poor and healing the sick, they are also considered anarchist revolutionaries by many people in positions of power.
+0DE0000198	Wearing outfits that are associated with high-profile factions can be an effective disguise... or a good way to get shot, depending on present company.
+0DE0000199	Couriers for the Mojave Express regularly and rapidly carry packages between convenient (for the Mojave Wasteland) drop boxes in several communities.
+0DE0000200	.38 Special can be fired from any weapon that uses .357 Magnum. Similarly, .44 Special can be fired from any weapon that uses .44 Magnum and .223 can be fired from any weapon that uses 5.56mm.
+0DE0000201	Travelers say there are two ways to get into the New Vegas Strip: through Freeside or via the monorail to Camp McCarran. Only military personnel and NCR VIPs are allowed to use the monorail.
+0DE0000202	In Hardcore mode, keep an eye on your dehydration (H2O), starvation (FOD), and sleep deprivation (SLP) meters. If you let them get too high, you can suffer serious penalties - including death!
+0DE0000203	You can toggle "true" iron sights for firearms on and off in your Game Settings.
+0DE0000204	Caravan is not played in casinos, but is very popular among caravan guards and other frequent travelers on the Long 15.
+0DE0000205	Because Caravan allows players to build decks from any cards they can find, crafty caravan guards often come up with devious decks and strategies.
+0DE0000206	Caravan is played for standard money of any and all kinds: caps, NCR dollars, or Legion coins. Because the players are often poor, the stakes tend to be low.
+0DE0000207	Crafting can be done at any Workbench, Campfire, or Reloading Bench. Some companions even have the ability to help the player craft anywhere in the wasteland.
+0DE0000208	Though you can see many crafting recipes at the start of the game, some recipes will not show up until you take special perks or have discovered them in the wasteland.
+0DE0000209	Whether you're good, bad, or somewhere in between, all major communities and organizations in the Mojave Wasteland will pay attention to your reputation.
+0DE0000210	Stealing, hurting people, and otherwise being a nuisance can negatively impact your reputation with a group.
+0DE0000211	The Boomers are said to be xenophobic tribals armed with even more firepower than the Gun Runners. No one ventures into or out of their heavily guarded lands.
+0DE0000212	Damage Threshold is subtracted directly from the DAM a weapon does. If DT is higher than the DAM of a weapon, very little damage gets through.
+0DE0000213	If you see a red shield next to an enemy's health, it means that their armor's Damage Threshold is absorbing your weapon's damage. A broken red shield means you have completely negated their Damage Threshold.
+0DE0000214	If you see a shield next to a your health HUD, it means that your Damage Threshold is absorbing an enemy weapon's damage. A broken shield means they have completely negated your Damage Threshold.
+0DE0000215	Travelers along the Long 15 have complained to NCR rangers that caravans have been harassed and attacked by fearsome Super Mutants living in the irradiated ruins of Black Mountain.
+0DE0000216	Travelers from northern NCR have been whispering about a small community of Super Mutants located high in the snow-capped mountains west of New Vegas.
+0DE0000217	Players win and winners play, but the Strip's casinos don't generally tolerate openly worn weapons or gamblers who are too lucky at the tables.
+0DE0000218	Food heals more slowly than stimpaks, but is more common in the Mojave Wasteland. The Survival skill can increase the healing benefits of all forms of food, including Campfire crafting recipes.
+0DE0000219	As your Unarmed skill increases, you will unlock the ability to do uppercuts (50 Unarmed) and crosses (75 Unarmed) - both inside V.A.T.S. and out.
+0DE0000220	Some individuals in the wasteland have the ability to teach you special unarmed moves.
+0DE0000221	All companions give the player a bonus perk while they are in the party. Keep two companions around for double the perks!
+0DE0000222	XP for kills made by companions is awarded to the player.
+0DE0000223	Companions will heal themselves if they get a chance, but if you want to ensure they live a long life in your service, use the Companion Wheel to administer stimpaks directly.
+0DE0000224	With the expansion of post-apocalyptic society across the American southwest, courier groups like the Mojave Express have appeared to take on the difficult task of carrying letters and packages over enormous distances.
+0DE0000225	The higher the Charisma, the higher the Nerve. Nerve grants significant combat bonuses to all companions.
+0DE0000226	"Prospector" is a polite word for "scavenger". Prospectors can be found all over the Mojave Wasteland, usually looking for the rare unopened safe at the bottom of an irradiated mineshaft.
+0DE0000227	Though people around New Vegas have little interest in Pre-War tourist trinkets, there is one influential figure who has a soft spot for snow globes...
+0DE0000228	Magazines provide temporary bonuses to skills but are much more common than the highly-prized skill books.
+0DE0000229	The Wild Wasteland trait converts a few normally "ordinary" occurences into zany, wacky encounters. Do not take this trait unless you prefer your Fallout experience to be a bit more goofy than usual.
+0DE0000230	The Shotgun Surgeon perk negates 10 points of enemy Damage Threshold while you are using any shotgun - handy for taking out lightly-armored opponents who would normally foil your buckshot.
+0DE0000231	With Splash Damage, all of your explosions are increased in size, allowing you to carpet bomb an even larger area.
+0DE0000232	Sad that you're too weak to keep a light machine gun on target? Take the Weapon Handling perk to remove 2 points from all weapon Strength requirements.
+0DE0000233	Do companions annoy you by constantly running into your bullets and missiles? Take the Spray and Pray perk to drastically reduce the amount of damage your attacks inflict on all currently hired companions.
+0DE0000234	Not sure what your reputation is with a current group? If you've earned one, you can find it in your Pip-Boy under Stats - General.
+0DE0000235	The distinctive black ranger combat armor consists of the Desert Rangers' traditional trench coat worn with Pre-War riot armor. Ranger patrol armor is hand-manufactured in the NCR.
+0DE0000236	Chief Hanlon is the head of the NCR Rangers and one of of its longest serving members. He coordinates the actions of the Rangers from their headquarters at Camp Golf.
+0DE0000237	Legate Lanius, the Monster of the East, is the military commander of all Caesar's forces in the field. He is legendary for his devotion to Caesar and for his ability to sense weakness in any army.
+0DE0000238	After the Legion lost the Battle of Hoover Dam, Caesar had his legate, Joshua Graham, covered in pitch, set on fire, and thrown into the Grand Canyon. Superstitious legionaries and tribals believe he lives on as the Burned Man.
+0DE0000239	The King is dedicated to the cause of independence and personal liberty in Freeside. His gang, the Kings, attempts to keep some semblance of order in the streets.
+0DE0000240	Due to disagreements over how technology should be controlled in the wasteland, the Brotherhood of Steel waged a long and bloody war against the NCR. Despite superior equipment and training, the Brotherhood eventually went into retreat.
+0DE0000241	Though they were a powerful force in the west decades ago, the Enclave has not been seen or heard from in the Mojave Wasteland for years. Members who were not hunted down are believed to have traveled east - or successfully integrated into the NCR.
+0DE0000242	Array optimized.
+0DE0000256	Silences the weapon.
+0DE0000259	NCRA RECORDOTRON Squad Readiness Report Database[CRLF]v3.75
+0DE0000260	NCRA Troop Dispositionator ME[CRLF]v8.87
+0DE0000262	REPCONN Security Terminal[CRLF]
+0DE0000263	Your frequent water consumption has led to improved benefits from drinking hydrating fluids.
+0DE0000264	System Online
+0DE0000265	Hermes Communications, Inc.[CRLF]Black Mountain Submatrix[CRLF]System Online
+0DE0000268	REPCON[CRLF]
+0DE0000269	REPCONN Badge Processing[CRLF]
+0DE0000270	Good day Mr. Isley[CRLF]
+0DE0000272	Good day Ms. Masters[CRLF]
+0DE0000273	A weapon's DAM indicates its damage per shot, and is modified by factors like the weapon's condition and its associated skill.
+0DE0000274	Welcome, Guest.
+0DE0000275	Welcome, Mr. Gottlieb.
+0DE0000276	Welcome, Officer.
+0DE0000279	>\ Welcome, USER
+0DE0000281	New Vegas Samurai [%]\10000 Do damage with Melee weapons.
+0DE0000282	Love the Bomb [%]\10000 Do damage with Explosive weapons.
+0DE0000283	Blaster Master [%]\10000 Do damage with Energy weapons.
+0DE0000284	Lead Dealer [%]\10000 Do damage with Guns weapons.
+0DE0000285	Master of the Mojave [%]\75 Discover more Locations.
+0DE0000286	Artful Pocketer [%]\50 Pick Pockets.
+0DE0000287	Old Tyme Brawler [%]\10000 Do damage with Unarmed weapons.
+0DE0000288	*** East Pump Station Terminal ***[CRLF]*** Authorized Personnel Only ***[CRLF]
+0DE0000292	Good day Mr. Steeple[CRLF]
+0DE0000293	Good day Ms. Wang[CRLF]
+0DE0000294	Hermes Communications, Inc.[CRLF]Black Mountain Submatrix[CRLF]System Online[CRLF]
+0DE0000296	Vault Security and Control Center[CRLF][CRLF]Please Select from the Following Menu Options:
+0DE0000297	Silences weapon.
+0DE0000299	Cazadores are a new predator in the Mojave Wasteland and often fight with Night Stalkers over their prey.
+0DE0000300	Due to their brutal initiation rituals, Great Khans are extremely tough. Don't expect them to go down easily.
+0DE0000301	Made savage by excessive chem use, the Fiends of New Vegas are the most numerous and troublesome raiders of the Mojave Wasteland.
+0DE0000302	Trent Meyer
+0DE0000303	Welcome, Mr. House.[CRLF]
+0DE0000310	Welcome, Veronica.
+0DE0000311	[CRLF][CRLF]>\ Welcome, Mr. House.[CRLF]
+0DE0000314	Agility affects your Guns and Sneak skills as well as the number of Action Points available for V.A.T.S.
+0DE0000315	High Charisma gives bonuses to both the Barter and Speech skills as well as your companions' Nerve.
+0DE0000316	Sunset Sarsaparilla Custodial Control[CRLF][CRLF]Main Menu
+0DE0000317	Sunset Sarsaparilla Custodial Control[CRLF][CRLF]Mail System[CRLF][CRLF]You have the following messages:[CRLF]
+0DE0000318	Sunset Sarsaparilla Custodial Control[CRLF][CRLF]Mail System[CRLF][CRLF]From: Clark Weathers, VP of Operations[CRLF]Subject: Water Leak[CRLF][CRLF]Body: Just letting you guys know we've had reports of a possible small water leak in the upstairs meeting room. The long term effects of water damage can be very, very expensive, so let's get this problem solved before it gets any worse, shall we?[CRLF]
+0DE0000319	Sunset Sarsaparilla Custodial Control[CRLF][CRLF]Mail System[CRLF][CRLF]From: Kenneth Aguilar, President[CRLF]Subject: Great Job[CRLF][CRLF]Body: I wanted to personally congratulate you on the success of the new automated janitorial system. In particular, #135 has proven very popular with the staff. I can't tell you how many complaints I used to hear about stray bottle caps getting into the machinery. Oh, and we should have a meeting soon concerning the rest of your staff. How's Tuesday?[CRLF]
+0DE0000320	Sunset Sarsaparilla Custodial Control[CRLF][CRLF]Worker MHDY133 - Area: Hallways[CRLF]Current Status: Unavailable[CRLF][CRLF]Worker MHDY134 - Area: Offices[CRLF]Current Status: Unavailable[CRLF][CRLF]Worker MHDY135 - Area: Bottling, Shipping[CRLF]Current Status: Activated
+0DE0000321	Sunset Sarsaparilla Company Intranet[CRLF][CRLF]Welcome, Miss Paige! The president has no new messages since the last time you logged in.
+0DE0000322	Sunset Sarsaparilla Company Intranet[CRLF][CRLF]Local Saved Messages[CRLF]
+0DE0000324	Sunset Sarsaparilla Company Intranet[CRLF][CRLF]From: Nathan Stanley, Director of PR[CRLF]Subject: What contest?[CRLF][CRLF]Body: Sir, the rumors of some sort of contest are quickly growing out of control. We're getting flooded with calls and messages asking if it's true we're redeeming bottle caps for prizes. Do you want me to make an official statement denouncing this rumor?
+0DE0000325	Sunset Sarsaparilla Company Intranet[CRLF][CRLF]To: Nathan Stanley, Director of PR[CRLF]Subject: RE: What contest?[CRLF][CRLF]Body: Stanley, are you out of your mind? Have you seen the latest sales figures? We're up 300% since these rumors started and you're asking if I want you to make it stop? Please stop by my office so we can further discuss the issue.
+0DE0000326	Sunset Sarsaparilla Company Intranet[CRLF][CRLF]To: Marcus Brody, VP of Technology[CRLF]Subject: While the iron is hot[CRLF][CRLF]Body: Marcus, I have a few ideas about how we can turn this whole contest situation to our advantage. I'm going to need you to work with the advertising guys on a very special project. A meeting request will be sent out soon. By the way, how do you feel about cowboys?
+0DE0000327	Sunset Sarsaparilla Company Intranet[CRLF][CRLF]From: Lucas Nash, VP of Sales, RobCo Corp.[CRLF]Subject: How do you like your new toy?[CRLF][CRLF]Body: Kenneth, I hope you've been impressed thus far with your recent purchase. Your company has been and continues to be a valued customer. Contact me if you have any questions.
+0DE0000328	Sunset Sarsaparilla Company Intranet[CRLF][CRLF]To: Lucas Nash, VP of Sales, RobCo Corp.[CRLF]Subject: RE: How do you like your new toy?[CRLF][CRLF]Body: Lucas, I couldn't be happier with the performance of the new model. If it's current performance is any measure, it promises to reinvent my company's entire distribution network. I'd like to tentatively discuss purchasing a few more in the near future. How soon do you expect more to become available?
+0DE0000329	Sunset Sarsaparilla Company Intranet[CRLF][CRLF]You have 1 saved message and 1 saved draft.
+0DE0000330	Sunset Sarsaparilla Company Intranet[CRLF][CRLF]To: Margie Walker, Truckers' Union Rep[CRLF]Subject: Worse news[CRLF][CRLF]Body: We've got trouble. That hush-hush experimental robot I told you about the other day? The damn thing is single-handedly running all of our distribution in the Vegas area now. Your boys aren't on temporary leave. It's permanent. Damn, the president wants to see me in his office. I'll finish this later.
+0DE0000331	Sunset Sarsaparilla Company Intranet[CRLF][CRLF]To: Margie Walker, Truckers' Union Rep[CRLF]Subject: Bad news[CRLF][CRLF]Body: I'll apologize up front if there are any mistakes in this message. I'm trying out a new dictation headset. Margie, the boss man just ordered some kind of newfangled robot that's supposed to take over some of your deliveries. I'm not supposed to talk about it, but you should hear about it soon. I'll write again when I know more. Do not pass this along.
+0DE0000332	Sunset Sarsaparilla Company Intranet[CRLF][CRLF]Welcome, Mr. Brody!
+0DE0000333	Sunset Sarsaparilla Company Intranet[CRLF][CRLF]Mail System
+0DE0000334	Sunset Sarsaparilla Company Intranet[CRLF][CRLF]Automated Messages System
+0DE0000335	Sunset Sarsaparilla Company Intranet[CRLF][CRLF]Automated Messages System[CRLF][CRLF]HDY074 reports a servo failure![CRLF]HDY074 reports all systems OK![CRLF]HDY019 & 291 report a line malfunction![CRLF]HDY117 reports oil maintenance needed soon![CRLF]PRO802 reports a weapon malfunction![CRLF]HDY019 & 291 report all is OK![CRLF]HDY117 reports all systems OK![CRLF]PRO802 reports weapon OK![CRLF]HDY074 reports a line malfunction!
+0DE0000336	Sunset Sarsaparilla Company Intranet[CRLF][CRLF]Automated Messages System[CRLF][CRLF]HDY117 reports an actuator failure![CRLF]PRO496 reports minor structural damage![CRLF]HDY291 reports a line malfunction![CRLF]HDY074 reports oil maintenance needed soon![CRLF]HDY019 reports a line malfunction![CRLF]HDY019 & 291 report all is OK![CRLF]HDY019 & 291 report inactivity![CRLF]HDY074 reports inactivity![CRLF]HDY074, 019, & 291 report inactivity!
+0DE0000337	Sunset Sarsaparilla Company Intranet[CRLF][CRLF]Automated Messages System[CRLF][CRLF]PRO931 reports an intruder![CRLF]PRO931 reports major structural damage![CRLF]HDY291 & 074 report major structural damage![CRLF]PRO802 & 496 report an intruder![CRLF]PRO802 & 496 report major structural damage![CRLF]PRO805 & 014 report major structural damage![CRLF]PRO446 reports the intruder has been injured![CRLF]PRO446 reports major structural damage![CRLF]HDY117 reports major structural damage!
+0DE0000340	Sunset Sarsaparilla Company Intranet[CRLF][CRLF]Annual Sales Report[CRLF][CRLF]Our performance in the east continues to improve, thanks to the new "Build Mass with Sass" campaign. The Northeast continues to be a tough nut to crack, and continued slow growth is expected. Things are shaping up in the North- and Midwest, and the leaders of those teams are to be commended. As usual, performance in the Southwest is strong. Overall, this has been a banner year for Sunset Sarsaparilla, and you should all be proud of yourselves.
+0DE0000341	Sunset Sarsaparilla Company Intranet[CRLF][CRLF]Mail System[CRLF][CRLF]From: Kenneth Aguilar, President[CRLF]Subject: Festus[CRLF][CRLF]I knew I could count on you, Marcus. That new robot down in the lobby has been massively popular with tourists, and word of the contest has spread far and wide.
+0DE0000342	A high Endurance gives bonuses to Health, environmental resistances, and the Survival and Unarmed skills.
+0DE0000345	Raising your Luck raises all of your skill values and improves your Critical Chance with all weapons. It also slightly influences the outcome of gambling games.
+0DE0000347	The Medicine skill determines the effectiveness of a Stimpak, Super Stimpak, and Doctor's Bag used to heal Health or damaged limbs.
+0DE0000350	The Repair skill allows you to optimize and maintain weapons and apparel. At Reloading Benches, it also allows you to craft ammo for your Guns.
+0DE0000356	Know When to Hold 'Em [%]\27 Win at Caravan.
+0DE0000357	Increases rate of fire.
+0DE0000359	H&H Tools, Inc.[CRLF]"Building the things you need to build a better tomorrow!"[CRLF]Employee access terminal[CRLF]
+0DE0000360	House Industries Network[CRLF]
+0DE0000361	Your muscle mass has been enhanced with the Hypertrophy Accelerator, increasing your Strength by 1.
+0DE0000362	Your central nervous node has been enhanced with the Reflex Booster, increasing your Agility by 1.
+0DE0000363	Your optic nerve has been enhanced with the Optics Enhancer, increasing your Perception by 1.
+0DE0000364	Your nervous system has been enhanced with the Nociception Regulator, increasing your Endurance by 1.
+0DE0000365	Your prefrontal cortex has been enhanced with the Empathy Synthesizer, increasing your Charisma by 1.
+0DE0000366	Your cerebral cortex has been enhanced with the Logic Co-Processor, increasing your Intelligence by 1.
+0DE0000367	Your frontal lobe has been enhanced with the Probability Calculator, increasing your Luck by 1.
+0DE0000369	Decreases weight ([%])
+0DE0000370	In some conversations, you gain the ability to initiate combat while terrifying a mob of opponents, sending them fleeing away for safety.
+0DE0000372	Increases condition ([%]).
+0DE0000373	Increases ammunition capacity ([%]).
+0DE0000374	Replenishes ammunition (1/4 shots).
+0DE0000376	Increases range (+100%).
+0DE0000379	Decreases spread, adds laser sight effect.
+0DE0000380	Adds short-range scope.
+0DE0000383	Decreases spread.
+0DE0000385	Adds long-range scope.
+0DE0000389	Reduces weapon noise.
+0DE0000390	Decreases weight ([%]).
+0DE0000391	Reduces spread.
+0DE0000394	Increases damage ([%]).
+0DE0000395	Creates two beams that together do increased damage (+30%).
+0DE0000396	Increases speed of plasma projectile.
+0DE0000401	Your skin has been toughened by the NEMEAN Sub-Dermal Armor, increasing your total Damage Threshold by 4.
+0DE0000402	Your regenerative ability has been enhanced by the PHOENIX Monocyte Breeder implant, causing you to slowly regenerate lost hit points.
+0DE0000403	New California Republic Camp Searchlight Communications Terminal #4
+0DE0000404	ERROR 0x03C663A1[CRLF]"Network connection not found"[CRLF]
+0DE0000407	/////Custodial Terminal: Shared Access
+0DE0000410	SoftLock Solutions, Inc[CRLF]"Your Security is Our Security"[CRLF]Current Administrator: None[CRLF]>\ Welcome, Scrambler.[CRLF]
+0DE0000411	Wild Wasteland unleashes the most bizarre and silly elements of post-apocalyptic America. Not for the faint of heart or the serious of temperament.
+0DE0000416	Security Disabled, doors unlocked[CRLF]
+0DE0000417	Security Lockdown in place. Please enter override.[CRLF]
+0DE0000418	Server HV-VR1078[CRLF][CRLF]Current Simulation: Base Defense
+0DE0000419	LOB Enterprises Employee Terminal[CRLF][CRLF]Welcome Mr. Johnson[CRLF][CRLF]Please refrain from making inappropriate comments and actions towards the female employees.[CRLF][CRLF]As is company policy, this reminder will remain on screen for as long as Human Resources deems necessary.[CRLF][CRLF]
+0DE0000426	Private Server Access[CRLF]Piers Isley
+0DE0000429	Navitron, Inc[CRLF]"Steering You Right"[CRLF]>\ Welcome, USER[CRLF][CRLF]Current coordinates for rocket 1: 689.7, 457.3, 598.1[CRLF]Current coordinates for rocket 2: 709.7, 459.3, 598.1[CRLF]Current coordinates for rocket 3: 729.7, 461.3, 598.1[CRLF][CRLF]Alter coordinates?
+0DE0000430	Adds mid-range scope.
+0DE0000434	Decreases weight.
+0DE0000441	Adds long-range night scope.
+0DE0000442	With the Retention perk, the bonuses granted by skill magazines last three times as long.
+0DE0000443	Vault 11 has been abandoned for decades, though few people know the story of its terrible past.
+0DE0000444	At the Battle of Hoover Dam, the tide turned for NCR when rangers and 1st Recon sharpshooters lured Caesar's soldiers into the booby-trapped ruins of Boulder City.
+0DE0000445	Established long ago in California, the Crimson Caravan Company and the Gun Runners are two of NCR's oldest and most powerful merchant houses.
+0DE0000446	The families that now run the Strip of New Vegas were little more than squabbling tribes a few decades ago.
+0DE0000447	Mojave Outpost is the site where the NCR Rangers and Desert Rangers of Nevada signed the Ranger Unification Treaty. It also marks the boundary of fully NCR-controlled territory.
+0DE0000448	All territory east of the Colorado River is recognized as Caesar's land, an area indisputably under the control of the Legion and agents acting on Caesar's behalf.
+0DE0000449	SoftLock Solutions, Inc[CRLF]"Your Security is Our Security"[CRLF][CRLF]WARNING: Until further notice, the door to the caves is to be sealed at all times, by order of Administrator Bailey. See him for further details.[CRLF]
+0DE0000452	RobCo Service Terminal[CRLF]V 6.0.1[CRLF]------------------------------------[CRLF]NCR Army Supply Database.[CRLF]McCarran Branch.
+0DE0000456	Vault 22 Interlab Network, Vault-Tec Data Backup System[CRLF][CRLF]Current data integrity: 31%[CRLF]
+0DE0000473	With the Silent Running perk, running no longer factors into a successful sneak attempt.
+0DE0000475	At the first rank of this perk, animals simply won't attack. At the second rank, they will actually come to your aid in combat, but never against another animal.
+0DE0000477	With the Action Boy perk, you gain an additional 15 Action Points to use in V.A.T.S.
+0DE0000481	With the Robotics Expert perk, you do an additional 25% damage to any robot. But, even better, sneaking up on a hostile robot undetected and activating it will put that robot into a permanent shutdown state.
+0DE0000486	With the Educated perk, you gain two more skill points every time you advance in level. This perk is best taken early on, to maximize its effectiveness.
+0DE0000487	With the Entomologist perk, you do an additional +50% damage every time you attack a mutated insect, like the Radroach, Giant Mantis, or Radscorpion.
+0DE0000489	With the Toughness perk, you gain +3 to overall Damage Threshold. This perk may be taken twice, with the second rank granting an additional +3.
+0DE0000490	With the Comprehension perk, you gain double the bonus from reading magazines and one additional point from skill books.
+0DE0000491	With the Fortune Finder perk, you'll find considerably more bottle caps in containers than you normally would.
+0DE0000498	Goodsprings was a ghost town before the war but continues to be important to Long 15 travelers for its fresh water supply.
+0DE0000499	Often the first place NCR travelers stop after the Mojave Outpost, Primm is also where a lot of folks realize they left New Vegas with barely enough money to make the long trek back to The Hub.
+0DE0000500	Though Boulder City survived the Great War without much damage, the NCR intentionally razed most of the town with a series of explosions during the Battle of Hoover Dam.
+0DE0000501	The Silver Rush casino was in competition with The Atomic Wrangler until the owners ran afoul of the Van Graff family.
+0DE0000502	The Old Mormon Fort is the oldest building in New Vegas and was recently occupied by the Followers of the Apocalypse.
+0DE0000503	The King's School of Impersonation is the "world" headquarters of the Freeside gang known as The Kings.
+0DE0000504	Mr. House's Lucky 38 casino towers over the New Vegas Strip, mysterious and impenetrable to visitors and locals alike.
+0DE0000505	Fully renovated by The Chairmen, the Tops is billed throughout New Vegas as a place for men to kick back, drink, laugh, and have a good time.
+0DE0000506	The Omerta family sells a variety of services and delights to its patrons at Gomorrah, but most visitors are there for one thing: sex.
+0DE0000507	The pinnacle of New Vegas refinement and class, the Ultra-Luxe casino is home to the discriminating White Glove Society and their pampered guests.
+0DE0000508	Freeside was built up around the intersection of Fremont Street and Las Vegas Boulevard. The influx of destitute travelers in recent months has created problems for its local residents.
+0DE0000509	The Strip is the heart of New Vegas, where Mr. House and the casino families are rebuilding the city in the image of its Pre-War glory.
+0DE0000510	The NCR has maintained an embassy on The Strip for several years, but has had little success in building friendly relations with Mr. House or the ruling families.
+0DE0000511	Though New Vegas is littered with debris of the Pre-War world, Michael Angelo continues to create new art and signs for Mr. House in his workshop on The Strip.
+0DE0000512	It's not much to look at, but if you can't afford to get into The Strip, the Atomic Wrangler's the best place to gamble in Freeside.
+0DE0000513	Not sure what skill a weapon uses? Look at the lower left corner of its Pip-Boy icon and compare it to the weapon skills.
+0DE0000514	Explosive weapons are best used when dealing with crowds or in situations where precision is not a high priority.
+0DE0000515	Guns are the most common ranged weapons in the Mojave Wasteland. They are numerous and varied and ammunition is relatively easy to acquire.
+0DE0000516	Most Melee Weapons are completely silent, making them excellent stealth weapons.
+0DE0000517	When your character's Melee Weapons score hits 50, you will be able to perform special power attacks and V.A.T.S. moves with different Melee Weapons.
+0DE0000518	Talented Unarmed combatants in the Mojave Wasteland can teach specialized fighting styles to improve your abilities.
+0DE0000519	Most Energy Weapons fall into one of two categories: laser, which is fast, accurate, and low-damage, and plasma, which is slow-moving and very high-damage.
+0DE0000520	Energy Weapons are less common and varied than Guns, but have a small number of ammunition types and can be quite potent.
+0DE0000521	A weapon's DPS is its Damage Per Second and is calculated using the weapon's base damage (modified by condition), your weapon skill, and the weapon's rate of fire.
+0DE0000522	If you do not meet a weapon's Strength requirement, you may be less accurate with it or attack more slowly.
+0DE0000523	At 75% Condition, a weapon will never jam and does maximum damage. At 50% Condition, armor protects against maximum damage.
+0DE0000524	A wide variety of weapon mods are available from merchants for Guns, Energy Weapons, and even a few Explosives. Attaching them is as simple as using your Pip-Boy and opening the mod menu for your weapon.
+0DE0000525	Weapon mods can increase ammo capacity and damage, reduce spread and weight, or add special equipment like scopes.
+0DE0000539	You can run faster with your two-handed weapons holstered. One-handed weapons will not slow you down.
+0DE0000540	Repair your weapons and armor regularly -- the lower their condition, the worse they will perform.
+0DE0000541	For ideal shooting conditions, make sure you stop, crouch, and aim before firing.
+0DE0000542	In Casual Mode, limb damage can be repaired directly by applying Stimpaks to affected areas, using the Pip-Boy. In Hardcore Mode, a Doctor's Bag or an actual doctor is required.
+0DE0000543	Two-handed weapons and medium or heavy apparel will slow you down when they're equipped.
+0DE0000544	If your weapons aren't strong enough to penetrate an enemy's armor, use armor-piercing ammo, attack from stealth, or use a weapon with higher DAM!
+0DE0000546	A weapon with high DPS but low DAM is best used against unarmored opponents.
+0DE0000547	Drinking water provides healing but may increase your radiation level. In Hardcore Mode, drinking water is vital for keeping your dehydration level down.
+0DE0000549	Vault 22 Interlab Network, Patient Case Database[CRLF][CRLF]Warning: System diagnostic shows that memory has been corrupted. Retrieving uncorrupted files only.
+0DE0000550	Vault 22 Interlab Network, Food Production Subsystem[CRLF][CRLF]Warning: System diagnostic shows that memory has been corrupted. Retrieving uncorrupted files only.
+0DE0000562	[CRLF]
+0DE0000566	You are able to optimize your Pip-Boy's V.A.T.S. logic, reducing all AP costs by 10%.
+0DE0000567	While wearing any type of glasses, you have +1 PER. Without glasses, you have -1 PER.
+0DE0000568	Your melee and unarmed attacks do more damage, but less critical hit damage.
+0DE0000569	Due to your small size, you have +1 AGL but your limbs are more easily crippled.
+0DE0000570	While using Guns and Energy Weapons, you fire 20% more quickly but your shots are 20% less accurate.
+0DE0000571	While using Guns and Energy Weapons, you fire 20% more slowly but are 20% more accurate.
+0DE0000572	With Ghastly Scavenger, when you're in Sneak mode, you gain the option to eat a Super Mutant or Feral Ghoul corpse to regain Health. Every time you feed, you lose Karma, and if the act is witnessed, it is considered a crime against nature.
+0DE0000573	You have +10 Action Points but your reckless nature causes you to have -2 Damage Threshold.
+0DE0000574	In combat, you do +75% Critical Damage against animals and mutated animals.
+0DE0000576	Raising the game's difficulty will make combat more challenging but has no effect on the amount of XP you receive.
+0DE0000577	Crimson Caravan Company[CRLF]Internal Memorandum Network[CRLF]Current User: dhostetler
+0DE0000578	As a purifier of the wasteland, you do +50% damage with Melee and Unarmed weapons against Centaurs, Nightstalkers, Spore Plants, Spore Carriers, Deathclaws, Super Mutants, and Feral Ghouls.
+0DE0000580	In combat, you do +10% damage against female opponents. Outside of combat, you'll sometimes have access to unique dialogue options when dealing with the same sex.
+0DE0000581	In combat, you do +10% damage against male opponents. Outside of combat, you'll sometimes have access to unique dialogue options when dealing with the same sex.
+0DE0000584	ERROR 0x03C663A1[CRLF]"Network connection not found"[CRLF]"Dummy terminal inactive"[CRLF]
+0DE0000585	This recipe allows you to make Rose's famous deathclaw omelet!
+0DE0000586	COMPANION ONLY - Veronica gains +4 DT.
+0DE0000587	COMPANION ONLY - Veronica's Unarmed attack rate goes up by 30%.
+0DE0000592	I don't know what's happening. The sirens went off twenty minutes ago and I hear something like thunder in the distance. We're not allowed to leave the building and I can't see what's happening in the street. I'm scared... I think this might be it. Everything that we've been building up for. This might be the last thing I ever write, so to whoever finds it, if I don't make it tell my family that I love them.[CRLF][CRLF]---[CRLF]Elise Walton[CRLF]CPA[CRLF]GAO, Dept. of Research Subsidies
+0DE0000593	Rapid Reload makes all of your weapon reloads 25% faster than normal.
+0DE0000594	Quick Draw makes all of your weapon equipping and holstering 50% faster.
+0DE0000595	Just when your enemies think they have the upper hand, Miss Fortune appears to turn their world upside down. Appearing only in V.A.T.S., she has the ability to snatch defeat from the jaws of victory.
+0DE0000596	You're Good Natured at heart, more prone to solving problems with your mind than violence. You gain +5 to Barter, Medicine, Repair, Science, and Speech, but have -5 to Energy Weapons, Explosives, Guns, Melee Weapons, and Unarmed.
+0DE0000597	The Flamer that burns twice as bright burns half as long. All weapons have +3% chance to Critically Hit, but equipment condition decays 15% faster.
+0DE0000598	Vault 22 Interlab Network, Food Production Subsystem[CRLF][CRLF]Warning: System diagnostic shows that memory has been corrupted. Three messages retrieved:
+0DE0000599	Vault 22 Interlab Network, Main Entrance Security Station[CRLF][CRLF]Warning: System integrity compromised! Unauthorized login deteczhglkhjslkjhzoohglk;lkjhg
+0DE0000600	Vault 22 Interlab Network, Oxygen Lab System[CRLF][CRLF]Warning: System security has been compromised!
+0DE0000601	Vault 22 Interlab Network, Atmospheric Effects Subsystem[CRLF][CRLF]Warning: System diagnostic shows that memory has been corrupted. Retrieving uncorrupted files only.
+0DE0000602	Vault 22 Interlab Network, Water Purification Subsystem[CRLF][CRLF]Warning: System diagnostic shows that memory has been corrupted. Retrieving uncorrupted files only.[CRLF]
+0DE0000603	Vault 22 Interlab Network, Guess What Trivia Game[CRLF][CRLF]Warning: System security has been compromised! Current data integrity is unknown.
+0DE0000604	Vault 22 Interlab Network, Maintenance Help System[CRLF][CRLF]Warning: System diagnostic shows that memory has been corrupted. Retrieving uncorrupted files only.
+0DE0000605	Vault 22 Interlab Network, Pest Control Subsystem[CRLF][CRLF]Warning: System diagnostic shows that memory has been corrupted. Retrieving uncorrupted files only.
+0DE0000606	You do 25% more damage when using any revolver, lever-action firearm, dynamite, knife, or hatchet.
+0DE0000610	If you aren't Big Sal, keep your grubby fucking fingers to yourself![CRLF]
+0DE0000612	DeepFreeze Kitchen Storage Corp.[CRLF]"Cleanliness is next to godliness. Both are below freshness."[CRLF]>\ Welcome, USER[CRLF]
+0DE0000616	If you kill a target in V.A.T.S., 20 Action Points are restored upon exiting V.A.T.S.
+0DE0000618	Vault 22 Interlab Network, Overseer Node[CRLF][CRLF]Warning: System diagnostic indicates some systems are damaged or offline. Please contact maintenance.
+0DE0000619	Hidden Valley Network[CRLF][CRLF]Welcome, user.[CRLF]
+0DE0000620	Ha ha, suckers! Catch me if you can!
+0DE0000621	Have you found the other two hosts yet?
+0DE0000622	The clock is ticking...
+0DE0000624	Welcome.
+0DE0000629	The NCR's military doesn't like being in the role of "peace-keeper". Crimes across the Mojave are typically punished by death.
+0DE0000634	With the Action Girl perk, you gain an additional 15 Action Points to use in V.A.T.S.
+0DE0000635	A message will be delivered to all current companions, wherever they happen to be, that they are to return home.[CRLF][CRLF]Are you sure you wish to do this?
+0DE0000636	Welcome, Courier.
+0DE0000638	By relying on the dirty unarmed fighting tricks of the Great Khans, you can throw dust into the eyes of your enemies, temporarily stunning them. Perform a Power Attack while moving left or right to execute the Khan Trick.
+0DE0000639	When caught without their weapons, NCR's rangers rely on the Ranger Takedown to quickly incapacitate opponents. Perform a Power Attack while moving backwards to execute a Ranger Takedown.
+0DE0000640	Caesar's elite cadre of bodyguards, the legendary praetorians, use an aggressive Legion Assault to brutalize enemies. Perform a Power Attack while running forward to execute the Legion Assault.
+0DE0000641	Scribes in the Brotherhood of Steel are often not well-trained in the combat use of the high-tech gear employed by Paladins. They rely on unarmed defensive moves like the Scribe Counter to keep enemies at bay. Perform a standard attack out of a block hit reaction to execute a Scribe Counter.
+0DE0000642	[CRLF][CRLF]>\ Warning! Microbial Infection Risk. Proceed?
+0DE0000643	[CRLF][CRLF]>\ Warning! Lethal Shock Risk if LS Chamber Occupied. Proceed? [CRLF]
+0DE0000644	[CRLF][CRLF]>\ Warning! LS Chamber Occupant will be unable to control subsystems. Proceed?
+0DE0000645	COMPANIONS ONLY[CRLF]* Mult Weap DAM 0.75[CRLF]* Mult Target DT 0.75[CRLF]* Decrease Carry Weight 75[CRLF]* Increase DR 33%
+0DE0000646	Two major routes lead into the city of New Vegas from the south: Interstate 15 and Highway 95.
+0DE0000647	While Arcade is a companion, the player regains more health from all sources.
+0DE0000648	While Boone is a companion, hostile targets are highlighted whenever the player is actively aiming.
+0DE0000649	While Cass is a companion, she and the player gain Damage Threshold when they drink Whiskey. Additionally, the player does not suffer intelligence loss from consuming alcohol and ignores the negative effects of alcohol addiction.
+0DE0000650	While ED-E is a companion, the player can detect enemies at an increased range. Additionally, enemies will appear on the player's compass and can be targeted in V.A.T.S. even when cloaked.
+0DE0000651	While Lily is a companion, the duration of Stealth Boys is increased by 200% and all Sneak Attack Critical Hits do an additional 10% damage.
+0DE0000652	While Raul is a companion, the Condition of weapons and armor decays more slowly.
+0DE0000653	While Rex is a companion, unequipped chems, firearms, and ammunition within a short distance are highlighted when you zoom the camera.
+0DE0000654	While Veronica is a companion, the player can craft Workbench items through Veronica's dialogue.
+0DE0000655	With the Comprehension perk, you gain more skill points when reading skill magazines and one additional skill point whenever a skill book is read.
+0DE0000657	The Retention perk greatly increases the duration of skill-boosting magazines.
+0DE0000659	With the Educated perk, you gain two more skill points every time you advance in level.
+0DE0000665	With the Cowboy perk, attacking enemies with revolvers, lever-action firearms, dynamite, knives, and hatchets does +25% damage.
+0DE0000668	With the Plasma Spaz perk, all AP costs for plasma weapons (including grenades) are reduced by 10%.
+0DE0000670	Once you have the Heave, Ho! perk, all thrown weapons can be thrown much farther.
+0DE0000674	Hoover Dam Maintenance System[CRLF][CRLF]Warning: Intake tower maintenance should only be performed during scheduled periods of inactivity, and then only with the proper equipment. See you supervisor for more details.
+0DE0000678	SECRET JOURNAL ACCESS[CRLF]STAY OUT YOU RED MENACE[CRLF]
+0DE0000682	Vincent Vanmiller[CRLF]Maintenance Chief
+0DE0000691	The Math Wrath perk optimizes your Pip-Boy's V.A.T.S. logic, reducing all AP costs by 10%.
+0DE0000692	The Slayer perk increases the speed of your attacks with all Unarmed and Melee Weapons.
+0DE0000693	With the Friend of the Night perk, you gain low-light vision after the sun goes down.
+0DE0000694	When you take the Pack Rat perk, the weight of all lightweight items is cut in half.
+0DE0000698	You've been pushed around long enough! With the Nerd Rage perk, your Strength is raised to 10 and you gain 15 points to Damage Threshold whenever your Health drops to 20% or below.
+0DE0000704	The Meltdown perk creates a damaging corona of energy every time you vaporize or melt a target with lasers or plasma.
+0DE0000712	Tired of having to drop gear to make a trip back to the store? With the Long Haul perk, you can fast travel even when you are over-encumbered.
+0DE0000713	With the Toughness perk, you gain +3 to your Damage Threshold.
+0DE0000714	While Raul is a companion, the Condition of weapons and armor decays 75% slower.
+0DE0000715	Raul's rate of fire with revolvers and lever action firearms is 33% faster than normal.
+0DE0000717	Please remember to change your passwords daily![CRLF]
+0DE0000720	Lincoln Davis
+0DE0000721	Daniel Raati[CRLF]Headmaster
+0DE0000722	Michelle Dallian[CRLF]Head of External Associations Committee
+0DE0000723	Hello Michael
+0DE0000724	Hello Billy boy!
+0DE0000725	Hello Nara
+0DE0000729	Messages for Sarah Weintraub[CRLF]
+0DE0000730	Sent Messages[CRLF]
+0DE0000731	Welcome to Vault 21[CRLF][CRLF]Please Select from the Following Menu Options:
+0DE0000732	Hotel Service Information:
+0DE0000733	History of Vault 21:
+0DE0000734	Welcome to Vault 21's Network:
+0DE0000735	Sarah Weintraub[CRLF]Vault 21 Hotel and Shop Manager
+0DE0000736	Sarah Weintraub's Mail[CRLF]
+0DE0000738	Sheldon Weintraub... Logged In.[CRLF][CRLF]Welcome, Michael Angelo!
+0DE0000739	Sheldon Weintraub's Mail[CRLF]
+0DE0000740	Messages for Sheldon Weintraub[CRLF]
+0DE0000742	Flight Control Update Accessed[CRLF][CRLF]
+0DE0000744	Repeatedly breaking bones has led them to become stronger (somehow).
+0DE0000745	Pulling the legs off ants suits you well. You gain a damage bonus against insects.
+0DE0000746	You've done enough chems to know how to hang on to the effects just a while longer.
+0DE0000747	You've slowed things down enough to gain additional time when using Turbo.
+0DE0000748	You gain enhanced effects from Rad-Away.
+0DE0000749	There's nothing abominable about your damage bonus against Abominations.
+0DE0000750	You grind the gears of the machines and gain a damage bonus against robots.
+0DE0000751	You're laser-crazy and it shows! Minor bonus to critically hit with all laser weapons.
+0DE0000752	You hack just a little faster.
+0DE0000753	Reduce the AP Cost of Unarmed Attacks in VATS.
+0DE0000754	You handle animals really well when they are dead and gain a damage bonus against the living ones.
+0DE0000755	With the Dine and Dash perk, when you're in Sneak mode, you gain the option to take corpse parts for eating at a later time.
+0DE0000756	Your savvy at Mutant killing grants you a damage bonus to killing them.
+0DE0000757	Your special VATS friends have gotten used to helping you out and will strive to do so more often.
+0DE0000758	You gain a damage bonus against everything, because you like killing everything.
+0DE0000759	Dr. Wasteland, M.D. [%]\25 Use doctor's bags.
+0DE0000760	Questin' Mark [%]\5 Complete Quests.
+0DE0000761	Miss Fortunate Son (or Daughter) [%]\15 Miss Fortune appearances.
+0DE0000762	He Moves in Mysterious Ways [%]\15 Mysterious Stranger appearances.
+0DE0000763	Limber Jack [%]\100 Cripple limbs.
+0DE0000764	Tough Guy [%]\50 Have your own limbs become crippled.
+0DE0000765	A Matter of Perception [%]\100 Cripple enemy heads.
+0DE0000766	A Matter of Heart [%]\100 Cripple enemy torsos.
+0DE0000767	I Am Not Left Handed [%]\100 Cripple enemies' right arms (or equivalent).
+0DE0000768	Not So Up Close [%]\25 Kill enemies with thrown weapons.
+0DE0000769	Knocked Up [%]\100 Knock down enemies.
+0DE0000770	Fast Times [%]\20 Use Turbo.
+0DE0000771	Radical [%]\20 Use Rad-X.
+0DE0000772	Free Radical [%]\20 Use Rad Away.
+0DE0000773	Crafty [%]\20 Craft items at a Workbench, Campfire, Reloading Bench, or elsewhere.
+0DE0000774	Crafty Veteran [%]\100 Craft more items at a Workbench, Campfire, Reloading Bench, or elsewhere.
+0DE0000775	All Things in Modder Nation [%]\20 Apply mods to weapons.
+0DE0000776	I Dismember You [%]\1000 Dismember limbs.
+0DE0000777	Beam (Weapon) Me Up [%]\25000 Inflict damage with rifle-grip Energy weapons.
+0DE0000778	[%]\100 Drink water items.
+0DE0000779	Fixin' Things [%]\30 Repair items in your inventory yourself.
+0DE0000780	Critical Reaction [%]\128 Score Critical Hits with rifle-grip Energy Weapons.
+0DE0000781	Let's Get Critical [%]\64 Score Critical Hits with one-handed Energy Weapons.
+0DE0000782	Shoot 'em Up [%]\75 Kill enemies with Guns.
+0DE0000783	Shoot 'em Up Again [%]\75 Kill enemies with Guns.
+0DE0000784	Damage enemy heads with non-automatic Guns rifles.
+0DE0000785	Inflict damage to enemy heads with one-handed Guns.
+0DE0000786	Inflict damage to enemy heads with automatic rifle-grip Guns.
+0DE0000787	... And Know Disintegrations [%]\32 Disintegrate enemies with laser weapons.
+0DE0000788	Energetic [%]\64 Kill enemies with Energy Weapons.
+0DE0000789	More Energetic [%]\64 Kill more enemies with Energy weapons.
+0DE0000790	Condition Critical [%]\100 Score Critical Hits with rifle-grip Guns.
+0DE0000791	A Little Critical [%]\100 Score Critical Hits with one-handed pistols.
+0DE0000792	I've Got Shotgun [%]\20000 Inflict damage with shotguns.
+0DE0000793	The Big Squeezy [%]\18000 Inflict damage with rifle-grip Guns.
+0DE0000794	Click [%]\20000 Do damage with any submachine gun, the light machine gun, or minigun.
+0DE0000795	Kaboom [%]\25 Kill enemies with Explosives.
+0DE0000796	Kaboom-boom-pow [%]\50 Kill more enemies with Explosives.
+0DE0000797	Were You Using That? [%]\200 Disable enemy limbs with two-handed Melee Weapons.
+0DE0000798	...Or Are You Just Happy to See Me? [%]\25 Explode enemy pants.
+0DE0000799	You'll Blind Somebody [%]\4096 Inflict damage to enemy heads with Energy Weapons.
+0DE0000800	Set Lasers for Fun [%]\16000 Damage enemies with one-handed laser weapons.
+0DE0000801	Gotta Hand Grenade It to You [%]\10000 Inflict damage with mines and thrown grenades.
+0DE0000802	Aiming is Optional [%]\10000 Inflict damage with Explosives launchers.
+0DE0000803	Disarming Personality [%]\25 Disable mines.
+0DE0000804	Up Close [%]\50 Kill enemies with Melee Weapons.
+0DE0000805	Up Closer [%]\75 Kill enemies with Melee Weapons.
+0DE0000806	Two Hands are Better than One [%]\10000 Inflict damage with two-handed Melee Weapons.
+0DE0000807	I Can Do It One Handed [%]\10000 Kill enemies with one-handed Melee Weapons.
+0DE0000808	This is Hacking [%]\100 Score Critical Hits with one-handed Melee Weapons.
+0DE0000809	A Fistful of Hollars [%]\42 Kill enemies using Unarmed weapons.
+0DE0000810	For a Few Hollars More [%]\75 Kill enemies using Unarmed weapons.
+0DE0000811	...And Boy are My Arms Tired [%]\100000 Inflict damage with Unarmed weapons.
+0DE0000812	Destroy Something Not So Beautiful [%]\10000 Inflict damage with Unarmed weapons.
+0DE0000813	Go For the Eyes [%]\6000 Inflict damage to enemy heads with Unarmed weapons.
+0DE0000814	Lethal Weapons [%]\100 Score 100 Critical Hits with Unarmed weapons.
+0DE0000815	Gut Checker [%]\100 Disable enemy torsos with Unarmed weapons.
+0DE0000816	Full of Stars [%]\100 Cripple enemy heads with Unarmed weapons.
+0DE0000817	Bug Stomper [%]\50 Kill Mutated Insects.
+0DE0000818	Super Mutant Massacre [%]\50 Kill Super Mutants.
+0DE0000819	Demise of the Machines [%]\50 Kill Robot enemies.
+0DE0000820	Abominable [%]\50 Kill Abominations.
+0DE0000821	Animal Control [%]\50 Kill Mutated Animals.
+0DE0000822	Dine and Dash [%]\25 Eat corpses.
+0DE0000823	Devourer of Nations [%]\200 Eat more corpses.
+0DE0000824	Lord Death [%]\200 Kill anything.
+0DE0000825	Lord Death Of Murder Mountain [%]\700 Kill anything (just more of it).
+0DE0000826	Apocalypse Ain't Got Nothin' [%]\1000 Kill anything (and pretty much everything).
+0DE0000827	Day Tripper [%]\25 Use addictive chems.
+0DE0000828	I Can Stop Any Time I Want [%]\25 Take more chems.
+0DE0000829	Healthy Glow [%]\25 Hack computer terminals.
+0DE0000830	H4x Supr3m3 [%]\25 Hack more computer terminals.
+0DE0000831	[%]\25 Pick locks.
+0DE0000832	***** [%]\25 Pick locks.
+0DE0000833	Sir Talks-a-lot [%]\50 Achieve Speech successes.
+0DE0000834	At a Loss for Words [%]\100 Achieve Speech failures.
+0DE0000835	Maybe That's a Lie [%]\10 Become addicted (over and over).
+0DE0000836	Walker of the Mojave [%]\50 Discover locations.
+0DE0000837	Find Vault 11 [%]\1 Find Vault 11.
+0DE0000838	Find Vault 19 [%]\1 Find Vault 19.
+0DE0000839	Up to the Challenge [%]\50 Complete challenges.
+0DE0000840	The Rifleman [%]\250 Kill enemies with rifle-grip Guns.
+0DE0000841	Just Point and Click [%]\250 Use any large two-handled weapon to kill enemies.
+0DE0000842	Nuke it From Orbit [%]\250 Use any shoulder mounted weapon to kill enemies.
+0DE0000843	I Can Kill You With One Hand [%]\250 Kill enemies with one-handed Guns.
+0DE0000844	Find Vault 22 [%]\1 Find Vault 22.
+0DE0000845	Find Vault 3 [%]\1 Find Vault 3.
+0DE0000846	Find Vault 34 [%]\1 Find Vault 34.
+0DE0000847	Stimpaddict [%]\100 Use stimpaks.
+0DE0000848	[CRLF][CRLF]>\ Welcome, Guest.[CRLF]
+0DE0000849	ERROR #P38C4K[CRLF]"Generator power source unavailable"[CRLF]"Check all cords and plugs for connection"
+0DE0000850	-Nellis Air Force Base-[CRLF]Solar Array Command Interface
+0DE0000851	Welcome back, Miss Red.
+0DE0000852	McMurry's Neon Sign Designs[CRLF][CRLF]Factory Foreman Station
+0DE0000853	Maintenance Power Shutdown.[CRLF][CRLF]Shut Down Power to Creature Cages (Y/N)?
+0DE0000854	The Thorn's Mainframe Controls.
+0DE0000855	ERROR #K1[CRLF]"Array damaged or disconnected"[CRLF]"Check all cords and plugs for connection"
+0DE0000858	Night Stalkers are fearsome nocturnal predators created by splicing together coyote and rattlesnake DNA.
+0DE0000859	Disabling the antennae of insects, like Giant Ants or Giant Mantises, will make them frenzy and attack anything nearby.
+0DE0000860	Select Routine to Upload[CRLF]-------------------------------
+0DE0000861	Cerulean Robotics R&D[CRLF][CRLF]V 0.6.0.3[CRLF]Fully Integrated Security [CRLF]Technology Officer[CRLF][CRLF]------------------------------------[CRLF][CRLF]Data Entry Terminal
+0DE0000865	Hidden Valley Network[CRLF][CRLF]Welcome, Lorenzo.[CRLF][CRLF]Displaying last three files accessed.
+0DE0000866	> Access Restrictions confirmed.[CRLF][CRLF]>Select a topic you wish to peruse:
+0DE0000867	Hidden Valley Datastore[CRLF]         Bunker Information[CRLF][CRLF]>Select a topic you wish to peruse:[CRLF]
+0DE0000868	New Vegas Steel[CRLF][CRLF]Factory Automation Test in Progress[CRLF][CRLF]Current Test Time: 204 years
+0DE1000001	Sierra Madre Security Network[CRLF]
+0DE1000002	Sierra Madre Theater Network[CRLF]
+0DE1000009	Sierra Madre Maintenance Network
+0DE1000011	Sierra Madre Audio Subsystem[CRLF]
+0DE1000023	When Christine is a companion, she grants you a short period of time near a speaker before your bomb collar starts to activate as well as increasing the amount of time before your bomb collar detonates by 50%.
+0DE1000024	When Dean is a companion, he grants you a short period of time before taking damage inside a toxic cloud as well as reducing the amount of damage you take inside the toxic cloud by 25%.
+0DE1000027	Sierra Madre Clinic Network[CRLF]
+0DE1000029	Sierra Madre Host Services Protocol[CRLF]
+0DE1000032	Sierra Madre Control Network
+0DE1000033	Sierra Madre Control Network[CRLF]
+0DE1000034	Sierra Madre Security Network
+0DE1000035	WARNING[CRLF][CRLF]Elevator Will Depart Shortly Upon Security Shutdown[CRLF][CRLF]Proceed?[CRLF]
+0DE1000036	WARNING[CRLF][CRLF]Only the trustworthy may enter my Vault.[CRLF][CRLF]F.S.[CRLF]
+0DE1000038	Sierra Madre Host Services Network[CRLF]
+0DE1000039	Sierra Madre Clinic Network
+0DE1000040	Elijah obviously intended this to go to Veronica, but you earned it, right?[CRLF][CRLF]You've learned Elijah's secret Melee Weapon technique and your Critical Hits now do 150% more damage.
+0DE1000042	Sierra Madre Security Protocol:
+0DE1000046	Sierra Madre Power Regulation System
+0DE1000047	-Ventilation Control System-[CRLF]======================[CRLF][CRLF]Warning: The ventilation system should only be taken down for routine maintenance.
+0DE1000048	Sierra Madre Power Regulation System[CRLF]
+0DE1000050	Sierra Madre Security Protocol
+0DE1000052	Heavy armor just isn't your thing, so you've learned to customize light armor for maximum benefit. While wearing light armor you gain a +5% Critical Hit Chance and your enemies suffer a -25% Critical Hit Chance.
+0DE1000056	Sierra Madre Power Regulation System[CRLF][CRLF]Welcome, Mr. Ennis![CRLF][CRLF]Recent e-mails:
+0DE1000057	Sierra Madre Power Regulation System[CRLF][CRLF]In case of emergencies, power regulation procedures can be carried out from this station. However, this practice is not recommended for regular use. Please see your supervisor concerning whether use of this station is warranted.
+0DE1000058	Beams reflect off the mirror-like finish of your gleaming armor! You gain an additional +5 Damage Threshold against energy weapons while wearing any metal armor, +2 while wearing reflective eyewear.
+0DE1000059	You've discovered a Shotgun technique that has a chance to knock an enemy back.
+0DE1000063	Maintenance Staff Information:[CRLF]
+0DE1000064	Thanks to unclean living you've learned the secrets of the lounge lizards! [CRLF]+25% Addiction Resistance. +50% Health bonus from Snack Foods. Scotch, Vodka and Wine now give you Health in addition to their normal effects.
+0DE1000065	Survival is the mother of invention! Craft ammo at the Reloading Bench using alternate materials (Scrap Metal and Tin Cans).
+0DE1000069	You deal with Ghost People with ruthless efficiency. When you put them down, they stay down.
+0DE1000070	You've learned the recipe to make slugs for the Vending Machines out of Scrap Metal and the acid from Fission Batteries. Craft them at the Workbench and spend them just like Chips!
+0DE1000071	You've learned to make a mysterious edible substance at a Camp Fire out of scrap materials (Cloud Residue, Tin Cans, Junk Food) that provides +75 HP, +4 END, and +2 STR... but watch out, it's also highly addictive (15% chance of addiction).
+0DE1000072	Sierra Madre Souvenir Aficionado [%]\500 Collected a lot of Sierra Madre Chips.
+0DE1000073	Big Winner [%]\50 Used Sierra Madre Vending Machines.
+0DE1000074	Ghost Eater - Harvesters [%]\10 Killed 10 Harvesters.
+0DE1000075	Ghost Eater - Seekers [%]\10 Killed 10 Seekers.
+0DE1000076	Ghost Eater - Trappers [%]\10 Killed 10 Trappers.
+0DE1000081	Bunker 13 Network[CRLF][CRLF]Welcome, Father Elijah.
+0DE1000082	Kiss of Death [%]\10 Used Poisons.
+0DE1000083	Have you been working out? Weapons heavier than 10 lbs. now weigh half as much for you. (Modified weapons that drop below 10 lbs. will not gain this benefit.)
+0DE1000084	With the Hobbler perk, your chance to hit an opponent's legs in V.A.T.S. is significantly increased.
+0DE1000085	Dean's Secret Stash [%]\15 Found Dean's Secret Suitcases.
+0DE1000086	Sierra Madre Control Network[CRLF][CRLF]Download Atmospheric Systems Analysis?[CRLF]
+0DE1000087	Sierra Madre Control Network[CRLF][CRLF]Download Replicator Schematics?
+0DE1000088	Sierra Madre Control Network[CRLF][CRLF]Download Hologram Technology Module?
+0DE1000089	Authority Issues [%]\20 Alerted Sierra Madre Holograms 20 times.
+0DE1000090	Assemble Your Crew [%]\3 Recruited Dean Domino, Christine, Dog... and what's inside Dog.
+0DE1000091	Having a Ball [%]\1 Completed the Sierra Madre Gala Event.
+0DE1000092	Cash Out [%]\1 Confronted Father Elijah in the Sierra Madre's Vault.
+0DE1000093	Safety Deposit Box [%]\1 Saved Father Elijah in the Sierra Madre's Vault.
+0DE1000094	All For One [%]\1 Saved All Companions.
+0DE1000095	Loose Ends [%]\3 Destroyed All Companions
+0DE1000102	Sierra Madre Police Network[CRLF]
+0DE1000110	The Sierra Madre was believed nothing more than a Mojave legend, a fabled City of Gold, where fortune could be found.
+0DE1000111	The Pip-Boy 3000 is a safe, secure piece of Pre-War technology. It guarantees privacy, safety, and guidance in times of need.
+0DE1000112	The Clinic boasted a holographic security system. The Security Hologram was immune to attacks. Only its emitter could shut it down.
+0DE1000113	Mojave travelers have mysteriously vanished after claiming to have heard a woman's voice on a Pre-War radio broadcast. They are never heard from again.
+0DE1000114	According to prospector stories, the Sierra Madre lies in a dead city, surrounded by a poisonous cloud.
+0DE1000115	Bomb collar technology existed before the war, they come in several models. Their Pre-War use was unknown.
+0DE1000116	In Hardcore mode, the poisonous Cloud that blankets the Sierra Madre slowly reduces health the longer one is outside.
+0DE1000117	The Sierra Madre's concentrated toxic clouds erode health more quickly.
+0DE1000118	Construction of the Sierra Madre casino began a few years before the Great War.
+0DE1000119	The Sierra Madre chief architect and financier was Frederick Sinclair. The casino was intended as a place for guests to reverse their fortunes and "begin again."
+0DE1000120	The origins of the Ghost People are a mystery, as is their strange reverence of the holographic ghosts that fill the city streets.
+0DE1000121	The Ghost People are difficult to kill, and anyone who has survived an encounter with them suggests simply avoiding their attention.[CRLF]
+0DE1000122	Dismemberment, energy weapons, explosives... and devouring... work best against the Ghost People of the Sierra Madre.
+0DE1000123	Speakers were specially shielded to prevent vandalism. Some have broken over time, however, and these damaged speakers can be destroyed.
+0DE1000124	While radios can be destroyed, destroying the Villa speakers depend on how well the speakers have held up, and if there are terminals controlling them.
+0DE1000125	As part of casino policy, Sinclair forbade chems and "foreign substances" in the Villa and the Sierra Madre.
+0DE1000126	All of the Madre's and Villa's conveniences were supplied by machines tied to the casino.
+0DE1000127	Where the Vending Machine technology came from is unknown. While they take Sierra Madre Chips, they seem to supply a number of non-commercial services.
+0DE1000128	It is easy to become separated and lost in the Cloud and the Villa. Keep teammates close - or tell them to wait in a place where you can find them again.[CRLF]
+0DE1000129	Radios that interfere with collars can be shot or switched off. Speakers, however, may be shielded depending on the activation light.
+0DE1000130	According to legend, the Sierra Madre is said to be filled with Pre-War ghosts, and sections of the city are haunted.
+0DE1000131	The Residential District of the Villa was a place for the casino's high rollers and entertainers to enjoy the outdoors of the Villa... in seclusion.
+0DE1000132	Radio interference can be ended by destroying or switching off radios.
+0DE1000133	The Nightkin are Super Mutants, stealth troops created by the Master. They scattered across the wasteland after his defeat, taking refuge in remote locations.
+0DE1000134	Nightkin's prolonged used of Stealth Boy technology has led to mental instabilities, including schizophrenia and multiple personality disorders.
+0DE1000135	It is unknown why Sinclair tied the opening of the casino's gates to the Gala Event.
+0DE1000136	The Sierra Madre's Gala Event is said to be a series of lights, music, fireworks in the sky, and a final stunning light show.
+0DE1000137	The Sierra Madre was Frederick Sinclair's last venture before the Great War.
+0DE1000138	Elijah has sent other teams into the Villa's streets. What happened to them is unknown.
+0DE1000139	The Ghost People seem to prefer primitive traps, favoring falling beams, bear traps, and luring prey into toxic areas.
+0DE1000140	Sinclair was drawn to the nostalgic Art Deco era, and it's reflected in the architecture of the casino.
+0DE1000141	The Dead Man's Hand is said to be composed of Aces and Eights, a hand of cards a Pre-War legend was holding when shot in the back.
+0DE1000142	Both Puesta del Sol and Salida del Sol had switching stations regulating their power.
+0DE1000143	RobCo guarantees the safety and security of your Pip-Boy from anyone seeking to tamper with it. Your personal logs and archives are yours and yours alone.
+0DE1000144	The strength of the Sierra Madre broadcast is unusual, as is the frequency, normally reserved for emergency broadcast signals before the war.
+0DE1000145	The Villa streets are filled with evidence of the previous teams. Graffiti suggests they turned on each other, even when their lives were at stake.
+0DE1000146	Sinclair forbade any other food or vending machines in the Villa beyond the ones he'd installed there.
+0DE1000147	The alloy that makes up the Pre-War kitchen knives is unknown, and seems to have decayed in contact with the toxic cloud.
+0DE1000148	Sinclair, the financier and architect of the Sierra Madre casino was obsessed with security, believed due to his own financial losses.
+0DE1000149	It is said that a Sierra Madre snowglobe survives somewhere in the Villa.
+0DE1000150	Puesta del Sol stands for "Sunset," and the view from the Puesta del Sol rooftops was said to be breathtaking.
+0DE1000151	In order to meet deadlines, the construction of the Sierra Madre and the Villa were handled by two different companies.
+0DE1000152	Puesta del Sol's construction lagged behind Salida del Sol. It was as if construction efforts ran out of steam - and money.
+0DE1000153	Puesta del Sol's construction crews had numerous clashes and arguments with the casino construction crews.
+0DE1000154	Sierra Madre security began to conduct inspections of the Puesta del Sol construction offices and confiscating prohibited chems and other substances.
+0DE1000155	The origin of the Cloud surrounding the Sierra Madre is unknown.
+0DE1000156	The whispers that fill the streets of the Villa seem to come from Pre-War speakers, still piping in recorded music on reels that long since eroded.
+0DE1000157	Early in the Villa's building stages, construction crews suffered numerous setbacks - and accidents.
+0DE1000158	Shipping problems also plagued the Villa - construction explosives, countless crates of steak knives, and more were shipped to the Villa, paid for, and left.
+0DE1000159	Salida del Sol stands for "Sunrise," and it was the home of the church and homes of many of the casino staff.
+0DE1000160	The Sierra Madre is said to have an automated front desk that would escort guests to their rooms upon arrival. The status of this system is unknown.
+0DE1000161	The doors of the Sierra Madre were designed to hermetically seal in case of emergency.
+0DE1000162	It is said the dead in the Sierra Madre continue to gamble and drink among ghosts and whispers of times gone by.
+0DE1000163	The walls of the casino are lined with a metal that interferes with radio reception and broadcasts.
+0DE1000164	The bomb collars don't seem to work between floors of the casino, although they do work if two individuals are on the same floor.
+0DE1000165	Part of Sierra Madre security was to prevent contraband or "foreign influences" from entering the Villa area. Visitors were often searched, and their belongings taken by the casino.
+0DE1000166	The security center for the Sierra Madre was said to have arms and armaments beyond conventional casino security.
+0DE1000167	The reason for the mines, heavy weapons, and other military gear in the casino's security centers is unknown. Some speculate Sinclair feared a Chinese attack on American soil.
+0DE1000168	The Sierra Madre Holograms follow simple routines - vendors, bartenders, ushers, and greeters.
+0DE1000169	Holograms cannot be targeted or harmed - only avoided, or their emitters destroyed.
+0DE1000170	One of the draws of the Gala Event was a performance by Dean Domino in the Tampico Theater.
+0DE1000171	The kitchens of the Sierra Madre were shooting for a 5 star rating, and sought to bring in the best chefs in the world.
+0DE1000172	The financier and architect of the Sierra Madre casino, Frederick Sinclair, suffered many crippling losses in the 2070s.
+0DE1000173	Vera Keyes was a Pre-War Hollywood starlet. Her claim to fame was a number of poorly-written romances that nonetheless drew in large box office crowds - and poor reviews.
+0DE1000174	Pre-War tabloids and gossip columns claimed that Vera Keyes and Dean Domino had a torrid affair, predating her relationship with Sinclair.
+0DE1000175	Not much is known about Vera Keyes, only that that is not believed to have been her real name.
+0DE1000176	Tabloids and newspapers often called Vera Keyes a "kept" woman. Sierra Madre security proved them right.
+0DE1000177	"Love Sets Sail" received the largest box-office draw of all of Vera's movies - and the most scathing of reviews.
+0DE1000178	The Sierra Madre is a legend, like the Big Empty, the Burned Man, and the rumors of survivors from the Divide.
+0DE1000179	It is believed Holograms stemmed from Stealth Boy technology rising from scientific drive to match the Chinese stealth suits.
+0DE1000180	Hologram technology never achieved the same level of prominence, notably due to the excessive energy constraints.
+0DE1000181	There are no reports of hologram technology being popular in the Pre-War era, and certainly no reports of Holograms employing weapons.
+0DE1000182	The Hologram's hostile stance is said to have been inspired by a Pre-War sci-fi horror movie that made the world stand still.
+0DE1000184	Sierra Madre Host Services Network
+0DE1000188	Increases weapon's rate of fire (+10%)
+0DE1000189	Improves weapon's condition (+50%).
+0DE1000190	Increases weapon's damage (+3 DAM).
+0DE1000191	Sierra Madre Music System
+0DE1000192	The Whole Sad Story [%]\4 Listened to Companions' and Elijah's stories.
+0DE1000193	Things to Come! [%]\5 Heard where your travels might take you in the future... all the way to the end of the road.
+0DE1000194	History's Sake [%]\8 Heard the entire history of the Sierra Madre.
+0DE1000197	Dead Man's Hand [%]\5 Collected Sierra Madre Cards of the Dead Man's Hand. (Ace and Eight of Clubs and Spades + Queen of Clubs)
+0DE1000198	Collected Sierra Madre Chips.
+0DE1000200	Holding down the Activate button at a sink, toilet, or water valve allows you to drink faster without pausing.
+0DE1000201	Important! Vera, read...
+0DE1000202	Warning : Private Access Only[CRLF][CRLF]Open Personal Logs?
+0DE1000203	Those knives are sharp, too sharp! One of the chefs almost lost their thumb when dicing the vegetables, and we're losing cutting boards at a rate of at least one per day. The knives just slice right through them! Running out of dishrags to mop up the blood.
+0DE1000204	Due to the toxic atmosphere surrounding the Sierra Madre, it is impossible to sleep on any beds exposed to the outside air.
+0DE1000207	When God is a companion, he grants you increased Stealth as well as the ability to step lightly around placed traps.
+0DE2000001	Increases condition.
+0DE2000007	Increases ammo capacity.
+0DE2000008	Zion National Park Network
+0DE2000009	Whenever you interact with a campfire, you have the option of sleeping, with all the benefits that sleep brings.
+0DE2000010	For each crippled limb you have, you do an additional 10% damage.
+0DE2000011	You have learned the advanced weapon handling techniques of the New Canaanites. For you, all shots with.45 Auto Pistols have less spread and are twice as likely to score a critical hit.
+0DE2000012	While Follows-Chalk is in your party, reaching any summit in Zion Valley (such as ranger stations) will reveal all nearby map markers and inspire a heightened state of awareness (+3 PER) for three minutes.
+0DE2000013	While Waking Cloud is in your party, it is much easier to sneak by the White Legs (their PER is decreased).
+0DE2000014	Survivalist's Bounty [%]\6 Discovered all six of the survivalist's hidden caches.
+0DE2000015	When We Remembered Zion [%]\1 Arrive at Zion.
+0DE2000016	Restore Our Fortunes [%]\1 Resupplied Daniel and the Sorrows.
+0DE2000017	In a Foreign Land [%]\1 Scouted the Zion Valley for signs of the White Legs.
+0DE2000018	O Daughter of Babylon [%]\1 Crushed the White Legs.
+0DE2000019	May my Hand Forget its Skill [%]\1 Evacuated Zion.
+0DE2000020	Yao Guai Hunter [%]\10 Killed 10 Yao Guai in the Zion Valley.
+0DE2000023	Increases attack speed (+25%).
+0DE2000030	Just good, honest infantry work! You do 25% more damage with 9mm and .45 Auto Pistols and SMGs, Service Rifles, Assault and Marksman Carbines, Light Machine Guns, Frag Grenades, Grenade Rifles and Launchers, and Combat Knives.
+0DE2000031	Your limbs take 50% less damage from Animals, Mutated Animals, and Mutated Insects, you gain +25% resistance to Poison Damage, and can eat Mutated Insects when you're in Sneak mode.
+0DE2000032	You don't take kindly to raiders, junkies, or tribals trying to "settle" or "stay alive" in civilized lands. Against dirty raider and junkie types as well as Zion's tribals you do +15% Damage and have a bonus to hit in V.A.T.S.
+0DE2000033	You've had enough of the so-called "authorities" pushing poor folks around! You gain +2 Damage Threshold and +5% Critical Chance against anyone wearing the faction armor of the NCR, Legion, or Brotherhood.
+0DE2000036	Same has ReduceIntelligence, but with the "Hostile" flag checked (so it will work as a Poison). 1/14/11 ETB
+0DE3000001	**** Big Mountain Research Network ****
+0DE3000002	With the Atomic! perk, you are 25% faster and stronger whenever you're basking in the warm glow of radiation. Outside irradiated areas, your Action Points (AP) regenerate faster and faster the higher your level of radiation sickness becomes.
+0DE3000003	You can be made... better... faster... stronger... Actually, just faster. The M-5 implant increases your crouched movement speed by 20% for greater efficiency as a test subject.
+0DE3000004	Implant Y-3 places an internal filtration system in the digestive tract that strips any liquid consumed of all radioactive particles before being processed by the body.
+0DE3000005	Implant C-13 was originally designed as a defense turret subroutine to help eliminate Cazadores should they escape from their containment, but it's been repurposed for testing on human subjects. (+10% damage to Cazadores)
+0DE3000006	Studying schematics on the abominations created at the Big MT has granted you a damage bonus (+10%) against Nightstalkers.
+0DE3000007	You have come to understand Nightstalkers. Consuming Nightstalker Squeezin's now grants bonuses to Perception (+1 PER), Poison Resistance (+5), and stealth (+5 Sneak) in addition to the normal benefits.
+0DE3000008	Implant Y-7 is an enzyme booster that increases the Health (HP) gained from foods and recovers additional Action Points (AP) per food item consumed.
+0DE3000009	**** Big Mountain Research Network ****[CRLF]  X-8 Bio-Mechanical Testing Facility
+0DE3000010	Your spine has been replaced with advanced technologies: Your torso can no longer be crippled and your Strength (STR) and Damage Threshold (DT) have been increased (+1).
+0DE3000011	Your brain has been replaced with advanced technologies: Your head can no longer be crippled and is resistant to chem addiction (+25% resistance) and shock from bodily damage (+5% Damage Threshold, minimum +1).
+0DE3000012	Your heart has been replaced with advanced technologies: You cannot be poisoned, and filters in your heart will also regulate bleeding and healing, allowing all healing items (chems) to function at a higher level. Robots are now confused by you and 50% less likely to score a critical hit.
+0DE3000013	Any living creature you kill has a 50% chance to have the potent healing items Thin Red Paste or Blood Sausage when looted.
+0DE3000016	You gain a non-addictive subdermal Turbo (chem) injector. This perk may be taken twice, with the second rank increasing the effect from 2 to 3 seconds and the uses per day from 5 to 10. [Activated in the Pip-Boy inventory.]
+0DE3000017	Klein Destine [%]\1 Dressed in a complete set of Dr. Klein's clothes.
+0DE3000018	Make up Your Mind [%]\1 Made up your mind... about your brain.
+0DE3000019	Spinal-Tapped! [%]\1 Recovered X-8 vertebrae-pulse-de-sensitizer frequency!
+0DE3000020	Cardiac Arrest! [%]\1 Recovered X-13 cardiac regulator sneaky suit!
+0DE3000021	Outsmarted [%]\1 Completed Old World Blues.
+0DE3000022	Mobius Strip [%]\1 Dressed in a complete set of Dr. Mobius' clothes.
+0DE3000023	Dog Run I - Dog Gone [%]\1 Completed the X-8 Basic Testing Program.
+0DE3000024	Dog Run II - Who let the... [%]\1 Completed the X-8 Advanced Testing Program.
+0DE3000025	Dog Run III - Snake Skins [%]\1 Completed the X-8 Testing Program...with Nightstalkers!
+0DE3000026	VR the Champions I - Simulated [%]\1 Completed the X-13 Basic Infiltration Test.
+0DE3000027	VR the Champions II - Simulacra [%]\1 Completed the X-13 Advanced Infiltration Test.
+0DE3000028	VR the Champions III - Hollowed Out [%]\1 Completed the X-13 Robot Compliance Test.
+0DE3000029	MT Space [%]\35 Visited every location in the Big MT.
+0DE3000030	Outer Space [%]\2 Dared to venture beyond the Big MT's perimeter... more than once!
+0DE3000031	>\ Welcome, Assistant Paris.
+0DE3000032	>\ Welcome, Dr. Calis[CRLF]
+0DE3000036	With the Robot Compliance perk, sneaking up on a hostile robot undetected and activating it will put that robot into a permanent shutdown state.
+0DE3000037	Studying the abominations created at the Big MT has granted you a damage bonus (+10% per rank up to three ranks) against Cazadores.
+0DE3000038	Caza-Death Dealer I [%]\2 Killed Cazadores in the Big MT.
+0DE3000039	Caza-Death Dealer II [%]\5 Killed more Cazadores in the Big MT.
+0DE3000040	Caza-Death Dealer III [%]\10 Killed even more Cazadores in the Big MT.
+0DE3000041	**** American High School Network ****
+0DE3000043	**** American High School Network ****[CRLF]
+0DE3000045	Facility X-13, Project 'Blue Blood'[CRLF][CRLF]>\ Scanning for authorized suit signatures...
+0DE3000047	The latest software patch for the Stealth Suit Mk II.[CRLF]V1.1: Damping Sensors (+10 Sneak)[CRLF]V1.2: Aural Subnet (+1 PER)[CRLF]V1.3: Synced Fitment (+1 AGL)[CRLF]V1.4: Impulse Accelerator (Increased sneak speed)
+0DE3000050	**** Big Mountain Research Network ****[CRLF]
+0DE3000051	WARNING: Activating backup power at this stage can damage or destroy the prototype.[CRLF][CRLF]Are you sure you wish to proceed?[CRLF]
+0DE3000053	Making Friends [%]\10 Reactivated all of the Sink's robotic assistants.
+0DE3000060	Hey early risers! Enjoy a +2 to each of your S.P.E.C.I.A.L. attributes from 6 am to 12 pm, but suffer a -1 from 6 pm to 6 am when you're not at your best.
+0DE3000061	When your health drops below 50% you gain +10% more damage, but you also suffer -2 to your Agility and Perception attributes.
+0DE3000062	You gain +25 lbs. to your carrying capacity, but suffer a -1 to all attributes any time the weight you're carrying drops below 160 lbs.
+0DE3000063	No one's going to put you out to pasture 'cause you're going to stay young (and level 30) forever! You'll never again become addicted to chems, and they'll last twice as long... but after 30 you can kiss experience, perks, and skill points goodbye!
+0DE3000064	You're skilled, but not experienced. You gain +5 points to every skill, but you suffer -10% from experience gained from now on.
+0DE3000065	>\ Welcome, Technician Skinner.
+0DE3000066	>\ Welcome, Technician Slough.
+0DE3000067	>\ Welcome, Researcher Mendoza.
+0DE3000068	>\ Welcome, Researcher Butz.
+0DE3000069	>\ Welcome, Researcher Mori.
+0DE3000070	>\ Welcome, Researcher Redding.
+0DE3000071	>\ Welcome, Researcher Brazos.
+0DE3000072	>\ Welcome, Assistant Mendoza.
+0DE3000073	Facility X-13, Project 'Blue Blood'[CRLF][CRLF]>\ Welcome, Captain Hamm.
+0DE3000074	>\ Welcome, Researcher Chayanov.
+0DE3000075	You have a fear of enclosed spaces (probably because of the mutants that live there). You gain +1 to S.P.E.C.I.A.L. attributes when outside, but suffer -1 when indoors.
+0DE3000077	**** Big Mountain High School Network ****[CRLF]
+0DE3000078	**** Big Mountain High School Network ****
+0DE3000083	Increases weapon fire rate.
+0DE3000084	Splits beam.
+0DE3000085	Recharges some ammo over time.
+0DE3000086	Increases weapon damage.
+0DE3000092	Mad Scientist [%]\1 Had an experiment go horribly awry.
+0DE3000093	Evil Genius [%]\1 Created an Abomination!
+0DE3000094	Automaton [%]\1 Built a robot bent on destruction.
+0DE3000095	It's good to have your own spine again. You're more agile now (+1 AGL), a bit sneakier (+5 Sneak Skill) and you've gain more confidence in your posture and movement (+1 CHA).
+0DE3000096	Your brain is back in your body! And it's smarter now! You now gain experience at an increased rate (+10%) You gain one additional skill per level. Your Intelligence is higher (+1 INT) and your Science skill has been raised by 10.
+0DE3000097	Your body once again pumps with blood and passion. Your Barter and Speech skills have increased by 5. And your ability to shoot an enemy's heart has increased (+10% VATS to the torso).
+0DE3000098	Your brain is back in your body, but some of the advanced technologies remain: Your head still cannot be crippled, but you are only 10% more resistant to addiction now. Surprisingly your damage threshold has improved by 10% (minimum +1 DT).
+0DE3000099	Your heart is back in your body, but some advanced technologies remain: You are less resistant to poison (50%) and robots are only somewhat confused by you (25% less likely to score a critical hit) now. But on the bright side, healing items (chems) are even more effective!
+0DE3000100	Your spine is back in your body, but some advance technologies remain: Your torso can now be crippled again, but your Strength (STR) and Damage Threshold (DT) bonuses have doubled! (+2)
+0DE3000103	Your brain has been augmented with advanced technologies: Your head can no longer be crippled and is resistant to chem addiction (25% resistance) and shock from bodily damage (5% Damage Resistance).
+0DE3000104	Your heart has been augmented with advanced technologies: You cannot be poisoned, and filters in your heart will also regulate bleeding and healing, allowing all healing items (chems) to function at a higher level (+25%). Robots are now confused by you and 50% less likely to score a critical hit.
+0DE3000105	Your spine has been augmented with advanced technologies: Your torso can no longer be crippled and your Strength (STR) and Damage Threshold (DT) have been increased (+1).
+0DE3000106	**** Big Mountain Research Network ****[CRLF]  X-12 Research Center
+0DE3000107	Caza-Death Dealer II [%]\3 Killed more Cazadores in the Big MT.
+0DE3000108	Caza-Death Dealer III [%]\5 Killed even more Cazadores in the Big MT.
+0DE4000001	Used to track Tunneler tunneling behavior.
+0DE4000002	Hopeville Missile Silo Maintenance:[CRLF][CRLF]Welcome, User.
+0DE4000003	Hopeville Missile Silo Security Systems:[CRLF][CRLF]Welcome, User.
+0DE4000004	Hopeville Missile Silo Mainframe:[CRLF][CRLF]Welcome, User.[CRLF][CRLF]
+0DE4000005	Welcome to the Eyebot Maintenance System.
+0DE4000006	WARNING[CRLF]Eyebot maintenance security system activated.[CRLF]Do you wish to proceed?
+0DE4000007	Temp ED-E Access Point.
+0DE4000008	Increases zoom level.
+0DE4000009	Increases speed of rockets.
+0DE4000010	Reduces weapon spread.
+0DE4000011	Increases maximum condition of the weapon.
+0DE4000012	Increases magazine size.
+0DE4000013	Increases Fire Rate
+0DE4000014	Hopeville Missile Silo:[CRLF][CRLF]Welcome, Commander.[CRLF][CRLF]
+0DE4000015	Hopeville Missile Silo Security Systems:[CRLF][CRLF]Welcome, User.[CRLF][CRLF]
+0DE4000016	Inlook Email System
+0DE4000018	My Computer
+0DE4000019	Nostalgia [%]\10 Found all journal entries in the Divide.
+0DE4000020	Most Likely To... [%]\6 Uncovered all 6 references to the past of Courier 6... your past.
+0DE4000021	Ulysses' Odyssey [%]\6 Discovered all about Ulysses' past.
+0DE4000022	ED-Ecated [%]\5 Find all of ED-E's upgrades in the Divide.
+0DE4000023	Condemned to Repeat It [%]\1 Launched the nuclear missile from the Ashton silo.
+0DE4000024	Hometown Hero [%]\1 Completed Lonesome Road.
+0DE4000025	Ends of the Earth [%]\25 Discovered all the locations in the Divide.
+0DE4000026	The Courier's Mile [%]\1 Dared to venture into the Courier's Mile.
+0DE4000027	Rocket's Red Glare [%]\3 Acquired all upgrades for the Divide's signature weapon.
+0DE4000028	Traveling with ED-E has given you a chance to bond with him, unlocking five ranks of potential bonuses. While ED-E is in your party, you both gain:[CRLF][CRLF]Rank 1 - Weapon Condition Bonus (daily 25% weapon condition repair dialogue option)[CRLF]Rank 2 - Energy Cell Manufacture (daily Energy or Microfusion Cell creation dialogue option)[CRLF]Rank 3 - Increased DT (+2 DT)[CRLF]Rank 4 - Damage Bonus (+5 beam weapon damage)[CRLF]Rank 5 - V.A.T.S. Attack Bonus (+5% V.A.T.S. targeting)
+0DE4000029	Warhead Hunter [%]\30 Detonated all of the warheads in the Divide.
+0DE4000030	You left ED-E behind in Ulysses' Temple - not that you needed the help anyways. As long as you have no companions, your attacks inflict +10% damage and you have +10% accuracy in VATS.
+0DE4000031	You've faced torture at the hands of the Marked Men... now it's payback time. (+10% Damage Resistance and +10% Damage against the Marked Men)
+0DE4000032	Your knowledge of robotic components allows you to break them more easily and salvage their mechanical corpses. You have a +25% chance to score critical hits against robots, and you'll also find more useful components on robots you destroy.
+0DE4000033	You're so sneaky that you can sneak even with your Pip-Boy light on! Any time the Pip-Boy light is on, you gain a sneak bonus to offset the light's sneak penalty.
+0DE4000034	Maybe you were bad once, but you ain't like that now. Your Karma has been reset to 0, you regenerate AP 25% faster, and your attack speed is increased by 20%. You are also immune to critical hits. (Requires Bad Karma.)
+0DE4000037	Password "GUEST" Accepted[CRLF][CRLF]Welcome to the Mainframe
+0DE4000038	Your storied past has fallen from memory 'cause everyone thought you died. Your Karma is reset, you inflict +10% damage, and for every 100 points of Karma, you gain 10 Health. You are also immune to critical hits. (Requires Good Karma.)
+0DE4000039	You've had lots of close calls. Whenever you finish a fight with less than 25% Health, your Luck increases by +4 for 3 minutes. You are also immune to critical hits, and your own critical hits inflict +50% damage. (Requires Neutral Karma.)
+0DE4000040	The wastelander with the most gear wins! (... or at least survives.) You can now carry an additional 50 pounds of gear (stacks with Strong Back perk).
+0DE4000041	You're more at home under the open stars than under a roof. Any time you sleep outside, you gain the benefits of being Well Rested, even if you don't own the bed.
+0DE4000042	You've learned to keep your senses alert to any danger. When crouched and not moving you gain a +2 to your Perception attribute to help you find enemies before they find you.
+0DE4000043	You don't just read books, you tear into them. Damaged books you pick up become blank magazines, which you can use to copy your existing skill magazines at a workbench (or convert blank magazines back to books).
+0DE4000044	Your senses have become so keen that you can feel the slightest vibration in the ground. You gain +1 Perception and Agility attributes while outside.
+0DE4000045	Any time you sleep, you remove all of your Rads in addition to regaining all of your Health. (In Hardcore Mode, you still don't regain Health, but you lose 100 Rads.)
+0DE4000046	The wasteland has taught you some hard lessons, but you've remembered them all. You gain +1% to earned experience per level gained. (For example, +25% experience at level 25.)
+0DE4000047	The warrens of The Divide have taught you to keep your head down. Your movement speed is greatly increased while sneaking in light armor.
+0DE4000048	Sic semper tyrannis! You can put a single point into any of your S.P.E.C.I.A.L. attributes. You also gain reputation with the NCR for breaking the back of Caesar's Legion, but you lose reputation with Caesar's Legion.
+0DE4000049	It is the burden of the dead to remind the living of what they have lost... You can put a single point into any of your S.P.E.C.I.A.L. attributes, and you also gain reputation with the Boomers and the Powder Gangers for your... destructive tendencies, but you lose reputation with the NCR and Caesar's Legion.
+0DE4000050	No more will the NCR continue its aggressive campaign of Eastern expansion. You can put a single point into any of your S.P.E.C.I.A.L. attributes. You also gain reputation with Caesar's Legion for annihilating the NCR's homeland, but lose reputation with the NCR.
+0DE4000051	The Divide broke cities, flayed skin from bone and threatened to destroy the world, but you survived it - and stopped it. You can put a single point into any of your S.P.E.C.I.A.L. attributes, and you also gain reputation with the Followers of the Apocalypse and the Brotherhood of Steel for stopping another Armageddon.
+0DE4000054	Companion version of Camarader-E.
+0DE4000055	Hopeville Missile Base Armory:[CRLF][CRLF]Welcome, User.[CRLF][CRLF]
+0DE4000056	Ashton Missile Silo:[CRLF][CRLF]Welcome, User.[CRLF]
+0DE4000057	Storage Room Alpha One:[CRLF][CRLF]Welcome, User.[CRLF]
+0DE4000058	Feel Like a Kid Again [%]\20 Find all of the RALPHIE the Robot posters in the Divide.
+0DE4000059	ED-E doesn't set off mines. Text translation not needed.
+0DE5000002	(Gun Runners' Arsenal)[CRLF]Increases ammunition capacity ([%]).
+0DE5000003	(Gun Runners' Arsenal)[CRLF]Silences the weapon.
+0DE5000005	(Gun Runners' Arsenal)[CRLF]Increases projectile velocity ([%]).
+0DE5000006	(Gun Runners' Arsenal)[CRLF]Increases rate of fire.
+0DE5000007	(Gun Runners' Arsenal)[CRLF]Decreases weight ([%]).
+0DE5000009	(Gun Runners' Arsenal)[CRLF]Reduces weapon noise.
+0DE5000011	(Gun Runners' Arsenal)[CRLF]Increases condition ([%]).
+0DE5000013	(Gun Runners' Arsenal)[CRLF]Increases attack speed.
+0DE5000015	(Gun Runners' Arsenal)[CRLF]Increases damage ([%]).
+0DE5000019	(Gun Runners' Arsenal)[CRLF]Decreases spread.
+0DE5000024	(Gun Runners' Arsenal)[CRLF]Adds usable iron sights.
+0DE5000026	(Gun Runners' Arsenal)[CRLF]Replenishes ammunition (1/4 shots).
+0DE5000028	(Gun Runners' Arsenal)[CRLF]Adds short-range scope.
+0DE5000031	(Gun Runners' Arsenal)[CRLF]Increases speed of plasma projectile.
+0DE5000041	Your intimate knowledge of gadgets and explosives have combined to make you... the Mad Bomber! At Workbenches, you have special Explosives recipes unlocked for use.
+0DE5000042	(GRA) Master of the Arsenal [%]\10000 Do damage with Gun Runners' Arsenal (GRA) Weapons.
+0DE5000043	(GRA) Nyah! See? ** [%]\10 Kill Chairmen, White Gloves, or Omertas with any submachine gun, light machine gun, or minigun.
+0DE5000044	(GRA) Historical Propriety ** [%]\1 Kill Caesar with a Knife or Combat Knife.
+0DE5000045	(GRA) Deathclaw Pro Hunter *** [%]\5 Kill adult Mojave Wasteland Deathclaws with .22 Pistols, Switchblades, Boxing Tape, Recharger Rifles, or Dynamite.
+0DE5000046	(GRA) Talk About Owned ** [%]\1 Kill Benny with his own gun, Maria.
+0DE5000047	(GRA) White Line Nightmare ** [%]\20 Kill Fiends, Vipers, or Jackals with Tire Irons, Baseball Bats, Lead Pipes, Machetes, .44 Magnum Revolvers, or Sawed-Off Shotguns.
+0DE5000048	(GRA) Overkill * [%]\20 Kill Animals with any Fat Man or Fat Mines.
+0DE5000049	(GRA) You Don't Belong In This World! * [%]\10 Kill Abominations with Katanas, Dynamite, Machetes, Throwing Spears, Throwing Knives, and Throwing Hatchets.
+0DE5000050	(GRA) Ne Ne Ne Ne... * [%]\5 Cripple Right Arms with Shotguns.
+0DE5000051	(GRA) Curios and Relics [%]\10000 Cause damage with unique Mojave Wasteland weapons.
+0DE5000052	(GRA) Against All Tyrants *** [%]\10 Kill any named Legion members with Hunting Revolvers, Ranger Sequoias, Brush Guns, Service Rifles, Hunting Rifles, or Cowboy Repeaters.
+0DE5000053	(GRA) Armed For Bear *** [%]\15 Kill any named NCR Ranger or commissioned officer (Lieutenant, Captain, Major, Colonel, General) with Machetes, Rippers, Chainsaws, Throwing Spears, or Ballistic Fists.
+0DE5000054	(GRA) A Slave Obeys * [%]\1 Kill Mr. House with a 9 Iron or Nephi's Golf Driver.
+0DE5000055	(GRA) The Same Could Be Said of All Religious Weapons * [%]\15 Kill Feral Ghouls with Maria, Gehenna, and Holy Frag Grenades.
+0DE5000056	(GRA) Crackerjack Timing *** [%]\10 Kill Mojave Wasteland Cazadores with Tin Grenades, Long Fuse Dynamite, and Time Bombs.
+0DE5000057	(GRA) Man-Machine Interface *** [%]\10 Kill Mojave Wasteland Mr. Gutsys and Sentry Bots with Brass Knuckles, Spiked Knuckles, Tire Irons, and Lead Pipes.
+0DE5000058	(GRA) Vault 13's Revenge ** [%]\15 Kill Super Mutants with 5.56mm Pistols, Plasma Defenders, Plasma Grenades, Power Fists, Rippers, or the Bozar.
+0DE5000059	(GRA) Benefit Or a Hazard * [%]\15 Kill Robots with 5.56mm Pistols.
+0DE5000060	(GRA) Sic Semper Tyrannis ** [%]\1 Kill President Kimball with any One-Handed Pistol.
+0DE5000061	(GRA) Even a God-King Can Bleed ** [%]\1 Cripple Caesar's head with Throwing Spears.
+0DE5000062	(GRA) Dyin' Ain't Much of a Living ** [%]\5 Kill members of NCR or Legion hit squads with weapons affected by the Cowboy perk.

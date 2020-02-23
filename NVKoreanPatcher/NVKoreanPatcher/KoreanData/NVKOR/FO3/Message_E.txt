@@ -1,0 +1,983 @@
+1ME0000001	An item's condition affects how well the item works, as well as its value. Weapons of lower condition will do less damage, and jam more frequently. Armor of lower condition will offer less Damage Resistance.
+1ME0000002	You can repair items in your Pip-Boy by selecting Repair on the item. You can only do this if you have similar items to use for parts. Whatever item you choose to repair with will be scrapped completely.
+1ME0000003	The degree to which damaged items can be repaired is dependent on your Repair skill. In many cases, if your skill is too low, you will not be able to repair a weapon or piece of apparel beyond its current condition.
+1ME0000005	UNUSED
+1ME0000011	When you reach the required number of Experience Points, you will level up automatically, so long as you're not in combat.
+1ME0000012	Every time you level up, your Health increases, you gain Skill Points to assign to your skills, and you can choose a new perk.
+1ME0000014	When in dialogue with a character, simply select the response that seems most appropriate to the situation... and be prepared for the character you're talking with to react accordingly.
+1ME0000015	Occasionally, you will be presented with a Speech Challenge. A Speech Challenge is a response preceded by the word "Speech" and the percentage chance of success; the higher your Speech skill, the greater the chance of success.
+1ME0000016	Succeed in a Speech Challenge, and you'll achieve the results indicated by the response. Fail a Speech Challenge, and future Speech Challenges with that character will be lowered.
+1ME0000017	You may also be presented with responses preceded by a certain Attribute or Skill, like [Strength] or [Science]. These responses are only visible if you have the minimum required value in the Attribute or Skill. So, there is never a percentage associated with these responses, because there is no way to "fail" them -- selecting a special Attribute or Skill response is always to your benefit.
+1ME0000019	Some terminals are protected, and can't be accessed without a password. If your Science skill is high enough, you can attempt to hack the terminal.
+1ME0000020	Selecting the correct password will grant you access. If your guess is incorrect, you will be shown how many letters match the correct password, and in the correct location.
+1ME0000021	You have 4 tries to guess correctly. If you fail, the terminal will remain inaccessible until you own the password. You can exit hacking at any time and try again.
+1ME0000023	// [%][%][%][%]: Apply torque with the screwdriver Mouse: Rotate the bobby pin [%]: Force Lock When torque is applied, the closer the bobby pin is to the correct position, or "sweet spot," the more the lock will rotate before the bobby pin breaks. Only when the bobby pin is in the correct position will the lock rotate fully, and open. You can also try to open a lock by forcing it, but if you fail the lock will be permanently broken and can only be opened with a key.
+1ME0000029	Welcome to the Vault-Tec Assisted Targeting System, or V.A.T.S. V.A.T.S. displays the chance you will hit, along with the condition of each body part. [%]: Attack your target [%]: Cancel an attack [%]: Accept your actions Left click on the left or right arrows to switch to a new target. The number of attacks you can make is limited by your Action Points.
+1ME0000039	The Barter screen allows you to trade, buy or sell items. The types of items that can be traded, bought, or sold depend on the person you're trading with. The prices you get for buying or selling depend on your Barter skill.
+1ME0000040	To Barter, simply select an item and move it from your inventory into the other person's (if you want to sell or trade one of your own items) or from the other person's inventory into your own (if you want to buy or trade for one of their items).
+1ME0000041	As items are moved back and forth, caps will also be automatically moved between both parties. This is represented by the large "caps" arrow in the middle.
+1ME0000042	If the arrow is darkened, it means one of you doesn't have enough caps to complete the transaction. You cannot accept the barter if you don't have enough caps. But you can accept it if the other person doesn't have enough, but at this point, you are giving items away for free.
+1ME0000046	When you are hurt, there are several ways to restore your health:
+1ME0000047	* Visit a doctor and pay for healing.
+1ME0000048	* Use a Stimpak.
+1ME0000049	* Eat food or drink water.
+1ME0000050	* Sleep in a bed.
+1ME0000052	The Maps are located in your Pip-Boy's Data section.
+1ME0000053	The Local Map displays an overhead map of your current location, as well as any nearby doors.
+1ME0000054	The World Map shows an overhead map of the entire Capital Wasteland area, and markers for any places that have been discovered during the course of your adventures. You can even fast travel directly to any place you have previously visited.
+1ME0000055	You can zoom the maps in and out, or place (or move, or delete) a custom map marker.
+1ME0000056	If your active quest has any quest targets, these will be displayed on both the Local and World Maps.
+1ME0000057	On the World Map, your path to a quest target is indicated by a dotted line. In some cases, you may need to take a route through different areas, and the dotted line will reflect that.
+1ME0000059	Welcome to the Vault-Tec Assisted Targeting System, or V.A.T.S.
+1ME0000060	V.A.T.S. displays the chance you will hit, along with the condition of each body part.
+1ME0000061	[%]: Attack your target
+1ME0000062	[%]: Change body parts
+1ME0000063	[%]: Change targets
+1ME0000064	[%]: Cancel an attack
+1ME0000065	[%]: Accept your actions
+1ME0000066	The number of attacks you can make is limited by your Action Points.
+1ME0000068	[%]: Apply torque with the screwdriver [%]: Rotate the bobby pin [%]: Force Lock When torque is applied, the closer the bobby pin is to the correct position, or "sweet spot," the more the lock will rotate before the bobby pin breaks. Only when the bobby pin is in the correct position will the lock rotate fully, and open. You can also try to open a lock by forcing it, but if you fail the lock will be permanently broken and can only be opened with a key.
+1ME0000074	You've found the Galaxy News Radio Relay.
+1ME0000076	Install the Virgo Dish and activate the relay.
+1ME0000078	The Galaxy News Radio Relay is now running at full strength.
+1ME0000080	Trigger zone initialized.
+1ME0000082	Dogmeat!
+1ME0000084	Repeating encounter chance: [%]
+1ME0000086	[%]: Picked repeating
+1ME0000088	[%]: Picked unique
+1ME0000090	Repeatable encounter [%]
+1ME0000092	Unique encounter [%]
+1ME0000094	Invalid encounter -- keep rolling.
+1ME0000096	Finished all repeatable encounters in set A -- starting over with encounter [%]
+1ME0000098	Finished all repeatable encounters in set B -- starting over with encounter [%]
+1ME0000100	<DEBUG MSG> [%]
+1ME0000102	The Super Mutants have bound the captive for transportation. The ropes are digging into her wrists. She's obviously suffered from their abuse.
+1ME0000104	Leave the captive to her fate.
+1ME0000105	Untie her.
+1ME0000106	Both Lucas and Harden Simms have been killed. You can no longer receive a reward for disarming Megaton's atomic bomb.
+1ME0000108	Tenpenny Tower has been overrun by Feral Ghouls and Mister Burke has disappeared. You can no longer receive a reward for blowing up Megaton.
+1ME0000110	Several links in the chain snap, but the chandelier doesn't immediately fall. It does look very unstable...
+1ME0000112	The chain supporting the chandelier has been tampered with. It might not be a good idea to walk underneath it.
+1ME0000114	This old gas oven could be tampered with to knock the pilot light fixture loose, but that could be really dangerous.
+1ME0000117	Fiddle with the pilot light.
+1ME0000118	The pilot light has been knocked loose on the oven. It probably shouldn't be turned on.
+1ME0000120	"It's essential to give your arguments impact."
+1ME0000122	"Only through observation will you perceive weakness."
+1ME0000124	"Always be ready to take one for the team."
+1ME0000126	"Nothing says pizzazz like a winning smile."
+1ME0000128	"It takes the smartest individuals to realize there's always more to learn."
+1ME0000130	"Never be afraid to dodge the sensitive issues."
+1ME0000132	"There's only one way to give 110%."
+1ME0000134	"Never forget to walk away with more than you've brought."
+1ME0000136	"The best way to win an argument is to be the loudest."
+1ME0000138	"Arrive at peaceful resolutions by using superior firepower."
+1ME0000140	"The best way to solve a problem is to make it go away."
+1ME0000142	"Always strive for the unobtainable."
+1ME0000144	"The smart man knows a bandage only hides his wounds."
+1ME0000146	"It's important to do business up close and personal."
+1ME0000148	"Why go down with the ship when you can try to fix it?"
+1ME0000150	"Always be prepared to explain the hows and the whys."
+1ME0000152	"Because it's easier to have courage from a safe distance away."
+1ME0000154	"The safest distance between two points is a shadowy line."
+1ME0000156	"Let your words be your weapon."
+1ME0000158	"When words fail, there's always fists."
+1ME0000160	You've found a Vault-Tec Limited Edition Bobblehead!
+1ME0000161	The inscription on the base reads "Never be afraid to dodge the sensitive issues."
+1ME0000162	Your Agility has been permanently increased by 1.
+1ME0000165	The inscription on the base reads "Never forget to walk away with more than you've brought."
+1ME0000166	Your Barter skill has been permanently increased by 10 points.
+1ME0000169	The inscription on the base reads "The best way to win an argument is to be the loudest."
+1ME0000170	Your Big Guns skill has been permanently increased by 10 points.
+1ME0000173	The inscription on the base reads "Nothing says pizzazz like a winning smile."
+1ME0000174	Your Charisma has been permanently increased by 1.
+1ME0000177	The inscription on the base reads "Always be ready to take one for the team."
+1ME0000178	Your Endurance has been permanently increased by 1.
+1ME0000181	The inscription on the base reads "Arrive at peaceful resolutions by using superior firepower."
+1ME0000182	Your Energy Weapons skill has been permanently increased by 10 points.
+1ME0000185	The inscription on the base reads "The best way to solve a problem is to make it go away."
+1ME0000186	Your Explosives skill has been permanently increased by 10 points.
+1ME0000189	The inscription on the base reads "It takes the smartest individuals to realize there's always more to learn."
+1ME0000190	Your Intelligence has been permanently increased by 1.
+1ME0000193	The inscription on the base reads "Always strive for the unobtainable."
+1ME0000194	Your Lockpick skill has been permanently increased by 10 points.
+1ME0000197	The inscription on the base reads "There's only one way to give 110%."
+1ME0000198	Your Luck has been permanently increased by 1.
+1ME0000201	The inscription on the base reads "The smart man knows a bandage only hides his wounds."
+1ME0000202	Your Medicine skill has been permanently increased by 10 points.
+1ME0000205	The inscription on the base reads "It's important to do business up close and personal."
+1ME0000206	Your Melee Weapons skill has been permanently increased by 10 points.
+1ME0000209	The inscription on the base reads "Only through observation will you perceive weakness."
+1ME0000210	Your Perception has been permanently increased by 1.
+1ME0000213	The inscription on the base reads "Why go down with the ship when you can try to fix it?"
+1ME0000214	Your Repair skill has been permanently increased by 10 points.
+1ME0000217	The inscription on the base reads "Always be prepared to explain the hows and the whys."
+1ME0000218	Your Science skill has been permanently increased by 10 points.
+1ME0000221	The inscription on the base reads "Because it's easier to have courage from a safe distance away."
+1ME0000222	Your Small Guns skill has been permanently increased by 10 points.
+1ME0000225	The inscription on the base reads "The safest distance between two points is a shadowy line."
+1ME0000226	Your Sneak skill has been permanently increased by 10 points.
+1ME0000229	The inscription on the base reads "Let your words be your weapon."
+1ME0000230	Your Speech skill has been permanently increased by 10 points.
+1ME0000233	The inscription on the base reads "It's essential to give your arguments impact."
+1ME0000234	Your Strength has been permanently increased by 1.
+1ME0000237	The inscription on the base reads "When words fail, there's always fists."
+1ME0000238	Your Unarmed skill has been permanently increased by 10 points.
+1ME0000240	Harold can no longer speak to you.
+1ME0000242	The door is not powered, and will not open.
+1ME0000244	Vault 101 has been thrown into chaos.
+1ME0000246	OK
+1ME0000247	You have abandoned Vault 101.
+1ME0000250	The communications dish on the Virgo II Lunar Lander appears to be easy to remove.
+1ME0000252	Take the Virgo II Dish.
+1ME0000254	You are hostile with the residents of Oasis.
+1ME0000256	You are no longer Well Rested.
+1ME0000258	You are now Well Rested!
+1ME0000260	Sanitizer no longer active.
+1ME0000262	Sanitizer active. Food and drink improved.
+1ME0000264	You don't feel quite as lucky anymore.
+1ME0000266	Your luck has increased!
+1ME0000268	You are now hostile with Reilly's Rangers.
+1ME0000270	This is the RobCo "Stealth Boy" Model 3001 Personal Stealth Device. Developed by Robert Mayflower, the Stealth Boy generates a modulating field that transmits the reflected light from one side of an object to the other making the bearer almost invisible to the untrained eye.
+1ME0000272	Use the left stick to move around. The right stick turns you.
+1ME0000274	To jump up on the chair, [%].
+1ME0000276	You broke the lock while trying to force it. Now you'll need a key to open it. Maybe the Overseer keeps a key hidden somewhere in his bedroom.
+1ME0000278	DEBUG: Pipe control activated
+1ME0000280	Your Science skill is not high enough to fix this broken door.
+1ME0000281	(Science [%] or higher required)
+1ME0000283	You use your Science skill to find and fix the faulty capacitor in the door release mechanism.
+1ME0000284	(Science [%] passed)
+1ME0000286	You've accessed the Vault 87 Medical Wing Fire Control Console. Once activated, the fire alarm can't be cancelled.
+1ME0000288	Activate fire alarm.
+1ME0000290	The fire alarm can't be disabled.
+1ME0000292	What would you like to do with your Nuka-Cola Machine?
+1ME0000294	Get some Ice Cold Nuka-Cola
+1ME0000295	Add all Nuka-Colas you're carrying and make them Ice Cold
+1ME0000296	Do nothing
+1ME0000301	All radiation removed.
+1ME0000303	You have discovered several locations. You can fast travel back to discovered locations using the World Map in your Pip-Boy.
+1ME0000305	Star Paladin Cross has returned to the Citadel.
+1ME0000307	Charon has returned to the Ninth Circle.
+1ME0000309	Clover has returned to Paradise Falls.
+1ME0000311	Butch has returned to Rivet City.
+1ME0000313	Dogmeat has died.
+1ME0000315	Your follower has died.
+1ME0000317	Dogmeat is waiting outside of Vault 101.
+1ME0000319	Jericho has returned to Megaton.
+1ME0000321	Fawkes has returned to the Museum of History.
+1ME0000323	RL3 has returned to Canterbury Commons.
+1ME0000327	To move forward, [%], [%] to move back. To move left, [%]. To move right, [%]. The mouse turns you. To run, [%].
+1ME0000329	You lack the Explosives skill needed to interact with the Grenade Cluster. (Explosives [%] or higher required)
+1ME0000331	You have successfully disarmed the Grenade Bouquet and received three Grenades.
+1ME0000333	This Tranquility Lounger is occupied.
+1ME0000335	This door is locked, and must be unlocked remotely.
+1ME0000337	Disarmed:  [%]
+1ME0000338	Button: [%]
+1ME0000340	Good job! Now [%] again to let go of the toy.
+1ME0000342	This corpse is rigged with an explosive.
+1ME0000344	Attempt to disarm.
+1ME0000345	Leave it alone.
+1ME0000346	The corpse has been disarmed.
+1ME0000348	Rearm as a proximity trap.
+1ME0000349	Rearm as a timed trap (10 seconds).
+1ME0000350	Loot corpse.
+1ME0000352	This person is rigged with an explosive.
+1ME0000356	You have no Bobbleheads in your inventory.
+1ME0000358	You successfully fix the switch.
+1ME0000360	You do not have the required skill to fix the switch. [Science [%]]
+1ME0000362	The switch appears to be broken.
+1ME0000365	Attempt to fix the switch.
+1ME0000366	Password "Amata" entered.
+1ME0000368	You don't know the new entrance password.
+1ME0000370	Sierra Petrovita has been killed.
+1ME0000372	You've been granted the strength and flame resistance of the Grayditch Fire Ants. Your Strength has increased by 1 and you are now 25% resistant to fire.
+1ME0000374	You've been granted the perception and flame resistance of the Grayditch Fire Ants. Your Perception has increased by 1 and you are now 25% resistant to fire.
+1ME0000376	The aircraft above is the original Wright Flyer I designed by Orville and Wilbur Wright. On December 17, 1903 in Kitty Hawk, North Carolina, the vehicle performed its maiden flight for a mere 12 seconds, covering a distance of only 120 feet . This historic event marked the first sustained and controlled heavier-than-air powered flight.
+1ME0000378	The Type 1861 "Springfield" Rifle-Musket was the standard weapon for the infantry soldier in the American Civil War. It was a muzzle-loaded weapon which fired a .58 caliber "Minie Ball" using percussion caps instead of the traditional flintlock. Almost a million of these weapons were manufactured for the soldiers during the war.
+1ME0000379	On loan from the International Ordnance Museum, these cases display the various types of weapons and ammunition used by the military in past conflicts all over the globe.
+1ME0000381	Perhaps the most well-recognized weapon in the modern U.S. Military arsenal, the M199 earned its nickname "The Backtalker" from the unusual report the firing mechanism makes as it ejects a spent shell. Firing standard 5.56mm rounds, the M199 is still the official infantry weapon of the U.S. Army.
+1ME0000384	This is the only known prototype of the X277 "Viper" Magnetic Rail Cannon developed for the U.S. Military by West-Tek. Also commonly referred to as a "Railgun", the weapon uses energy cells to propel a depleted uranium round across a series of magnets discharging it at extremely high velocity. Deemed too costly to produce on a mass scale, the project was abandoned in 2044.
+1ME0000387	This flag was recovered from the wreck of the U.S.S. Ebon Atoll, a U.S. Navy Missile Cruiser, sunk off the coast of Alaska in 2066 with all hands lost. The cutting edge vessel's loss was due to a nuclear torpedo strike from the U.S. Navy Submarine, the U.S.S. Interference during the Anchorage Campaign. The submarine mistook the cruiser for an enemy vessel during radio silence and sunk it before obtaining visual confirmation. This ranks as one of the most tragic disasters in U.S. Naval History since World War II.
+1ME0000389	These portraits created by the renown Contemporary Artist Lincoln Myers depict some of the more overlooked American Inventors. From top to bottom, left to right: Richard G. Drew (adhesive tape, 1925), James Ritty (cash register, 1879), Carl C. Magee (parking meter, 1935) and Mary Anderson (windshield wiper, 1903).
+1ME0000391	You cannot use this now.
+1ME0000393	You have successfully deactivated the pressure plate.
+1ME0000395	Given your understanding of explosives, it could be possible to disarm the Grenade Bouquet and collect the grenades.
+1ME0000398	Disarm the Grenade Bouquet.
+1ME0000399	You can't use this now.
+1ME0000401	This rollerskate is awfully close to the stairs. A simple push could put it in a very dangerous position.
+1ME0000404	Push the skate.
+1ME0000405	The roller skate is in a precarious position at the edge of the stairs. Be careful...
+1ME0000407	You give the skate a hearty push.
+1ME0000409	The simulation prevents you from tampering with the body.
+1ME0000411	Only residents wearing Vault 112 suits may access this lounger.
+1ME0000413	The medals in this case were typically awarded to American pilots in World War II. From left to right, top row to bottom: Medal of Honor, Distinguished Service Cross, Silver Star, Distinguished Flying Cross, Navy Cross, Air Medal, Bronze Star, and the Purple Heart.
+1ME0000415	This is the actual USSA Deep Space Suit worn by Captain Carl Bell on May 5, 1961. Captain Bell is credited as being the first human in space on board the Space Capsule Defiance 7, but this has been constantly refuted by both the Soviet Union and China. Defiance 7's flight lasted for a total of 12 minutes and 7 seconds as it achieved one full revolution around the Earth.
+1ME0000417	This is the actual skeleton of Captain Carl Bell who died on May 5, 1961 after his Space Capsule crash landed. Captain Bell is credited as being the first human in space on board the Space Capsule Defiance 7, but this has been constantly refuted by both the Soviet Union and China. Defiance 7's fight lasted for a total of 12 minutes and 7 seconds as it achieved one full revolution around the Earth. Donated by Edwina Bell.
+1ME0000419	On July 16, 1969, the Virgo II Lunar Lander "Valiant 11" became the very first manned space vehicle to touch down on the moon. The Valiant 11's crew consisted of Captain Richard Wade, Captain Mark Garris and Captain Michael Hagen of the USSA. We salute these brave and noble men who took the very first steps on a planetary body other than our own.
+1ME0000421	This unusual flag was recovered from the surface of the moon by the very last manned flight to its surface in 2052. The flag is from the old "Valiant 12" Virgo III Lunar Lander that touched down November 14, 1969. Its remarkable condition can be attributed to its construction; the flag is actually made of special materials to withstand the harsh environment of space.
+1ME0000423	This exhibit is undergoing renovation and should return soon. Thanks!
+1ME0000425	The Delta IX Rocket was donated by the United States Space Administration and by a grant from the United States Department of Antiquities.
+1ME0000427	This is a scaled model of a prototype military transport vehicle being developed by the U.S. Military. The XVB02 "Vertibird" is a VTOL ("Vertical Take Off and Landing") craft with an extremely durable armored fuselage and can be armed with a variety of offensive weapons and defensive countermeasures. This is the most advanced aircraft of its kind ever developed, and the military hopes to press them into service by 2085.
+1ME0000429	You notice that the freezer is a little smaller than all of the others. After closer inspection, you find that there is a secret compartment in the back. Unfortunately, it is locked and you are unable to pick it. There must be a key to open this lock.
+1ME0000430	(Perception [%] passed)
+1ME0000432	You see a secret compartment in the back of the freezer, just like the note said. However, you don't have the key to open the compartment. It must be back on the shelf of the storage room.
+1ME0000434	Your Repair skill is not high enough to fix this broken door.
+1ME0000435	(Repair [%] or higher required)
+1ME0000437	You use your Repair skill to insert the missing part into the broken door.
+1ME0000438	(Repair [%] passed)
+1ME0000440	You use your Repair skill to determine that someone has removed a vital component for the door's operation, but you manage to repair the door anyway.
+1ME0000443	You have successfully deactivated and collected the mine.
+1ME0000445	You're pretty sure you can deactivate this mine without blowing yourself up. Would you like to disarm and collect the mine?
+1ME0000447	Disarm and collect the mine.
+1ME0000449	It appears that you can disarm this pressure plate.
+1ME0000452	Disarm the pressure plate.
+1ME0000453	You have successfully disarmed the tripwire.
+1ME0000455	It appears that you can disarm this tripwire.
+1ME0000458	Disarm the tripwire.
+1ME0000459	Fawkes has died.
+1ME0000461	Introduction Bink for Ending Sequence
+1ME0000463	High Karma Bink 1 for Ending Sequence
+1ME0000465	High Karma Bink 2 for Ending Sequence
+1ME0000467	High Karma Bink 3 for Ending Sequence
+1ME0000469	Low Karma Bink 1 for Ending Sequence
+1ME0000471	Low Karma Bink 2 for Ending Sequence
+1ME0000473	Low Karma Bink 3 for Ending Sequence
+1ME0000475	Neutral Karma Bink for Ending Sequence
+1ME0000477	Player Dies (Good) Bink for Ending Sequence (Plays if the player sacrifices himself/herself in the Project Purity chamber)
+1ME0000479	Player Lives Bink for Ending Sequence (Plays if Sarah Lyons sacrifices herself in the Project Purity chamber instead of the player.)
+1ME0000481	Player Dies (Evil) Bink for Ending Sequence (Plays if the player lets Project Purity blow up before the purifier is started)
+1ME0000483	Player Didn't Side With Eden Bink 1 for Ending Sequence (Plays if the player didn't poison the FEV as Eden wished, but Eden and Raven Rock weren't destroyed by the player.)
+1ME0000485	Player Didn't Side With Eden Bink 2 for Ending Sequence (Plays if the player didn't poison the FEV as Eden wished, and also destroyed Raven Rock and President Eden.)
+1ME0000487	Player Sided With Eden Bink for Ending Sequence (Plays if the player DID poison the FEV as Eden wished)
+1ME0000489	Closing Bink for Ending Sequence
+1ME0000491	It is possible to trigger this bear trap without injuring yourself.
+1ME0000494	Disarm the Bear Trap.
+1ME0000495	Red has died.
+1ME0000497	The mainframe is not functioning.
+1ME0000499	Three Dog has been killed.
+1ME0000501	You have become addicted to a drug. Take more of the drug to alleviate the side effects, or visit a doctor to be cured.
+1ME0000503	Grouse is dead.
+1ME0000505	You need a grenade to rearm this trap.
+1ME0000507	This door locks from the other side
+1ME0000509	The door will not open. It feels as though it is blocked from the outside.
+1ME0000511	No encounters currently available in this set -- resetting trigger zone.
+1ME0000513	Karma is an overall indication of your sense of good, evil... or neutrality.  Your Karma starts at Neutral, and changes based on your actions. It can go up to Good or Very Good, or down to Evil or Very Evil.
+1ME0000514	Your Karma determines how people treat you, and whether many of them will help you or not.
+1ME0000515	Achieving a particular Karma level comes with its own set of advantages and disadvantages. Stay Neutral, and you don't have to worry about being hunted by law-abiding Regulators or heartless Talon Company Mercenaries. But, you'll then miss out on the benefits of being Good or Evil, like receiving special items or gaining access to restricted areas.
+1ME0000517	<DEBUG 001>
+1ME0000519	<DEBUG 005>
+1ME0000521	<DEBUG 010>
+1ME0000523	This computer trap is disarmed and won't explode unless it it rearmed.
+1ME0000525	The terminal is not powered.
+1ME0000527	You leave the spawning pod alone.
+1ME0000529	The observer is hidden in the spawning pod.
+1ME0000531	You leave the mainframe alone.
+1ME0000533	You install the processor widget.
+1ME0000535	The processor widget looks like it should fit neatly into this mainframe.
+1ME0000537	Leave the mainframe alone.
+1ME0000538	Install the processor widget.
+1ME0000539	The observer can easily be hidden in the mass of eggs.
+1ME0000541	Leave the spawning ball alone.
+1ME0000542	Hide the observation device inside.
+1ME0000543	To sneak or crouch, [%].
+1ME0000545	Your health is low. You may want to use a stimpak or find some water to drink.
+1ME0000547	Your stealth state is displayed when you crouch ([%]). [HIDDEN] means nobody detects you. [CAUTION] means someone is searching for you. [DANGER] means you have been detected by an enemy. How stealthy you are is affected by many factors: * Sneak skill: Your Sneak skill only helps you when you are crouching. The higher your Sneak skill, the easier it is to remain undetected, steal an item, or pick someone's pocket. * Line of sight: An enemy is much less likely to detect you if he can't see you. * Light level: You are harder to see in darker areas. * Movement: You are hardest to detect when motionless, easiest to detect when running. * Apparel weight: Heavier apparel makes more noise when moving. * Sound: Most melee weapons make very little noise; bigger guns make a lot of noise. Attacking while undetected gives you an automatic "sneak" critical.
+1ME0000557	As a result of your painstaking research for the Wasteland Survival Guide, your survival skills have improved.
+1ME0000559	Would you like to make Wonder Meat? (1 Mole Rat Meat, 1 Wonder Glue)
+1ME0000563	You have created some Wonder Meat!
+1ME0000565	You do not have the required items. (Molerat Meat, Wonder Glue)
+1ME0000567	For more information, press ESC and select Help.
+1ME0000569	For more information, press START and select Help.
+1ME0000571	You should get your stuff from your desk before you leave.
+1ME0000573	To aim, [%]. This increases your accuracy.
+1ME0000577	Your Repair skill is not high enough to fix this broken door, but it seems to have been tampered with.
+1ME0000580	You use the key to unlock the secret compartment in the back of the freezer.
+1ME0000582	You've been exposed to Harold's mutation and your skin is now as hard as tree bark.
+1ME0000584	Vance's teachings have granted you the ability to regain 20 HP from the consumption of Bloodpacks.
+1ME0000586	Your weapon is in poor condition and can do more damage if repaired. You can repair items in your Pip-Boy or by visiting a vendor. To repair it yourself, you'll need to use parts from a similar weapon.
+1ME0000588	Moira's experiment had an unexpected side-effect. Now, when you suffer from Advanced Radiation Poisoning, crippled limbs automatically regenerate.
+1ME0000590	Something about your presence dampens others' desires to exceed. Any enemy's chance of getting critical hits on you is now reduced by half.
+1ME0000594	Caleb Smith is dead.
+1ME0000596	All four VIP targets have died.
+1ME0000598	The door is designed for one-way use and can't be opened from this side.
+1ME0000600	You are now locked out of the terminal. You'll have to find the password somewhere.
+1ME0000602	Press and hold [%] to activate your Pip-Boy light.
+1ME0000604	The trader's supplies are carefully secured. You will need a key.
+1ME0000606	The Vault-Tec Assisted Targeting System, or V.A.T.S., allows you to pause the game, assess any combat situation tactically, and target the specific body parts of any enemies onscreen. Pressing and holding [%] will pause the game and scan the area of targets. To zoom in on an enemy, simply select it and release [%]. You are now able to target the individual body parts of that enemy. The percentage value next to a body part indicates the chance to hit that body part with each shot. The small bar next to the body part indicates its condition; when the condition of a body part is completely reduced, that body part is crippled, and the targeted enemy will suffer the obvious ill effects -- crippling the legs reduces movement speed and any lunging attacks; crippling the arms affects accuracy, etc. When using a melee weapon or unarmed combat, you will need to be close to have a chance to hit. Both melee and grenades are "full body" attacks, and you cannot specify a specific body part. Every attack on a body part uses up Action Points. Generally, the smaller a weapon, the fewer Action Points are required for every shot. Keep in mind that you're not limited to shooting at just one target -- at any time, you can switch available targets, and attack them as well, so long as you have remaining Action Points. When you've used up all of your Action Points, and are ready to leave V.A.T.S., press [%].
+1ME0000614	[%]: Move forward [%]: Move backward [%]: Strafe left [%]: Strafe right [%]: Look around [%]: Attack [%]: Aim/Block [%]: Activate Objects [%]: Reload Weapon (Hold to holster) [%]: Pip-Boy 3000 [%]: Jump [%]: Run (Toggle) [%]: Sneak (Toggle) [%]: Grab [%]: View Switch (Hold to adjust) [%]: Vault-Tec Assisted Targeting System (Hold to scan)
+1ME0000631	Shorty has died.
+1ME0000633	Moira Brown has died, and her book will never be written.
+1ME0000636	This door no longer operates.
+1ME0000638	There's no response from the intercom.
+1ME0000640	You've found Harold's Heart.
+1ME0000642	Destroy Harold's heart.
+1ME0000643	Apply Birch's Sap to stop Harold's growth.
+1ME0000644	Apply Laurel's Liniment to accelerate Harold's growth.
+1ME0000646	Harold's Heart is destroyed.
+1ME0000648	Tree Father Birch's Sap has strengthened Harold's Heart.
+1ME0000650	Leaf Mother Laurel's Liniment has strengthened Harold's Heart.
+1ME0000652	Now you know how to grab and release objects. Now grab the toy again and take it to the play mat.
+1ME0000654	To grab a toy from the toy box, look at it and [%].
+1ME0000656	The Tampered Mailbox has been disarmed.
+1ME0000661	This Tampered Mailbox is rigged with an explosive.
+1ME0000665	The express elevator to the lobby has no power.
+1ME0000667	Repair the elevator with the Fission Battery.
+1ME0000669	The express elevator to the lobby has no power. A Fission Battery is required to restore it to working order.
+1ME0000671	The express elevator to the lobby has no power. You lack the skill needed to restore it to working order (Repair 75 or higher required).
+1ME0000673	The express elevator to the lobby is functioning properly.
+1ME0000675	The express elevator has no power. The elevator panel must be repaired before it can be used.
+1ME0000677	Intercom currently in use.
+1ME0000679	Code Entered. Please Stand by...
+1ME0000681	Incorrect Code. Please try again.
+1ME0000683	The Basin of Purification is filled with some sort of thick, viscous sap.
+1ME0000685	Drink the sap.
+1ME0000689	Take a sample of the sap.
+1ME0000691	You can't use the fountain at this time.
+1ME0000694	You lack the Repair skill needed to interact with the elevator panel (Repair [%] or higher required).
+1ME0000696	You successfully repair the elevator panel.
+1ME0000698	You examine the the broken elevator panel and conclude that it is possible to repair it.  Do you wish to repair it?
+1ME0000700	Repair the Elevator Panel
+1ME0000701	Leave it Alone
+1ME0000702	The elevator panel needs to be repaired in order to operate the elevator.
+1ME0000704	The console is currently without power.
+1ME0000706	The console is powered, and ready to accept the activation code.
+1ME0000709	Enter the code.
+1ME0000712	The express elevator to the lobby has no power. You are currently unable to restore it to working order (Repair Skill of 75 or possession of a unique tool required).
+1ME0000714	There is no power to the express elevator.
+1ME0000716	Your repair skill allows you to grab the Microfusion Cells without getting shocked.
+1ME0000718	Leave the Microfusion Cells alone.
+1ME0000719	Take the Microfusion Cells.
+1ME0000720	It is unsafe to access your suite at this time.
+1ME0000722	In addition to showing the direction you are currently facing, your compass displays several other useful pieces of information.
+1ME0000723	If you have an active quest, any quest targets will be displayed on your compass as arrows. A quest target will flash faster and faster as you get closer to it. If you have placed your own marker on the map, this will be displayed as a transparent arrow.
+1ME0000724	People and creatures that you perceive are displayed on the compass as vertical bars. Red bars indicate enemies.
+1ME0000725	Out in the Wasteland, the compass also indicates nearby locations as small triangles.
+1ME0000727	The quest screen in your Pip-Boy's Data section tracks your progress in every quest you have undertaken. To the left is a list of quests: those with bright text are active; those with darkened text have been completed or somehow failed. Your active quest is marked by a small box.
+1ME0000728	On the right-hand side of the screen are the objectives for each quest. The active objectives have bright text and are on the top of the list; the completed or failed objectives have darkened text and are at the bottom of the list. Some objectives are marked as "(Optional)," and their completion is not necessary to successfully finishing the quest.
+1ME0000729	You can select any quest as the currently "active" one, or immediately view the location of the active quest's current target on the World Map (if the location is known). Quest Targets are show on your compass and maps for the active quest only.
+1ME0000731	You can hotkey inventory items and then use or equip them without accessing your Pip-Boy.
+1ME0000732	To hotkey an item, hold a number key (1-8) and then left-click on an item in your Pip-Boy.
+1ME0000733	Now when the Pip-Boy is closed, you can use or equip that item simply by pressing the corresponding number key. Holding down any number key will display all of your current hotkey assignments.
+1ME0000735	Crimes are divided into two categories: major and minor.
+1ME0000736	Minor crimes cause only the victim to become hostile to you:
+1ME0000737	* Theft: If the owner sees you steal something that she owns, she will try to take it back from you. If you try to escape, or persist in stealing from her, she will attack you (or run for help). If you fight back, you are now committing a major crime (Assault, see below).
+1ME0000738	* Trespass: If the owner sees you open a locked door, container, or computer, he will immediately attack you.
+1ME0000739	Major crimes cause the victim and the victim's friends to become hostile to you:
+1ME0000740	* Assault: Attacking someone without provocation, or fighting back when someone attacks you for a minor crime.
+1ME0000741	* Murder: If there are witnesses who care about the victim, they will become hostile to you.
+1ME0000742	If a fight starts that you did not intend, you can attempt to yield by holstering your weapon. This may or may not be successful depending on how the attacker feels about you.
+1ME0000744	* AG: Agility
+1ME0000745	* AP: Action Points
+1ME0000746	* Caps: Bottlecaps
+1ME0000747	* CH: Charisma
+1ME0000748	* CND: Condition
+1ME0000749	* DR: Damage Resistance
+1ME0000750	* EFF: Effects
+1ME0000751	* EN: Endurance
+1ME0000752	* HP: Hit Points
+1ME0000753	* HR: Healing Rate
+1ME0000754	* IN: Intelligence
+1ME0000755	* LU: Luck
+1ME0000756	* LVL: Level
+1ME0000757	* PE: Perception
+1ME0000758	* RAD: Radiation
+1ME0000759	* RADS: Your Accumulated Radiation
+1ME0000760	* Rad Poison: Radiation Poisoning
+1ME0000761	* Rad Resist: Radiation Resistance
+1ME0000762	* ST: Strength
+1ME0000763	* VAL: Value
+1ME0000764	* WG: Weight
+1ME0000765	* XP: Experience Points
+1ME0000767	Each time you take a chem or drink alcohol, your chance of becoming addicted to it goes up. If you stop using the drug for a while, this chance will drop. Each drug has its own addiction chance, so using one type will not increase your chance of becoming addicted to another.
+1ME0000768	Addiction will hurt some of your S.P.E.C.I.A.L. attributes. These penalties go away temporarily if you take that drug again. A doctor can cure you of any addiction, for a price.
+1ME0000769	You cannot become addicted to Stimpaks, Rad-X or RadAway.
+1ME0000771	<div>
+1ME0000772	In order to heal a crippled limb, you have three choices: sleep in a bed, find a doctor, or use a Stimpak to heal yourself.Stimpaks can be used for general healing (which will also slightly heal crippling damage), or they can be applied directly to a limb to heal crippling damage.To heal a crippled limb directly using a Stimpak, navigate to the Stats screen in your Pip-Boy, then left-click on a limb to use a Stimpak on that limb.
+1ME0000773	<p>
+1ME0000779	In order to heal a crippled limb, you have three choices: sleep in a bed, find a doctor, or use a Stimpak to heal yourself.
+1ME0000781	Stimpaks can be used for general healing (which will also slightly heal crippling damage), or they can be applied directly to a limb to heal crippling damage.
+1ME0000783	To heal a crippled limb directly using a Stimpak, navigate to the Stats screen in your Pip-Boy, then click [%] to switch to Limb mode. Now you can use [%] to select a limb, and [%] to use a Stimpak on the selected limb.
+1ME0000785	You can be exposed to radiation either directly from the environment, or by ingesting irradiated food or water. A small amount of radiation will not hurt you, but as your accumulated exposure goes up, you will begin to suffer ill effects, including death, eventually.
+1ME0000786	Radiation Poisoning Effects:
+1ME0000787	* 200 rads: -1 EN
+1ME0000788	* 400 rads: -2 EN, -1 AG
+1ME0000789	* 600 rads: -3 EN, -2 AG, -1 ST
+1ME0000790	* 800 rads: -3 EN, -2 AG, -2 ST
+1ME0000791	* 1000 rads: Death!
+1ME0000792	Radiation Poisoning does not wear off, but can be healed by a doctor, or by taking RadAway. You can also protect yourself ahead of time by taking Rad-X, which increases your Radiation Resistance.
+1ME0000793	Your accumulated radiation exposure is displayed in your Pip-Boy, in the Status section of the Stats tab.
+1ME0000795	All the radio signals you have discovered are listed on the Radio screen in the Data tab of your Pip-Boy. Signals listed in bright text are within range, and can be listened to.
+1ME0000796	Signals listed in darkened text have been discovered, but you are no longer within range -- in order to listen to one of these stations, you have to move back into the signal's receiving range.
+1ME0000798	You now have radiation poisoning. Visit a doctor or take RadAway to lower your radiation level. You can also protect yourself ahead of time by taking Rad-X, which increases your Radiation Resistance.
+1ME0000800	Butch has died!
+1ME0000802	Charon has died!
+1ME0000804	Clover has died!
+1ME0000806	Fawkes has died!
+1ME0000808	Jericho has died!
+1ME0000810	RL3 has been destroyed!
+1ME0000812	Star Paladin Cross has died!
+1ME0000814	Repair robot?
+1ME0000817	Repair robot.
+1ME0000818	Your repair skill allows you to disarm the pitching machine.
+1ME0000821	Disarm Pitching Machine.
+1ME0000823	To hotkey an item in your Pip-Boy, hold [%] and use the D-Pad to select a hotkey slot.
+1ME0000824	Now when the Pip-Boy is closed, you can use or equip that item simply by pressing the corresponding D-Pad direction. Holding down the D-Pad will display all of your current hotkey assignments.
+1ME0000826	You have already have a copy of this holotape.
+1ME0000828	You lack the skill needed to disable the turret generator (Repair 60 or higher required).
+1ME0000830	You pull open the maintenance panel on the turret generator.
+1ME0000832	Disable generator.
+1ME0000834	The turret generator has been disabled.
+1ME0000836	You have accessed the Masterbrain's internal mechanisms. If you destroy its uplink, it will cause all of the automated security units in Vault-Tec to shut down.
+1ME0000838	Destroy security uplink.
+1ME0000840	Administrative Security Robots Disabled
+1ME0000842	It appears that these ants are from another ant colony. Perhaps attacking this rival colony would help the forager ants survive.
+1ME0000844	With the rival queen ant dead, these forager ants should be able to make nectar faster.
+1ME0000846	You've accessed the Vault-Tec Mainframe.
+1ME0000848	Download Vault locations and access codes.
+1ME0000850	Your Karma is too low to acquire this follower.
+1ME0000852	You are hostile with the residents of Arefu.
+1ME0000854	You are hostile with the Family and the residents of Arefu.
+1ME0000856	The Vault-Tec Assisted Targeting System, or V.A.T.S., allows you to pause the game, assess any combat situation tactically, and target the specific body parts of any enemies onscreen.
+1ME0000857	Pressing and holding [%] will pause the game and scan the area of targets; arrows to the left and right indicate threats that are currently offscreen.
+1ME0000858	To zoom in on an enemy, simply select it and release [%]. You are now able to target the individual body parts of that enemy.
+1ME0000859	The percentage value next to a body part indicates the chance to hit that body part with each shot. The small bar next to the body part indicates its condition; when the condition of a body part is completely reduced, that body part is crippled, and the targeted enemy will suffer the obvious ill effects -- crippling the legs reduces movement speed and any lunging attacks; crippling the arms affects accuracy, etc.
+1ME0000860	When using a melee weapon or unarmed combat, you will need to be close to have a chance to hit. Both melee and grenades are "full body" attacks, and you cannot specify a specific body part.
+1ME0000861	Every attack on a body part uses up Action Points. Generally, the smaller a weapon, the fewer Action Points are required for every shot. Keep in mind that you're not limited to shooting at just one target -- at any time, you can switch available targets, and attack them as well, so long as you have remaining Action Points.
+1ME0000862	When you've used up all of your Action Points, and are ready to leave V.A.T.S., press [%].
+1ME0000864	Sawbones has damaged you.
+1ME0000866	The Super Mutants have bound the captive for transportation. The ropes are digging into his wrists. He's obviously suffered from their abuse.
+1ME0000868	Leave the captive to his fate.
+1ME0000869	Untie him.
+1ME0000870	You cannot help the captive while in combat.
+1ME0000872	On the skeleton, you find a note that reads: "Dear World, Fuck you. Love, JE"
+1ME0000874	You failed to disarm the trap. You probably shouldn't have cut the red wire.
+1ME0000876	You failed to disarm the trap. It looks like you made the grenades angry.
+1ME0000878	You failed to disarm the trap. It all seemed so much easier in your head.
+1ME0000880	You failed to disarm the trap. Might be a good time to run.
+1ME0000882	You failed to disarm the trap. Let's hope you survive to try again.
+1ME0000884	There's nothing else on the corpse to indicate what happened.
+1ME0000886	To toggle between run and walk, [%].
+1ME0000888	To bring up your Pip-Boy, [%].
+1ME0000890	To enter VATS, [%].
+1ME0000892	To fire your weapon, [%].
+1ME0000894	Hannibal Hamlin is dead.
+1ME0000896	You failed to disarm the trap.
+1ME0000898	The computer has been rigged to explode.  It could be possible to disarm and remove the grenade.
+1ME0000901	Attempt to defuse.
+1ME0000902	The trap could be re-armed with a grenade.
+1ME0000905	Re-arm trap.
+1ME0000906	You disarm and remove the grenade.
+1ME0000908	You failed to disarm the explosive.
+1ME0000910	What type of grenade will you use to re-arm the trap?
+1ME0000913	Frag.
+1ME0000914	Pulse.
+1ME0000916	You have no Frag Grenades to use.
+1ME0000918	You have no Pulse Grenades to use.
+1ME0000920	You have no Plasma Grenades to use.
+1ME0000922	Would you like to Rearm the trap?
+1ME0000925	Rearm the trap.
+1ME0000926	You have disarmed the trap.
+1ME0000928	Your Explosives skill is is not high enough to disarm the trap.
+1ME0000929	(Explosives [%] or higher required)
+1ME0000931	You have rearmed the trap!
+1ME0000933	Your Repair skill is not high enough to interact with the trap.
+1ME0000936	You nimbly dodge the trap as it springs shut.
+1ME0000938	Luckily for you, the trap's closing mechanism fires late.
+1ME0000940	This baby carriage is rigged with an explosive.
+1ME0000944	This baby carriage has been disarmed.
+1ME0000949	You fail to disarm the trap.
+1ME0000951	You rearm as a proximity trap.
+1ME0000953	You rearm as a timed trap ([%] seconds).
+1ME0000955	His wounds are too severe. You must have a Medicine skill of at least 40 to try and help him.
+1ME0000957	Leave him alone.
+1ME0000958	Put him out of his misery.
+1ME0000959	His wounds are very severe. This will be a tricky operation. Are you sure that you want to try it?
+1ME0000961	Never mind. Leave him alone.
+1ME0000962	Perform the operation.
+1ME0000964	You coldly open an artery. Even to a skilled surgeon, it will look as if Timebomb died as a result of his wounds. You bastard.
+1ME0000966	After a few close calls, you manage to stich up Timebomb's wounds. He should be fine.
+1ME0000968	Your Science skill is is not high enough to disarm the trap.
+1ME0000971	Administering some low-grade stimulant could benefit the growth of this colony's pupae.
+1ME0000974	Inject with a stimpak
+1ME0000975	Administering some low-grade stimulant could benefit the growth of this colony's pupae, but you don't have anything suitable.
+1ME0000977	This pile of eggs is probably where all of the ants are coming from.
+1ME0000979	This pile of eggs must be how the forager ants sustain their numbers. With a little more insight, you may be able to figure out how to use these eggs to your advantage.
+1ME0000980	(Science 70 or Medicine 40 required.)
+1ME0000982	You have injected the eggs to stimulate future growth.
+1ME0000984	The ants appear to be using this compost heap to metabolize a food supply. Ant secretions combined with the compost appear to be forming a potent chemical compound.
+1ME0000986	This heap of debris appears to be hiding something useful.
+1ME0000988	If your science skill was higher, you might be able to determine a use for some of the things in this heap of debris.
+1ME0000989	(Science 20 or higher required)
+1ME0000991	The detonator does not appear to do anything.
+1ME0000993	The detonator has already been used to trigger the atomic bomb.
+1ME0000995	The fusion pulse charge must be rigged to the atomic bomb before it can be detonated.
+1ME0000997	Activating the detonator will set off the atomic bomb, and destroy the town of Megaton. Are you sure you want to proceed?
+1ME0000999	Detonate the atomic bomb.
+1ME0001000	Do not detonate the atomic bomb.
+1ME0001001	The opening is too small for you to fit through.
+1ME0001003	You use Reilly's code to open the ammo box.
+1ME0001005	The ammo box seems to be code locked.
+1ME0001007	This door is activated elsewhere.
+1ME0001009	You lack the skill needed to properly treat Reilly (Medicine 60 or higher required).
+1ME0001011	Your Medicine skill is high enough to enable you to administer the proper treatment on Reilly and revive her.
+1ME0001013	Revive Reilly.
+1ME0001015	All of Reilly's Rangers have died.
+1ME0001017	You lack the skill needed to properly determine the cause of death (Medicine 30 or higher required).
+1ME0001019	The bodies of the Wests have bite marks on the neck area that go to the bone.
+1ME0001021	The bodies of the Wests have bite marks on the neck area that go to the bone. The lack of bloodstains on the sheets is strange, as any bite or wound of that depth should have caused massive bleeding.
+1ME0001023	The bodies of the Wests have bite marks on the neck area that go to the bone. The lack of bloodstains on the sheets is strange, as any bite or wound of that depth should have caused massive bleeding. The bite marks on the neck appear to be from a human or humans with sharpened incisors or canines.
+1ME0001025	The bodies of the Wests have bite marks on the neck area that go to the bone. The lack of bloodstains on the sheets is strange, as any bite or wound of that depth should have caused massive bleeding. The bite marks on the neck appear to be from a human or humans with sharpened incisors or canines. The bodies seem to have a blackish powdery residue present not unlike that found in old trainyards.
+1ME0001027	Optional objective failed: you have killed a Mirelurk.
+1ME0001029	You lack the repair skill necessary to interact with this object. ( Repair [%] or higher required)
+1ME0001031	The Junction Box has several damaged cables, and appears to be only partially powered. Do you wish to repair the damage, or leave it alone?
+1ME0001034	Repair the Junction Box.
+1ME0001035	You leave the Junction Box as you found it.
+1ME0001037	You repair the damage to the Junction Box, and make sure all cables are properly connected.
+1ME0001039	You have nothing interesting to place on the desk at this time.
+1ME0001041	You place the underwear on the desk.
+1ME0001043	This brochure promotes The Hoffman Training Academy, with the tagline 'Turning the Delinquents of Today into the Leaders of Tomorrow'.
+1ME0001045	Show in Progress. Please Take Your Seats. Thank You.
+1ME0001047	The bomb has been disarmed, and no longer poses a threat to the people of Megaton.
+1ME0001049	The bomb has been rigged to explode. Once detonated, it will surely destroy the entire town of Megaton.
+1ME0001051	You lack the Explosives skill needed to interact with the bomb (Explosives [%] or higher required).
+1ME0001053	The bomb may be undetonated, but further examination reveals that it is still operational, and still quite dangerous.
+1ME0001055	The bomb may be undetonated, but further examination reveals that it is still operational, and still quite dangerous. Do you wish to disarm the atomic bomb, and prevent it from ever being detonated?
+1ME0001057	Do not disarm the bomb.
+1ME0001058	Disarm the bomb.
+1ME0001059	The bomb may be undetonated, but further examination reveals that it is still operational, and still quite dangerous. Do you wish to disarm the atomic bomb, leave it unmodified, or insert the Fusion Pluse Charge?
+1ME0001061	Leave it unmodified.
+1ME0001063	Insert the Fusion Pulse Charge.
+1ME0001069	Bomb disarmed.
+1ME0001071	You leave the bomb in its undetonated, but highly dangerous, state.
+1ME0001073	Bomb rigged to blow.
+1ME0001075	Minor repairs could restore power to this old generator.
+1ME0001077	Attempt Repair [Repair, 20]
+1ME0001079	[Repair, 20] It would be possible to repair this generator if you were more skilled.
+1ME0001081	You repair the generator.
+1ME0001083	The terminal is dark. It appears to have no power.
+1ME0001085	This control pod is locked.
+1ME0001087	You don't have any bobby pins to pick the lock. Maybe the Overseer keeps a key hidden somewhere in his bedroom.
+1ME0001089	The pipe appears to be damaged, but the source of the leak isn't immediately clear. It'll take a master plumber to fix it.
+1ME0001090	(Repair of 30 or higher required)
+1ME0001093	Attempt to fix it.
+1ME0001094	You repaired the leaking pipe.
+1ME0001096	You helped save Butch's mom from the radroaches. +100 karma.
+1ME0001098	Butch's mom is dead. -50 karma.
+1ME0001100	You are approached by a frenzied vault scientist, who yells, "I'm going to put my quantum harmonizer in your photonic resonation chamber!" What's your response?
+1ME0001102	"But doctor, wouldn't that cause a parabolic destabilization of the fission singularity?"
+1ME0001103	"Yeah? Up yours too, buddy!"
+1ME0001104	Say nothing, but grab a nearby pipe and hit the scientist in the head to knock him out. For all you knew, he was planning on blowing up the vault.
+1ME0001105	Say nothing, but slip away before the scientist can continue his rant.
+1ME0001106	While working as an intern in the clinic, a patient with a strange infection in his foot stumbles through the door. The infection is spreading at an alarming rate, but the doctor has stepped out for a while. What do you?
+1ME0001108	Amputate the foot before the infection spreads.
+1ME0001109	Scream for help.
+1ME0001110	Medicate the infected area to the best of your abilities.
+1ME0001111	Restrain the patient, and merely observe as the infection spreads.
+1ME0001112	You discover a young boy lost in the lower levels of the vault. He's hungry and frightened, but also appears to be in possession of stolen property. What do you do?
+1ME0001114	Give the boy a hug and tell him everything will be okay.
+1ME0001115	Confiscate the stolen property by force, and leave the boy there as punishment.
+1ME0001116	Pick the boy's pocket to take the stolen property for yourself, and leave him to his fate.
+1ME0001117	Lead the boy to safety, and then turn him in to the Overseer.
+1ME0001118	Congratulations! You've made one of the Vault 101 baseball teams. Which position do you prefer?
+1ME0001120	Pitcher.
+1ME0001121	Catcher.
+1ME0001122	Designated Hitter.
+1ME0001123	None. You wish the vault had a soccer team.
+1ME0001124	Your grandmother invites you to tea, but you're surprised when she gives you a pistol, and orders you to kill another vault resident. What do you do?
+1ME0001126	Obey your elder and kill the resident with the pistol.
+1ME0001127	Offer your most prized possession for the resident's life.
+1ME0001128	Ask granny for a Minigun instead. After all, you don't want to miss.
+1ME0001129	Throw your tea in granny's face.
+1ME0001130	Old Mister Abernathy has locked himself in his quarters again, and you've been ordered to get him out. How do you proceed?
+1ME0001132	Use a bobby pin to pick the lock on the door.
+1ME0001133	Trade a vault hoodlum for his cherry bomb, and blow the door open.
+1ME0001134	Go to the armory, retrieve a laser pistol, and shoot the lock off.
+1ME0001135	Walk away, and let the old coot rot.
+1ME0001136	Oh no! You've been exposed to radiation, and a mutated hand has grown out of your stomach! What's the best course of treatment?
+1ME0001138	A bullet to the brain.
+1ME0001139	Large doses of an anti-mutagen agent.
+1ME0001140	Prayer. Maybe God will spare you in exchange for a life of pious devotion.
+1ME0001141	Removal of the mutated tissue with a precision laser.
+1ME0001142	A fellow Vault 101 resident is in possession of a Grognak the Barbarian comic book, issue number 1. You want it. What's the best way to obtain it?
+1ME0001144	Trade the comic book for one of your own valuable possessions.
+1ME0001145	Steal the comic book at gunpoint.
+1ME0001146	Sneak into the resident's quarters, and steal the comic book from his desk.
+1ME0001147	Slip some knock-out drops into the resident's Nuka-Cola, and take the comic book when he's unconscious.
+1ME0001148	You decide it would be fun to play a prank on your father. You enter his private restroom when no one is looking, and...
+1ME0001150	Loosen the bolts on some pipes. When the sink is turned on, the restroom will flood.
+1ME0001151	Put a firecracker in the toilet. That's sure to cause some chaos.
+1ME0001152	Break into the locked medicine cabinet and replace his high blood pressure medication with sugar pills.
+1ME0001153	Manipulate the power wattage on his razor, so he'll get an electric shock the next time he shaves.
+1ME0001154	Who is, indisputably, the most important person in Vault 101, he who shelters us from the harshness of the atomic Wasteland, and to whom we owe everything we have, including our lives?
+1ME0001156	The Overseer.
+1ME0001160	You should stay and enjoy your birthday party.
+1ME0001162	The flashing arrow on your compass shows the location of your objective.
+1ME0001166	The bomb appears inert, but further examination reveals that it is still operational, and still quite dangerous.
+1ME0001167	With the right gear it would be trivial to rig it to explode. To disarm the bomb, however, would take a highly skilled explosives expert.
+1ME0001170	Attempt to disarm the bomb.
+1ME0001171	Rig the bomb to explode.
+1ME0001174	You have successfully disarmed the bomb.
+1ME0001176	Disarming the bomb requires considerable skill with explosives. You probably should leave it alone.
+1ME0001177	(Note: Atomic explosions are rumored to be quite dangerous.)
+1ME0001180	Whatever. I know what I'm doing.
+1ME0001181	Close eyes, pick a wire, and pull.
+1ME0001182	You got lucky and disarmed the bomb.
+1ME0001184	You successfully insert the Fusion Pulse Charge. The bomb is now rigged to explode (from a safe distance, of course).
+1ME0001186	The bomb is already rigged with the Fusion Pulse Charge, and armed to detonate remotely.
+1ME0001188	You do not have the specialized equipment to rig the bomb to explode. [Requires a Fusion Pulse Charge]
+1ME0001190	Railway Rifle created.
+1ME0001192	Rock-It Launcher created.
+1ME0001194	Shishkebab created.
+1ME0001196	You do not have the items required to create a Bottlecap Mine. You currently have: Lunch Box: [%], Cherry Bomb: [%], Sensor Module: [%], Caps: [%]
+1ME0001198	The atomic bomb remains undetonated.
+1ME0001200	You do not have the items required to create a Dart Gun. You currently have: Paint Gun: [%], Radscorpion Poison Gland: [%], Toy Car: [%], Surgical Tubing: [%]
+1ME0001202	You do not have the items required to create a Deathclaw Gauntlet. You currently have: Wonderglue: [%], Deathclaw Hand: [%], Leather Belt: [%], Medical Brace: [%]
+1ME0001204	You do not have the items required to create a Nuka Grenade. You currently have: Nuka-Cola Quantum: [%], Tin Can: [%], Turpentine: [%], Abraxo Cleaner: [%]
+1ME0001206	You do not have the items required to create a Railway Rifle. You currently have: Crutch [%], Steam Gauge Assembly: [%], Fission Battery: [%], Pressure Cooker: [%]
+1ME0001208	You do not have the items required to create a Rock-It Launcher. You currently have: Vacuum Cleaner: [%], Leaf Blower: [%], Firehose Nozzle: [%], Conductor: [%]
+1ME0001210	You do not have the items required to create a Shishkebab. You currently have: Motorcycle Gas Tank: [%], Pilot Light: [%], Lawnmower Blade: [%], Motorcycle Handbrake: [%]
+1ME0001212	There is no response from Reilly, she appears to be in some sort of a coma.
+1ME0001214	What weapon do you want to make?
+1ME0001216	None
+1ME0001218	Dart Gun
+1ME0001221	Railway Rifle
+1ME0001222	Rock-It Launcher
+1ME0001224	You don't know how to make any weapons yet.
+1ME0001226	The junction box has been repaired, and is in good working order.
+1ME0001228	Bottlecap Mine created.
+1ME0001230	Dart Gun created.
+1ME0001232	Deathclaw Gauntlet created.
+1ME0001234	Nuka Grenade created.
+1ME0001236	Value=[%]
+1ME0001238	You don't know how to make that weapon yet.
+1ME0001240	You lack the specialized training needed to move in Power Armor.
+1ME0001242	Failsafe terminal initialized.
+1ME0001244	I just don't know what to do anymore. When Roger's not in that stupid basement, he's outside sweet talking that hussy, Martha Simpson. He claims there's nothing between them, but I know it's all a lie.
+1ME0001245	I found a woman's pendant once, on Roger's workbench. But of course, I said nothing. That's me, Janet Rockwell, prim and proper housewife, living a perfect life here on Tranquility Lane.
+1ME0001246	Some days I wish I really had beat her to death with that rolling pin. Then Roger would know I'm the only girl in the world.
+1ME0001248	Your donations to the church have raised your Karma
+1ME0001250	You fiddle with the pilot light and the gas pipe. The smell of gas fills the air...
+1ME0001252	Burke has been killed. You can no longer receive a reward for blowing up Megaton.
+1ME0001254	This heavy iron chandelier is supported by an old metal chain. It looks like the chain could be broken, but that could be really dangerous...
+1ME0001257	Fiddle with the chain.
+1ME0001261	The Talking Tree has been killed.
+1ME0001263	You must have a Repair skill of at least 40 to try and fix this robot.
+1ME0001265	Leave the robot alone.
+1ME0001266	Destroy the robot.
+1ME0001267	This robot is stuck in a diagnostic loop. A little maintenance work should fix it.
+1ME0001269	Walk away and do nothing.
+1ME0001270	Rewire the diagnostic system.
+1ME0001271	Remove critical circuits to disable the robot.
+1ME0001272	You destroy the robot's delicate circuitry.
+1ME0001274	You reset the circuitry inside the robot. It should behave normally now.
+1ME0001276	You remove every transistor related to "basic operations." This robot will never be fixed now.
+1ME0001278	Your Karma is too high to acquire this follower.
+1ME0001281	Yew's Bear Charm has permanently increased your Speech skill by 10 points.
+1ME0001283	The door has locked shut behind you. There is no exit.
+1ME0001286	Boy
+1ME0001287	Girl
+1ME0001288	You are no longer authorized to use the Tranquility Loungers.
+1ME0001290	Your schematic has been improved.
+1ME0001292	// [%]: Move around
+1ME0001293	// [%]: Look around
+1ME0001294	// [%]: Attack
+1ME0001295	// [%]: Aim/Block
+1ME0001296	// [%]: Activate Objects
+1ME0001297	// [%]: Reload Weapon (Hold to holster)
+1ME0001298	// [%]: Pip-Boy 3000
+1ME0001299	// [%]: Jump
+1ME0001300	// [%]: Sneak (Toggle)
+1ME0001301	// [%]: Grab
+1ME0001302	// [%]: View Switch (Hold to adjust)
+1ME0001303	// [%]: Vault-Tec Assisted Targeting System (Hold to scan)
+1ME0001305	You are crippled. Use a stimpak, sleep, or find a doctor.
+1ME0001307	Debug until effect added - Concussion Grenade goes off.
+1ME0001309	Are you sure you want to activate the G.E.C.K.?
+1ME0001313	The G.E.C.K. will collapse all of the matter within its given radius and recombine it to form a living, breathing, fertile virgin landscape and allow life to begin anew. Are you certain you want to do this?
+1ME0001319	The express elevator's power has been restored.
+1ME0001321	Hannibal Hamlin and Leroy Walker are dead.
+1ME0001323	You've found the Vault 87 Garden of Eden Construction Kit (or G.E.C.K.). What do you want to do?
+1ME0001325	Pick Up the G.E.C.K.
+1ME0001326	Activate the G.E.C.K.
+1ME0001328	Before you leave Vault 101 forever, you may revise your character.
+1ME0001330	Edit Name
+1ME0001331	Edit Race/Sex
+1ME0001332	Edit S.P.E.C.I.A.L.
+1ME0001333	Edit Tag Skills
+1ME0001334	Finished - Exit Vault 101
+1ME0001335	Everyone in Big Town is dead.
+1ME0001337	The Box is locked, and requires a key.
+1ME0001339	This panel allows for the input of additional filtration chemicals.
+1ME0001341	This panel allows for the input of additional filtration chemicals. Do you wish to add any chemicals to the system?
+1ME0001344	Insert the modified FEV virus.
+1ME0001345	You leave the panel alone.
+1ME0001347	You slide the vial into the panel.
+1ME0001349	The intercom has been turned off.
+1ME0001351	You cannot figure out how to repair the gas valve. (Repair [%] or higher required).
+1ME0001353	You successfully repair the gas valve.  It can now be operated.
+1ME0001355	You examine the the broken gas valve and conclude that it is possible to repair it.  Do you wish to repair it?
+1ME0001357	Repair the Gas Valve
+1ME0001359	Vault Theme Added to House
+1ME0001361	Wasteland Explorer Theme Added to House
+1ME0001363	Science Theme Added to House
+1ME0001365	Raider Theme Added to House
+1ME0001367	Pre-War Theme Added to House
+1ME0001369	You do not have the required skill to disarm the bomb. [Explosives [%]]
+1ME0001371	What would you like to do with your My First Laboratory?
+1ME0001373	Create a New Compound
+1ME0001374	De-Toxify Yourself
+1ME0001376	DEBUG2!
+1ME0001379	DEBUG!
+1ME0001382	DEBUG3
+1ME0001385	Use [%][%][%][%] to move. The mouse turns you.
+1ME0001387	The My First Laboratory is currently brewing a new compound which should take about a day. Detoxify is not available until it's completed.
+1ME0001389	The My First Laboratory has completed a compound.
+1ME0001391	You have been fully detoxified.
+1ME0001393	This printing press is activated elsewhere.
+1ME0001395	Restoring power to this broadcast station has amplified a faint signal being transmitted from somewhere in the nearby area.
+1ME0001397	The effects of being crippled depend on the limb. These effects apply to you as well as to your enemies.
+1ME0001398	* Head: Reduced perception, concussion effect.
+1ME0001399	* Arms: Reduced aiming ability. Enemies will be disarmed at the moment their arm is crippled.
+1ME0001400	* Chest: Higher chance to be staggered when taking damage.
+1ME0001401	* Legs: Reduced run speed. Enemies cannot perform leaping or charging attacks.
+1ME0001402	Some enemies have Antennae or a Combat Inhibitor. Crippling that will cause them to frenzy, attacking anything near them.
+1ME0001404	The door to the Ewers's House is locked.
+1ME0001406	Knock on the door.
+1ME0001408	The door to Karen Schenzy's House is locked.
+1ME0001412	It appears that you can disarm this rigged Shotgun.
+1ME0001415	Disarm the rigged shotgun.
+1ME0001416	In Script Block
+1ME0001418	What would you like to do with your My First Infirmary?
+1ME0001420	Heal Yourself
+1ME0001421	Restore Damaged Limbs
+1ME0001422	Remove All Rads
+1ME0001424	All disabled body parts fully restored.
+1ME0001426	Health fully restored.
+1ME0001428	It appears that you can disarm this Motion Sensor and take the Microfusion Cell.
+1ME0001430	Disarm the Motion Sensor.
+1ME0001432	You have successfully disarmed the motion sensor.
+1ME0001434	The emitter has been rigged to activate when the power is turned on.
+1ME0001436	You need a higher Repair or Science skill to interact with the emitter.
+1ME0001437	(Repair [%] or higher required) or
+1ME0001440	This Laser Tripwire Emitter is disarmed.
+1ME0001441	You could rig it to activate when the power is restored. With the power off, it is easier to manipulate this device.
+1ME0001446	Arm the Emitter.
+1ME0001447	Rig the Emitter.
+1ME0001448	This Laser Tripwire Emitter is armed.
+1ME0001454	Disarm the Emitter.
+1ME0001461	Arm the Laser Tripwire Emitter.
+1ME0001467	Disarm the Laser Tripwire Emitter.
+1ME0001468	The Laser Tripwire Emitter has been destroyed.
+1ME0001470	The Laser Tripwire Emitter has been disarmed.
+1ME0001472	The Laser Tripwire Emitter has been armed.
+1ME0001474	You can only have one follower at a time.
+1ME0001476	Do you think you know everything about the Declaration of Independence? Put it to the test and win prizes from National Archives Sponsors!
+1ME0001478	Redeem your Prize Vouchers here! Exhibit and Prizes sponsored by Med-Tek Laboratories.
+1ME0001480	Mister Crowley is dead.
+1ME1000001	All Ammo Replenished
+1ME1000003	Health Restored
+1ME1000005	You have found [%] of [%] pieces of intelligence. Keep up the good work, soldier!
+1ME1000007	A new radio broadcast has been heard across the Capital Wasteland. It sounds like a distress call, but seems meant for certain ears only...
+1ME1000009	Use the terminals to requisition a Strike Team and personal Gear Package before leaving.
+1ME1000013	You must wear a Neural Interface Suit in order to use the simulation pod.
+1ME1000015	Ammo Already Full
+1ME1000017	Dismiss robotic unit?
+1ME1000021	This is one of the massive enemy Artillery Guns. Once you plant an Explosive Charge, you have 20 seconds to reach a safe distance before it explodes.
+1ME1000023	Plant an Explosive Charge.
+1ME1000025	The Explosive Charge has been planted. You can not remove it or stop the timer.
+1ME1000027	You must complete the briefing with Lieutenant Morgan before continuing the simulation.
+1ME1000029	This is one of the Chimera Depot Fuel Tanks. Once you plant an Explosive Charge, you have 20 seconds to reach a safe distance before it explodes.
+1ME2000001	This tunnel leads to a complicated path of tunnels and old highways that return to the Capital Wasteland.
+1ME2000002	You cannot make the trip while taking care of a newborn baby.
+1ME2000004	Stay in The Pitt.
+1ME2000005	This tunnel leads to a complicated network of tunnels and old highways that return to the Capital Wasteland.
+1ME2000006	You cannot return to the Capital Wasteland until you've concluded your business in The Pitt.
+1ME2000009	This tunnel leads off into darkness. There is no way to continue forward.
+1ME2000011	The crib is securely closed.
+1ME2000013	You cannot use this crib.
+1ME2000015	You got jumped! You're screwed now!
+1ME2000017	No I'm not. You haven't set it up yet.
+1ME2000018	I sure am!
+1ME2000019	Baby Marie is napping peacefully in her crib, safely connected to various medical monitors and wrapped in protective swaddling. It looks like moving her would not go over well with her family...
+1ME2000021	Leave Marie asleep in her crib.
+1ME2000022	Pick up the baby and kidnap her.
+1ME2000023	Script worked.
+1ME2000025	SayTo Worked
+1ME2000027	With the proper application of Medicine, this man's injuries could be lessened enough that he could be put back to work, but not completely cured. The only way to end his suffering is to end his life.
+1ME2000030	Treat his injuries.
+1ME2000031	End his suffering.
+1ME2000032	This man's injuries are beyond your skill to mend. [Medicine [%] or higher required.] The only way you can end his suffering is to end his life, or hope he recovers on his own.
+1ME2000037	Surviving in the Steelyard has taught you something about life in the Pitt. You will now do extra damage with the signature weapon of the slaves: the Auto Axe.
+1ME2000039	The vicious fights in the Hole have made you stronger. You are now more resistant to radiation and damage.
+1ME2000041	Medical research from the Pitt has improved your life. Just try not to think of what it may have cost others.
+1ME2000043	There are reports of a new radio message being broadcast across the Capital Wasteland. The transmission appears to be some sort of distress call, and gives little information except the location and name of the man making the plea...
+1ME2000045	This tunnel leads to a complicated network of tunnels and old highways that travel far to the northwest, to The Pitt. The going will be rough and harsh, supplies will be scarce, and you won't be able to return until your business there is concluded.
+1ME2000046	Are you sure you wish to travel to The Pitt?
+1ME2000048	Stay in the Capital Wasteland.
+1ME2000049	Travel to The Pitt.
+1ME2000053	Travel to The Capital Wasteland.
+1ME2000054	This tunnel leads to a complicated network of tunnels and old highways that travel far to the northwest, to The Pitt. You cannot make the journey at this time.
+1ME2000057	Mex took all of your belongings and locked them inside. There doesn't seem to be any way to open it without the combination.
+1ME2000060	You have already placed your items in the safe and locked it.
+1ME2000062	Quest Failed.
+1ME2000066	You carefully pick up the baby.
+1ME2000068	The Light Control Relay has been destroyed.
+1ME2000070	You carefully hand the baby over.
+1ME2000072	The baby is carefully taken from you.
+1ME2000074	You carefully put the baby in the crib.
+1ME3000001	Use the console in the front car to travel in the opposite direction.
+1ME3000003	A fuse is required to power the train.
+1ME3000005	This door can't be opened while the power is out.
+1ME3000007	Officer Lepelletier is dead.
+1ME3000009	Griffon is dead.
+1ME3000011	Dogmeat's puppy has died.
+1ME3000013	Dogmeat's puppy is waiting outside of Vault 101.
+1ME3000015	Broken Steel has been loaded. Your level cap has been raised to 30.
+1ME3000017	Continued consumption of FEV-laced water will be fatal.
+1ME3000019	2 WEEKS LATER GOES HERE
+1ME3000021	Turn off the Repulsion Field? (Science 80)
+1ME3000022	Set a timed charge? (Explosives 50)
+1ME3000023	Smash the Control Panel?
+1ME3000026	Turn off the repulsion field.
+1ME3000027	Set a timed charge.
+1ME3000028	Smash the Control Panel.
+1ME3000029	Turn on the Repulsion Field?
+1ME3000033	Turn on the Repulsion Field.
+1ME3000034	Your repair skill allows you to disarm the Radiation Box.
+1ME3000037	Disarm the Radiation Box.
+1ME4000001	So, what's it gonna be?
+1ME4000003	Install the Jammer.
+1ME4000004	Destroy the Jammer.
+1ME4000005	Leave it the hell alone.
+1ME4000006	There appears to be a functional self-destruct switch, but the mechanism does nothing without proper authorization.
+1ME4000009	Confirm self-destruct protocol.
+1ME4000010	The Duchess Gambit is ready to begin its trip to the Capital Wasteland.
+1ME4000012	I'm not ready to leave yet.
+1ME4000014	The Duchess Gambit is ready to begin its trip to Point Lookout.
+1ME4000017	Travel to Point Lookout.
+1ME4000018	A riverboat has docked at the mouth of the Potomac, carrying trade from the distant peninsula of Point Lookout.
+1ME4000019	The captain offers passage to Point Lookout for any mercenary, treasure hunter, or adventurer looking to explore the new land.
+1ME4000021	You must purchase a boat ticket to ride on the Duchess Gambit.
+1ME4000023	Remain here.
+1ME4000024	The door to the Ewers' House is locked.
+1ME4000028	Marguerite has died.
+1ME4000030	This compactor will destroy anything you throw in it.
+1ME4000032	Throw the Cogwave Jammer into the compactor.
+1ME4000033	Leave the compactor alone.
+1ME4000034	The compactor has no power.
+1ME4000036	The compactor has done its work and is now idling.
+1ME4000038	You've found a Schmault-Tec Limited Edition Bubblehead!
+1ME4000039	The inscription on the base reads "Isn't it funny how everything you get close to ends up leaving?"
+1ME4000042	The inscription on the base reads "Blech. If my kid looked like that, I'd abandon it too."
+1ME4000044	Installing the Cogwave Jammer will scramble Professor Calvert's messages to his followers and enable Desmond to locate him.
+1ME4000046	Install the Cogwave Jammer.
+1ME4000048	The Cogwave Jammer has been installed.
+1ME4000050	The Ferris wheel has no power.
+1ME4000053	The inscription on the base reads "This doesn't look right, not right at all."
+1ME4000055	You cannot find any more seeds.
+1ME4000057	Bulletin: Attention Citizens of Point Lookout!
+1ME4000058	Wan Yang, suspected communist and Chinese sympathizer, has been reported in the vicinity of Point Lookout. Agent Yang may be operating under an alias and/or using a disguise.
+1ME4000059	You are required to report any suspicious persons or behavior to Lt. Krumfolz (DIA) at the US Naval Office located at 1811 St. Mary's Branch.
+1ME4000061	You've found what's left of Agent Yang. Inspecting the remains closely, you discover a false molar tooth.  There is a microfilm within that must contain the Self-Destruct Codes for the Chinese submarine.
+1ME4000063	Leave the tooth alone.
+1ME4000064	Remove the Self-Destruct Codes.
+1ME4000065	For some reason, you feel a terrible sense of loss as you look at the familiar lump of gray matter.
+1ME4000070	The inscription on the base reads "Tsk. Tsk. Walked right into another trap. Exactly how stupid are you?"
+1ME4000072	Obadiah Blackhall has died.
+1ME4000074	Just being near this Obelisk makes you uneasy.
+1ME4000076	You lack the skill to perform the repair.
+1ME4000078	The moonshine still is old, but in the best possible condition for its age.
+1ME4000080	Leave the still alone.
+1ME4000081	You must have a shovel to dig here.
+1ME4000084	The inscription on the base reads "Dead mother, life in a post-nuclear Wasteland and not a friend in it. Yeah, you aren't exactly blessed."
+1ME4000087	The inscription on the base reads "This is one situation you're not going to be able to fight your way out of."
+1ME4000090	The inscription on the base reads "Keep it up, you're almost there... wherever 'there' may be... probably nowhere."
+1ME4000092	The "Superior Defender" perk has been added.
+1ME4000093	You now do more damage and have better defense when standing still.
+1ME4000095	The "Punga Power!" perk has been added.
+1ME4000096	You now receive better effects from eating Punga Fruit.
+1ME4000098	The "Mirelurk Ecology" perk has been added.
+1ME4000099	You now do additional damage against Mirelurks.
+1ME4000101	The "Ghoul Ecology" perk has been added.
+1ME4000102	You now do additional damage against Ghouls.
+1ME4000104	You lack the skill to override the circuitry.
+1ME4000106	This circuitry is wired directly into the door. While quite complicated, a skilled technician could override the door controls from here.
+1ME4000108	Leave the circuitry alone.
+1ME4000109	[Science: 71] Override the door controls.
+1ME4000111	You lack the skill to disable the vent.
+1ME4000113	Radiation is being vented into the room through this vent.  With a little skill, it could be disabled, stemming the flow of radiation.
+1ME4000115	Leave the vent alone.
+1ME4000116	[Repair: 30] Disable the Vent
+1ME4000118	This Obelisk shares its origins with the Krivbeknih. Just being near it makes you uneasy.
+1ME4000120	Press the Krivbeknih to the Obelisk's surface.
+1ME4000121	Leave the Obelisk alone.
+1ME4000122	Here marks the landing of Captain John Smith's shallop upon his discovery of Point Lookout in 1612.
+1ME4000125	Eating Punga Fruit now gives you temporary Action Points.
+1ME4000130	Plik has died.
+1ME4000132	This journal contains a number of observations and insights specific to hunting and fighting Ghouls.
+1ME4000134	Read the journal.
+1ME4000135	Leave the journal alone.
+1ME4000138	Okay
+1ME4000139	The large tome set into this lectern must be the Krivbeknih.  It is damp with what appears to be fresh blood.
+1ME4000141	Take the Krivbeknih.
+1ME4000142	Leave the Krivbeknih alone.
+1ME4000143	Replacing the Krivbeknih may put you out of harm's way, but Obadiah Blackhall's life will likely be forfeit.
+1ME4000145	Return the Krivbeknih.
+1ME4000147	Marcella's dead body lies here.  A message has been written in her blood:
+1ME4000148	"Return the Book and You Live."
+1ME4000150	The old moonshine still has several loose fittings and some corrosion, but could be repaired with sufficient skill.
+1ME4000153	[Repair: 44] Perform the needed repairs.
+1ME5000002	No grenade.
+1ME5000003	Frag grenade.
+1ME5000004	Plasma grenade.
+1ME5000005	The teleporter is powered down.
+1ME5000008	Activate Robot
+1ME5000009	Re-align Robot's Sensors
+1ME5000011	The Spacesuit must be worn while in Zero Atmosphere.
+1ME5000013	This door can not be opened until the decompression sequence has been completed.
+1ME5000015	This door cannot be opened while the room is pressurized.
+1ME5000017	The death ray is not ready to be fired.
+1ME5000019	Your Alien weapon is badly damaged.
+1ME5000021	Death Ray fires at Earth's surface.
+1ME5000023	This Recyling Station is recharging and not ready for use.
+1ME5000025	The archway has completely restored your health.
+1ME5000027	The archway has restored your weapon condition.
+1ME5000029	The archway is recharging and not ready for use.
+1ME5000031	Shields are currently up and holding.
+1ME5000033	The teleporter jammer is currently running.
+1ME5000035	The aliens have sealed the airlock door.
+1ME5000037	Would you like to rig this controller to explode?
+1ME5000041	Rewire Controller For Proximity Explosion
+1ME5000042	This door is sealed, with no visible way to open it.
+1ME5000044	Elliott Tercorien has died.
+1ME5000046	Somah has died.
+1ME5000048	Paulson has died.
+1ME5000050	An examination of the device shows that the power to it can be increased, improving its effectiveness. This improvement would come at the expense of making the device burn out after several uses. Do you want to modify the device?
+1ME5000052	Modify the device.
+1ME5000054	You lack the Science skill necessary to interact with this object. (Science [%] or higher required)
+1ME5000056	The drone pod requires a drone control device to activate.
+1ME5000058	The pod successfully links with your drone control device.
+1ME5000060	Leave pod alone.
+1ME5000061	Activate the pod.
+1ME5000062	You cannot activate another pod while the drone control device is active.
+1ME5000064	The assembly line electronics can we wired to overload after a slight second delay. An overload should cause a detonation and provide a way through.
+1ME5000067	Overload Assembly Line.
+1ME5000068	The assembly line electronics can we wired to overload. However, a higher Repair Skill is needed to set it with a slight delay (Repair Skill of 75% required). An overload should cause a detonation and provide a way through.
+1ME5000072	The archway has burned out and is no longer useful.
+1ME5000074	You can't use this while the Death Ray is changing position.
+1ME5000076	You can't use this while the Death Ray is firing.
+1ME5000078	The Death Ray is already in this position.
+1ME5000080	The Death Ray is already at full charge.
+1ME5000082	The Alien Biogel appears to have side effects.
+1ME5000084	Generator is currently online.
+1ME5000086	The jammer is currently online.
+1ME5000088	An examination of the device shows that it will burn out after [%] more uses.
+1ME5000090	The archway has restored some of your health.
+1ME5000094	An examination of the device shows that it will burn out after 1 more use.
+1ME5000096	Your training experience with alien weaponry has made you a Xenotech Expert.
+1ME5000098	A new radio broadcast has been heard across the Capital Wasteland. While completely unintelligible, it sounds ominous...
+1ME5000100	Charging.  Please wait.
+1ME5000102	Would you like to rig this communicator to explode?
+1ME5000110	Remotely overload turret circuitry
+1ME5000113	The Stasis Chambers are functioning normally.
+1ME5000115	Deactivate Stasis.
+1ME5000117	The Stasis chambers are no longer functional.

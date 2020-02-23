@@ -1,0 +1,644 @@
+<!-- loading_menu.xml -->
+<menu name="LoadingMenu">
+	<class> &LoadingMenu; </class>
+	<stackingtype> &no_click_past; </stackingtype>
+	<visible> &true; </visible>
+	<alpha>	0 </alpha>
+	<x> 0 </x>
+	<y> 0 </y>
+	<locus> &true; </locus>
+	<menufade> 0.75 </menufade>
+
+  
+  <rect name="NOGLOW_BRANCH">
+		<id> &noglow_branch; </id>
+		<systemcolor> &mainmenu; </systemcolor>
+		<locus> &true; </locus>
+		<_x_buffer>
+			<copy src="screen()" trait="cropx"/>
+			<mult> 2 </mult>
+			<add>
+				<copy> 20 </copy>
+				<onlyif> &xbox; </onlyif>
+			</add>
+		</_x_buffer>
+		<_y_buffer>
+			<copy src="screen()" trait="cropx"/>
+			<mult> 2 </mult>
+		</_y_buffer>
+		<_display_zone>
+			<copy src="screen()" trait="height"/>
+			<sub src="me()" trait="_y_buffer"/>
+			<sub src="me()" trait="_y_buffer"/>
+		</_display_zone>
+
+		<image name="loading_world_image">
+			<id> 12 </id>
+			<zoom> &scale; </zoom>
+			<width> <copy src="screen()" trait="width"/> </width>
+			<height> <copy src="screen()" trait="height"/> </height>
+			<!--<systemcolor> &nosystemcolor; </systemcolor>-->
+			<!-- Debug code
+			<x> 50 </x>
+			<y> 50 </y>
+			<width> 200 </width>
+			<height> 150 </height>
+			-->
+		</image>
+
+
+    <image name="loading_tile_slide_01">
+      <id> 32 </id>
+      <filename> Interface\Shared\Background\solid_black.dds </filename>
+      <systemcolor> -1 </systemcolor>
+      <zoom> &scale; </zoom>
+      <depth> -6 </depth>
+      <visible> &true; </visible>
+      <alpha> 0 </alpha>
+      <width>
+        <copy src="screen()" trait="width"/>
+      </width>
+      <height>
+        <copy src="screen()" trait="height"/>
+      </height>
+      <x> 0 </x>
+      <y> 0 </y>
+    </image>
+
+    <image name="loading_tile_slide_02">
+      <id> 33 </id>
+      <filename> Interface\Shared\Background\solid_black.dds </filename>
+      <systemcolor> -1 </systemcolor>
+      <zoom> &scale; </zoom>
+      <depth> -7 </depth>
+      <visible> &true; </visible>
+      <alpha> 0 </alpha>
+      <width>
+        <copy src="screen()" trait="width"/>
+      </width>
+      <height>
+        <copy src="screen()" trait="height"/>
+      </height>
+      <x> 0 </x>
+      <y> 0 </y>
+    </image>
+
+
+    <text name="tip_text_01">
+      <id> 34 </id>
+      <visible> &false; </visible>
+      <string> </string>
+      <!--<font> 3 </font>-->
+      <font> 7 </font>
+      <x>	0	</x>
+      <y> 0 </y>
+    </text>
+
+    <text name="tip_text_02">
+      <id> 35 </id>
+      <visible> &false; </visible>
+      <string> </string>
+      <!--<font> 3 </font>-->
+      <font> 7 </font>
+      <x>	0	</x>
+      <y> 0 </y>
+    </text>
+
+    <!-- Black background behind the loading tips -->
+    <image name="tip_matte_01">
+      <id> 36 </id>
+      <systemcolor> -1 </systemcolor>
+      <!-- MT <filename> Interface\Loading\loading_text_bar.dds </filename> -->
+      <filename> MTUI\empty.dds </filename>
+      <zoom> &scale; </zoom>
+      <depth> -4 </depth>
+      <visible> &false; </visible>
+      <alpha> 0 </alpha>
+      <width>
+         <copy src="screen()" trait="width"/>
+      </width>
+      <height>
+        0
+      </height>
+      <x> 0 </x>
+      <y>
+        0
+      </y>
+    </image>
+
+    <!-- Black background behind the loading tips -->
+    <image name="tip_matte_02">
+      <id> 37 </id>
+      <systemcolor> -1 </systemcolor>
+      <!-- MT <filename> Interface\Loading\loading_text_bar.dds </filename> -->
+      <filename> MTUI\empty.dds </filename>
+      <zoom> &scale; </zoom>
+      <depth> -4 </depth>
+      <visible> &false; </visible>
+      <alpha> 0 </alpha>
+      <width>
+        <copy src="screen()" trait="width"/>
+      </width>
+      <height>
+        0
+      </height>
+      <x> 0 </x>
+      <y>
+        0
+      </y>
+    </image>
+
+    
+
+    <nif name="loading_nif">
+			<id> 0 </id>
+			<filename> Interface\Loading\LoadingAnim01.NIF </filename>
+			<x>
+				<copy> 640 </copy>
+				<mult src="me()" trait="user0"/>
+				<div> 4 </div>
+				<mult> 3 </mult>
+			</x>
+			<y> 480 </y>
+			<user0></user0>		<!-- screen width:height ratio (set in code) -->
+			<systemcolor> &nosystemcolor; </systemcolor>
+		</nif>
+
+		<rect name="loading_plateno_rect">
+			<depth> 5 </depth>
+			
+			<locus> &true; </locus>
+			<x> <copy src="parent()" trait="_x_buffer"/> </x>
+			<y> <copy src="sibling(loading_currobj_rect)" trait="y"/> </y>
+			<height> <copy src="sibling(loading_currobj_rect)" trait="height"/> </height>
+
+			<image name="loading_plateno_image">
+				<visible> <copy src="sibling(loading_plateno_text2)" trait="visible"/> </visible>
+				<filename> Interface\Loading\glow_loading_VDSGSymbol.dds </filename>
+				<height> 64 </height>
+				<width> 128 </width>
+				<x> -28 </x>
+				<y> -17 </y>
+			</image>
+      <text name="loading_plateno_text1">
+				<id> 13 </id>
+				<visible> <copy src="sibling(loading_plateno_text2)" trait="visible"/> </visible>
+				<string> &-sVDSGPlate; </string>
+				<!--<font> 3 </font>--><font> 7 </font>
+				<x>
+					<copy src="sibling(loading_plateno_image)" trait="x"/>
+					<add src="sibling(loading_plateno_image)" trait="width"/>
+					<sub> 28 </sub>
+				</x>
+			</text>
+			<text name="loading_plateno_text2">
+				<id> 1 </id>
+				<visible> &false; </visible>
+				<string></string>	<!-- set in code -->
+				<!--<font> 3 </font>--><font> 7 </font>
+				<x> <copy src="sibling(loading_plateno_text1)" trait="x"/> </x>
+				<y>
+					<copy src="sibling(loading_plateno_text1)" trait="y"/>
+					<add> 36 </add>
+				</y>
+			</text>
+		</rect>
+
+		<rect name="loading_info_rect">
+			<depth> 5 </depth>
+			
+			<locus> &true; </locus>
+      <x> 0 </x>
+      <y> 0 </y>
+      <height> 68 </height>
+      
+			<text name="loading_info_text">
+				<id> 2 </id>
+				<visible> &false; </visible>
+				<string></string>	<!-- set in code -->
+				<font> 7 </font>
+        <alpha> 0 </alpha>
+			</text>
+
+    </rect>
+
+		<rect name="loading_currobj_rect">
+			<depth> 5 </depth>
+      <id> 27 </id>
+      <locus> &true; </locus>
+      <x> 0 </x>
+      <y> 0 </y>
+      <brightness> -1 </brightness>
+			<!--<height> 78 </height>-->
+
+			<text name="loading_currobj_label">
+				<id> 14 </id>
+				<visible> <copy src="sibling(loading_currobj_text)" trait="visible"/> </visible>
+        <font> <copy src="sibling(loading_currobj_text)" trait="font"/> </font>
+        <string> &-sCurrentObjective; </string>
+        <justify> <copy src="sibling(loading_currobj_text)" trait="justify"/> </justify>
+        <wrapwidth> <copy src="sibling(loading_currobj_text)" trait="wrapwidth"/> </wrapwidth>
+        <red> <copy src="sibling(loading_currobj_text)" trait="red"/> </red>
+        <green> <copy src="sibling(loading_currobj_text)" trait="green"/> </green>
+        <blue> <copy src="sibling(loading_currobj_text)" trait="blue"/> </blue>
+        <brightness> <copy src="sibling(loading_currobj_text)" trait="brightness"/> </brightness>
+      </text>
+      
+      <text name="loading_currobj_text">
+        <id> 3 </id>
+        <visible> <copy src="parent()" trait="visible"/> </visible>
+        <font> <copy src="parent()" trait="font"/> </font>
+        <justify> <copy src="parent()" trait="justify"/> </justify>
+        <wrapwidth> <copy src="parent()" trait="width"/> </wrapwidth>
+        <red> <copy src="parent()" trait="red"/> </red>
+        <green> <copy src="parent()" trait="green"/> </green>
+        <blue> <copy src="parent()" trait="blue"/> </blue>
+        <brightness> <copy src="parent()" trait="brightness"/> </brightness>
+			</text>
+		</rect>
+
+    <rect name="loading_stat_rect">
+      <id> 31 </id>
+      <depth> 5 </depth>
+      <locus> &true; </locus>
+      <x> 0 </x>
+      <y> 0 </y>
+
+      <text name="loading_stat_label_rect">
+        <id> 17 </id>
+        <locus> &true; </locus>
+        <justify> &left; </justify>
+        <font> 7 </font>
+
+        <text name="loading_stat1_label">
+          <id> 4 </id>
+          <font> <copy src="parent()" trait="font"/> </font>
+          <justify> <copy src="parent()" trait="justify"/> </justify>
+          <red> <copy src="parent()" trait="red"/> </red>
+          <green> <copy src="parent()" trait="green"/> </green>
+          <blue> <copy src="parent()" trait="blue"/> </blue>
+          <brightness> -1 </brightness>
+        </text>
+
+        <text name="loading_stat2_label">
+          <id> 6 </id>
+          <font> <copy src="parent()" trait="font"/> </font>
+          <justify> <copy src="parent()" trait="justify"/> </justify>
+          <red> <copy src="parent()" trait="red"/> </red>
+          <green> <copy src="parent()" trait="green"/> </green>
+          <blue> <copy src="parent()" trait="blue"/> </blue>
+          <brightness> -1 </brightness>
+        </text>
+
+        <text name="loading_stat3_label">
+          <id> 8 </id>
+          <font> <copy src="parent()" trait="font"/> </font>
+          <justify> <copy src="parent()" trait="justify"/> </justify>
+          <red> <copy src="parent()" trait="red"/> </red>
+          <green> <copy src="parent()" trait="green"/> </green>
+          <blue> <copy src="parent()" trait="blue"/> </blue>
+          <brightness> -1 </brightness>
+        </text>
+
+        <text name="loading_stat4_label">
+          <id> 19 </id>
+          <font> <copy src="parent()" trait="font"/> </font>
+          <justify> <copy src="parent()" trait="justify"/> </justify>
+          <red> <copy src="parent()" trait="red"/> </red>
+          <green> <copy src="parent()" trait="green"/> </green>
+          <blue> <copy src="parent()" trait="blue"/> </blue>
+          <brightness> -1 </brightness>
+        </text>
+
+        <text name="loading_stat5_label">
+          <id> 21 </id>
+          <font> <copy src="parent()" trait="font"/> </font>
+          <justify> <copy src="parent()" trait="justify"/> </justify>
+          <red> <copy src="parent()" trait="red"/> </red>
+          <green> <copy src="parent()" trait="green"/> </green>
+          <blue> <copy src="parent()" trait="blue"/> </blue>
+          <brightness> -1 </brightness>
+        </text>
+
+        <text name="loading_stat6_label">
+          <id> 23 </id>
+          <font> <copy src="parent()" trait="font"/> </font>
+          <justify> <copy src="parent()" trait="justify"/> </justify>
+          <red> <copy src="parent()" trait="red"/> </red>
+          <green> <copy src="parent()" trait="green"/> </green>
+          <blue> <copy src="parent()" trait="blue"/> </blue>
+          <brightness> -1 </brightness>
+        </text>
+
+        <text name="loading_stat7_label">
+          <id> 25 </id>
+          <font> <copy src="parent()" trait="font"/> </font>
+          <justify> <copy src="parent()" trait="justify"/> </justify>
+          <red> <copy src="parent()" trait="red"/> </red>
+          <green> <copy src="parent()" trait="green"/> </green>
+          <blue> <copy src="parent()" trait="blue"/> </blue>
+          <brightness> -1 </brightness>
+        </text>
+      </text>
+      
+      <rect name="loading_stat_val_rect">
+        <id> 18 </id>
+        <locus> &true; </locus>
+        <x>
+          <copy src="parent()" trait="width"/>
+        </x>
+        <justify> &right; </justify>
+        <font> 7 </font>
+
+        <text name="loading_stat1_val">
+          <id> 5 </id>
+          <font> <copy src="parent()" trait="font"/> </font>
+          <justify> <copy src="parent()" trait="justify"/> </justify>
+          <red> <copy src="parent()" trait="red"/> </red>
+          <green> <copy src="parent()" trait="green"/> </green>
+          <blue> <copy src="parent()" trait="blue"/> </blue>
+          <brightness> -1 </brightness>
+        </text>
+
+        <text name="loading_stat2_val">
+          <id> 7 </id>
+          <font> <copy src="parent()" trait="font"/> </font>
+          <justify> <copy src="parent()" trait="justify"/> </justify>
+          <red> <copy src="parent()" trait="red"/> </red>
+          <green> <copy src="parent()" trait="green"/> </green>
+          <blue> <copy src="parent()" trait="blue"/> </blue>
+          <brightness> -1 </brightness>
+        </text>
+
+        <text name="loading_stat3_val">
+          <id> 9 </id>
+          <font> <copy src="parent()" trait="font"/> </font>
+          <justify> <copy src="parent()" trait="justify"/> </justify>
+          <red> <copy src="parent()" trait="red"/> </red>
+          <green> <copy src="parent()" trait="green"/> </green>
+          <blue> <copy src="parent()" trait="blue"/> </blue>
+          <brightness> -1 </brightness>
+        </text>
+
+        <text name="loading_stat4_val">
+          <id> 20 </id>
+          <font> <copy src="parent()" trait="font"/> </font>
+          <justify> <copy src="parent()" trait="justify"/> </justify>
+          <red> <copy src="parent()" trait="red"/> </red>
+          <green> <copy src="parent()" trait="green"/> </green>
+          <blue> <copy src="parent()" trait="blue"/> </blue>
+          <brightness> -1 </brightness>
+        </text>
+
+        <text name="loading_stat5_val">
+          <id> 22 </id>
+          <font> <copy src="parent()" trait="font"/> </font>
+          <justify> <copy src="parent()" trait="justify"/> </justify>
+          <red> <copy src="parent()" trait="red"/> </red>
+          <green> <copy src="parent()" trait="green"/> </green>
+          <blue> <copy src="parent()" trait="blue"/> </blue>
+          <brightness> -1 </brightness>
+        </text>
+
+        <text name="loading_stat6_val">
+          <id> 24 </id>
+          <font> <copy src="parent()" trait="font"/> </font>
+          <justify> <copy src="parent()" trait="justify"/> </justify>
+          <red> <copy src="parent()" trait="red"/> </red>
+          <green> <copy src="parent()" trait="green"/> </green>
+          <blue> <copy src="parent()" trait="blue"/> </blue>
+          <brightness> -1 </brightness>
+        </text>
+
+        <text name="loading_stat7_val">
+          <id> 26 </id>
+          <font> <copy src="parent()" trait="font"/> </font>
+          <justify> <copy src="parent()" trait="justify"/> </justify>
+          <red> <copy src="parent()" trait="red"/> </red>
+          <green> <copy src="parent()" trait="green"/> </green>
+          <blue> <copy src="parent()" trait="blue"/> </blue>
+          <brightness> -1 </brightness>
+        </text>
+      </rect>
+    </rect>
+    
+    <rect name="loading_levelprog_rect">
+      <depth> 5 </depth>
+      <id> 16 </id>
+      <alpha>	0 </alpha>
+      <locus> &true; </locus>
+      <x> 0 </x>
+      <y> 0 </y>
+      <height> 68 </height>
+
+      <text name="loading_levelprog_label">
+        <id> 15 </id>
+        <visible> <copy src="sibling(loading_levelprog_meter)" trait="visible"/> </visible>
+        <string> &-sLevelProgress; </string>
+        <justify> &left; </justify>
+        <font> 7 </font>
+        <alpha> <copy src="parent()" trait="alpha"/> </alpha>
+      </text>
+
+      <rect name="loading_levelprog_bounding_rect">
+        <locus> &true; </locus>
+        <y>
+          <copy> 0 </copy>
+          <add src="sibling(loading_levelprog_label)" trait="height"/>
+        </y>
+        <width>
+          <copy src="parent()" trait="width"/>
+        </width>
+        <height>
+          <copy src="parent()" trait="height"/>
+          <sub src="sibling(loading_levelprog_label)" trait="y"/>
+        </height>
+        <font>
+          <copy src="sibling(loading_levelprog_label)" trait="font"/>
+        </font>
+        <_first_tick_x> 30 </_first_tick_x>
+
+        <image name="loading_levelprog_meter">
+          <id> 10 </id>
+          <filename> Interface\Loading\glow_xp_bar.dds </filename>
+
+          <locus> &true; </locus>
+          <zoom> &scale; </zoom>
+          <height>
+            <copy src="parent()" trait="height"/>
+            <sub src="me()" trait="y"/>
+          </height>
+          <user0></user0>
+          <!-- level progress pct (0.0 - 1.0) -->
+          <user1></user1>
+          <!-- current level -->
+          <user2>
+            <!-- next level -->
+            <copy src="me()" trait="user1"/>
+            <add> 1 </add>
+          </user2>
+        </image>
+
+        <text name="loading_levelprog_curlevel">
+          <id> 28 </id>
+          <string>
+            <copy src="sibling(loading_levelprog_meter)" trait="user1"/>
+          </string>
+          <font>
+            <copy src="parent()" trait="font"/>
+          </font>
+        </text>
+        
+				<text name="loading_levelprog_nextlevel">
+          <id> 29 </id>
+          <string> <copy src="sibling(loading_levelprog_meter)" trait="user2"/> </string>
+          <font>
+            <copy src="sibling(loading_levelprog_curlevel)" trait="font"/> 
+          </font>
+					<justify> &right; </justify>
+					<x> <copy src="parent()" trait="width"/> </x>
+					<y> <copy src="sibling(loading_levelprog_curlevel)" trait="y"/> </y>
+				</text>
+        
+				<image name="loading_levelprog_marker">
+          <visible> &false; </visible>
+					<filename> Interface\Main\glow_hp_bar_arrow.dds </filename>
+					<zoom> <copy src="sibling(loading_levelprog_meter)" trait="zoom"/> </zoom>
+					<x>
+						<copy src="parent()" trait="_first_tick_x"/>
+						<sub>
+							<copy src="me()" trait="width"/>
+							<div> 2 </div>
+						</sub>
+						<add>
+							<copy src="sibling(loading_levelprog_meter)" trait="user0"/>
+							<max> 0 </max>
+							<min> 1 </min>
+							<mult>
+								<copy src="sibling(loading_levelprog_meter)" trait="width"/>
+								<sub src="parent()" trait="_first_tick_x"/>
+								<sub src="parent()" trait="_first_tick_x"/>
+							</mult>
+						</add>
+					</x>
+					<y>
+						<copy src="me()" trait="_y"/>
+						<sub src="me()" trait="height"/>
+					</y>
+					<_y> 10 </_y>	<!-- offset from top/bottom of image file -->
+					<width> <copy src="me()" trait="filewidth"/> </width>
+					<height> <copy src="me()" trait="fileheight"/> </height>
+        </image>
+        
+        <!-- 2/17/10 - BDF(OEI) new tile that does the same thing as the loading_levelprog_marker
+              but uses a text character instead of a texture.  We will hijack one of the characters
+              that we don't typically use for final in-game text (potentially "^" or "|") and overwrite
+              that character in each of the game's font files with whatever symbol/character we want
+              to substitute for loading_levelprog_marker.  This allows use to define per-font "markers". -->
+        <text name="loading_levelprog_char_marker">
+          <visible> &true; </visible>
+          <alpha> 255 </alpha>
+          <id> 30 </id>
+          <string> &-sXPProgressMarker; </string>
+				  <font> 3 </font>
+          <justify> &center; </justify>
+          <x>
+            <copy src="sibling(loading_levelprog_marker)" trait="x"/>
+            <add>
+              <copy src="sibling(loading_levelprog_marker)" trait="width"/>
+              <div> 2 </div>
+            </add> 
+          </x>
+					<y> <copy src="sibling(loading_levelprog_nextlevel)" trait="y"/> </y>
+        </text>
+			</rect> <!-- levelprog_bounding_rect -->          
+		</rect>
+
+		<!-- This was used to figure out the width/height of the wheel nif
+		It can be removed later once everything is set in place but is being left
+		in now in case the nif changes at some point in the future.
+		
+		<hotrect name="tmprect">
+			<alpha> 128 </alpha>
+			<width> 54 </width>
+			<height> 54 </height>
+			<x>
+				<copy src="sibling(loading_pinwheel)" trait="x"/>
+				<sub>
+					<copy src="sibling(loading_pinwheel)" trait="_x_offset"/>
+					<mult src="sibling(loading_pinwheel)" trait="user0"/>
+				</sub>
+			</x>
+			<y>
+				<copy src="sibling(loading_pinwheel)" trait="y"/>
+				<sub>
+					<copy src="sibling(loading_pinwheel)" trait="_y_offset"/>
+					<mult src="sibling(loading_pinwheel)" trait="user0"/>
+				</sub>
+			</y>
+		</hotrect>
+		-->
+		
+		<nif name="loading_pinwheel">
+			<id> 11 </id>
+			
+			<filename>Interface\Circular Loading\loading01.nif</filename>
+			<animation>Idle</animation>
+			<x>
+				<copy src="me()" trait="_x_offset"/>
+				<mult src="me()" trait="user0"/>		<!-- now we're at left edge -->
+				<add>
+					<copy src="screen()" trait="width"/>
+					<sub>
+						<copy src="me()" trait="width"/>
+						<mult src="me()" trait="user0"/>
+					</sub>
+					<div> 2 </div>
+				</add>
+			</x>
+			<y>
+				<copy src="me()" trait="_y_offset"/>
+				<mult src="me()" trait="user0"/>		<!-- now we're at top edge -->
+				
+        
+        <!-- This would be the equivalent of copying the sibling's y if we didn't have to adjust. -->
+        <!-- 1/21/10 - BDF(OEI): We have to undock this tile from loading_info_rect since loading_info_rect
+              will now be positioned independently. -->
+        <!-- <add src="sibling(loading_info_rect)" trait="y"/> -->
+        <add>
+           <copy src="parent()" trait="_y_buffer"/>
+          <add>
+            <copy src="parent()" trait="_display_zone"/>
+            <mult> 0.9 </mult>
+          </add>
+          <sub>
+            <copy src="me()" trait="height"/>
+            <div> 2 </div>
+          </sub>         
+        </add>
+
+        <sub>
+					<copy src="me()" trait="height"/>
+					<mult src="me()" trait="user0"/>
+				</sub>
+			</y>
+			
+			<!-- The width/height of the image is assumed to be at a scale factor of 1.0 -->
+			<width> 54 </width>
+			<height> 54 </height>
+
+			<!-- These numbers are the difference between the nif's x/y and the actual image's x/y.
+			In other words, setting x=_x_offset and y=_y_offset at a scale of 1.0 would make the
+			wheel image appear to be at 0,0 or in the top lefthand corner. -->
+			<_x_offset> 107 </_x_offset>
+			<_y_offset> -46 </_y_offset>
+
+      <!-- DBR-OEI - we want the pinwheel in FRONT of the other tiles -->
+      <depth> 3000 </depth>
+      
+      
+      <!-- This number is set in code and is the scale of the image -->
+			<user0></user0>
+		</nif>
+	</rect> <!-- NOGLOW_BRANCH -->
+</menu>

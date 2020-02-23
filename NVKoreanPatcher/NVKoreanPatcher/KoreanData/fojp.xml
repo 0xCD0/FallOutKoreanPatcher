@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fojp> 
+	<!-- 번역파일 -->
+	<replacetext> 
+		<!-- jp : 한국어 번역파일 / en : 영어 번역파일, type : 2 (ID있는 번역파일) / 1 (ID없는 번역파일), priority : 출력할 번역의 우선 순위-->
+
+		<file jp="NVKOR/NV/Names_K.txt" en="NVKOR/NV/Names_E.txt" type="2"/>
+		<file jp="NVKOR/NV/Dialogue_K.txt" en="NVKOR/NV/Dialogue_E.txt" type="2"/>
+		<file jp="NVKOR/NV/Topics_K.txt" en="NVKOR/NV/Topics_E.txt" type="2"/>
+		<file jp="NVKOR/NV/Descriptions_K.txt" en="NVKOR/NV/Descriptions_E.txt" type="2"/>
+		<file jp="NVKOR/NV/Message_K.txt" en="NVKOR/NV/Message_E.txt" type="2"/>
+		<file jp="NVKOR/NV/Note_K.txt" en="NVKOR/NV/Note_E.txt" type="2"/>
+		<file jp="NVKOR/NV/QuestObjectives_K.txt" en="NVKOR/NV/QuestObjectives_E.txt" type="2"/>
+		<file jp="NVKOR/NV/Terminal_K.txt" en="NVKOR/NV/Terminal_E.txt" type="2"/>
+		<file jp="NVKOR/FO3/Names_K.txt" en="NVKOR/FO3/Names_E.txt" type="2"/>
+		<file jp="NVKOR/FO3/Dialogue_K.txt" en="NVKOR/FO3/Dialogue_E.txt" type="2"/>
+		<file jp="NVKOR/FO3/Topics_K.txt" en="NVKOR/FO3/Topics_E.txt" type="2"/>
+		<file jp="NVKOR/FO3/Descriptions_K.txt" en="NVKOR/FO3/Descriptions_E.txt" type="2"/>
+		<file jp="NVKOR/FO3/Message_K.txt" en="NVKOR/FO3/Message_E.txt" type="2"/>
+		<file jp="NVKOR/FO3/Note_K.txt" en="NVKOR/FO3/Note_E.txt" type="2"/>
+		<file jp="NVKOR/FO3/QuestObjectives_K.txt" en="NVKOR/FO3/QuestObjectives_E.txt" type="2"/>
+		<file jp="NVKOR/FO3/Terminal_K.txt" en="NVKOR/FO3/Terminal_E.txt" type="2"/>
+		<file jp="NVKOR/BASE_K.txt" en="NVKOR/BASE_E.txt" type="2"/>
+		<file jp="NVKOR/MOD_K.txt" en="NVKOR/MOD_E.txt" type="2"/>
+		<file jp="NVKOR/CUSTOM_K.txt" en="NVKOR/CUSTOM_E.txt" type="2"/>
+
+	</replacetext>
+
+	<!-- 기호에 따라 사용하는 한국어 폰트를 설정해주세요 -->	
+	<fonts>
+		<!-- id : 폰트 ID,  fontname : 폰트 이름, size : 폰트 크기, intervaltextchars : 문자 간격, intervaltextlines : 행 간격-->
+		<!-- 폰트 ID에 fnt파일을 지정하는 것으로 출력 폰트를 변경할 수 있습니다. 생략된 fnt는 디폴트가 사용됩니다  -->
+		<!-- 따라서 Danified UI 모드나 다른 폰트를 쓰는 모드는 그 모드가 요구하는 fnt를 지정해야함   -->
+
+		<!-- <font id="default" fontname="맑은 고딕" size="32" weight="700" outlinesize="1" fontcolor="f0f0f0" outlinecolor="282828" intervaltextchars="-2" intervaltextlines="0" /> -->
+
+		<!-- 일반 UI용-->
+		<!-- 상태, 아이템 정보, 메모 문장 상인 아이템 이름 -->
+		<font id="Glow_Monofonto_Large.fnt" fontname="맑은 고딕" size="31" weight="700" outlinesize="1" fontcolor="f0f0f0" outlinecolor="282828" intervaltextchars="-2" intervaltextlines="0" /> --> 
+		<!-- 핍보이 퀘스트, 메모, 아이템 이름 등 -->
+		<font id="Monofonto_Large.fnt" fontname="맑은 고딕" size="31" weight="700" outlinesize="1" fontcolor="f0f0f0" outlinecolor="282828" intervaltextchars="-2" intervaltextlines="0" /> -->
+		<!-- 아이템 토글, SPECIAL Perks 이름, 맵 지명 -->
+		<font id="Glow_Monofonto_Medium.fnt" fontname="맑은 고딕" size="31" weight="700" outlinesize="1" fontcolor="f0f0f0" outlinecolor="282828" intervaltextchars="-2" intervaltextlines="0" /> -->
+		<!-- 핍보이 ITEM, DATA 등 -->
+		<font id="Monofonto_VeryLarge02_Dialogs2.fnt" fontname="맑은 고딕" size="40" weight="700" outlinesize="1" fontcolor="f0f0f0" outlinecolor="282828" intervaltextchars="-2" intervaltextlines="0" /> -->
+		<!-- 터미널 (출력에서 제외된 폰트에 있으므로 주석 처리함) -->
+		<!-- <font id="Fixedsys_Comp_uniform_width" fontname="맑은 고딕" size="30" weight="700" outlinesize="1" fontcolor="f0f0f0" outlinecolor="282828" intervaltextchars="-2" intervaltextlines="0" /> -->
+		<!-- 대화, Pip-boy 탭 대상의 이름, OK 버튼 -->
+		<font id="Glow_Monofonto_VL_dialogs.fnt" fontname="맑은 고딕" size="31" weight="700" outlinesize="1" fontcolor="f0f0f0" outlinecolor="282828" intervaltextchars="-2" intervaltextlines="0" /> -->
+		<!-- 시스템 메뉴, 대화시 인물명 -->
+		<font id="Baked-in_Monofonto_Large.fnt" fontname="맑은 고딕" size="31" weight="700" outlinesize="1" fontcolor="f0f0f0" outlinecolor="282828" intervaltextchars="-2" intervaltextlines="0" /> -->
+		<!-- 퀘스트 추가 알림, 지역 발견 알림  (출력에서 제외된 폰트에 있으므로 주석 처리됨) -->
+		<!-- <font id="Glow_Futura_Caps_Large.fnt" fontname="맑은 고딕" size="62" weight="700" outlinesize="1" fontcolor="f0f0f0" outlinecolor="282828" intervaltextchars="-2" intervaltextlines="0" /> -->
+
+		<!-- Darnified UI용 -->
+		<!-- 상태, 아이템 정보, 메모 문장 상인 아이템 이름 -->
+		<!--<font id="DarN_FranKleinBold_14.fnt" fontname="맑은 고딕" size="25" weight="700" outlinesize="1" fontcolor="f0f0f0" outlinecolor="282828" intervaltextchars="-2" intervaltextlines="0" /> --> 
+		<!-- 핍보이 퀘스트, 메모, 아이템 이름 등 -->
+		<!--<font id="DarN_FranKleinBold_16.fnt" fontname="맑은 고딕" size="25" weight="700" outlinesize="1" fontcolor="f0f0f0" outlinecolor="282828" intervaltextchars="-2" intervaltextlines="0" /> --> 
+		<!-- 아이템 토글, SPECIAL Perks 이름, 맵 지명 -->
+		<!--<font id="Glow_Monofonto_Medium.fnt" fontname="맑은 고딕" size="25" weight="700" outlinesize="1" fontcolor="f0f0f0" outlinecolor="282828" intervaltextchars="-2" intervaltextlines="0" /> --> 
+		<!-- 핍보이 ITEM, DATA 등 -->
+		<!--<font id="DarN_Sui_Generis_Otl_10.fnt" fontname="맑은 고딕" size="22" weight="700" outlinesize="1" fontcolor="f0f0f0" outlinecolor="282828" intervaltextchars="-2" intervaltextlines="0" /> --> 
+		<!-- 터미널 (출력에서 제외된 폰트에 있으므로 주석 처리함) -->
+		<!-- <font id="Fixedsys_Comp_uniform_width" fontname="맑은 고딕" size="30" weight="700" outlinesize="1" fontcolor="f0f0f0" outlinecolor="282828" intervaltextchars="-2" intervaltextlines="0" /> -->
+		<!-- 대화, Pip-boy 탭 대상의 이름, OK 버튼 -->
+		<!--<font id="DarN_Sui_Generis_Otl_13.fnt" fontname="맑은 고딕" size="25" weight="700" outlinesize="1" fontcolor="f0f0f0" outlinecolor="282828" intervaltextchars="-2" intervaltextlines="0" /> --> 
+		<!-- 시스템 메뉴, 대화시 인물명 -->
+		<!--<font id="DarN_Libel_Suit_Otl_24.fnt" fontname="맑은 고딕" size="31" weight="700" outlinesize="1" fontcolor="f0f0f0" outlinecolor="282828" intervaltextchars="-2" intervaltextlines="0" /> --> 
+		<!-- 퀘스트 추가 알림, 지역 발견 알림 -->
+		<!--<font id="Glow_Futura_Caps_Large.fnt" fontname="맑은 고딕" size="62" weight="700" outlinesize="1" fontcolor="f0f0f0" outlinecolor="282828" intervaltextchars="-2" intervaltextlines="0" /> --> 
+	</fonts>
+
+	<!-- ignore : 출력에서 제외할 폰트 -->	
+	<analyze> 
+		<ignore file="Glow_Futura_Caps_Large.fnt" /> <!-- 터미널 폰트지만 제외하지 않을 경우 해킹시 매번 한/영 전환을 해야하는 번거로움이 있고 한글 출력이 되지 않음 -->
+		<ignore file="Fixedsys_Comp_uniform_width.fnt" /> <!-- 패치 구조상 퀘스트 추가나 완료 등의 메시지 팝업은 번역되지 않음 -->
+	</analyze>
+	
+	<!-- 각종 설정 -->	
+	<config id="AllTextReplace" value="1" /> <!-- 0: 번역 될 수 있는 텍스트만 번역 / 1: 번역 되지 않는 텍스트도 번역 -->
+	<config id="ForceDirect3D9" value="0" /> <!-- 1: Fallout New Vegas에서의 화면이 흔들리는 현상을 회피 / 0: 끄기 ※New Vegas용무의 설정※ -->
+	<config id="UseOptimizedTextureSize" value="0" /> <!-- 1: texture 사이즈를 최적화 / 0: 하지 않는다 --> <!-- ※1(을)를 추천. 다만 환경에 따라서는 정상 동작하지 않을 가능성이 있습니다. 그 경우는 0으로 해주세요.  -->
+	<config id="EnableTranslationKey" value="3A" /> <!-- 번역ON/OFF변환 키 (DIK의 16진수) / 0:끄기 --> <!-- Q: 10, X: 2D, Left Win: DB, Caps Lock: 3A -->
+	<config id="TranslationLoggingKey" value="58" /> <!-- 번역 로그 출력 키 (DIK의 16진수) / 0:끄기 --> <!-- Left Alt: 38 , F12: 58, Caps Lock: 3A -->
+    <config id="ConsoleKey" value="0C" /> <!-- 콘솔 표시 키 (DIK의 16진수) / 0: 끄기 --> <!-- 0C: Minus ,F4: 3E -->
+	<config id="LineAdjuster" value="0" /> <!-- Darnified UI 등의 모드로 인해 텍스트가 화면 밖으로 넘어갈때 이를 조정하는 옵션. 값이 높을수록 한글이 아래로 아래로 출력됨. -->
+	<config id="FPSManagement" value="0" /> <!-- 1 : FPS관리 기능 켜기 / 0: 끄기 -->
+	<config id="FPSManagementKey" value="44" /> <!-- FPS관리 기능 켜고/끄기 (토클 키이며 DIK의16진수) / 0: 끄기 --> <!-- F10 -->
+	<config id="FPSMaximum" value="60" /> 	<!-- FPS관리 기능을 켰을때 최대FPS 설정 -->
+
+	<xinput>
+		<!-- bindkey : XInput패드의 버튼에 키보드의 키를 할당하고(FOSE/NVSE를 사용하는MOD용) / 복수가능 / 스틱, 트리거 비대응 -->
+		<!-- @button : 할당하고 싶은 패드의 버튼을, XINPUT_GAMEPAD비트 플래그를 16진수로 지정, @key : 할당하고 싶은 키를 DIK의 16진수로 지정 -->
+		
+		<!-- 샘플：A버튼(0x1000)을 오른쪽Ctrl(0x9D)으로 바인드 --> <!-- <bindkey button="1000" key="9D" /> -->
+		<!-- 샘플：십자 키 좌상(0x04|0x01)을 왼쪽Shift(0x2A)으로 바인드 --> <!-- <bindkey button="5" key="2A" /> -->
+	</xinput>
+
+	<!-- 사전 번역시에 제거되는 프리픽스, 서픽스 -->
+	<config id="TrimPrefixRegularExpressions"> 
+		<![CDATA[^([ >]+|<GID[0-9]+>)]]> <!-- 터미널의 기호|ID매입 -->
+	</config>
+	<config id="TrimSuffixRegularExpressions">
+		<![CDATA[([ ]*)$]]>
+	</config>
+	
+	<!-- 사전 번역시에 우회되는 프리픽스, 서픽스 -->
+	<config id="BypassPrefixRegularExpressions"> 
+		<![CDATA[^(\[[a-zA-Z0-9,%\$/ ]+\]|Req: .*Ranks: [0-9]+|<.+>)]]> <!-- 스피치 챌린지, 스킬 요구|Perks|ID매입 -->
+	</config>
+	<config id="BypassSuffixRegularExpressions">
+		<!-- 원본: <![CDATA[(\([0-9/\(\)A-Z, ]+\)|\+)$]]> --> <!-- 아이템 개수/개조 -->
+		<![CDATA[(\+|\+[ ]\([0-9, ]+\)|\([0-9/\(\), ]+\))$]]> <!-- 모드/모드+아이템 개수/아이템 개수/개조 -->
+	</config>
+
+	<!-- 출력 텍스트의 필터 (화면 출력 직전에 출력 문자 라인을 변환, AllTextReplace=1 라면 번역되어 있지 않은 텍스트에도 적용됨)-->
+	<drawtextfilters> 
+
+		<!-- 메뉴: [NEW SAVE] ?/1000 saves used. 항목 -->
+		<replace source="[NEW SAVE]" destination="[새로운 저장]" />
+		<replace source="/1000 saves used." destination="/1000 저장 사용됨." />
+
+		<!-- 핍보이: {플레이어 이름} - 레벨  -->
+		<replace source="- Level" destination="- 레벨" />
+
+		<!-- 핍보이: 상태 -->
+		<replace source=") !AAD Stimpak" destination=") 스팀팩" />
+		<replace source=") !AAE RadAway" destination=") 라드어웨이" />
+		<replace source=") !AAE Rad-X" destination=") 라드-X" />
+		<replace source=") !AAD Doctor's Bag" destination=") 의료가방" />
+
+		<!-- 메시지: push 동반 출력 수정 -->
+		<replace source="려면, push" destination="려면," />
+		<replace source="push Z" destination="Z" />
+
+		<!-- 도움말: 자물쇠 설명 (0ME00000040) -->
+		<replace source=": Apply torque with the screwdriver" destination="" />
+		<replace source=": Rotate the bobby pin" destination="" />
+
+		<!-- 도움말: 키 설명 (0ME00001637) -->
+		<replace source=": Move forward" destination="" />
+		<replace source=": Move backward" destination="" />
+		<replace source=": Strafe left" destination="" />
+		<replace source=": Strafe right" destination="" />
+		<replace source=": Look around" destination="" />
+		<replace source=": Attack" destination="" />
+		<replace source=": Aim/Block" destination="" />
+		<replace source=": Activate Objects" destination="" />
+		<replace source=": Reload Weapon (Hold to holster)" destination="" />
+		<replace source=": Pip-Boy 3000" destination="" />
+		<replace source=": Jump" destination="" />
+		<replace source=": Run (Toggle)" destination="" />
+		<replace source=": Sneak (Toggle)" destination="" />
+		<replace source=": Grab" destination="" />
+		<replace source=": View Switch (Hold to adjust)" destination="" />
+		<replace source=": Vault-Tec Assisted Targeting System (Hold to scan)" destination="" />
+
+		<!-- 아이템 효과: 탄약 -->
+		<!-- <replace source="DAM x" destination="데미지 x" /> -->
+		<replace source="Target DR x" destination="대상 DR x" />
+		<replace source="Target DR -" destination="대상 DR -" />
+		<replace source="Target DT x" destination="대상 DT x" />
+		<replace source="Target DT -" destination="대상 DT -" />
+		<replace source="Target Fatigue +" destination="대상 피로도 +" />
+		<replace source="Gun CND x" destination="화기상태 x" />
+		<replace source="Gun Spread x" destination="화기반동 x" />
+
+		<!-- 아이템 효과: 이중 단어 -->
+		<replace source="Pois. Res." destination="독 저항" />
+		<replace source="Rad. Res." destination="방사능 저항" />
+		<replace source="Rad. Resis." destination="방사능 저항" />
+		<replace source="Melee Dam." destination="근접 데미지" />
+		<replace source="Melee Weap." destination="근접 무기" />
+		<replace source="Unarmed Dam." destination="격투 데미지" />
+		<replace source="Ener. Resis" destination="에너지 저항" />
+		<replace source="Ener. Weap." destination="에너지 무기" />
+		<replace source="Fire Resis." destination="화염 저항" />
+		<replace source="Crit. Chan." destination="치명타 기회" />
+		<replace source="Dam. Res." destination="데미지 저항" />
+		<replace source="Sm. Guns." destination="소형 화기" />
+		<replace source="Dam. Res." destination="데미지 저항" />
+
+	</drawtextfilters>
+
+</fojp>

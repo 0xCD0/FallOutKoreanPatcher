@@ -1,0 +1,2951 @@
+1NA0000001	Vault 101 Terminal
+1NA0000009	Brianna
+1NA0000012	Justin
+1NA0000013	Wasteland
+1NA0000014	Robert
+1NA0000015	Fire Ant Nest Guardian
+1NA0000016	Noodle Stand Supply Key
+1NA0000018	Leo Stahl's Supply Key
+1NA0000024	Turret Generator
+1NA0000026	Potomac Steamworks
+1NA0000037	Impound Information
+1NA0000039	Dialogue
+1NA0000052	Administrator Berkeley's Terminal
+1NA0000054	Admin Notice u89003
+1NA0000057	TJEFF002 Thomas Jefferson
+1NA0000058	JADAM002 John Adams
+1NA0000059	BFRAN001 Benjamin Franklin
+1NA0000060	ERUTL001 Edward Rutledge
+1NA0000061	JWILS002 John Wilson
+1NA0000062	BACK001 Backup Protectron
+1NA0000063	Backup Protectron Unit
+1NA0000064	Thomas Jefferson
+1NA0000067	GNR Boradcast Effect
+1NA0000069	Jefferson Unit Maintenance Note
+1NA0000073	Police Station Terminal
+1NA0000074	Interactive Button
+1NA0000079	Meresti Trainyard Station Security Terminal
+1NA0000080	Meresti Security Password
+1NA0000088	Tunnel Snake Outfit
+1NA0000092	Rivet City Security
+1NA0000100	Moriarty's Saloon Supply Key
+1NA0000104	Arlington Cemetery South
+1NA0000129	Big Guns
+1NA0000137	Small Guns
+1NA0000140	Throwing
+1NA0000142	Talon Company Merc
+1NA0000145	My House in Megaton
+1NA0000148	Sewer Entrance
+1NA0000151	Canterbury Tunnels
+1NA0000152	AntAgonizer's Lair
+1NA0000156	Ignore Negative Effects
+1NA0000158	Officer Armstrong
+1NA0000159	Officer Taylor
+1NA0000161	Colin Moriarty's Key
+1NA0000168	Citadel - B Ring
+1NA0000169	Citadel - A Ring
+1NA0000170	Chinese Assault Rifle
+1NA0000171	.32 Caliber Round
+1NA0000173	Grayditch Dumpster Key
+1NA0000174	Dead Chinese Commando
+1NA0000175	Vault-Tec Terminal
+1NA0000179	.32 Pistol
+1NA0000183	Megaton Settler
+1NA0000188	DEBUG MESSAGE
+1NA0000193	Switch
+1NA0000216	Oasis
+1NA0000217	Armory Key
+1NA0000219	Lucas Simms
+1NA0000220	Colin Moriarty
+1NA0000221	Gob
+1NA0000222	Nova
+1NA0000223	Walter
+1NA0000224	Billy Creel
+1NA0000225	Maggie
+1NA0000227	Manya
+1NA0000228	Lucy West
+1NA0000230	Mister Burke
+1NA0000231	Leo Stahl
+1NA0000233	Andy Stahl
+1NA0000234	Jenny Stahl
+1NA0000235	Doc Church
+1NA0000236	Confessor Cromwell
+1NA0000238	Mother Maya
+1NA0000240	Jericho
+1NA0000241	Harden Simms
+1NA0000242	Megaton
+1NA0000260	Zhu-Rong v418 Chinese Pistol
+1NA0000279	Outcast Power Armor
+1NA0000280	Outcast Power Helmet
+1NA0000281	Protector Casdin
+1NA0000285	Geomapper Module
+1NA0000301	Wally Mack
+1NA0000302	Butch
+1NA0000303	Paul Hannon
+1NA0000304	Survivor
+1NA0000312	Little Lamplight Office Building
+1NA0000313	Little Lamplight Armory
+1NA0000314	Spelunkers Restaurant
+1NA0000315	Lamplight Restrooms
+1NA0000316	Murder Pass
+1NA0000317	Lamplight Caverns
+1NA0000318	Souvenir Shop
+1NA0000319	Womens Restroom
+1NA0000320	W. Brandice's Terminal
+1NA0000322	Marketing Terminal
+1NA0000337	Vance's Terminal
+1NA0000338	Abraham Washington's Terminal
+1NA0000341	Insert one Cap or Museum Token
+1NA0000342	Professor Malleus
+1NA0000343	Professor Malleus Audio Log V92-01
+1NA0000344	Professor Malleus Audio Log V92-02
+1NA0000345	Professor Malleus Audio Log V92-03
+1NA0000346	Professor Malleus Audio Log V92-04
+1NA0000347	Professor Malleus Audio Log V92-05
+1NA0000348	Professor Malleus Audio Log V92-06
+1NA0000349	Overseer Rubin Personal Entry 00897398
+1NA0000350	Zoe Hammerstein's Terminal
+1NA0000352	Project Purity Control Panel
+1NA0000373	Rivet City Market
+1NA0000390	Seward Square Artillery
+1NA0000391	Glass Doors
+1NA0000400	.32 Bullet
+1NA0000420	Rockopolis
+1NA0000427	Archives Intercom
+1NA0000431	Ticket Booth Door
+1NA0000433	Gary 32
+1NA0000434	Gary 25
+1NA0000435	Gary 29
+1NA0000436	Gary 33
+1NA0000437	Gary 27
+1NA0000438	Gary 43
+1NA0000439	Gary 47
+1NA0000440	Gary 17
+1NA0000441	Gary 12
+1NA0000442	Gary 1
+1NA0000445	Bobblehead Collector's Stand
+1NA0000446	Agility Bobblehead
+1NA0000447	Barter Bobblehead
+1NA0000448	Big Guns Bobblehead
+1NA0000449	Charisma Bobblehead
+1NA0000450	Endurance Bobblehead
+1NA0000451	Energy Weapons Bobblehead
+1NA0000452	Explosives Bobblehead
+1NA0000453	Intelligence Bobblehead
+1NA0000454	Lockpick Bobblehead
+1NA0000455	Luck Bobblehead
+1NA0000456	Medicine Bobblehead
+1NA0000457	Melee Weapons Bobblehead
+1NA0000458	Perception Bobblehead
+1NA0000459	Repair Bobblehead
+1NA0000460	Science Bobblehead
+1NA0000461	Small Guns Bobblehead
+1NA0000462	Sneak Bobblehead
+1NA0000463	Speech Bobblehead
+1NA0000464	Strength Bobblehead
+1NA0000465	Unarmed Bobblehead
+1NA0000472	Wazer Wifle
+1NA0000473	Biwwy
+1NA0000481	Child of Atom
+1NA0000490	Dead Settler
+1NA0000492	Metro Access & Generator
+1NA0000494	Hangar Door
+1NA0000501	Strongroom Security Terminal
+1NA0000502	BGWIN009 Button Gwinnett
+1NA0000503	JHANC003 John Hancock
+1NA0000544	Flood Control Power Switch
+1NA0000554	Army Power Armor
+1NA0000555	Lyons' Pride Power Armor
+1NA0000560	Doctor Li's Key
+1NA0000561	Bannon's Key
+1NA0000562	Sister's Key
+1NA0000563	Flak and Shrapnel's Key
+1NA0000564	Zimmer's Key
+1NA0000565	Young's Key
+1NA0000566	Cantelli's Key
+1NA0000567	Staley's Key
+1NA0000568	Seagrave Holme's Key
+1NA0000569	Harkness' Key
+1NA0000570	Dr. Preston's Key
+1NA0000571	Danvers' Key
+1NA0000572	Vera Weatherly's Key
+1NA0000587	Trouble on the Homefront
+1NA0000589	Radiation King
+1NA0000592	National Archives Security Password
+1NA0000609	DCTA Emergency Access Terminal
+1NA0000611	Yao Guai Den
+1NA0000612	Key - Custodian Key for Tech Museum
+1NA0000617	Wasteland Merchant
+1NA0000622	Containment Door
+1NA0000623	AntAgonizer Costume
+1NA0000626	Washington Monument Access
+1NA0000627	Photo of Doctor Li
+1NA0000628	Yao Guai Tunnels
+1NA0000667	Doctor Lesko's Terminal
+1NA0000670	Fort Independence Field Report 1
+1NA0000671	Fort Independence Field Report 2
+1NA0000672	Field Reports
+1NA0000678	Smiling Jack
+1NA0000684	Three Dog
+1NA0000688	Vault 101 Lesson Review - History
+1NA0000689	Vault 101 Classroom Lesson Review
+1NA0000697	Beatrices's Computer
+1NA0000700	Vault 101 Utility Jumpsuit
+1NA0000705	Lounger Monitor -- Subject: G. Neusbaum
+1NA0000706	Lounger Monitor -- Subject: P. Neusbaum
+1NA0000707	Lounger Monitor -- Subject: T. Neusbaum
+1NA0000708	Lounger Monitor -- Subject: R. Rockwell
+1NA0000709	Lounger Monitor -- Subject: J. Rockwell
+1NA0000710	Lounger Monitor -- Subject: M. Simpson
+1NA0000711	Lounger Monitor -- Subject: M. Henderson
+1NA0000712	Lounger Monitor -- Subject: T. Dithers
+1NA0000713	Tranquility Lounger Monitor
+1NA0000714	Vault 112 Resident Status
+1NA0000722	Vault 112 Resident Stress Level
+1NA0000734	Muddy Rudder Key
+1NA0000735	Trinnie's Key
+1NA0000736	Brock's Key
+1NA0000738	Saint Monica's Key
+1NA0000740	Diego's Key
+1NA0000741	Father Clifford's Key
+1NA0000743	Mei Wong's Key
+1NA0000744	Hargrave's Key
+1NA0000747	Mister Lopez's Key
+1NA0000748	Ted Strayer's Key
+1NA0000756	Tenpenny Tower Lobby
+1NA0000757	Tenpenny Suites
+1NA0000758	Penthouse Suites
+1NA0000760	Key to Tenpenny Generator Room
+1NA0000768	Large Ant Egg Pile
+1NA0000774	Vault Tec Vault Locations
+1NA0000776	National Guard Armory
+1NA0000777	Tenpenny's request
+1NA0000778	Child Slaver
+1NA0000779	Doors
+1NA0000783	Office Building
+1NA0000784	Satellite Facility
+1NA0000785	Rebel Dossier
+1NA0000786	Amata Dossier
+1NA0000787	Contact Report: "Enclave"
+1NA0000788	Raid Plans
+1NA0000789	Jail Cell Password
+1NA0000791	Better Days
+1NA0000792	Our Lady of Hope Hospital
+1NA0000793	The Statesman Hotel
+1NA0000794	Vault-Tec Headquarters
+1NA0000813	Board of Education
+1NA0000819	The Citadel
+1NA0000820	Anacostia Crossing
+1NA0000821	Rivet City
+1NA0000823	Anchorage Memorial
+1NA0000824	Friendship Heights
+1NA0000825	Grayditch
+1NA0000826	Marigold Station
+1NA0000827	Red Racer Factory
+1NA0000828	Alexandria Arms
+1NA0000841	Big Guns Boost
+1NA0000849	Small Guns Boost
+1NA0000856	Key - Craterside Supply
+1NA0000857	Key - Church of Atom
+1NA0000858	Housekey - Jericho
+1NA0000859	Housekey - Lucas Simms
+1NA0000860	Housekey - Lucy West
+1NA0000861	Housekey - Mister Burke
+1NA0000862	Housekey - Moriarty's
+1NA0000863	Housekey - Nathan and Manya
+1NA0000864	Key - Brass Lantern Door
+1NA0000865	Housekey - Billy Creel
+1NA0000866	Key - Megaton Clinic
+1NA0000873	The Overseer
+1NA0000874	Vault 112 Auxiliary Command Terminal
+1NA0000875	"Chinese Invasion" Program Documentation
+1NA0000877	Amata
+1NA0000879	Ellen DeLoria
+1NA0000880	Wooden Gate
+1NA0000896	Rock Creek Caverns
+1NA0000897	Super-Duper Mart
+1NA0000898	Bethesda Ruins
+1NA0000899	Corvega Factory
+1NA0000902	Paradise Falls
+1NA0000908	Raven Rock
+1NA0000909	Northwest Seneca Station
+1NA0000912	Germantown Police HQ
+1NA0000913	Fort Constantine
+1NA0000914	Museum Station
+1NA0000915	Temple of the Union
+1NA0000916	Agatha's House
+1NA0000917	Arefu
+1NA0000918	Vault 87
+1NA0000919	Little Lamplight
+1NA0000920	Shalebridge
+1NA0000921	Meresti Trainyard Station Entry Terminal
+1NA0000922	Deathclaw Sanctuary
+1NA0000923	Meresti Entry Password
+1NA0000924	Meresti Trainyard
+1NA0000925	The Republic of Dave
+1NA0000926	Andale
+1NA0000927	Cliffside Cavern
+1NA0000928	RobCo Facility
+1NA0000929	Warrington Trainyard
+1NA0000930	Tenpenny Tower
+1NA0000931	Chryslus Building
+1NA0000932	Springvale School
+1NA0000933	Jefferson Memorial
+1NA0000934	Fairfax Ruins
+1NA0000935	Fort Independence
+1NA0000937	Jury Street Metro Station
+1NA0000938	Vault 106
+1NA0000939	Vault 101
+1NA0000940	Fort Bannister
+1NA0000941	Vault 101 Emergency Frequency
+1NA0000944	Belle Bonny's Key
+1NA0000946	Big Town
+1NA0000948	AntAgonizer Lair Key
+1NA0000950	Reilly's Rangers
+1NA0000952	Metal Gate
+1NA0000955	Lounge Computer
+1NA0000956	Soil Stradivarius
+1NA0000958	Eye Intercom
+1NA0000959	Hubris Comics
+1NA0000967	Empty Case
+1NA0000968	Fort Bannister Bunker
+1NA0000969	Talon Company Camp
+1NA0000970	Power Station
+1NA0000971	Commanding Officer's Quarters
+1NA0000972	Bethesda Underworks
+1NA0000973	Sealed Cistern
+1NA0000974	Nuka-Cola Accident Report
+1NA0000975	Metro Junction
+1NA0000976	Arlington/Wasteland Metro
+1NA0000977	Georgetown/The Mall Metro
+1NA0000978	Penn. Ave/Georgetown Metro
+1NA0000987	Conference Hall
+1NA0000988	Hall of Columns
+1NA0000989	Capitol Building West Entrance
+1NA0000992	Vault 92 Overseer's Office
+1NA0000996	VAPL-66 Power Station
+1NA0000997	VAPL-84 Power Station
+1NA0000998	Vault 101 Radio Beacon
+1NA0000999	Megaton Ruins
+1NA0001002	Virgo II Dish
+1NA0001003	Galaxy News Radio Relay
+1NA0001004	Repaired Relay
+1NA0001006	Wood Planks
+1NA0001013	Big Town,  Clinic Basement
+1NA0001014	Rivet City Security Helmet
+1NA0001015	Rivet City Security Uniform
+1NA0001016	Hannibal Hamlin
+1NA0001017	Leroy Walker
+1NA0001018	Caleb Smith
+1NA0001019	Simone Cameron
+1NA0001020	Alejandra Torres
+1NA0001021	Bill Seward
+1NA0001022	RobCo Stealth Boy 3001 Description
+1NA0001023	Computer Terminal
+1NA0001027	Sydney
+1NA0001028	Men's Restroom
+1NA0001029	Women's Restroom
+1NA0001030	Vance's Longcoat Outfit
+1NA0001031	Lucas Simms' House
+1NA0001032	Craterside Supply
+1NA0001033	The Armory
+1NA0001034	Jericho's House
+1NA0001035	Children of Atom
+1NA0001036	Megaton Clinic
+1NA0001037	The Brass Lantern
+1NA0001038	Mister Burke's House
+1NA0001039	Lucy West's House
+1NA0001040	Nathan and Manya's House
+1NA0001041	Billy Creel's House
+1NA0001042	Water Processing Plant
+1NA0001043	Moriarty's Saloon
+1NA0001046	Doc Hoff
+1NA0001047	Crow
+1NA0001048	Lucky Harith
+1NA0001049	Crazy Wolfgang
+1NA0001054	Button Gwinnett
+1NA0001055	Declaration of Independence
+1NA0001056	Bill of Rights
+1NA0001057	Magna Carta
+1NA0001058	Constitution of the United States
+1NA0001063	Ink Container
+1NA0001065	Hack Terminal
+1NA0001070	Stockholm
+1NA0001075	Archival Strongroom
+1NA0001077	Archival Secure Wing East
+1NA0001078	Undetonated Atomic Bomb
+1NA0001082	Defender Morgan
+1NA0001083	Defender Rockfowl
+1NA0001084	Property Deed: Megaton House
+1NA0001085	Property Deed: Tenpenny Tower Suite
+1NA0001089	National Guard Depot
+1NA0001097	Chinese Officer's Sword
+1NA0001109	SatCom Array NN-03d-A
+1NA0001111	Matilda West
+1NA0001117	ZAX Panel
+1NA0001119	Utility Door
+1NA0001128	Sector B Security Terminal
+1NA0001134	5.56mm Bullet
+1NA0001144	The Guardians of Gillyfrond
+1NA0001147	Vault 101 Jumpsuit
+1NA0001156	Chinese Pistol
+1NA0001159	Combat Shotgun
+1NA0001205	Scoped .44 Magnum
+1NA0001208	Silenced 10mm Pistol
+1NA0001213	Common House
+1NA0001217	Desk Terminal
+1NA0001218	Frank's Box Key
+1NA0001239	Meresti Metro Station
+1NA0001250	Betty
+1NA0001252	George Neusbaum
+1NA0001254	Pat Neusbaum
+1NA0001255	Janet Rockwell
+1NA0001256	Roger Rockwell
+1NA0001257	Martha Simpson
+1NA0001258	Old Lady Dithers
+1NA0001259	Mabel Henderson
+1NA0001261	Germantown Jailors Key
+1NA0001262	Tranquility Lane
+1NA0001263	Simpson Residence
+1NA0001264	Dithers Residence
+1NA0001265	Rockwell Residence
+1NA0001266	Neusbaum Residence
+1NA0001267	Henderson Residence
+1NA0001269	Outcast Recon Armor
+1NA0001270	Outcast Recon Helmet
+1NA0001275	Vault 101 Atrium
+1NA0001276	Vault 101 Entrance
+1NA0001278	Bethesda Offices West
+1NA0001282	Elevator Control
+1NA0001288	Checking Out
+1NA0001289	Left Behind
+1NA0001290	Loving Life!
+1NA0001291	Almost Home...
+1NA0001292	Fuck This
+1NA0001293	Dearest Grace...
+1NA0001294	Dead End
+1NA0001295	Marry Me!
+1NA0001299	Escaped Slave
+1NA0001301	Security Chief Hannon
+1NA0001302	Officer Kendall
+1NA0001303	Officer Mack
+1NA0001304	Officer Gomez
+1NA0001305	Officer Richards
+1NA0001312	Vault 101 Maintenance Terminal
+1NA0001314	Vault 101 Maintenance Password
+1NA0001315	Minefield Playground
+1NA0001316	Vault 101 Door Password
+1NA0001317	Studio Computer
+1NA0001320	Test Holotape
+1NA0001323	Daddy's Boy
+1NA0001329	Gun Nut
+1NA0001336	Utility Gate
+1NA0001359	Metro Terminal
+1NA0001364	Sewer Management Access Computer
+1NA0001370	Scoundrel
+1NA0001372	Contract Killer
+1NA0001378	Lawbringer
+1NA0001383	Project Purity Personal Journal: Entry 10
+1NA0001386	Gallo
+1NA0001387	Project Purity Journal: Entry 1
+1NA0001388	Project Purity Journal: Entry 3
+1NA0001389	Project Purity Journal: Entry 5
+1NA0001390	Project Purity Journal: Entry 7
+1NA0001391	Project Purity Journal: Entry 8
+1NA0001392	Project Purity Personal Journal
+1NA0001393	Project Purity Personal Journal: Entry 1
+1NA0001394	Project Purity Personal Journal: Entry 2
+1NA0001395	Project Purity Personal Journal: Entry 3
+1NA0001396	Project Purity Personal Journal: Entry 5
+1NA0001397	Project Purity Personal Journal: Entry 8
+1NA0001398	Willow
+1NA0001401	Harkness before Picture
+1NA0001402	Harkness After Picture
+1NA0001404	Rivet City Clinic Patient Data System
+1NA0001405	I'm brilliant!
+1NA0001406	Mem chip
+1NA0001407	Harkness
+1NA0001408	Pre-Harkness Audio Recording
+1NA0001409	Pinkerton's Private Computer
+1NA0001410	Pinkerton Passcode
+1NA0001412	Underworld Concourse
+1NA0001413	The Chop Shop
+1NA0001414	The Dashwood Suite
+1NA0001416	Tenpenny WellnessCenter
+1NA0001417	Eulogy's Pad
+1NA0001418	Slaver Barracks
+1NA0001419	Cutter's Clinic
+1NA0001420	Big Town, Red's Clinic
+1NA0001421	Big Town, Town Hall
+1NA0001422	The Wilson's House
+1NA0001423	The Smith's House
+1NA0001424	CapitalPostTerminalNote1a
+1NA0001425	CapitalPostTerminalNote2a
+1NA0001426	CapitalPostTerminalNote1b
+1NA0001427	CapitalPostTerminalNote2b
+1NA0001428	CapitalPostTerminalNote3a
+1NA0001434	Davis West
+1NA0001435	Hatchling Mirelurk Meat
+1NA0001437	Timmy Neusbaum
+1NA0001450	Collapsed Car Tunnel
+1NA0001453	Sector A Encryption Key
+1NA0001456	Antique Lincoln Coin Collection
+1NA0001457	Lincoln's Diary
+1NA0001459	John Wilkes Booth Wanted Poster
+1NA0001460	Action Abe Action Figure
+1NA0001467	Grocer
+1NA0001474	Flooded Metro
+1NA0001475	Irradiated Metro
+1NA0001476	Georgetown West
+1NA0001477	Red
+1NA0001479	Caravan Guard
+1NA0001480	Ant's Sting
+1NA0001481	Protectron's Gaze
+1NA0001483	Bethesda Offices East
+1NA0001484	Gallo's Storage Key
+1NA0001490	SatCom Array NN-03d-C
+1NA0001491	SatCom Array NN-03d-B
+1NA0001501	The Great Chamber
+1NA0001515	Emaline
+1NA0001523	Scavenger's Key
+1NA0001525	Sam Warrick
+1NA0001532	Sewer
+1NA0001533	Knight Sergeant Wilks
+1NA0001534	Knight Finley
+1NA0001535	Knight Dillon
+1NA0001536	Little Toe
+1NA0001554	Trigger
+1NA0001576	Surgeon's Terminal
+1NA0001583	The Washington Monument
+1NA0001584	BoS Backstory
+1NA0001589	Scribe Jameson
+1NA0001591	Data Storage Entry
+1NA0001594	Gate Door
+1NA0001597	Sydney's 10mm "Ultra" SMG
+1NA0001615	Note From Walter
+1NA0001616	Note From Leo Stahl
+1NA0001617	Letter from Bittercup
+1NA0001619	Mechanist Gear 2
+1NA0001620	Door Gear
+1NA0001635	Bryan's Special Key
+1NA0001636	Note from Dad
+1NA0001674	Sid
+1NA0001680	Ol' Painless
+1NA0001681	The Break
+1NA0001684	Micky
+1NA0001686	Carlos
+1NA0001687	Willy
+1NA0001688	Target
+1NA0001689	Paladin Gunny
+1NA0001694	Bannon's Request
+1NA0001695	Seagrave's Incriminating Letter
+1NA0001696	Talon Combat Armor
+1NA0001701	Frank
+1NA0001705	Exhaust Vent Control
+1NA0001722	The Surgeon's Key
+1NA0001725	Coffee Brewer
+1NA0001730	Takoma Park Artillery Note
+1NA0001739	Behemoth weapon effect
+1NA0001741	Elder Lyons' Robe
+1NA0001747	Lacy Underwear
+1NA0001753	The Search Continues
+1NA0001767	Broken Bow
+1NA0001770	Sewer Waystation
+1NA0001772	The Nuka-Cola Challenge
+1NA0001775	Laszlo Radford
+1NA0001779	The Wright Flyer I
+1NA0001780	1861 "Springfield" Rifle-Musket
+1NA0001781	M199 Assault Rifle
+1NA0001782	X277 "Viper" Magnetic Rail Cannon
+1NA0001783	U.S.S. Ebon Atoll's Flag
+1NA0001784	Overlooked Inventors
+1NA0001785	Museum Information
+1NA0001789	Tech Museum Loot
+1NA0001790	Earned Your Share
+1NA0001792	Museum of Tech Security
+1NA0001793	Prime
+1NA0001799	House: Love Machine Theme
+1NA0001802	Dupont Northeast
+1NA0001806	Paradise Falls Gate
+1NA0001807	Penn. Ave South
+1NA0001809	Planetarium Terminal
+1NA0001814	Bittercup
+1NA0001815	Flash
+1NA0001816	Pappy
+1NA0001820	Springvale Raider Mining Log
+1NA0001823	Bunker
+1NA0001829	Penn. Ave North
+1NA0001830	Mall Northwest
+1NA0001832	Seward Sq. North Metro
+1NA0001833	Seward Sq. Northwest
+1NA0001834	Mama Dolce's
+1NA0001835	Arlington Cemetery North
+1NA0001844	Moriarty's Office Key
+1NA0001846	Victoria Watts
+1NA0001847	Xuanlong Assault Rifle
+1NA0001849	Doghouse
+1NA0001853	Crow's Pack Brahmin
+1NA0001855	Clover's Cleaver
+1NA0001856	Love Tap
+1NA0001857	Firelance
+1NA0001859	Curse Breaker
+1NA0001860	Excalibat
+1NA0001861	Burnmaster
+1NA0001862	Stabhappy
+1NA0001863	Lady Frumperton's Fashions
+1NA0001866	Cheng Personal Computer
+1NA0001867	Help Me
+1NA0001873	A Wanderer
+1NA0001876	Four Score
+1NA0001885	Lincoln Memorial
+1NA0001887	Timebomb
+1NA0001889	Ronald Laren
+1NA0001893	Shelter
+1NA0001895	Strange Ant Egg
+1NA0001897	Bigtown
+1NA0001899	Springvale Basement Key
+1NA0001900	Springvale Library Key
+1NA0001901	Android Component
+1NA0001902	Sheet Music Book
+1NA0001926	Museum Gun Locker
+1NA0001928	Gun Locker Key
+1NA0001929	World War II Fight Medals
+1NA0001931	Captain Carl Bell
+1NA0001932	Virgo II Lunar Lander
+1NA0001933	Valiant 12 Flag
+1NA0001934	Exhibit Under Construction
+1NA0001937	XVB02 "Vertibird" Prototype
+1NA0001942	Welcome to the Nuka-Cola Family!
+1NA0001953	Anchorage War Memorial Stash
+1NA0001960	Anchorage Memorial Facility Terminal
+1NA0001965	The Tenderizer
+1NA0001972	Slasher Knife
+1NA0001977	Dusty
+1NA0001978	QA Testing Exterior
+1NA0001981	Planetarium Guy
+1NA0001983	QA Testing Cell
+1NA0001984	Grady's Last Recording
+1NA0001989	Grady's Safe Key
+1NA0001990	Grady's Fire Hose Box
+1NA0001991	Grady
+1NA0002001	Roe's Storage Key
+1NA0002002	Porter's Larder Key
+1NA0002003	Crow's Supply Key
+1NA0002004	Crazy Wolfgang's Supply Key
+1NA0002005	Lucky Harith's Supply Key
+1NA0002006	Doc Hoff's Supply Key
+1NA0002007	GNR Booth Access Password
+1NA0002009	The Raid Shack
+1NA0002010	Dad
+1NA0002015	Lincoln's Voice
+1NA0002016	Lincoln Memorial Poster
+1NA0002017	Shotgun Shell
+1NA0002019	Mississippi Quantum Pie Recipe
+1NA0002026	Evergreen Mills Bazaar
+1NA0002030	Doctor Li
+1NA0002033	Scavenger's Dog
+1NA0002036	Big Trouble in Big Town
+1NA0002041	Eclair's Cooler
+1NA0002043	Oasis Exile Hood
+1NA0002044	Oasis Coordinates
+1NA0002048	Eclair's Cooler Key
+1NA0002051	Love Letter
+1NA0002052	Daddy's Girl
+1NA0002053	Metro Ticket
+1NA0002054	Door Terminal
+1NA0002055	RobCo Industries Repair Pod
+1NA0002057	Dukov's House Key
+1NA0002060	Reactor Power Switch
+1NA0002065	.44  Round, Magnum
+1NA0002067	Railway Spikes
+1NA0002089	Toilets
+1NA0002090	Brick
+1NA0002091	Donovan
+1NA0002092	Butcher
+1NA0002093	Theo
+1NA0002095	Sticky
+1NA0002212	Military School Brochure
+1NA0002214	Office
+1NA0002215	Jalbert Brothers Waste Disposal
+1NA0002216	Hubris Comics Press Release
+1NA0002222	Jason
+1NA0002223	Isabella Proud
+1NA0002225	Vault 101 Entrance Terminal
+1NA0002233	Rockwell Residence Basement
+1NA0002234	Roger's Desk
+1NA0002237	Raven Rock Entrance
+1NA0002239	Vault 101 Medical Data System
+1NA0002242	Murphy
+1NA0002245	Murphy's Footlocker Key
+1NA0002246	Barrett
+1NA0002248	Sugar Bombing Run
+1NA0002250	Regulator
+1NA0002254	Dave
+1NA0002256	Jack Smith
+1NA0002257	Linda Smith
+1NA0002258	Junior Smith
+1NA0002259	Bill Wilson
+1NA0002260	Martha Wilson
+1NA0002261	Jenny Wilson
+1NA0002262	Tuck Johnson
+1NA0002263	Karen Johnson
+1NA0002264	Old Man Harris
+1NA0002265	Statesman Hotel Roof
+1NA0002274	Arlington Library Photo
+1NA0002299	Mad Brahmin
+1NA0002308	Mason Dixon Salvage
+1NA0002309	Faded Pomp Estates
+1NA0002310	Montgomery County Reservoir
+1NA0002311	Reclining Groves Resort Homes
+1NA0002316	Vault 101 Reactor Sub-Level
+1NA0002322	Tree Father Birch
+1NA0002323	Leaf Mother Laurel
+1NA0002324	Bloomseer Poplar
+1NA0002325	Branchtender Cypress
+1NA0002326	Branchtender Linden
+1NA0002327	Branchtender Maple
+1NA0002332	Caravan Merchants
+1NA0002333	Merchant Contract
+1NA0002334	Deathclaw Cage Door
+1NA0002336	Cantelli's Door
+1NA0002337	Seagrave Holmes' Door
+1NA0002338	Rectory Door
+1NA0002339	Abraham Washington's Door
+1NA0002340	Bannon's Door
+1NA0002341	Young's Door
+1NA0002342	Flak & Shrapnel's Door
+1NA0002343	Doctor Preston's Door
+1NA0002344	Doctor Li's Door
+1NA0002345	Vera Weatherly's Door
+1NA0002347	Zimmer's Hotel Door
+1NA0002348	Sister's Hotel Door
+1NA0002349	Hotel Room Door
+1NA0002350	Belle Bonny's Door
+1NA0002351	Staley's Door
+1NA0002352	Abraham Washington's Key
+1NA0002355	Drainage Chamber
+1NA0002359	Strictly Business
+1NA0002360	Torcher
+1NA0002361	Security's Terminal
+1NA0002362	Seagrave's Terminal
+1NA0002369	Tranquility Lounger
+1NA0002373	Security Dossiers
+1NA0002374	Scouting Reports
+1NA0002375	Vault-Tec Instructions
+1NA0002377	Roosevelt Academy
+1NA0002380	Wheaton Armory
+1NA0002381	Agatha's Station
+1NA0002382	Button's Wig
+1NA0002383	Oasis Caverns
+1NA0002387	Dogmeat
+1NA0002389	Sanitizer Instructions
+1NA0002400	Musty Cavern
+1NA0002404	Chip Broadcast Terminal
+1NA0002418	Taft Tunnels
+1NA0002446	Gary 36
+1NA0002448	Gary 41
+1NA0002453	Nurse Graves
+1NA0002454	Underworld
+1NA0002456	Goalie Ledoux
+1NA0002457	Centre Dubois
+1NA0002458	Winger Mercier
+1NA0002459	Winger Gervais
+1NA0002460	Finding the Formula
+1NA0002462	Research Dept. Safe Key
+1NA0002463	Nuka-Cola Clear Formula
+1NA0002465	Boutique La Chic Inventory
+1NA0002470	Tenpenny Armament Locker
+1NA0002471	Tenpenny Armament Key
+1NA0002474	Kimba
+1NA0002475	Shorty
+1NA0002477	Big Town, Common House
+1NA0002478	Big Town, Clubhouse
+1NA0002479	Mister Crowley's hit list
+1NA0002484	Junders Plunkett's Finger
+1NA0002485	Junders Plunkett
+1NA0002486	Med-X Effect
+1NA0002487	Plunkett's Valid Points
+1NA0002488	Tenpenny Resident
+1NA0002502	Gold Ribbon Grocers
+1NA0002504	Storage Room Key
+1NA0002505	Red Racer Tricycle Factory 03
+1NA0002507	Belle's Stash
+1NA0002509	Dukov
+1NA0002510	Fantasia
+1NA0002511	Cherry
+1NA0002515	Museum of Technology Atrium
+1NA0002518	Sapling Yew
+1NA0002519	The Ninth Circle
+1NA0002520	Carol's Place
+1NA0002522	Forged Declaration
+1NA0002525	Museum of Dave
+1NA0002526	Republic of Dave Women's Quarters
+1NA0002527	Republic of Dave Men's Quarters
+1NA0002528	Republic of Dave Capitol Building
+1NA0002534	Stanley
+1NA0002539	Lounger
+1NA0002540	SatComNote01
+1NA0002548	'Highwater Trousers' Activation Code
+1NA0002550	Satellite Control Terminal
+1NA0002552	WomensAuxStoryNote01
+1NA0002562	CommuneNote01
+1NA0002590	HamHideNote01
+1NA0002604	Assault Rifle
+1NA0002605	AEP7 Laser Pistol
+1NA0002606	AER9 Laser Rifle
+1NA0002610	Breaker
+1NA0002611	Vengeance
+1NA0002612	Victory Rifle
+1NA0002615	Isolation Room 05
+1NA0002616	Safe Key
+1NA0002618	Consierge Terminal
+1NA0002620	Complaint 0001
+1NA0002624	Insane Survivor
+1NA0002625	Nurse's Station Terminal 01
+1NA0002626	Key to Statesman Safe
+1NA0002628	Nurse's Station Terminal 02
+1NA0002629	Nurse's Station Terminal 03
+1NA0002630	OLH Master Meds Key
+1NA0002631	OLH Meds Case 01
+1NA0002632	OLH Meds Case 02
+1NA0002633	OLH Meds Case 03
+1NA0002635	Dominic and Machete's House
+1NA0002643	Talon Combat Helmet
+1NA0002650	"Robo-Thor" Helmet
+1NA0002651	"Robo-Thor" Armor
+1NA0002659	Fisto!
+1NA0002660	Occam's Razor
+1NA0002661	Dirty Chinese Jumpsuit
+1NA0002662	Hat of the People
+1NA0002682	Agatha's Radio
+1NA0002691	Col. Autumn's 10mm Pistol
+1NA0002693	Law Dog
+1NA0002694	Wanda
+1NA0002696	The Terrible Shotgun
+1NA0002697	Black Bart's Bane
+1NA0002699	Smuggler's End
+1NA0002701	Eugene
+1NA0002702	A3-21's Plasma Rifle
+1NA0002704	The Kneecapper
+1NA0002705	.308 Caliber Round
+1NA0002708	Water Reservoir Access Valve
+1NA0002743	Ridgefield Gate Key
+1NA0002746	Abandoned House
+1NA0002757	Empty Bottle
+1NA0002758	Cinder Block
+1NA0002761	Broken Radio
+1NA0002767	Overflow Door Control
+1NA0002768	Gloria Mack
+1NA0002770	Republic of Dave
+1NA0002771	Jessica
+1NA0002772	Bob
+1NA0002773	Mary
+1NA0002775	Flower
+1NA0002778	Ted Strayer's Special Key
+1NA0002779	Dukov's Special Key
+1NA0002782	Cerberus
+1NA0002783	Chinese Commando
+1NA0002786	Our Lady of Hope Hospital 2nd Lvl
+1NA0002793	Col. Autumn's Laser Pistol
+1NA0002795	Arlington Library
+1NA0002796	Ghoul Note
+1NA0002803	Ryan Brigg
+1NA0002804	Ryan Brigg's Safe Key
+1NA0002806	Officer Wilkins
+1NA0002837	Hangar Key
+1NA0002854	Wonder Meat Maker
+1NA0002859	Super-Duper Pharmacy Key
+1NA0002860	Arkansas
+1NA0002861	Ryan Brigg's Terminal
+1NA0002867	Arlington House
+1NA0002874	Memorial Maintenance Room
+1NA0002875	Dave's Special Key
+1NA0002877	Dead Regulator
+1NA0002879	GNR Building Plaza
+1NA0002884	Cripple Be Gone Effect
+1NA0002886	Arlington Public Library Public Terminal
+1NA0002887	Check-In Terminal
+1NA0002893	U.S. Declaration of War on China
+1NA0002896	Anchorage Stash key
+1NA0002898	Chinese Remnant Soldier
+1NA0002903	Chinese Remnant Sergeant
+1NA0002907	Chinese Remnant Officer
+1NA0002911	Chinese Remnant Captain
+1NA0002914	The Surgeon
+1NA0002928	Mama Dolce's Loading Yard
+1NA0002929	Janice Wilkins
+1NA0002930	Steve Armstrong
+1NA0002931	Chip Taylor
+1NA0002932	Jim Wilkins
+1NA0002933	Armored Vault 101 Jumpsuit
+1NA0002953	Head of State
+1NA0002956	Nuka 4 Zip!
+1NA0002957	Tales of the Wastes
+1NA0002960	Lamplight Fungus Trade
+1NA0002971	Shawna
+1NA0002972	Card Catalog Holotape
+1NA0002973	Media Archives Holotape
+1NA0002978	Moriarty's Terminal
+1NA0002980	Moriarty's Info on Dad
+1NA0002983	Fort Constantine Bunker Door
+1NA0003032	Three Dog's Glasses
+1NA0003033	Fort Constantine Launch Control
+1NA0003038	Keep your weapons holstered or get shot
+1NA0003040	Tara
+1NA0003041	Warhead Storage Key
+1NA0003042	Gary Template
+1NA0003043	Gary 42
+1NA0003048	Personnel Offices
+1NA0003049	Launch Control Bunker
+1NA0003050	Bomb Storage
+1NA0003051	CO Quarters
+1NA0003053	Naval Cot
+1NA0003072	Caravan Trade Route
+1NA0003078	Food Sanitizer
+1NA0003088	Rivet City Historical Record
+1NA0003089	RobCo Processor Widget
+1NA0003090	Repellent Stick
+1NA0003092	Clancy
+1NA0003093	Moira Brown
+1NA0003094	The Grove
+1NA0003096	Maintenance Protectron
+1NA0003097	Milo, Shipping Foreman
+1NA0003098	Shipping Computer Login Code
+1NA0003101	Madame's Key
+1NA0003104	Evergreen Mills Foundry
+1NA0003110	List of "recruits" for Paradise Falls
+1NA0003111	CGDadComputerFreddie
+1NA0003112	CGDadComputerStanley
+1NA0003113	CGDadComputerAmata
+1NA0003116	CGDadComputerExperiment27CE
+1NA0003117	CGDadComputerExperimentPP216
+1NA0003120	CGOverseersTerminalAmata
+1NA0003121	CGOverseersTerminalTunnelSnakes
+1NA0003122	CGOverseersTerminalBeatrice
+1NA0003123	CGOverseersTerminalJonas
+1NA0003132	Arlington Library Password
+1NA0003135	RobCo Production Mainframe
+1NA0003139	Rockbreaker's Last Gas
+1NA0003140	Broadcast Tower KT8
+1NA0003142	Relay Tower KX-B8-11
+1NA0003143	Charnel House
+1NA0003151	The Overlook Drive-In
+1NA0003152	Drowned Devil's Crossing
+1NA0003153	Five Axles Rest Stop
+1NA0003154	Kaelyn's Bed & Breakfast
+1NA0003155	Moonbeam Outdoor Cinema
+1NA0003156	VAPL-58 Power Station
+1NA0003158	Garden Shed
+1NA0003159	The Smith's House Basement
+1NA0003160	Old Man Harris' House
+1NA0003169	Dashwood's Safe
+1NA0003170	Theo's Body Location
+1NA0003171	Reilly's Rangers Location
+1NA0003172	Access Hall
+1NA0003175	Auto Shop
+1NA0003176	Factory
+1NA0003178	Alfresco Lounge
+1NA0003180	Packing Line Terminal
+1NA0003191	Brandice's House
+1NA0003192	Wilks' House
+1NA0003199	MDCTA Service Access Terminal
+1NA0003200	Paladin Northup
+1NA0003201	Scribe Jameson's Report to Elder Lyons
+1NA0003202	Overseer's Office Key
+1NA0003203	Reilly's Directions to Statesman Hotel
+1NA0003204	Reilly's Terminal
+1NA0003206	Southern Shack
+1NA0003207	Guard House
+1NA0003210	Strayer's Note
+1NA0003211	Dukov's Note
+1NA0003212	Tara's Note
+1NA0003213	Dave's Note
+1NA0003214	Trapped, trapped, trapped
+1NA0003215	Seven years and counting
+1NA0003216	I'm leaving!
+1NA0003227	Mutagen Tank
+1NA0003228	Green Liquid
+1NA0003229	Mutagen Tank Glass
+1NA0003230	Red Liquid
+1NA0003232	Andale Basement Key
+1NA0003238	The settlement of Megaton
+1NA0003243	Slave Map
+1NA0003248	Northern Shack
+1NA0003251	Nuka-Cola Add Cap Effect
+1NA0003261	Doc
+1NA0003266	Susie Mack
+1NA0003267	Freddie Gomez
+1NA0003270	PlasmaPistolStatic
+1NA0003277	Gibson's Key
+1NA0003281	Project Purity Main Pool
+1NA0003282	Child Slave House
+1NA0003290	Password to Ranger Compound
+1NA0003296	Lucky 8 Ball
+1NA0003297	Hannibal's Home
+1NA0003298	Caleb's Home
+1NA0003299	Storeroom
+1NA0003300	Simone's Home
+1NA0003303	Destroyed Elevator Panel
+1NA0003310	Regulator Headquarters
+1NA0003311	Scrapyard Office
+1NA0003314	Scrapyard
+1NA0003315	Daniel Littlehorn
+1NA0003316	Secretary
+1NA0003321	Sonora Cruz
+1NA0003322	Regulator HQ
+1NA0003324	Littlehorn and Associates
+1NA0003325	The Regulators
+1NA0003329	Happy Birthday to You
+1NA0003330	Harold's Heart
+1NA0003334	Dukov's Place
+1NA0003337	Elevator Panel
+1NA0003338	Lock And Load
+1NA0003339	Slave House
+1NA0003346	Mesmetron Manual - Summary Page
+1NA0003347	Slave Collar Insructions
+1NA0003349	Olney Sewers
+1NA0003352	Better Rivet City Prices
+1NA0003370	Sewer Exit
+1NA0003379	Lockdown Terminal
+1NA0003387	Headmaster's Terminal
+1NA0003388	RobCo Industries Mister Handy Pod
+1NA0003397	Mister Lopez
+1NA0003403	Notice From Winthrop
+1NA0003404	Contract With Ahzrukhal
+1NA0003405	Megaton Cult Pamphlet
+1NA0003406	Dispatch to Scribe Yearling
+1NA0003408	Hubris Comics Utility Tunnels
+1NA0003409	Hubris Comics Printing
+1NA0003447	Megaton Refugee
+1NA0003448	Hitman
+1NA0003450	Agatha's Ammo Box Key
+1NA0003467	Wanted: Trustworthy Surgeon - Transcript
+1NA0003468	Assignment from the Commonwealth - Transcript
+1NA0003469	Rogue Android - Transcript
+1NA0003470	Androids are real. No really! - Transcript
+1NA0003471	We got the tech, now we need the doc. - Transcript
+1NA0003472	Get it done! - Transcript
+1NA0003473	Extreme measures - Transcript
+1NA0003474	Oh man! A Circuit Neuralizer! -Transcript
+1NA0003475	A request for help - Transcript
+1NA0003476	A free man... a new man... - Transcript
+1NA0003477	Self determination is not a malfunction - Transcript
+1NA0003480	Shalebridge Hill
+1NA0003481	Depot Offices
+1NA0003494	Sunken Sewer
+1NA0003504	Ruins
+1NA0003524	Hubris Comics Publishing Terminal
+1NA0003525	Hubris Comics Printing Press Terminal
+1NA0003526	Pre-War Printing Press
+1NA0003533	Roosevelt Library Key
+1NA0003538	Enclave Scientist
+1NA0003560	Jonas
+1NA0003566	Printing Press Terminal
+1NA0003568	Mad Johnny Wes
+1NA0003582	Press to Enable Mutant
+1NA0003589	Talking Tree
+1NA0003590	Blackhawk
+1NA0003599	Empty Sap Container
+1NA0003600	Birch's Sap
+1NA0003604	Broken Tranquility Lounger
+1NA0003605	Grandma Sparkles' Shack
+1NA0003606	Crazy Wolfgang's Local Inventory
+1NA0003607	Crow's Local Inventory
+1NA0003608	Lucky Harith's Local Inventory
+1NA0003610	Doc Hoff's Local Inventory
+1NA0003614	Pod
+1NA0003616	Argyle
+1NA0003620	Observer
+1NA0003621	Mirelurk Bait Grenade
+1NA0003630	Micro Fusion Cells
+1NA0003634	Underworld Resident
+1NA0003641	William Brandice
+1NA0003642	William Brandice's Key
+1NA0003644	Linden's Outcast Power Armor
+1NA0003647	Vance's Sword Cabinet Key
+1NA0003650	Bryan Wilks
+1NA0003651	Doctor Lesko
+1NA0003652	Anchorage Memorial Facility
+1NA0003657	Old Lady Palmer
+1NA0003659	Beatrice
+1NA0003661	Stevie Mack
+1NA0003662	Rosie
+1NA0003663	Main Hall Key
+1NA0003669	Mirelurk Spawning Ball
+1NA0003691	Fire Control Console
+1NA0003692	Medical Wing Maintenance Terminal
+1NA0003693	Vault 87 Maintenance Password
+1NA0003695	Donovan's Wrench
+1NA0003702	The Roach King
+1NA0003705	Radio Tower Complex
+1NA0003706	Express Elevator
+1NA0003712	Access Computer
+1NA0003716	Overseer's Room Password
+1NA0003735	Queen Ant's Hatchery
+1NA0003738	Password For Lockdown Computer
+1NA0003742	Lounger Monitor -- Unoccupied
+1NA0003743	Lounger Monitor -- Subject: Unknown
+1NA0003746	Stairwell
+1NA0003747	Chandellier
+1NA0003767	Vote for Dave
+1NA0003789	Reilly's Rangers Compound
+1NA0003790	Christine Kendall
+1NA0003791	Colonel Autumn's Uniform
+1NA0003793	Vault 101 PA system
+1NA0003796	Crow's Eyebot Helmet
+1NA0003804	Airlock Control
+1NA0003805	Rivet City Council Minutes
+1NA0003806	Paradise Falls Box Key
+1NA0003807	Front Gate Key
+1NA0003808	Feedback Loops
+1NA0003809	Jon Adiglio's Note
+1NA0003810	Overseer Rubin Personal Entry 00897377
+1NA0003811	Overseer Rubin Personal Entry 00897332
+1NA0003812	Overseer Rubin Personal Entry 00897357
+1NA0003813	Richard Rubin's Terminal
+1NA0003814	Laboratory Terminal
+1NA0003815	Engineering Logs Terminal
+1NA0003816	Supply Shop
+1NA0003818	Doctor Lesko's Portacomp
+1NA0003819	Marigold Ant Queen
+1NA0003823	Underworld Outfitters Supply Key
+1NA0003824	Ninth Circle Supply Key
+1NA0003825	Carol's Place Supply Key
+1NA0003829	Fred Wilks
+1NA0003831	Secret Elevator
+1NA0003860	Captain's Key
+1NA0003873	Increased Small Guns
+1NA0003890	Thief (1)
+1NA0003892	Thief (2)
+1NA0003893	Thief (3)
+1NA0003909	Master Trader
+1NA0003919	Thief
+1NA0003922	Iron Fist
+1NA0003928	Weapons Cache Key
+1NA0003934	Ben Canning
+1NA0003942	Paradise Falls Main Terminal
+1NA0003943	Dominic D'Ellsadro
+1NA0003944	Derek Pacion
+1NA0003946	Uncle Roe
+1NA0003947	Joe Porter
+1NA0003949	Key to Oasis Caves
+1NA0003952	Ranger Compound Outer Terminal
+1NA0003971	Intern
+1NA0003974	Rock Crick Hunter
+1NA0003976	Grandma Sparkle
+1NA0003986	Wasteland Settler
+1NA0003990	Vault101e Water
+1NA0004002	Smith Casey's Garage
+1NA0004011	Jabsco's Key
+1NA0004012	Commander Jabsco
+1NA0004016	Note From Pronto
+1NA0004020	Miss Launcher
+1NA0004021	Evergreen Mills
+1NA0004029	L'Enfant South
+1NA0004030	L'Enfant Plaza
+1NA0004031	Georgetown North
+1NA0004032	Georgetown South
+1NA0004033	Georgetown East
+1NA0004034	Seward Sq. Southeast
+1NA0004035	Ranger Compound
+1NA0004036	Mason District South
+1NA0004037	Falls Church Metro
+1NA0004038	Falls Church East
+1NA0004039	Takoma Park
+1NA0004040	Takoma Industrial
+1NA0004043	Dominic's House Key
+1NA0004046	Reservist's Rifle
+1NA0004056	Egg Pile
+1NA0004066	Fort Ind. Storage Key
+1NA0004090	Fort Independence Access
+1NA0004093	Bessie Lynn's Inventory Key
+1NA0004094	Michael Masters's Inventory Key
+1NA0004096	Lock Mechanism Switch
+1NA0004115	Tunnel Snake Jacket
+1NA0004132	Reduced Small Guns
+1NA0004167	Scavenger's Yao Guai
+1NA0004228	Townhome
+1NA0004236	Armor R&D Terminal
+1NA0004247	Key Code To Data Storage
+1NA0004249	Garage Computer
+1NA0004257	A Note from Little Moonbeam's Father
+1NA0004258	Sydney's Father
+1NA0004264	Display Case
+1NA0004265	Farragut West Station
+1NA0004266	Willy's Grocer
+1NA0004284	Doctor Li's Terminal
+1NA0004285	Bannon's Terminal
+1NA0004287	Weatherly Terminal
+1NA0004306	La Maison Beauregard Lobby
+1NA0004313	Ninth Circle Cooler
+1NA0004314	Gary's Galley Trunk
+1NA0004316	Potomac Attire Inventory
+1NA0004317	Muddy Rudder Supplies
+1NA0004325	Flak 'N Shrapnel's Trunk
+1NA0004327	Carol's Place Cooler
+1NA0004328	Brass Lantern Cooler
+1NA0004329	Knick Knick's Inventory
+1NA0004335	Craterside Supplies
+1NA0004336	Rivet City Supply Trunk
+1NA0004338	Smiling Jack's Locker
+1NA0004339	Sydney's Ammo Box
+1NA0004340	Karl's Inventory
+1NA0004341	Underworld Outfitters Locker
+1NA0004342	The Weatherly Hotel Trunk
+1NA0004344	Key to Red's Medical Supplies
+1NA0004345	Joe Porter's Safe
+1NA0004346	Smiling Jack Vendor Key
+1NA0004347	Seedspreader Seeds Storage Key
+1NA0004348	Liberty Laser
+1NA0004349	Anthony Ling Inventory Key
+1NA0004350	Doctor Banfield Medical Supplies Key
+1NA0004351	Margaret Primrose's Freezer Key
+1NA0004353	Shake's Liquor Cabinet Key
+1NA0004354	Doctor Barrows' Medical Supplies Key
+1NA0004355	Sydney's Ammo Case Key
+1NA0004356	Sydney's Remote Terminal
+1NA0004358	Cable Junction Box
+1NA0004373	Revelation 21:6
+1NA0004377	Mirelurk Cakes
+1NA0004416	Chinese Jumpsuit
+1NA0004420	Doctor Li's Outfit
+1NA0004433	Oasis Robe
+1NA0004435	Oasis Villager Robe
+1NA0004437	Red's Jumpsuit
+1NA0004439	Red's Bandana
+1NA0004442	Vault 87 Jumpsuit
+1NA0004448	Vault 101 Child's Jumpsuit
+1NA0004460	Pint-Sized Slasher Mask
+1NA0004468	Tenpenny Security Uniform
+1NA0004473	Vault 101 Security Helmet
+1NA0004474	The AntAgonizer's Costume
+1NA0004475	The Mechanist's Costume
+1NA0004477	The AntAgonizer's Helmet
+1NA0004479	The Mechanist's Helmet
+1NA0004485	MDPL-13 Power Station
+1NA0004495	Experimental MIRV
+1NA0004502	Grandma Taylor
+1NA0004504	Floyd Lewis
+1NA0004506	Vault-Tec Employee Terminal
+1NA0004509	Vault-Tec Security Procedures
+1NA0004510	Message 0099D Vending Machines
+1NA0004511	Message 0101C Bathroom Breaks
+1NA0004512	Message 0102A Vault 112 Done!
+1NA0004513	System Operation Station 1
+1NA0004514	System Operation Station 2
+1NA0004515	System Operation Station 3
+1NA0004516	Mainframe Access Terminal
+1NA0004517	Mainframe Access Password
+1NA0004522	Allistair Tenpenny's Suite Key
+1NA0004536	Shop
+1NA0004557	Vault 106 Living Quarters
+1NA0004564	Little Leaguer
+1NA0004565	Vault 106 Master Key
+1NA0004567	TestLandscape
+1NA0004569	Power Helmet
+1NA0004576	Boats And Bait
+1NA0004596	Museum of History Entrance
+1NA0004600	Vault-Tec Vault Information
+1NA0004602	Leo Notes
+1NA0004605	Confessor Cromwell's Terminal
+1NA0004607	Snowflake
+1NA0004609	Metro Utility Gate Key
+1NA0004612	GrantTestWorld
+1NA0004623	Men's Dorm Security Terminal
+1NA0004627	Baby Steps
+1NA0004628	Growing Up Fast
+1NA0004629	Future Imperfect
+1NA0004630	Escape!
+1NA0004631	Following in His Footsteps
+1NA0004633	Scientific Pursuits
+1NA0004635	The Waters of Life
+1NA0004636	Picking Up the Trail
+1NA0004637	Rescue from Paradise
+1NA0004638	Finding the Garden of Eden
+1NA0004639	The American Dream
+1NA0004640	Infiltration
+1NA0004641	Take it Back!
+1NA0004642	Last Rites
+1NA0004643	Project Impurity
+1NA0004645	The Superhuman Gambit
+1NA0004647	Those!
+1NA0004650	The Replicated Man
+1NA0004651	Blood Ties
+1NA0004652	The Power of the Atom
+1NA0004655	You Gotta Shoot 'Em in the Head
+1NA0004656	Stealing Independence
+1NA0004658	Agatha's Song
+1NA0004668	Character Testing Cell
+1NA0004669	Fusion Pulse Charge
+1NA0004671	Message 0114D Vault 77 Changes
+1NA0004672	Megaton's Atomic Bomb
+1NA0004677	Brotherhood Power Armor
+1NA0004678	Brotherhood Power Helmet
+1NA0004680	The Citadel Courtyard
+1NA0004681	Citadel - Laboratory
+1NA0004696	L.O.B. Enterprises Archives
+1NA0004730	Softshell Mirelurk Meat
+1NA0004733	Brass Lantern Inventory Notes
+1NA0004734	Brass Lantern Terminal
+1NA0004735	Brass Lantern Password
+1NA0004736	Crumpled Note
+1NA0004741	My Megaton House Key
+1NA0004743	Rocksalt
+1NA0004745	My Tenpenny Tower Suite Key
+1NA0004756	Bathrooms
+1NA0004757	Derelict Power Plant
+1NA0004758	Paladin Hoss
+1NA0004762	CGOverseersTerminalGECK
+1NA0004763	CGOverseersTerminalBraunAttachmentA
+1NA0004765	Parking Meter
+1NA0004781	Eclair
+1NA0004782	Sammy
+1NA0004783	Princess
+1NA0004784	Squirrel
+1NA0004785	Joseph
+1NA0004786	Penny
+1NA0004787	Knick Knack
+1NA0004789	Lucy
+1NA0004791	Grouse
+1NA0004792	Bumble
+1NA0004793	Breadbox
+1NA0004794	Bronson
+1NA0004795	Miss Jeanette
+1NA0004796	Bleak
+1NA0004797	Rory Maclaren
+1NA0004798	Eulogy Jones
+1NA0004799	Forty
+1NA0004800	Crimson
+1NA0004801	Clover
+1NA0004802	Cutter
+1NA0004803	Pronto
+1NA0004811	Mayor MacCready
+1NA0004812	Commander Danvers
+1NA0004818	Flak
+1NA0004819	Shrapnel
+1NA0004821	Paulie Cantelli
+1NA0004822	Cindy Cantelli
+1NA0004823	Vera Weatherly
+1NA0004824	Dr. Zimmer
+1NA0004825	Seagrave Holmes
+1NA0004826	Gary Staley
+1NA0004827	Angela Staley
+1NA0004828	Ted Strayer
+1NA0004830	Belle Bonny
+1NA0004831	Brock
+1NA0004832	Trinnie
+1NA0004833	James Hargrave
+1NA0004834	Tammy Hargrave
+1NA0004835	C.J. Young
+1NA0004836	Henry Young
+1NA0004837	Christie Young
+1NA0004838	Pinkerton
+1NA0004840	Janice Kaplinski
+1NA0004842	Father Clifford
+1NA0004843	Diego
+1NA0004844	Abraham Washington
+1NA0004845	Doctor Preston
+1NA0004846	Security Guard
+1NA0004850	Michael Hawthorne
+1NA0004851	Edgar Wellington II
+1NA0004852	Millicent Wellington
+1NA0004853	Doctor Banfield
+1NA0004854	Lydia Montenegro
+1NA0004855	Anthony Ling
+1NA0004856	Irving Cheng
+1NA0004857	Tiffany Cheng
+1NA0004858	Susan Lancaster
+1NA0004859	Herbert "Daring" Dashwood
+1NA0004860	Allistair Tenpenny
+1NA0004861	Squire Maxson
+1NA0004862	Elder Lyons
+1NA0004863	Star Paladin Cross
+1NA0004864	Paladin Kodiak
+1NA0004865	Knight Captain Dusk
+1NA0004866	Knight Captain Gallows
+1NA0004867	Paladin Glade
+1NA0004868	Scribe Rothchild
+1NA0004869	Scribe Yearling
+1NA0004870	Scribe Bowditch
+1NA0004872	Scribe Peabody
+1NA0004874	Winthrop
+1NA0004875	Patchwork
+1NA0004876	Transportation Exhibits
+1NA0004877	Doctor Barrows
+1NA0004878	Robotics Exhibits
+1NA0004879	Reilly
+1NA0004880	Flight Exhibits
+1NA0004881	Carol
+1NA0004882	Greta
+1NA0004883	Quinn
+1NA0004884	Mister Crowley
+1NA0004885	Spaceflight Exhibits
+1NA0004886	Charon
+1NA0004887	Vault-Tec's Vault Tour
+1NA0004888	Ahzrukhal
+1NA0004889	Planetarium Shows
+1NA0004890	Tulip
+1NA0004891	Lecture Tickets
+1NA0004894	Shack Door
+1NA0004921	West Tek Power Armor Demo
+1NA0004922	GigantoMax Theater
+1NA0004936	Arefu Master Key
+1NA0004937	Security Barrier Terminal
+1NA0004943	Bill Foster
+1NA0004944	Lounger Monitor -- Subject: W. Foster
+1NA0004956	Capitol Building East Entrance
+1NA0004961	National Archives Guess And Win!
+1NA0004962	Question One
+1NA0004966	Rocksalt's Key
+1NA0004970	Dead Branchtender
+1NA0004994	Printing Press Tread
+1NA0005000	Gibson House
+1NA0005009	Officer Park
+1NA0005010	Officer Wolfe
+1NA0005012	Temple of the Union Key
+1NA0005013	Storeroom Key
+1NA0005016	Letters to the Editor, Feb. 2077
+1NA0005021	The Capitol Building
+1NA0005022	The National Archives
+1NA0005023	Museum of Technology
+1NA0005024	Mall Southwest
+1NA0005025	Metro Central
+1NA0005026	Dupont West
+1NA0005027	Dupont Station
+1NA0005028	Dupont East
+1NA0005040	Inns
+1NA0005041	Hubris Comics Receptionist Terminal
+1NA0005049	Vault 101 Utility Key
+1NA0005092	Allen Mack
+1NA0005094	Cart Cage
+1NA0005096	Tenpenny's Suit
+1NA0005102	The Mechanist
+1NA0005103	The AntAgonizer
+1NA0005105	Ammo Box Code
+1NA0005108	Utility
+1NA0005109	White House
+1NA0005114	Warrington Station
+1NA0005115	Warrington Tunnels
+1NA0005116	Jury St. Tunnels
+1NA0005117	Jury St. Station
+1NA0005119	Ernest "Uncle" Roe's House
+1NA0005120	Key to AntAgonizer Lair
+1NA0005121	Password to Mechanist Lair
+1NA0005123	Tinker Joe
+1NA0005128	Door Bell
+1NA0005132	Bunker Access Terminal
+1NA0005134	Charon's Shotgun Effect
+1NA0005136	Charon's Employment Contract
+1NA0005142	Tenpenny Tower - Empty Suite
+1NA0005143	Tenpenny Guard House
+1NA0005145	Vault 106 Jumpsuit
+1NA0005146	Vault 92 Jumpsuit
+1NA0005151	Key to Grandma Sparkle's Fridge
+1NA0005166	MaxsonDiary1
+1NA0005167	MaxsonDiary2
+1NA0005168	MaxsonDiary3
+1NA0005169	MaxsonDiary4
+1NA0005170	MaxsonDiary5
+1NA0005171	MaxsonDiary6
+1NA0005172	MaxsonDiary7
+1NA0005173	MaxsonDiary8
+1NA0005174	MaxsonDiary9
+1NA0005175	MaxsonDiary10
+1NA0005176	MaxsonDiary11
+1NA0005177	Maxson Archive Terminal
+1NA0005178	Diary of Roger Maxson
+1NA0005179	MaxsonDossier1
+1NA0005180	MaxsonDossier2
+1NA0005181	MaxsonDossier3
+1NA0005183	MaxsonStateNote
+1NA0005184	CitPalandineNote
+1NA0005185	Wasteland Junkie
+1NA0005186	DC Ruins
+1NA0005191	Mary Holden
+1NA0005192	Tom Holden
+1NA0005202	Pentagon Library Terminal
+1NA0005204	Zane House
+1NA0005206	Wasteland Doctor
+1NA0005241	Zip
+1NA0005247	Margaret Primrose
+1NA0005250	Shakes
+1NA0005252	Recently Built Shack
+1NA0005256	Lucy West's Father
+1NA0005258	CitadelTerminal1
+1NA0005259	CitadelTerminal2
+1NA0005260	CitadelTerminal3
+1NA0005261	CitadelTerminal4
+1NA0005262	CitadelTerminal5
+1NA0005263	CitadelTerminal6
+1NA0005264	CitadelTerminal7
+1NA0005265	CitadelTerminal8
+1NA0005266	Citadel Lab Terminal
+1NA0005267	CitadelTerminal9
+1NA0005268	Citadel Personnel Terminal
+1NA0005271	Manny Koch
+1NA0005273	SentryBot Minigun
+1NA0005275	Test Chamber 02
+1NA0005276	Test Chamber 03
+1NA0005277	Test Chamber 01
+1NA0005278	Test Chamber 04
+1NA0005282	Sunken Chambers
+1NA0005283	Damp Cave
+1NA0005285	Jaime
+1NA0005288	Vault-Tec Administration
+1NA0005289	Vault-Tec Corporate Offices
+1NA0005290	Vault-Tec Guest Relations
+1NA0005294	Springvale School Lower Level
+1NA0005295	Springvale Elementary School
+1NA0005296	Roosevelt Arts and Athletics Hall
+1NA0005297	Maintenence and Evacuation Tunnel
+1NA0005299	CEO Offices
+1NA0005300	Mel
+1NA0005303	Offices
+1NA0005304	Storage And Mixing Vats
+1NA0005306	Memorial Service Entrance
+1NA0005307	Anchorage Memorial Facility Bay
+1NA0005308	Memorial Facility Offices
+1NA0005310	Police HQ - Top Floor
+1NA0005311	Police HQ - Basement
+1NA0005312	Police HQ - Ground Floor
+1NA0005313	Statesman Hotel Restaurant
+1NA0005314	Statesman Hotel Mid Level
+1NA0005316	Virulent Underchambers
+1NA0005317	Forsaken Dunwich Ruins
+1NA0005318	Dunwich Building
+1NA0005319	Chryslus Building Basement
+1NA0005320	Chryslus Building Lower Offices
+1NA0005321	Chryslus Building Reception Area
+1NA0005322	Depot Training Wing
+1NA0005323	Arlington Library Media Archive
+1NA0005324	Arlington Library Children's Wing
+1NA0005325	Arlington Public Library Lobby
+1NA0005328	Mechanist's Forge
+1NA0005329	Robot Repair Center
+1NA0005330	Offices and Cafeteria
+1NA0005331	RobCo Factory Floor
+1NA0005333	Corvega Factory - Entrance
+1NA0005418	O'Grady's Peacemaker
+1NA0005419	Fawkes' Super Sledge
+1NA0005420	Butch's Toothpick
+1NA0005421	Vampire's Edge
+1NA0005422	Highwayman's Friend
+1NA0005427	Carolina Red
+1NA0005428	Jotun
+1NA0005429	Ymir
+1NA0005431	Hamilton's Hideaway
+1NA0005432	Shalebridge Tunnels
+1NA0005433	Waterfront Sewage
+1NA0005434	Meresti Service Tunnel
+1NA0005436	Raider Outpost
+1NA0005437	Citadel Information Terminal
+1NA0005443	Paladin Bael
+1NA0005447	Chinese Commando Hat
+1NA0005461	Idle chatter
+1NA0005462	Silo Door
+1NA0005463	Silo Hatch
+1NA0005464	Grain Silo
+1NA0005470	Museum of History Offices
+1NA0005471	Museum of History Lower Halls
+1NA0005472	Jefferson Memorial Rotunda
+1NA0005473	Jefferson Museum and Gift Shop
+1NA0005474	Archives Sub-Basement
+1NA0005478	Test Labs
+1NA0005479	Vault 106 Entrance
+1NA0005481	Living Quarters
+1NA0005482	Vault 92
+1NA0005483	Vault 112
+1NA0005484	Vault 108 - Entrance
+1NA0005486	Vault 108 - Living Quarters
+1NA0005488	Vault 108 - Cloning Lab
+1NA0005492	Vault 106 Science Labs
+1NA0005493	Reactor Chamber
+1NA0005494	Sound Testing
+1NA0005495	Raven Rock - Level 3
+1NA0005496	Raven Rock - Level 2
+1NA0005497	Raven Rock - Level 1
+1NA0005501	Grisly Diner
+1NA0005502	Citadel Conversations
+1NA0005513	Isolation Room 01
+1NA0005514	Isolation Room 04
+1NA0005515	Isolation Room 02
+1NA0005516	Isolation Room 03
+1NA0005517	Chamber Terminal
+1NA0005518	Chief Physician's Terminal
+1NA0005519	Pulley
+1NA0005531	Tenpenny Network Password
+1NA0005535	MDPL-05 Power Station
+1NA0005536	MDPL-05 Power Station Key
+1NA0005538	SatCom Array NW-05a
+1NA0005539	SatCom Array NW-07c
+1NA0005543	Moira's Terminal
+1NA0005547	Broadcast Tower KB5
+1NA0005558	F.Scott Key Trail & Campground
+1NA0005564	Lock and Load Inventory
+1NA0005567	Gillian House
+1NA0005568	Dickerson Tabernacle Chapel
+1NA0005569	Sierra Petrovita
+1NA0005571	Lug-Nut
+1NA0005572	Mount Mabel Campground
+1NA0005577	Abandoned Car Fort
+1NA0005592	Pipe Joint
+1NA0005597	Lucy's Sealed Envelope
+1NA0005606	SentryBot Laser Gatling
+1NA0005607	WKML Broadcast Station
+1NA0005608	SatCom Array NN-03d
+1NA0005609	MDPL-21 Power Station
+1NA0005610	The Silver Lining Drive-In
+1NA0005612	Security Door
+1NA0005614	G.O.A.T. Question 1
+1NA0005615	G.O.A.T. Question 2
+1NA0005616	G.O.A.T. Question 3
+1NA0005617	G.O.A.T. Question 4
+1NA0005618	G.O.A.T. Question 5
+1NA0005619	G.O.A.T. Question 6
+1NA0005620	G.O.A.T. Question 7
+1NA0005621	G.O.A.T. Question 8
+1NA0005622	G.O.A.T. Question 9
+1NA0005623	G.O.A.T. Question 10
+1NA0005624	G.O.A.T. script quest
+1NA0005627	Key to Boutique Le Chic Inventory
+1NA0005634	Megaton Bomb
+1NA0005636	Megaton Bomb -- Disarmed
+1NA0005640	Megaton Bomb Armed
+1NA0005649	911 Terminal
+1NA0005654	Broadcast Tower LP8
+1NA0005655	Clifftop Shacks
+1NA0005656	Mirelurk Nesting Hole
+1NA0005658	Chaste Acres Dairy Farm
+1NA0005659	MDPL-16 Power Station
+1NA0005674	Anna Holt
+1NA0005677	Lamplight Gate
+1NA0005679	Chevy Chase
+1NA0005702	Jocko's Pop Stop
+1NA0005703	Hallowed Moors Cemetery
+1NA0005704	Drag'n'Drop Robots
+1NA0005705	MDPL Mass Relay Station
+1NA0005706	Fordham Flash Memorial Field
+1NA0005707	Jocko's Pop & Gas Stop
+1NA0005716	Chinese Remnant Spy
+1NA0005718	Encryption Key
+1NA0005721	LibertyPrimeWeapBomb
+1NA0005724	Caravan Trader
+1NA0005731	Knight Artemis
+1NA0005735	Motion Detector
+1NA0005736	Holly
+1NA0005737	Medical Analysis of West Corpses
+1NA0005741	Paradise Falls Clinic Key
+1NA0005750	Pulowski Preservation Shelter
+1NA0005760	Size Matters
+1NA0005761	Size Matters (1)
+1NA0005762	Size Matters (2)
+1NA0005763	Size Matters (3)
+1NA0005766	CitadelTerminalLyons1
+1NA0005767	CitadelTerminalLyons2
+1NA0005768	CitadelTerminalSquire2
+1NA0005769	CitadelTerminalSquire1
+1NA0005770	CitadelTerminalMedical1
+1NA0005771	CitadelTerminalMedical2
+1NA0005788	Elder Lyons' Terminal
+1NA0005790	Squire Maxson's Terminal
+1NA0005793	Citadel Medical Terminal
+1NA0005794	CitadelTerminalMedical3
+1NA0005795	Benson House
+1NA0005797	Initiate Pek
+1NA0005802	Colonel Autumn
+1NA0005806	Refugee Tent
+1NA0005807	Simone's Tent
+1NA0005808	Caleb's Tent
+1NA0005810	Karl's Supply Key
+1NA0005811	Durga's Supply Key
+1NA0005812	Brass Lantern Supply Key
+1NA0005813	Joe Poter's Storage Key
+1NA0005814	Knick Knack Supply Key
+1NA0005820	Nuka-Cola Plant
+1NA0005821	Vault 101 Sub-Level
+1NA0005822	Vault 101 Lower Level
+1NA0005823	Vault 101 Atrium/Upper Level
+1NA0005833	GECK Container
+1NA0005841	My Tenpenny Suite
+1NA0005842	My Megaton House
+1NA0005844	Upper Deck
+1NA0005845	Timmy The Gnome
+1NA0005846	Auxiliary Power Fuse Box
+1NA0005847	Mainframe Power Switch
+1NA0005859	Fuse
+1NA0005862	The Family's Terminal
+1NA0005864	The Family's Terminal Password
+1NA0005868	Arlington National Cemetery
+1NA0005869	Falls Church
+1NA0005870	Mason District
+1NA0005871	Georgetown
+1NA0005872	Seward Square
+1NA0005874	The Mall
+1NA0005875	Pennsylvania Avenue
+1NA0005876	Vernon Square
+1NA0005878	Dupont Circle
+1NA0005880	Mama Dolce's Processed Foods
+1NA0005881	Hazmat Disposal Site L5
+1NA0005882	Fort Bannister Main
+1NA0005883	Falls Church/Mason Dst Metro
+1NA0005884	Mama Dolce's Food Distribution
+1NA0005885	Hubris Comics Publishing
+1NA0005886	L.O.B. Enterprises East Wing
+1NA0005887	GNR Studios
+1NA0005888	Franklin Metro Utility
+1NA0005889	Arlington Utility
+1NA0005890	Anacostia Crossing Station
+1NA0005891	Foggy Bottom Station
+1NA0005892	Freedom Street Station
+1NA0005893	Vernon East/Takoma Park
+1NA0005894	Dupont Circle Station
+1NA0005895	Tenleytown/Friendship Station
+1NA0005897	Dry Sewer
+1NA0005910	Andale Shed Key
+1NA0005922	Winthrop's Terminal
+1NA0005923	Ahzrukhal's Terminal
+1NA0005926	Ken-Gar Mining Co. Computer
+1NA0005942	Maple's Garb
+1NA0005943	Poplar's Hood
+1NA0005944	Yew's Bear Charm
+1NA0005954	Lesko's Portable Terminal Access
+1NA0005966	ZAX Destruct Sequence
+1NA0005971	Gibson
+1NA0005976	Reactor Room
+1NA0005992	Mama Dolce's Encryption Key
+1NA0006013	Hotel
+1NA0006018	Chain Gate
+1NA0006029	Oasis Druid Hood
+1NA0006035	NukeCritMagicEffect
+1NA0006042	My House in Tenpenny Tower
+1NA0006050	Packing Line Operations
+1NA0006051	Packing Line Notice
+1NA0006053	Nuka-Cola Robot Chatter
+1NA0006057	Evergreen Mills Slave Pen Key
+1NA0006077	Wilhelm's Wharf
+1NA0006082	Abraham Washington Buys Stuff
+1NA0006086	Warren
+1NA0006091	Penn. Ave/The Mall Metro
+1NA0006095	Archives Security Terminal
+1NA0006118	Taft Tunnel
+1NA0006122	Empty Whisky Bottle
+1NA0006129	Tenpenny Security Helmet
+1NA0006132	Lab Technician Terminal
+1NA0006133	Medical Records
+1NA0006134	Engineering Section
+1NA0006135	Peter Stevens Personal Journals
+1NA0006146	L.O.B. Enterprises
+1NA0006158	Roosevelt Library
+1NA0006172	Emergency Bulkhead
+1NA0006174	County Sewer Mainline
+1NA0006175	DCTA Tunnel 014-B Potomac
+1NA0006178	Tepid Sewer
+1NA0006179	Modified FEV Virus
+1NA0006182	Vault 108
+1NA0006183	Metro Protectron
+1NA0006194	ChildBlastoffHelmet
+1NA0006198	House: Workbench
+1NA0006199	House: Scientist Theme
+1NA0006200	House: Explorer Theme
+1NA0006201	House: Vault Theme
+1NA0006202	House: Pre-War Theme
+1NA0006203	House: Raider Theme
+1NA0006204	House: Jukebox
+1NA0006205	House: Nuka-Cola Machine
+1NA0006206	House: My First Laboratory
+1NA0006207	House: My First Infirmary
+1NA0006215	Modified Utility Jumpsuit
+1NA0006217	Lincoln's Repeater
+1NA0006222	NiftyThrifty
+1NA0006225	Quantum Distribution Details
+1NA0006226	Nuka-Cola Shipping Terminal
+1NA0006229	Arlington/Falls Church Metro
+1NA0006231	Penn. Ave/Seward Sq. Metro
+1NA0006238	Tenpenny Tower Resident
+1NA0006241	Chief Gustavo
+1NA0006245	Lock and Load Supply Key
+1NA0006246	Cutter's Medical Supply Key
+1NA0006248	Armored Vault Suit
+1NA0006251	The Weapons Cache
+1NA0006265	AlienDisintegration
+1NA0006270	Key to Oasis
+1NA0006271	Basin of Purification
+1NA0006280	One-Stop Shopping for Devices
+1NA0006282	Doctor Li's Glasses
+1NA0006286	Utility Tunnels
+1NA0006310	MaxsonDossier4
+1NA0006311	CitadelTerminalSquire3
+1NA0006313	Deathclaw Cage Key
+1NA0006315	Moriarty's Password
+1NA0006317	Door to Office Lobby
+1NA0006318	Door to Close Quarters Area
+1NA0006319	Door to Large Vertical Area
+1NA0006320	Door to Start Room
+1NA0006326	Door to 2x Room Pieces
+1NA0006327	Outpost
+1NA0006328	Door to Pit and Bridge Pieces
+1NA0006330	Door to AI Cover Area
+1NA0006333	Museum of History
+1NA0006334	Virgo II Communications Dish
+1NA0006335	Elder Owyn Lyons -- Personal Log 1
+1NA0006336	Elder Owyn Lyons -- Personal Log 2
+1NA0006337	Elder Owyn Lyons -- Personal Log 3
+1NA0006346	Vault 101 Security Armor
+1NA0006348	Daniel Agincourt
+1NA0006349	Alex Dargon
+1NA0006350	Seagrave Holme's Room Key
+1NA0006353	Museum of Technology West Wing
+1NA0006356	Cantelli's Room Key
+1NA0006357	Staley's Room Key
+1NA0006359	Chryslus Building Master Key
+1NA0006360	Bannon's Room Key
+1NA0006361	Flak and Shrapnel's Room Key
+1NA0006362	Dr. Preston's Room Key
+1NA0006363	Vera Weatherly's Room Key
+1NA0006364	Tenpenny Resident's Key
+1NA0006424	Vance's Proposal
+1NA0006425	WallLean
+1NA0006427	Mr. Brotch
+1NA0006436	The Box
+1NA0006438	Car Dealership
+1NA0006440	Pepper Gomez
+1NA0006441	Garza
+1NA0006443	Officer O'Brian
+1NA0006450	Auxiliary Filtration Input
+1NA0006457	5
+1NA0006458	6
+1NA0006459	7
+1NA0006460	8
+1NA0006461	9
+1NA0006462	0
+1NA0006465	1
+1NA0006467	2
+1NA0006468	3
+1NA0006469	4
+1NA0006479	Buisiness Suit
+1NA0006487	Dr. Barrow's Lab Coat
+1NA0006502	Overseer Mack
+1NA0006505	Agatha
+1NA0006510	Museum Maintenance
+1NA0006511	Research Lead's Terminal
+1NA0006512	Far Out Space Facts!
+1NA0006516	Security Systems
+1NA0006517	Fairfax Metro Station
+1NA0006518	Fort Independence Lower Level
+1NA0006522	Stanislaus Braun
+1NA0006525	Exploration Database
+1NA0006526	DashwoodTerminalPeople1
+1NA0006531	DashwoodTerminalPlaces
+1NA0006536	DashwoodTerminalPests
+1NA0006541	Dashwood's Safe Key
+1NA0006546	Initiate Reddin
+1NA0006547	Sentinel Lyons
+1NA0006548	Knight Captain Colvin
+1NA0006549	Paladin Vargas
+1NA0006553	FFE vendor chests
+1NA0006554	Springvale
+1NA0006564	Schenzy Residence
+1NA0006565	West Residence
+1NA0006566	Evan King's House
+1NA0006567	Ewer Residence
+1NA0006568	Ian West
+1NA0006569	Evan King
+1NA0006570	Vance
+1NA0006573	Fort Ind. Terminal Access Password
+1NA0006578	Bridge Tower
+1NA0006579	The Muddy Rudder Bar
+1NA0006580	Midship Deck
+1NA0006581	Science Lab
+1NA0006588	Forge Lobby Key
+1NA0006589	Ken Ewers
+1NA0006590	Brailee Ewers
+1NA0006591	Karen Schenzy
+1NA0006599	Deputy Steel
+1NA0006602	Mister Mulberry
+1NA0006603	Bunker Control Panel
+1NA0006606	Roy Phillips
+1NA0006607	Intercom Speaker
+1NA0006612	Love letter from Burke
+1NA0006613	Love letter from Burke #2
+1NA0006622	To: Me
+1NA0006647	Muttface
+1NA0006655	Bessie Lynn
+1NA0006656	Michael Masters
+1NA0006657	Ghoul Mask
+1NA0006664	Small Ranch
+1NA0006666	Driver's Key
+1NA0006677	Memorial Sub-Basement
+1NA0006678	Sift Pump
+1NA0006685	RobCo Comptroller Orientation
+1NA0006686	Project Brainstorm Report
+1NA0006687	Mission Cloacina Report
+1NA0006688	Falls Church North
+1NA0006689	Chevy Chase East
+1NA0006694	Liberty Prime Operations
+1NA0006711	Raven Rock - Control Room
+1NA0006714	Leo's Stash Key
+1NA0006717	CapitalPostTerminalNote3b
+1NA0006727	LOB Enterprise CEO Desk
+1NA0006745	Laurel's Liniment
+1NA0006754	Tepid Sewers
+1NA0006759	Soil Stradivarius Case Image
+1NA0006761	Enclave Broadcast Effect
+1NA0006765	Penn. Ave Northwest
+1NA0006766	The Mall Northeast
+1NA0006767	Ant Researcher
+1NA0006768	Penn. Ave East
+1NA0006769	Tenpenny Tower Radio
+1NA0006787	Knight Captain Durga
+1NA0006789	Sister
+1NA0006815	Armitage
+1NA0006821	Washington Monument Secuity Terminal
+1NA0006826	Silver
+1NA0006830	Password to AntAgonizer Lair
+1NA0006833	Remote Detonator
+1NA0006840	Farragut West Metro Station
+1NA0006841	Vernon Square Station
+1NA0006842	Vernon Square North
+1NA0006843	Vernon Square East
+1NA0006845	Lincoln Artifacts
+1NA0006846	Buried Vendor Chests
+1NA0006847	Catherine
+1NA0006848	Makeshift Shack
+1NA0006849	Wasteland Recluse
+1NA0006850	Everglow National Campground
+1NA0006851	Greener Pastures Disposal Site
+1NA0006852	Brotherhood of Steel Holotag
+1NA0006858	Masterbrain
+1NA0006860	Question Two
+1NA0006861	Question Three
+1NA0006862	Question Four
+1NA0006863	Question Five
+1NA0006864	Question Six
+1NA0006865	Question Seven
+1NA0006883	Opthalmoscope
+1NA0006885	LOB Enterprises Employee Terminal
+1NA0006892	Godfrey
+1NA0006893	Wadsworth
+1NA0006898	Chevy Chase North
+1NA0006925	Initiate Jennings
+1NA0006940	Prize Redemption Terminal
+1NA0006941	Guess and Win Redemption Terminal
+1NA0006952	Doctor Lesko's Notes
+1NA0006953	Shack Key
+1NA0006967	Doctor Lesko's Password Recording
+1NA0006986	Rogue Android
+1NA0006987	A request for help
+1NA0006988	Extreme measures
+1NA0006989	A free man... a new man...
+1NA0006990	Assignment from the Commonwealth
+1NA0006991	Wanted: Trustworthy Surgeon
+1NA0006992	Androids are real. No really!
+1NA0006994	We got the tech, now we need the doc.
+1NA0006995	Oh man! A Circuit Neuralizer!
+1NA0006996	Missing Android
+1NA0006998	Self determination is not a malfunction
+1NA0006999	Minefield
+1NA0007017	Liberty Prime
+1NA0007020	LOB Enterprises CEO Key
+1NA0007022	The Shocker
+1NA0007027	National Archives Prize Redemption
+1NA0007029	Pipe Controls
+1NA0007033	Lucky's
+1NA0007038	Shoot 'em in the Head
+1NA0007040	Craterside Supply Key
+1NA0007041	Megaton Clinic Key
+1NA0007046	Medic Power Armor Manual
+1NA0007048	Abandoned Residence
+1NA0007049	Lyons' Brotherhood of Steel
+1NA1000002	Cave Outpost
+1NA1000003	American Soldier
+1NA1000005	VSS ResearchTerminal
+1NA1000007	Progress Report 0540
+1NA1000009	Power Armored Soldier
+1NA1000011	Dead U.S. Paratrooper
+1NA1000013	Electric Sword
+1NA1000016	Chinese Sniper
+1NA1000020	U.S. Paratrooper
+1NA1000024	Chinese Intel
+1NA1000030	Strike Team Sentry Bot
+1NA1000031	Strike Team Infantryman
+1NA1000034	Strike Team Grenadier
+1NA1000037	Strike Team Missile Unit
+1NA1000040	Strike Team Sniper
+1NA1000044	Chinese Artillery Outpost
+1NA1000045	Chimera Tank
+1NA1000047	Outcast Scribe Robe
+1NA1000048	Controller
+1NA1000054	Command Tent
+1NA1000057	Smoke Grenade
+1NA1000059	Smoke Grenade Effect
+1NA1000062	Ammo Crate
+1NA1000067	American Inferno Unit
+1NA1000071	American Launcher
+1NA1000075	American Sniper
+1NA1000083	Chinese Inferno Unit
+1NA1000087	Chinese Launcher
+1NA1000099	Secure Access Terminal
+1NA1000132	Strike Team Mister Gutsy
+1NA1000172	Crimson Dragoon
+1NA1000177	Health Kit
+1NA1000178	Sergeant Benjamin Montgomery
+1NA1000181	Army Mechanic Jumpsuit
+1NA1000187	Signal Flare
+1NA1000188	Test Gun
+1NA1000189	Spider Drone
+1NA1000192	Neural Interface Suit
+1NA1000199	General Chase's Overcoat
+1NA1000204	American Grease-Monkey
+1NA1000205	American T51-B Unit
+1NA1000206	Intel
+1NA1000207	Well done soldier!
+1NA1000208	Field Storage
+1NA1000210	Chinese Terminal
+1NA1000211	Jingwei's Shocksword
+1NA1000213	Holotape - Goodbye
+1NA1000214	Holotape - Invasion
+1NA1000215	Holotape - Bombardment
+1NA1000216	Holotape - Overrun
+1NA1000217	Holotape - I'm Okay
+1NA1000218	Holotape - Psycho
+1NA1000219	Doctor Adami
+1NA1000223	Cave Passage
+1NA1000228	Outcast Outpost
+1NA1000229	Cliffs
+1NA1000230	Artillery Overlook Entrance
+1NA1000231	Artillery Overlook
+1NA1000232	Battlefield Trenches
+1NA1000233	Alert!
+1NA1000235	Electric Sword A Electrocute Crit Knockdown
+1NA1000236	Electric Sword Damage Multiply
+1NA1000239	Jingwei's Shocksword Stack
+1NA1000240	Covert Ops
+1NA1000243	General Chase's Coat
+1NA1000244	Attention!
+1NA1000246	Chinese Fortification Cache
+1NA1000247	Transcribed Chinese Correspondence
+1NA1000248	12.1a
+1NA1000249	12.1b
+1NA1000250	12.1c
+1NA1000251	American Artillery Protocols
+1NA1000252	10mm Alloy Steel Pistol
+1NA1000253	Silenced 10mm Alloy Steel Pistol
+1NA1000254	Alloy Steel Assault Rifle
+1NA1000255	10mm Alloy Steel Submachine Gun
+1NA1000256	Chinese Dragoon Assault Rifle
+1NA1000257	Chinese Dragoon Pistol
+1NA1000258	Trench Knife
+1NA1000269	Chinese Bulletin: spider drones
+1NA1000270	Chinese Intelligence Report: Liberty Prime
+1NA1000271	Chinese Intelligence Report: T-51b Deployment
+1NA1000275	American Intelligence Report
+1NA1000276	Compromised Terminal
+1NA1000277	Hacked Terminal
+1NA1000278	Log of User Actions
+1NA1000284	Guard Dog
+1NA1000285	American War Correspondent
+1NA1000288	Winterized Combat Armor
+1NA1000289	Winterized Combat Helmet
+1NA1000290	Winterized T-51b Power Armor
+1NA1000291	Winterized T-51b Power Helmet
+1NA1000295	Chinese General Hat
+1NA1000310	Jingwei's Shocksword DOT
+1NA1000316	Interrogation Log
+1NA1000317	Resconstructed Audio Log 40.26
+1NA1000318	Resconstructed Audio Log 11.38
+1NA1000319	Resconstructed Audio Log 31.13
+1NA1000320	Resconstructed Audio Log 13.13
+1NA1000324	Health Dispenser
+1NA1000334	Ammo Dispenser
+1NA1000336	Close Assault Package
+1NA1000337	Fire Team Package
+1NA1000338	Heavy Weapons Package
+1NA1000339	Sniper Package
+1NA1000344	General Jingwei
+1NA1000347	Stealth Armor
+1NA1000359	Emergency Robot Command Override
+1NA1000365	Test Tank Laser
+1NA1000368	Bailey's Crossroads
+1NA1000369	Bailey's Crossroads Metro
+1NA1000370	Aiding the Outcasts
+1NA1000371	The Guns of Anchorage
+1NA1000372	Paving the Way
+1NA1000373	General Chase
+1NA1000375	Lieutenant Morgan
+1NA1000376	Anchorage Cliffs
+1NA1000378	Specialist Olin
+1NA1000379	Protector McGraw
+1NA1000380	Defender Sibley
+1NA1000381	Defender Morrill
+1NA1000383	Anchorage
+1NA1000385	Listening Post
+1NA1000386	Chimera Armor Depot
+1NA1000387	Chinese Forward Camp Delta
+1NA1000388	Abandoned Mining Town
+1NA1000389	Chinese Pulse Field
+1NA1000392	Outcast Distress Call
+1NA1000394	Outcast Distress Signal
+1NA1000396	Operation: Anchorage!
+1NA1000397	Explosive Charges
+1NA1000399	Stealth Recon Helmet
+1NA1000400	Stealth Recon Armor
+1NA1000402	Gauss Effect
+1NA1000406	Chinese Occupied Refinery
+1NA1000407	Simulation Pod
+1NA1000415	Chimera Depot
+1NA1000422	Artillery Gun
+1NA1000428	Patterson's Terminal
+1NA1000429	Requisition Terminal
+1NA1000430	Phil's Work Bench
+1NA1000431	Schematics - Trench Knife
+1NA1000436	Chinese Technician
+1NA1000437	Sim Regen Armor
+1NA1000438	No Ammo Silenced 10mm Pistol
+1NA1000443	Infantryman
+1NA1000444	Grenadier
+1NA1000445	Missile Unit
+1NA1000449	Recruitment Marker
+1NA1000452	Gary 23
+1NA1000460	U.S. Army Field Headquarters
+1NA1000461	Quartermaster
+1NA1000464	Close Assault Requisition Holo
+1NA1000465	Fire Team Requisition Holo
+1NA1000466	Heavy Weapons Requisition Holo
+1NA1000467	Sniper Requisition Holo
+1NA1000469	Chimera Depot Fuel Tank A
+1NA1000470	Chimera Depot Fuel Tank B
+1NA1000472	Chimera AutoTank
+1NA1000473	The Peepers
+1NA1000498	Freight Elevator
+1NA1000499	Elevator Switch
+1NA1000521	Test Utility
+1NA1000522	Army Cot
+1NA1000527	T-51b
+1NA2000002	Pitt Tunnel
+1NA2000004	Slop
+1NA2000006	Pitt Train Yard
+1NA2000007	The Pitt Bridge
+1NA2000010	Haven
+1NA2000011	Pitt Raider
+1NA2000016	Steel Press
+1NA2000018	Steelyard Gate Key
+1NA2000019	Wernher's Note to Midea
+1NA2000022	Abandoned Apartments
+1NA2000024	Mex
+1NA2000026	Steel Ingot
+1NA2000031	Conveyor
+1NA2000033	Pitt Underground
+1NA2000034	Pitt Slave
+1NA2000039	Ashur's Power Armor
+1NA2000045	Uptown Floodlight Controls
+1NA2000049	Slave Fighter
+1NA2000052	Raider Fighter
+1NA2000055	The Road Ahead
+1NA2000056	Booster Shot
+1NA2000058	Ammo Mill Instructions
+1NA2000059	Materials Bin
+1NA2000062	Auto Axpert
+1NA2000063	Pitt Fighter
+1NA2000067	DPW Mail Terminal
+1NA2000070	Hand Cart
+1NA2000071	Travel
+1NA2000072	Haven Entrance
+1NA2000073	Wildman
+1NA2000074	Research Computer
+1NA2000180	Ashur's Key
+1NA2000181	Supervisor Helmet
+1NA2000183	Trog Research
+1NA2000184	Cure Research
+1NA2000185	Supply Plant
+1NA2000187	Welder's Mask
+1NA2000189	Gamma Shield Armor
+1NA2000196	Lead-Lined Armor
+1NA2000197	Worn Slave Outfit
+1NA2000204	Abandoned Area
+1NA2000205	Wild Bill
+1NA2000206	Milly
+1NA2000207	Note from Wild Bill
+1NA2000208	Find Wild Bill
+1NA2000211	Raider Paingiver Armor
+1NA2000213	Raider Throwdown Armor
+1NA2000214	Raider Ordinance Armor
+1NA2000216	Raider Commando Armor
+1NA2000221	Power Plant Key
+1NA2000224	Loud Speakers
+1NA2000227	Everett
+1NA2000234	Wild Bill's Sidearm
+1NA2000235	Concealed Switchblade
+1NA2000236	Concealed .32 Pistol
+1NA2000242	Baby Marie
+1NA2000256	Hidden Vent Stash
+1NA2000257	Broken Hydrant
+1NA2000258	Engine Block
+1NA2000259	Broken TV
+1NA2000260	Pitt Rot
+1NA2000262	Diary 1: To Marie
+1NA2000263	Diary 2: The Scourge
+1NA2000264	Diary 3: The Mill
+1NA2000265	Diary 4: The Cure
+1NA2000266	Pitt Broadcast
+1NA2000268	Loud Speaker
+1NA2000273	Injured Slave
+1NA2000275	Crib
+1NA2000276	Toys Wanted for Marie
+1NA2000280	Air Filtration
+1NA2000281	Filtration Helmet
+1NA2000282	Laborer Outfit
+1NA2000283	Steel Knuckles
+1NA2000284	Steel for the Mill
+1NA2000285	Pitt Power Armor
+1NA2000286	Bombshell Armor
+1NA2000287	Leather Rebel
+1NA2000288	Heavy Metal Armor
+1NA2000289	Tribal Power Armor
+1NA2000293	Metal Master Armor
+1NA2000294	Perforator
+1NA2000295	Metal Blaster
+1NA2000296	The Mauler
+1NA2000300	Friday's Supply Locker
+1NA2000301	Harris' Supply Locker
+1NA2000302	Friday's Supply Key
+1NA2000303	Harris' Supply Key
+1NA2000305	Steel Saw
+1NA2000330	Man Opener
+1NA2000342	Wernher's Distress Signal
+1NA2000343	Tattered Slave Outfit
+1NA2000344	The Pitt
+1NA2000345	Into The Pitt
+1NA2000346	Downtown
+1NA2000348	Slave Guard
+1NA2000349	Ashur
+1NA2000350	Sandra
+1NA2000352	Marie's Crib
+1NA2000353	Haven Light Control Relay
+1NA2000354	Baby
+1NA2000355	Midea's Quarters
+1NA2000357	Wernher's Hideout
+1NA2000358	Billy McShady
+1NA2000361	Wernher
+1NA2000362	Unsafe Working Conditions
+1NA2000364	Free Labor
+1NA2000365	Midea
+1NA2000366	Mango power!
+1NA2000367	The Steelyard
+1NA2000368	Uptown
+1NA2000370	The Mill
+1NA2000372	The Hole
+1NA2000373	Arena Waiting Room
+1NA2000387	Slave Pen Key
+1NA2000388	Ramsey
+1NA2000389	Radio Tower
+1NA2000410	Slave Master
+1NA2000414	Deadly Water
+1NA2000415	Rusty Gate
+1NA2000419	Prosper
+1NA2000420	Slave Pen Gate
+1NA2000432	Raider Iconoclast Armor
+1NA2000434	Auto Axe
+1NA2000435	Ingots
+1NA2000436	Faydra
+1NA2000438	Gruber
+1NA2000439	John Bear
+1NA2000440	Grudd Bear
+1NA2000441	Krenshaw
+1NA2000450	Arena Announcer
+1NA2000455	Beth
+1NA2000460	Adan
+1NA2000461	Brand
+1NA2000462	Kai
+1NA2000464	Nola
+1NA2000465	Bingo
+1NA2000466	Bone
+1NA2000467	Friday
+1NA2000468	Harris
+1NA2000470	Spook
+1NA2000471	Jackson
+1NA2000472	Trouble Man
+1NA2000473	Rotary Press Terminal
+1NA2000474	Ammo Press Terminal
+1NA2000475	Lulu
+1NA2000476	Vikia
+1NA2000477	Squill
+1NA2000478	Phantom
+1NA2000480	O-Dog
+1NA2000481	Reddup
+1NA2000482	Mona
+1NA3000002	Metro Console
+1NA3000005	Emergency Electrical Switch
+1NA3000007	Emitter
+1NA3000008	Remote Vent Terminal
+1NA3000009	Artillery Switch
+1NA3000011	Sector 2 Artillery Note
+1NA3000017	Almost Perfect
+1NA3000019	Devil's Highway
+1NA3000020	Karmic Rebalance
+1NA3000021	Escalator to Heaven
+1NA3000022	Quantum Chemist
+1NA3000023	Holy Water
+1NA3000024	Brother Gerard
+1NA3000025	Mother Curie III
+1NA3000027	Museum Authority
+1NA3000032	Explosive Barrel
+1NA3000034	Deathclaw Officer's Report
+1NA3000035	Deathclaw Outpost Orders
+1NA3000038	Vertibird Interior
+1NA3000041	Jump Seat
+1NA3000042	Scribe Vallincourt
+1NA3000043	Paladin Tristan
+1NA3000055	Enclave Squad Sigma
+1NA3000079	Resupply Crate
+1NA3000081	Museum Authority Building
+1NA3000089	Power Box
+1NA3000090	Main Fuse
+1NA3000097	Presidential Metro Sentinal Unit
+1NA3000098	Rosa
+1NA3000099	Holy Water Pamphlet
+1NA3000100	Water Beggar
+1NA3000101	Atom's Champion
+1NA3000102	Metro Doors
+1NA3000103	Deathclaw Control Scrambler
+1NA3000104	Wastelander Holotape #1
+1NA3000105	Talon Company Merc Log #1
+1NA3000118	Hank's Electrical Supply
+1NA3000122	White Flag Radio
+1NA3000123	Stiggs
+1NA3000124	Enclave Sigma Leader
+1NA3000126	Sector 1 Artillery Note
+1NA3000136	Ghoul Guard
+1NA3000139	Aqua Cura
+1NA3000140	Monastery Key
+1NA3000142	Knife Switch
+1NA3000143	Remote Access Research Terminal
+1NA3000148	Emergency Switch
+1NA3000149	Communications Terminal
+1NA3000151	Project Purity Scientist
+1NA3000152	Intercom Trigger
+1NA3000157	Silo
+1NA3000158	Satellite Uplink Terminal
+1NA3000159	Fire Control
+1NA3000163	Old Olney S. Wilson Building
+1NA3000164	Automated Control Terminal
+1NA3000177	Enclave Soldier Log #1
+1NA3000178	Novice
+1NA3000180	Sun of Atom
+1NA3000196	Fuel Stash Conatiner Key
+1NA3000197	Flamer Fuel Stash Holotape
+1NA3000202	Armory Master
+1NA3000203	Precision Gatling Laser
+1NA3000209	Discharge Hammer
+1NA3000212	Enclave Doctor
+1NA3000216	Robot Control Mainframe
+1NA3000225	Rapid-Torch Flamer
+1NA3000226	Slo-Burn Flamer
+1NA3000230	Protecting the Water Way
+1NA3000232	White House Plaza
+1NA3000237	Access Panel
+1NA3000240	High Clearance Keycard
+1NA3000247	Citadel Armory
+1NA3000248	Armory Door
+1NA3000255	Control Manifest
+1NA3000256	Alpha Cell Entry 01
+1NA3000261	Repulsion Field Control Panel
+1NA3000262	Sparky
+1NA3000266	Super Mutant Blood Sample
+1NA3000268	Old Olney Underground
+1NA3000271	Orders
+1NA3000275	Albino Radscorpion
+1NA3000278	Adams Storage Facility
+1NA3000279	Adams Air Force Base Entrance
+1NA3000280	Adams Air Traffic Control Tower
+1NA3000283	Griffon's Bottling Instructions
+1NA3000291	Wint
+1NA3000292	Kidd
+1NA3000294	Armory 089A Terminal
+1NA3000295	Callahan's Terminal
+1NA3000300	Item 908774
+1NA3000301	Item 908775
+1NA3000302	Item 908776
+1NA3000304	Incident Report 08-07-07
+1NA3000305	Incident Report 08-16-07
+1NA3000306	Incident Report 08-22-07
+1NA3000307	Callahan's Safe
+1NA3000308	Callahan's Magnum
+1NA3000310	Holy Light Monastery
+1NA3000313	Museum Authority Workstation
+1NA3000314	Museum Authority Log MA-0089
+1NA3000317	Sorry, My Darling
+1NA3000320	Lag-Bolt
+1NA3000321	Lag-Bolt's Combat Armor
+1NA3000322	Lag-Bolt's Shades
+1NA3000323	Lag-Bolt's Armor
+1NA3000326	All-Nighter Nightwear
+1NA3000327	Lag-Bolt's Suitcase Key
+1NA3000328	Lag-Bolt's Note
+1NA3000329	Bigsley's Terminal
+1NA3000335	Big Town Mission Report
+1NA3000336	Megaton Mission Report
+1NA3000337	Rivet City Mission Report
+1NA3000344	Entry 7
+1NA3000345	Entry 8
+1NA3000346	Entry 9
+1NA3000347	Entry 10
+1NA3000348	Entry 11
+1NA3000349	Current Missions
+1NA3000350	Entry 12
+1NA3000351	Entry 13
+1NA3000352	Entry 14
+1NA3000353	Entry 15
+1NA3000354	Entry 16
+1NA3000355	Entry 17
+1NA3000357	Petty Cash
+1NA3000358	Available Requisitions
+1NA3000359	Maintenance Department Terminal
+1NA3000360	Water Caravan Driver
+1NA3000363	Broken Steel Loaded
+1NA3000376	Badger
+1NA3000377	Sanders
+1NA3000378	Connelly
+1NA3000380	Dunbar
+1NA3000381	Dunbar's Note
+1NA3000386	Rockland Car Tunnel
+1NA3000484	Death From Above
+1NA3000485	Adams Air Force Base
+1NA3000487	Satellite Control Tower
+1NA3000488	Mobile Base Crawler
+1NA3000489	Presidential Metro
+1NA3000490	Presidential Sub Level
+1NA3000491	Relay Station
+1NA3000495	Shock Value
+1NA3000496	Satellite Relay Station
+1NA3000543	Aqua Pura
+1NA3000548	Enclave Hellfire Helmet
+1NA3000549	Enclave Hellfire Armor
+1NA3000553	No Weakness
+1NA3000558	Who Dares Wins
+1NA3000564	Warmonger
+1NA3000565	Party Boy
+1NA3000566	Party Girl
+1NA3000567	Rad Tolerance
+1NA3000569	Launch Platform Base
+1NA3000589	Water Crate Key
+1NA3000597	Tesla Resonance Armor
+1NA3000624	Enclave Hellfire Trooper
+1NA3000637	Vertibird Missile Launcher
+1NA3000648	Radiation Trap
+1NA3000649	Traps Warehouse
+1NA3000658	Paladin Jensen
+1NA3000663	Test Tony
+1NA3000664	Senate Employee ID
+1NA3000665	Deathclaw Control Terminal
+1NA3000666	Radiation Box Emiiter
+1NA3000668	Metro Door
+1NA3000671	Dogmeat's Puppy
+1NA3000672	Puppies!
+1NA3000673	Deep Sleep
+1NA3000681	Lightning Gun
+1NA3000683	Chain Lightning Explosion
+1NA3000684	Olney Powerworks
+1NA3000691	Scribe Bigsley
+1NA3000696	Encrypted Telemetry Data
+1NA3000707	Eternal Light Monastery
+1NA3000711	New Meeting Place
+1NA3000712	Officer Lorin
+1NA3000714	Split Jack
+1NA3000715	Officer Davis
+1NA3000716	Officer Lepelletier
+1NA3000720	Griffon
+1NA3000721	Wig
+1NA3000735	Air Control Tower
+1NA3000737	Pilot Seat
+1NA3000738	Adams AFB Metro Exit
+1NA4000002	Sea Cave
+1NA4000003	Sea Cave Test 2
+1NA4000004	Blackhall Manor
+1NA4000006	The Local Flavor
+1NA4000007	Walking With Spirits
+1NA4000008	Hearing Voices
+1NA4000009	Thought Control
+1NA4000010	A Meeting Of The Minds
+1NA4000012	Temporary Quest Controller
+1NA4000013	Choose Your Own Adventure
+1NA4000014	Temporary Explosion Controller
+1NA4000018	The Brain
+1NA4000021	Box 1207 - Spy's Audio Password
+1NA4000023	Voice-Activated Security System
+1NA4000024	Tobar the Ferryman
+1NA4000025	Nadine
+1NA4000028	Freki
+1NA4000030	Wanted; Person of Interest
+1NA4000031	Self-Destruct Switch
+1NA4000032	DIA Officer's Terminal
+1NA4000034	C8: Yang, Wan
+1NA4000035	Sub Self-Destruct Codes
+1NA4000036	Toy Knife
+1NA4000037	USN DIA Field Report
+1NA4000038	Wanted Person: Yang, W.
+1NA4000039	Espionage Debriefing
+1NA4000040	Chinese Submarine
+1NA4000043	Power Junction
+1NA4000044	Punga Seed Pods
+1NA4000045	Duchess Gambit Cabin
+1NA4000046	Duchess Gambit Key
+1NA4000047	Note to Nadine
+1NA4000048	Begin Trip to Capital Wasteland
+1NA4000049	Begin Trip to Point Lookout
+1NA4000050	Point Lookout
+1NA4000051	Runoff Pipe
+1NA4000052	Chinese Intelligence Bunker
+1NA4000053	Recessed Panel
+1NA4000054	Safehouse Terminal
+1NA4000056	Spy Extraction Details
+1NA4000057	Extraction Terminal
+1NA4000058	Double-Barrel Shotgun
+1NA4000059	Cannot Travel
+1NA4000060	Run-down Shack
+1NA4000061	Haley's Hardware
+1NA4000062	Trapper's Shack
+1NA4000063	Moonshiner Shack
+1NA4000064	Room 1D
+1NA4000065	Miner's Rest
+1NA4000066	Herzog Mine
+1NA4000067	Excavated Muck Hole
+1NA4000069	Kenny
+1NA4000070	Latchkey Kenny
+1NA4000073	Desmond's Eyeglasses
+1NA4000075	Axe
+1NA4000076	Passenger Cot
+1NA4000077	Cogwave Jammer
+1NA4000078	Swamp Ghoul
+1NA4000079	Blackdamp Shaft
+1NA4000080	Kenny-Bear
+1NA4000081	Lever-Action Rifle
+1NA4000083	Tribal Resident
+1NA4000084	Jimson
+1NA4000089	Well
+1NA4000093	Underground Lab
+1NA4000094	Plik's Safari
+1NA4000095	Plik
+1NA4000097	Rip Smithy
+1NA4000099	Jacob Humboldt
+1NA4000102	Trash Compactor
+1NA4000104	Storm Door
+1NA4000105	Swamplurk
+1NA4000106	Holographic Projection
+1NA4000107	Woodrose
+1NA4000108	Croatoa
+1NA4000111	Sea Cave Key
+1NA4000113	Punga Seeds
+1NA4000115	The Great House of Lod
+1NA4000116	Sacred Bog
+1NA4000118	Security Control Terminal
+1NA4000127	Ball
+1NA4000128	Marcella's Tent
+1NA4000133	Burned-Out Basement
+1NA4000135	Mom
+1NA4000138	Ferris Wheel
+1NA4000141	Grifter's Fit
+1NA4000142	Cellar
+1NA4000144	Riverboat Ticket
+1NA4000156	Engine Room
+1NA4000158	Interrogation Room A
+1NA4000159	Interrogation Room B
+1NA4000167	Microwave Emitter
+1NA4000168	Reward Vault Key
+1NA4000169	Geri
+1NA4000171	SSN-37-1A
+1NA4000172	Dead Pilot
+1NA4000173	Blackbox Recording
+1NA4000174	Blackbox Recorder
+1NA4000175	Scar
+1NA4000176	Fake Explosion Object
+1NA4000177	Sacred Bog Entrance
+1NA4000178	Ark & Dove Resting Grounds
+1NA4000179	Wrecked Seatub
+1NA4000180	The Homestead Motel
+1NA4000181	Razed Lodge
+1NA4000182	Point Lookout Pier
+1NA4000184	Coastal Grotto
+1NA4000185	Submarine Operations Terminal
+1NA4000186	Sub Recovery Site
+1NA4000189	Lab Access Card
+1NA4000190	Administration Tent
+1NA4000191	Medical Tent
+1NA4000193	People's Bank of Point Lookout
+1NA4000195	Lump of Brain
+1NA4000196	Vacant Remains Locker
+1NA4000197	Contact Tape
+1NA4000201	Punga Seed
+1NA4000205	Bio-Gas Canister
+1NA4000207	Poison Gas
+1NA4000212	Superior Defender
+1NA4000214	Swing For The Fences
+1NA4000215	Gray Matters
+1NA4000216	Ghoul Ecology
+1NA4000217	Wan Yang (photo file)
+1NA4000218	Wanted Poster
+1NA4000219	Morgue Drawer
+1NA4000224	Fertilizer Shovel
+1NA4000229	Pa's Fishing Aid
+1NA4000230	Desmond Glasses
+1NA4000231	Lab Goggles
+1NA4000233	Workman's Coveralls
+1NA4000235	Robobrain Sentry
+1NA4000236	Primary Lab Terminal
+1NA4000237	Security Bypass Terminal
+1NA4000240	Security Clearance: Alpha
+1NA4000241	Level Alpha Security Badge
+1NA4000242	Morgue
+1NA4000244	TD-0831: Cheng, A
+1NA4000245	TD-0181: Yang, Wan
+1NA4000246	TD-0204: Shen, Mei
+1NA4000248	Remains of Agent Wan Yang
+1NA4000249	Tribal Garb
+1NA4000250	Tribal
+1NA4000330	Wheelchair
+1NA4000331	Recruitment Station
+1NA4000333	Security Updates
+1NA4000334	National Security Update
+1NA4000335	Shift Close Notes
+1NA4000341	North
+1NA4000342	South
+1NA4000343	East
+1NA4000344	West
+1NA4000345	Lighthouse Mechanism
+1NA4000348	Confederate Hat
+1NA4000349	Sequence Note - Aviary Spy Bunker
+1NA4000350	Cryptochromatic Spectacles
+1NA4000351	Luggage Case
+1NA4000352	Pilgrim's Landing
+1NA4000353	Dove Delta
+1NA4000354	Beachview Campsite
+1NA4000355	Lil' Tyke Playhouse
+1NA4000356	Trash Heap
+1NA4000358	Septic Tunnel Access
+1NA4000359	TEST!
+1NA4000362	Muck Lobber
+1NA4000364	Riverboat Landing
+1NA4000365	Level Beta Security Badge
+1NA4000368	Smuggler Confession
+1NA4000369	Familiar Piece of Brain
+1NA4000370	Gray Matter
+1NA4000377	Belowdecks
+1NA4000379	Marcella's Safe Key
+1NA4000380	Marcella's Medical Supplies
+1NA4000381	Dunwich Obelisk
+1NA4000382	Smuggler
+1NA4000462	Punga Experiment
+1NA4000464	Bank Deposit Box
+1NA4000466	New Plague Pamphlet
+1NA4000469	A Greater Goodness Mission
+1NA4000470	Unit Leader Log
+1NA4000479	Expedition Supplies
+1NA4000480	Bysshe Co. Terminal
+1NA4000481	Scrapper
+1NA4000482	Creeper
+1NA4000483	Bruiser
+1NA4000484	Brawler
+1NA4000485	Mission Parameters
+1NA4000487	Bunkhouse B
+1NA4000488	Bunkhouse A
+1NA4000489	Homestead Motel Office
+1NA4000490	Room 1G
+1NA4000491	Room 1K
+1NA4000492	Administration
+1NA4000493	Bog Entrance
+1NA4000494	Panada
+1NA4000495	Haley
+1NA4000498	House of Wares
+1NA4000500	Safari Membership Card
+1NA4000501	Ruzka
+1NA4000502	Marguerite's Still
+1NA4000504	The Dismemberer
+1NA4000505	Dismember
+1NA4000508	Backwater Rifle
+1NA4000509	Loose Pile Of Sand
+1NA4000517	Kenny Bear
+1NA4000518	Kenny's Cave
+1NA4000519	Lighthouse
+1NA4000540	Punga Power!
+1NA4000541	For Ozwaldo
+1NA4000543	Twigbag
+1NA4000550	Boat Test
+1NA4000551	Mister Break
+1NA4000554	Marcella's Last Words
+1NA4000555	Marcella's Journal - Obadiah
+1NA4000556	Marcella's Terminal
+1NA4000557	Mirelurk Ecology
+1NA4000558	Marsh Hunting Tips Vol IV: Mirelurks
+1NA4000559	10 Indisputable Rules On Ghouls
+1NA4000563	Homestead Room 1G Key
+1NA4000564	Homestead Room 1K Key
+1NA4000565	Poo's Test Cell
+1NA4000568	Marcella's Journal - Tobar
+1NA4000569	Marcella's Journal - Tribals
+1NA4000570	Loose Pile Of Dirt
+1NA4000581	Circuit Box
+1NA4000584	Radiation-Emitting Vent
+1NA4000586	Ventilator Duct
+1NA4000606	Tracker
+1NA4000731	Ritual Knife
+1NA4000733	Pedestal
+1NA4000736	Box 1191 - Password Backup
+1NA4000737	Box 1213 - Bern's Voice
+1NA4000738	Loan Officer's Desk
+1NA4000743	Obelisk
+1NA4000744	Cave
+1NA4000748	Shack
+1NA4000749	Vacant Shop
+1NA4000750	Cafe
+1NA4000752	Abandoned Shop
+1NA4000753	Warehouse
+1NA4000754	Panic Room
+1NA4000755	Marcella's Journal - Leaving CommonWealth?
+1NA4000756	Marcella's Journal - The Pitt?
+1NA4000757	Marcella's Journal - Capital Wasteland
+1NA4000759	Coastal Monument
+1NA4000760	Inscribed Plaque
+1NA4000761	Holotape Note
+1NA4000763	Fishing Pole
+1NA4000764	Lighthouse Bulb
+1NA4000765	Lunch Box
+1NA4000766	Marcella
+1NA4000767	Marcella's Journal - Player
+1NA4000770	Madam Panada's Wares
+1NA4000771	Haley's Inventory
+1NA4000772	Haley's Inventory Key
+1NA4000773	Panada's Inventory Key
+1NA4000779	Coffin
+1NA4000781	Head Scar Treatment
+1NA4000790	Plik's Journal
+1NA4000791	Plik's Field Journal
+1NA4000792	Ghoul Ecology Perk
+1NA4000801	Marks Test
+1NA4000802	Marks test too
+1NA4000804	Beacon Switch
+1NA4000807	.
+1NA4000822	Calvert Mansion
+1NA4000823	Test Mansion Cell
+1NA4000825	Joel's Test Cell
+1NA4000827	An Antique Land
+1NA4000828	Soil Survey Tape #1
+1NA4000829	Soil Survey Tape #2
+1NA4000830	Soil Survey Tape #3
+1NA4000832	Obadiah Blackhall
+1NA4000834	The Krivbeknih
+1NA4000835	The Dark Heart of Blackhall
+1NA4000838	Obadiah's Letter to Marcella
+1NA4000839	Ceremonial Lectern
+1NA4000840	The Ceremonial Lectern
+1NA4000842	Murder!
+1NA4000844	Desmond
+1NA4000846	Defending The Mansion
+1NA4000852	Block Entry
+1NA4000861	Marguerite
+1NA4000862	A Spoonful of Whiskey
+1NA4000864	Wild Punga Fruit
+1NA4000865	Moonshine Still
+1NA4000867	Refined Punga Fruit
+1NA4000868	Ark & Dove Cathedral
+1NA4000869	Beacon Goes Here
+1NA4000870	Ferris Wheel Controls
+1NA4000871	Pew
+1NA4000874	Wild Punga
+1NA4000875	Punga Fruit Plant
+1NA4000878	The Velvet Curtain
+1NA4000881	The Ark & Dove Cathedral
+1NA4000882	Jet Crash Site
+1NA4000883	Turtledove Detention Camp
+1NA4000884	Ofie Clan Plot
+1NA4000885	Point Lookout Lighthouse
+1NA4000886	Disaster Relief Outpost
+1NA4000887	USS Ozymandias
+1NA4000888	Ritual Site
+1NA4000889	Grower's Shack
+1NA4000891	Marguerite's Shack
+1NA4000893	Flooded Sinkhole
+1NA4000894	Truck Wreckage
+1NA5000001	Repair Node
+1NA5000009	Waste Disposal
+1NA5000010	Death Ray Control
+1NA5000011	Death Ray Hub
+1NA5000012	Control
+1NA5000020	Experimentation Lab
+1NA5000021	Biological Research
+1NA5000022	Weapons Lab
+1NA5000026	Teleporter Control
+1NA5000030	Stasis Chamber
+1NA5000033	Teleporter Inactive!
+1NA5000034	Teleportation Matrix
+1NA5000046	Support Drone
+1NA5000047	Alien Viewscreen
+1NA5000052	Turret
+1NA5000055	Abomination
+1NA5000059	Guardian Drone
+1NA5000062	Spacesuit
+1NA5000064	Death In Space
+1NA5000065	Room Must Be Pressurized
+1NA5000067	Room is Pressurized
+1NA5000073	Steerage Rats
+1NA5000076	Alien Weapon Notification
+1NA5000077	Container
+1NA5000078	Shield Controller
+1NA5000079	Jammer Control
+1NA5000082	Healing Archway
+1NA5000083	Station Recharging
+1NA5000085	Alien Recycler
+1NA5000089	Restored
+1NA5000091	Device Recharging
+1NA5000097	Samurai Helmet
+1NA5000098	Samurai Armor
+1NA5000099	Alien Epoxy
+1NA5000102	Core Coolant Switch
+1NA5000104	Sergeant Daniels
+1NA5000105	Private Beckett
+1NA5000109	Paulson's Revolver
+1NA5000114	Cryo Mine
+1NA5000119	Exposed Panel
+1NA5000121	Maintenance Level
+1NA5000124	Inertia Suppression
+1NA5000125	Inertia Suppression Burst
+1NA5000128	Shck Baton Damage
+1NA5000134	Release Control
+1NA5000135	Alien Biogel
+1NA5000136	Adapted Biogel
+1NA5000139	Drone Cannon
+1NA5000156	Airlock Door
+1NA5000159	Door Controls
+1NA5000164	Stasis Controls
+1NA5000166	Research Lab
+1NA5000167	Corporal Rheems
+1NA5000168	Private Mears
+1NA5000169	Corporal Spurlock
+1NA5000177	Drone Pod
+1NA5000178	Andrew Endicott
+1NA5000180	Dr. Morrison Rand
+1NA5000181	Madeline Wallace
+1NA5000182	Alien Captive Recorded Log 1
+1NA5000183	Alien Captive Recorded Log 2
+1NA5000184	Alien Captive Recorded Log 3
+1NA5000185	Alien Captive Recorded Log 4
+1NA5000187	Drone Control Device
+1NA5000188	Cargo Hold
+1NA5000193	Test Subject
+1NA5000206	The Death Ray is Moving
+1NA5000207	The Death Ray is Firing
+1NA5000208	The Death Ray is in Position
+1NA5000209	The Death Ray is Fully Charged
+1NA5000210	Alien Controller
+1NA5000211	Alien Homing Beacon
+1NA5000212	Drone Cannon Ex-B
+1NA5000213	Destabilizer
+1NA5000214	Atomic Pulverizer
+1NA5000215	Power Distribution
+1NA5000217	Widget
+1NA5000218	Gizmo
+1NA5000219	Tool
+1NA5000220	Doodad
+1NA5000221	Thingamabob
+1NA5000222	Appliance
+1NA5000223	Contraption
+1NA5000224	Device
+1NA5000225	Unidentified Material
+1NA5000226	Mechanism
+1NA5000228	Alien Captive Recorded Log 5
+1NA5000229	Alien Captive Recorded Log 6
+1NA5000230	Alien Captive Recorded Log 7
+1NA5000231	Alien Captive Recorded Log 8
+1NA5000247	Beam Up FX
+1NA5000257	Generator Control
+1NA5000258	Alien Worker
+1NA5000260	Winterized Medic Armor
+1NA5000261	Winterized Medic Helmet
+1NA5000263	Shock Baton
+1NA5000265	Alien Atomizer
+1NA5000267	Alien Disintegrator
+1NA5000309	Captain's Sidearm
+1NA5000311	Gemstone
+1NA5000312	Imager
+1NA5000313	Crystal
+1NA5000314	Large Alien Crystal
+1NA5000315	Small Alien Crystal
+1NA5000316	Large Gemstone
+1NA5000317	Small Gemstone
+1NA5000320	Crushing Machine
+1NA5000322	Captain's Chair
+1NA5000328	Chase's Coat Effect
+1NA5000329	Medic Armor Effect
+1NA5000330	Paulson's Outfit Effect
+1NA5000331	Samurai Armor Effect
+1NA5000332	Reid Underwood's Terminal
+1NA5000333	Alien Captive Recorded Log 9
+1NA5000334	Alien Captive Recorded Log 10
+1NA5000335	Alien Captive Recorded Log 11
+1NA5000336	Alien Captive Recorded Log 12
+1NA5000337	Alien Captive Recorded Log 13
+1NA5000338	Alien Captive Recorded Log 14
+1NA5000339	Alien Captive Recorded Log 15
+1NA5000340	Alien Captive Recorded Log 16
+1NA5000341	Anchorage Quartermaster Shipment
+1NA5000342	Alien Captive Recorded Log 17
+1NA5000343	Alien Captive Recorded Log 18
+1NA5000344	Alien Captive Recorded Log 19
+1NA5000345	Alien Captive Recorded Log 20
+1NA5000346	MPLX Novasurge
+1NA5000347	MPLX "Novasurge" Prototype Plasma Pistol
+1NA5000348	Underwood's Safe
+1NA5000349	Xenotech Expert
+1NA5000350	Military Footlocker
+1NA5000351	Alien Captive Recorded Log 21
+1NA5000352	Alien Captive Recorded Log 22
+1NA5000353	Alien Captive Recorded Log 23
+1NA5000354	Alien Captive Recorded Log 24
+1NA5000355	Alien Captive Recorded Log 25
+1NA5000360	Experimental Weapons Drone
+1NA5000361	Command Chair
+1NA5000364	Engineering Core
+1NA5000365	Astronaut Helmet
+1NA5000372	Buttercup Toy
+1NA5000382	Teleport Dart
+1NA5000387	Xenotech Expert Perk Added
+1NA5000408	Ice
+1NA5000409	Paralyze
+1NA5000410	Paralyze1
+1NA5000412	Not of This World
+1NA5000413	Among the Stars
+1NA5000414	This Galaxy Ain't Big Enough...
+1NA5000416	Samurai's Sword
+1NA5000422	Sally
+1NA5000423	Somah
+1NA5000424	Elliott Tercorien
+1NA5000425	Mothership Zeta
+1NA5000426	Holding Cells
+1NA5000428	Repair Bay
+1NA5000430	Alien Worm Food
+1NA5000431	Alien Squid Food
+1NA5000434	Robot Assembly
+1NA5000436	Alien Power Module
+1NA5000437	Alien Weapon Recharge Station
+1NA5000438	Cryo Lab
+1NA5000449	Cryo Grenade
+1NA5000450	Cryo Freeze
+1NA5000452	The Bridge
+1NA5000453	Observation Deck
+1NA5000454	Space Walk
+1NA5000456	Steamworks
+1NA5000457	Paulson
+1NA5000458	Toshiro Kago
+1NA5000459	Colonel Hartigan
+1NA5000461	Paulson's Outfit
+1NA5000462	Release Mechanism
+1NA5000474	Bumper Switch
+1NA5000475	Cryo Storage
+1NA5000477	Conveyor Machine
+1NA5000478	Electronics Access Panel
+1NA5000481	Spanner
+1NA5000482	Electro-Suppressor
+1NA5000483	Face Smash
+1NA5000495	Death Ray Switch
+1NA5000502	Bumper Blast
+1NA5000503	Pylon Control
+1NA5000504	Spawns some guys
+1NA5000517	Decompression Chamber

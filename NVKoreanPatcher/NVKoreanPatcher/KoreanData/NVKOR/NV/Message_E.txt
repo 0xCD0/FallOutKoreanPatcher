@@ -1,0 +1,1412 @@
+0ME0000001	You quickly find a manilla folder with Pacer's name on it in the drawer marked "N-R".
+0ME0000003	You quickly find a manilla folder with Bill's name on it in the drawer marked "N-R".
+0ME0000005	The box contains a large amount of Jet. You could lace the Jet with some Psycho if you had some.
+0ME0000007	Leave the jet alone.
+0ME0000008	Take the jet.
+0ME0000009	Take the Jet and leave Ralph's forged letter.
+0ME0000010	Take the Jet and leave Jean-Baptiste's letter.
+0ME0000011	Spike the Jet with Psycho.
+0ME0000012	You carefully add Psycho to Pacer's Jet, guaranteeing an altogether different high the next time he uses it.
+0ME0000014	The drawers of this filing cabinet are all labeled "Patient Records" followed by a subset of the alphabet.
+0ME0000016	Leave the filing cabinet alone.
+0ME0000017	Search for Pacer's patient file.
+0ME0000020	The degree to which damaged items can be repaired is dependent on your Repair skill.
+0ME0000029	Every time you level up, your Health increases, and you gain Skill Points to assign to your skills. You will also gain a new perk every other level.
+0ME0000038	You have 4 tries to guess correctly. If you fail, the terminal will remain inaccessible until you own the password. You can exit hacking at any time and try again. However, exiting the terminal will force its security to reset, delaying your ability to start hacking again.
+0ME0000071	The World Map shows an overhead map of the entire Mojave Wasteland area, and markers for any places that have been discovered during the course of your adventures. You can even fast travel directly to any place you have previously visited.
+0ME0000091	Caravan players begin the game by establishing a mutual bet. There is only one betting phase per game. Since Caravan has its roots in merchant caravans, players are allowed to use any common currency available, regardless of its origins. Though bottle caps are common, players may also offer NCR dollars or Legion coins. Once a bet is established, players move on to deck building.
+0ME0000093	To play Caravan, you must assemble a deck that consists of at least 30 cards. Cards may be found in the world or purchased from vendors. You may assemble any arrangement of cards, but certain deck compositions will have strengths and weaknesses against any given opponent.
+0ME0000094	Once you have selected a satisfactory deck, you may proceed to game play. This interface will always remember the last Caravan deck you assembled, allowing for easy modifcation on subsequent games.
+0ME0000096	The first phase of Caravan game play involves each player drawing eight cards from his or her deck. From this hand, each player, in turn, lays down one numbered card or ace per "track" on the three caravans. A player's three caravans are competing for contracts with their opponent's caravans opposite them on the same track.
+0ME0000097	If a player has no numbered cards or aces in his or her hand, or if he or she is unhappy with any given card currently in hand, the player may discard and draw from his or her own deck. However, discarded cards are out of play for the current game and a smaller deck increases the player's odds that they will be forced to forfeit the game through exhaustion.
+0ME0000099	Most game play in Caravan occurs during the Contract War. In this phase, both players are attempting to build their caravans and get them signed. To do this, their caravan must be neither light (below 21) or burdened (over 26). They must also compete with their opponent on the same track to prevent being outbid within the legal range.
+0ME0000100	On each of the three tracks, a caravan is considered signed if its value is from 21 to 26 and it is higher than the opponent's caravan on the same track. If two caravans are tied, neither is signed until the tie is broken. The game ends when all three tracks have signed contracts. Note: it is possible for a player to win while signing only two of the three contracts (the third going to the opponent). In such cases, all winnings still go to the overall victor.
+0ME0000101	Players have the following options on their turn:
+0ME0000102	* Play one card and draw a new card from his or her deck.
+0ME0000103	* Discard one card from his or her hand and draw a new card to replace it.
+0ME0000104	* Remove one of his or her own caravans from the table, discarding all cards in it.
+0ME0000105	Caravans are primarily built with numbered cards and aces, which can be placed in the player's caravans according to the following rules. Caravans with more than one card have a direction (ascending or descending) and a suit. Direction is determined by the last two cards in a caravan, suit by the last card in a caravan. All subsequent cards must continue in the same direction OR they must match suit. Cards of the same numerical value cannot be played in sequence, regardless of suit.
+0ME0000106	Face cards can be attached to numbered cards and aces in any player or opponent caravan. Face cards affect numbered cards and aces in various ways:
+0ME0000107	* Joker - Played against A, 2-10. Effects change based on whether it is an ace or numbered card (see below).  Multiple jokers may be played on the same card.
+0ME0000108	* Ace - Value of 1. Jokers played on aces remove all other non-face cards of the ace's suit from the table.  E.g. a joker played on an ace of spades removes all spades (except face cards and that card, specifically) from the table.
+0ME0000109	* 2-10 - Listed value. Jokers played on these cards remove all other cards of this value from the table. E.g. a joker played on a 4 of hearts removes all 4s (other than that card, specifically) from the table.
+0ME0000110	* Jack - Played against A, 2-10. Removes that card, along with any face cards attached to it.
+0ME0000111	* Queen - Played against A, 2-10. Reverses the current direction of the hand, changes the current suit of the hand. Multiple queens may be played on the same card.
+0ME0000112	* King - Played against A, 2-10. Multplies the value of the card upon which it is played. Multiple kings on the same card will have a multiplicative effect. E.g. one king on a 3 = 6. Two kings on a 3 = 12.
+0ME0000114	All weapons fall under a weapon skill category that determines how effective the weapon is: Guns, Energy Weapons, Explosives, Melee Weapons, or Unarmed. Compare the small icon below and to the left of the weapon's icon to the icon shown on the Pip-Boy's skill menu.
+0ME0000115	* DAM/DPS: These indicate the base Damage and Damage Per Second, respectively. Weapons with a low DAM have difficulty penetrating armor. If you hit a target's Damage Threshold, switch to a weapon with a higher DAM or use ammo that reduces the target's Damage Threshold (e.g. Armor Piercing).
+0ME0000116	* STR and Skill: Many weapons have a Strength and/or skill requirement. If your character does not meet the Strength or skill requirement for the weapon, its aim will wobble (if a firearm) or it will attack more slowly (if a hand-to-hand weapon).
+0ME0000117	* CND: A weapon's Condition affects the amount of damage is does. At 75% Condition or higher, a weapon does maximum damage and only needs to be maintained. A weapon with low Condition will do less damage and may jam when reloaded.
+0ME0000118	* Repair / Mod: These options take you to the Repair and Mod submenus, where you may repair damaged equipment or attach weapon modifications, respectively.
+0ME0000120	Apparel can consist of many different types of gear ranging from clothing and armor to sunglasses and hats.
+0ME0000121	* DT: Some apparel grants Damage Threshold (DT) to the wearer. Your DT is the sum of all DT for currently equipped apparel plus any bonuses from perks or chems. DT is directly subtracted from incoming damage, so a higher DT provides superior protection. Though a small percentage of damage can get through even the thickest armor, a high DT is quite valuable.
+0ME0000122	* CND: Apparel's Condition (CND) affects how much protection it provides. Apparel above 50% CND provides maximum protection and only needs to be maintained.
+0ME0000123	* Light/Medium/Heavy: Medium and Heavy apparel will slow characters down when equipped.
+0ME0000124	* Repair: This option opens the Repair submenu, which allows apparel to be repaired by salvaging parts from similar items.
+0ME0000126	Ammunition is used by almost all Guns and Energy Weapons but is sometimes used by other weapon types. Basic ammo types have no special effects, but ammo subtypes may increase damage, reduce an enemy's Damage Threshold, or even decrease a weapon's spread. Effects are listed on the ammo submenu when the ammo is highlighted. Most weapons can use any ammo subtype that starts with the same name as the base ammo. Common ammo subtypes include:
+0ME0000127	* Armor Piercing: Ignores a large portion of the enemy's Damage Threshold, does slightly more damage.
+0ME0000128	* Hollow Point: Does much more damage, but is easily blocked by armor.
+0ME0000129	* Over Charge: Used by Energy Weapons, increases damage but degrades the weapon more quickly.
+0ME0000130	* Slug: Used by shotguns, slugs replace buckshot with a single, large bullet that is more accurate.
+0ME0000131	To switch ammo subtypes, equip them on this menu. Outside of the Pip-Boy, press 2 to cycle through ammo subtypes for your currently equipped weapon.
+0ME0000133	Ammunition is used by almost all Guns and Energy Weapons but is sometimes used by other weapon types. Basic ammo types have no special effects, but ammo subtypes may increase damage, reduce an enemy's Damage Threshold, or even decrease spread. Effects are listed on the ammo submenu when the ammo is highlighted. Most weapons can use any ammo subtype that starts with the same name as the base ammo. Common ammo subtypes include:
+0ME0000138	To switch ammo subtypes, equip them on this menu. Outside of the Pip-Boy, press [%] to cycle through ammo subtypes for your currently equipped weapon.
+0ME0000140	Three basic types of objects in the world can launch the crafting interface: Campfires, Workbenches, and Reloading Benches. Each station allows the creation of a subset of items. Though many recipes are visible at any time in the game, some recipes will only appear when the player completes a quest or finds a special item. You may also find that certain companions or special locations can open special crafting interfaces for the player.
+0ME0000141	Recipes have skill and ingredient requirements that must be met to proceed. If any requirement is darkened, that requirement has not been met. Any recipe that has all of its requirements fulfilled will appear fully lit. After using a recipe, the product(s) of the recipe will all immediately be available in your inventory.
+0ME0000143	You have established a reputation with a group of people in the wasteland! Whether that reputation is good or bad, you're finally somebody, and people associated with that group will start to react to what you've done. There are many different factions in the wasteland, and you can develop a distinct reputation with each one.
+0ME0000144	As you perform actions that benefit a group, you will gain Fame. If you peform actions that harm a group, you will gain Infamy. Your reputation with any given group is a measure of the combined total of Fame and Infamy that you have earned. The benefits and drawbacks of any given reputation depend on the group itself. You may receive discounts with merchants, provoke attacks from hired thugs, or simply be treated differently.
+0ME0000145	Though you will initially start out with a Neutral reputation with any given faction, your Fame and Infamy will eventually push your reputation in different directions. You can see all of your current reputations under the General section of your Pip-Boy.
+0ME0000146	Good Reputations:
+0ME0000147	* Smiling Troublemaker - Some good, a little bad.
+0ME0000148	* Good Natured Rascal - Good, a little bad.
+0ME0000149	* Accepted - Some good.
+0ME0000150	* Liked - Definitely good.
+0ME0000151	* Idolized - Most good.
+0ME0000152	Mixed Reputations:
+0ME0000153	* Soft-Hearted Devil - More bad than good.
+0ME0000154	* Dark Hero - More good than bad.
+0ME0000155	* Mixed - Some good, some bad.
+0ME0000156	* Unpredictable - Good and bad.
+0ME0000157	* Wild Child - Most good, most bad.
+0ME0000158	Bad Reputations:
+0ME0000159	* Sneering Punk - Some bad, a little good.
+0ME0000160	* Merciful Thug - Bad, a little good.
+0ME0000161	* Shunned - Some bad.
+0ME0000162	* Hated - Definitely bad.
+0ME0000163	* Vilified - Most bad.
+0ME0000165	Welcome to Hardcore Mode! There are three basic needs that Hardcore Mode requires you to monitor: dehydration (H2O), starvation (FOD), and sleep deprivation (SLP). Each of these needs must be monitored and kept in check or you will suffer penalties and, in extreme cases, death.
+0ME0000166	Your needs are continually ticking away and can be monitored on the Status screen of your Pip-Boy. When you start to suffer ill-effects from neglected needs, your HUD will display the corresponding code for that need. Be aware that waiting, sleeping, and Fast Travel will also affect your needs. If performing any of these activities would result in death, you will be prevented from doing so.
+0ME0000167	* Dehydration (H20) - Dehydration increases at a faster pace than starvation or sleep deprivation. It can be relieved by drinking water or eating certain types of food. Some drinks, such as alcohol and soda, can increase dehydration, so be careful!
+0ME0000168	* Starvation (FOD) - The onset of starvation is slower than dehydration, but quicker than sleep deprivation. It can be relieved by eating food.
+0ME0000169	* Sleep Deprivation (SLP) - Sleep deprivation is the most low-maintenance of the basic needs. Though a few chems and drinks can help offset sleep deprivation, nothing beats sleep itself.
+0ME0000175	I'm four whole feet, grandma!
+0ME0000185	Sunny Smiles has things to teach your character. Are you sure you wish to keep traveling in this direction?
+0ME0000187	No, I'll go see Sunny.
+0ME0000188	I don't need to learn anything from Sunny.
+0ME0000189	This appears to be a good location to attach one of the deployable ballast packages. Would you like to attach it to the plane?
+0ME0000191	Attach Ballast
+0ME0000192	Leave
+0ME0000219	This man looks like he has a serious infection. Improper treatment will kill him, would you like to treat him? (Medicine 40 or higher Required)
+0ME0000222	Attempt to treat him.
+0ME0000223	With a combination of natural herbs, bandages, and some disinfectant, you are able to clean the wounds and help boost the patient's immune system enough that he'll survive.
+0ME0000225	You decide you need to perform a tracheotomy to open up his air pathway.  As you haphazardly stab the patient in the neck, a piece of your straw snaps off in his throat causing the patient to choke to death.
+0ME0000227	Without examining the leg further, you decide it requires amputation.  Before you even make it down to bone, you realize you might have skipped a few important steps...  The patient quickly bleeds to death from a severed artery.
+0ME0000229	With limited medical knowledge, you mistakenly administer a lethal dose of painkillers mixed with antibiotics.  The patient lets out one last labored breath before succumbing to the overdose.
+0ME0000234	Treat the infection.
+0ME0000235	This man's leg is seriously damaged and will require amputation. Improper treatment will kill him.  Are you sure to want to attempt the operation? (Medicine 50 or higher Required)
+0ME0000239	CHOP! CHOP! CHOP! (Low Intelligence)
+0ME0000240	This man's leg is seriously injured.  It may require amputation to save him.  Are you sure to want to attempt the operation? (Medicine 50 or higher Required)
+0ME0000245	This man appears to be severely injured.  Swelling around his face and neck is interfering with his breathing.  Are you sure to want to treat him? (Medicine 60 or higher Required)
+0ME0000248	Treat the patient.
+0ME0000249	This man appears to be severely injured.  Swelling around his face and neck is interfering with his breathing.  Improper treatment will kill him.  Are you sure to want to treat him? (Medicine 60 or higher Required)
+0ME0000253	Upon further examination after cleaning the leg, you realize it can be saved.  You carefully remove the existing stitches, clean the wounds thoroughly, then re-stitch the wounds closed using a much more effective procedure.
+0ME0000255	After carefully considering treatment options, you realize the patient is merely having a strong allergic reaction.  By cleaning all wounds of ant venom, and administering a steroid compound, you reduce the swelling and the patient's breathing returns to normal.
+0ME0000277	In the year 2271, the Desert Rangers of Nevada and rangers of the New California Republic met at this spot to sign the Ranger Unification Treaty. Under this treaty, the Desert Rangers agreed to be absorbed into the NCR in exchange for NCR's protection of Hoover Dam, New Vegas, and southern Nevada against the forces of Caesar's Legion.
+0ME0000279	The Ultra-Luxe Floor Manager is coming to speak with you.
+0ME0000281	Sorry, but you have reached the jackpot limit, but feel free to explore the other services here at the Atomic Wrangler!
+0ME0000405	Poison Removed
+0ME0000407	Gomorrah's Manager is coming to speak with you.
+0ME0000409	The note reads: "I'm taking most of the boys west to go check out this vault we heard about. Stay here and keep an eye on things until we get back, and keep a closer eye on the Fiends - those guys are crazier than Scrambler. If there's any trouble, radio ahead."
+0ME0000411	The battle for Hoover Dam will determine the fate of New Vegas for decades to come.
+0ME0000412	If there's anything you want to do before you enter the battle, do it now - before you cross the point of no return.
+0ME0000414	I'm not ready yet.
+0ME0000418	You have equipped faction armor! Faction armor disguises you as a member of that faction. Members of that faction now consider you a friend, while enemies of that faction will attack you on sight regardless of your personal faction relation with them. Any reputation changes that occur while wearing faction armor still affect your character.
+0ME0000419	Security personnel such as guards and watchdogs will see through your disguise and alert anyone nearby, so watch out!
+0ME0000433	The box now contains nothing save for a simple handwritten note.
+0ME0000435	The box contains a large amount of Jet, now laced with Psycho.
+0ME0000437	This person appears to be near death. To remove them from the cross would kill them.
+0ME0000439	The 9mm submachinegun preserved in the glass case to the left of this plaque is the ACTUAL weapon Vance carried in a paper-wrapped box under some suitcases in the trunk of his car during his and Vikki's crime spree! Never fired, and luckily untouched by the hail of bullets that ended its notorious owner's life, the weapon's mint condition inspires dread in all who look upon it. Experts speculate that Vance might have killed as many as fifty people had he ever fired the gun - so long as his aim was exact and he was starting off with a full clip - or even more if he had additional ammo clips and remembered to reload!
+0ME0000441	The generator looks to be fine, but some kind of large vermin has chewed into the power cable. With the proper know-how and some scrap metal, you could repair the connection and improve its output bandwidth. Otherwise you'll need help.
+0ME0000442	(Repair of 35 or higher and one piece of scrap metal required)
+0ME0000445	Repair the wire.
+0ME0000446	This mainframe is currently unresponsive. The amount of power reaching the terminal seems to be insufficient.
+0ME0000448	Leave.
+0ME0000449	You fixed the wiring. Sufficient electricity should now be flowing to the mainframe computer.
+0ME0000455	This is a Mark III Auto-Doc, primarily used for routine surgeries. The control systems have been damaged beyond repair, rendering the Auto-Doc useless, but the diagnostic scanning unit is still intact.
+0ME0000458	Take the diagnostic scanning unit.
+0ME0000459	This one of Dr. Richards' patients. You should speak to him before you investigate them.
+0ME0000461	This man appears to be suffering from multiple machete wounds. Improper treatment will kill him. Would you like to treat him? (Medicine 35 or higher required)
+0ME0000462	Alternatively, if you have Med-X, Whiskey, and Surgical Tubing you may be able to treat him.
+0ME0000465	Attempt to treat with medicine.
+0ME0000466	Use medical equipment to treat.
+0ME0000471	Treat with medicine.
+0ME0000473	This patient's condition is worse, but still stable. There is nothing more for you to do here.
+0ME0000475	Dr. Richards has revoked your operating privileges in his medical bay. You can no longer operate on any patients.
+0ME0000477	With limited medical knowledge, you bumble around with a scalpel and cut a vital artery. The patient starts hemorrhaging and dies from blood loss.
+0ME0000479	As you start to administer medications to the patient, his fever spikes and his breathing quickens. His injuries are well beyond your skill to treat.
+0ME0000481	You have just enough skill to recognize that you are about to do more harm than good. You stop before causing any serious complications.
+0ME0000483	You carefully clean the wounds and apply antibiotics before stitching the wounds closed. The patient will recover completely in time.
+0ME0000485	There's no response from the elevator.
+0ME0000487	You are now dressed as a member of the White Glove Society.
+0ME0000489	You are no longer dressed as a member of the White Glove Society.
+0ME0000491	Call for NCR Support?
+0ME0000493	Cancel [no support]
+0ME0000494	Call for NCR Trooper Support   
+0ME0000495	Call for NCR Ranger Support    
+0ME0000496	Call for NCR Patrol Ranger Support
+0ME0000497	Call for NCR Combat Ranger Support
+0ME0000498	Call for NCR Supply Support     
+0ME0000499	Reputation with NCR too low - Support Withdrawn
+0ME0000500	Outside NCR Operational Area - Relocate and repeat transmission
+0ME0000501	NCR Support Exhausted - Resupply at 2400 hours
+0ME0000502	The Thorn is currently Closed.
+0ME0000505	Leave him tied up.
+0ME0000507	The mess of wires and scrap metal confuses you. Perhaps if you knew a bit more about semiconductors and power cell technology, you might know where to begin disassembly.
+0ME0000509	This nuclear bomb appears to be a dud. However, it appears as though the core components could be salvaged.
+0ME0000512	[Science 60] <Salvage the components>
+0ME0000513	You quickly disassemble the core components of the bomb's fission reactor.
+0ME0000523	This robot has been fitted with a variety of tools specialized for industrial maintenance. There is a slot at the back of the head where it looks like a keycard could be fit.
+0ME0000524	(Science of 45 or Poseidon Energy ID Card required)
+0ME0000527	[Science] Hardwire the robot to run on autopilot in repair mode.
+0ME0000528	Insert Poseidon  Energy ID Card.
+0ME0000529	This console appears to connect to radar and other detection systems.
+0ME0000531	Leave the console alone.
+0ME0000532	Install the remote signal transmitter.
+0ME0000533	You quickly install the device as directed. Immediately a small green light on it begins pulsing, indicating that it has begun transmitting.
+0ME0000537	These replica outfits show just how conscious Vikki was of the styles of the period. Vikki was well known for her sense of fashion and her fixation on expensive clothing was thought to be one of the reasons the pair chose a life of crime.
+0ME0000539	These mannequins display replicas of some of the clothing that was found in the trunk of Vikki and Vance's death car. Vance didn't share Vikki's sense of fashion, and chose to dress himself how he envisioned a gangster would dress.
+0ME0000541	The collar has begun to emit a high-pitched beeping noise.
+0ME0000543	Your collar has begun beeping more insistently.
+0ME0000545	You must have a Science skill of at least 40.
+0ME0000548	The crystals on this rock seem to indicate a pocket of potassium nearby, some strategically placed C4 could be enough to destroy both the cave and the vault.
+0ME0000551	Plant enough C4 to destroy the caves.
+0ME0000552	Plant enough C4 to destroy the caves and the vault then run like hell.
+0ME0000553	You need at least 3 packs of C4 to get the job done.
+0ME0000556	You notice that duty roster has been accessed by an unknown login ID. It'd be a good idea to keep an eye out for anything out of the ordinary.
+0ME0000558	Lieutenant Hayes has died!
+0ME0000560	Meyers has died!
+0ME0000562	Primm Slim has died!
+0ME0000564	Sergeant McGee has died!
+0ME0000566	Major Knight has died!
+0ME0000568	Johnson Nash has died!
+0ME0000572	The elevator is broken, but it looks as though it could be repaired. (Repair 35 or higher required)
+0ME0000575	Repair Elevator
+0ME0000576	The console is unresponsive. For it to operate properly, it would need to be activated during peak sunlight hours (9 AM - 3 PM), a power configuration would need to be set up in the tower's mainframe, and the two ground-level terminals would need to have an active uplink to the mainframe.
+0ME0000579	Random Position is [%]
+0ME0000587	This is a Stealth Boy Mark II prototype. As it is only a prototype, there are numerous fluctuations in its stealth field which would yield unpredictable results in a field test. A specialist in electronics could stabilize the field output.
+0ME0000588	[Repair of 65 or greater required.]
+0ME0000591	Stabilize the stealth field output.
+0ME0000592	The prototype's stealth field has been stabilized.
+0ME0000594	The radio appears to be broken.
+0ME0000596	Chris Haversam has died!
+0ME0000598	It seems like the robot's artificial intelligence is offline.
+0ME0000600	You retrieved your confiscated equipment on your way out of the Fort.
+0ME0000606	This purifier would provide clean water to Underpass, if it were functional. Whoever assembled it had no idea what they were doing - many parts are connected incorrectly or hooked up backwards. Someone with the proper knowledge could easily get the purifier operational.
+0ME0000607	[Repair of 35 or greater required to fix the generator.]
+0ME0000608	[Science of 35 or greater required to modify the generator's settings.]
+0ME0000610	Leave the purifier alone.
+0ME0000611	Repair the purifier using available parts.
+0ME0000612	Modify the purifier's settings.
+0ME0000613	You repaired the purifier.  It's now producing clean water.
+0ME0000615	You modified the purifier's settings.  It's now producing cleaner water.
+0ME0000617	You have gained the Meat of Champions perk.
+0ME0000619	You've learned the Ranger Takedown special move. To use this technique, initiate a Power Attack while moving backwards. You'll drop your opponent to the ground.
+0ME0000621	You've learned the Scribe Counter special move. To use this technique, initiate a standard attack immediately after your character blocks an incoming attack.
+0ME0000623	This gate keeps the Legion Mongrels inside. It appears that the locking mechanism can be tampered to seal the gate shut. Also, you could try to slip a narcotic into the cage to knock the mongrels out. What would you like to do?
+0ME0000625	Leave the mechanism alone
+0ME0000626	[REPAIR] Try to lock the gate shut.
+0ME0000627	[REPAIR] Remove the mechanism's springs to seal the gate shut.
+0ME0000628	You don't have the skill necessary to seal this mechanism shut. What would you like to do?
+0ME0000631	These mongrels won't be leaving the cage any time soon.
+0ME0000639	As you start to administer medications to the patient, his fever spikes and his breathing quickens. His sickness is well beyond your skill to treat.
+0ME0000643	This robot has been fitted with a variety of tools specialized for industrial maintenance. However, there is nothing left in the room for it to repair.
+0ME0000647	Mister
+0ME0000648	Ma'am
+0ME0000649	To grab the Brahmin skull, look at it and [%].
+0ME0000651	Good! Now [%] again to let go of the skull.
+0ME0000659	Thinking the patient has an infection, you administer a large dose of antibiotics. The patient suffers a severe allergic reaction and slips into a deep coma.
+0ME0000661	Argyll has revoked your operating privileges in his medical bay. You can no longer operate on any patients.
+0ME0000663	This one of Argyll's patients. You should speak to him before you investigate them.
+0ME0000665	You begin to operate on the patient's leg, and things quickly start to go bad. You manage to tourniquet the wound to staunch the bleeding, but it is clear that the leg will never be fully functional again.
+0ME0000667	You pull out your blade and hack blindly at the leg. After a series of random and frenetic cuts you notice the leg is looking better. It looks like he'll be able to keep it after all.
+0ME0000686	Title, not text when changing names!
+0ME0000688	The console hums quietly, powered by some unknown source. There is a round slot on the console - about the size of a large poker chip.
+0ME0000691	Insert the Platinum Chip into the slot.
+0ME0000692	The dynamite contained within this box is very old and unstable. Only someone skilled with explosives could hope to salvage any of the dynamite.
+0ME0000693	[Explosives of 25 or greater required.]
+0ME0000695	Leave the box alone.
+0ME0000696	Salvage what dynamite you can.
+0ME0000697	This 9mm submachine gun is broken but can possibly be restored to a fully functioning weapon.
+0ME0000698	[Repair of 25 or greater required.]
+0ME0000701	Repair the 9mm submachine gun.
+0ME0000702	There appears to be enough chemical components available to create a small quantity of chems - assuming one has the knowledge to do such a thing.
+0ME0000703	[Science of 25 or greater required.]
+0ME0000706	Create some Stimpaks.
+0ME0000707	Create some drugs - Psycho, Buffout, Mentats, Steady, and Rebound.
+0ME0000708	This is a Mark III Auto-Doc, primarily used for routine surgeries. This Auto-Doc is ready to go at the press of a button.
+0ME0000711	Activate surgery mode and remove Caesar's tumor.
+0ME0000712	Activate autopsy mode and kill Caesar.
+0ME0000715	Stonewall blocked a knockdown attempt!
+0ME0000717	"This godforsaken radio still doesn't work. Damn it, I'm a scout, not an electrician. Must've got some sand in it or something. At least that crazy storm is good for keeping people away. This place wouldn't make much of a safehouse if other people were traipsing in and out all the time. I'd hate to have to find another location again, but if the supplies, and especially the equipment weren't safe, I guess I'd have to."
+0ME0000719	Put the journal back down.
+0ME0000720	"This location looks like it might make a good safehouse. Warm, dry, and some sort of crazy natural phenomenon at night that should keep the predators away. I'd love to start getting set up, but there are a few nearby points of interest I need to gather intel on first. Not sure how long that'll take."
+0ME0000722	"Finally got started getting this place in order. Put out enough supplies to last a while, swept up some. Gonna hit the hay and continue tomorrow."
+0ME0000725	Read the next entry.
+0ME0000726	"Found a nice little spot to scout the prison from. Place has been pretty active recently. Those thrice-damned powder gangers have been spreading out, so I need to be careful to avoid them. It doesn't help that I have to get back early each night or risk getting blinded by the sand."
+0ME0000730	Upon further examination after cleaning the leg, you realize it cannot be saved. You carefully begin to amputate the limb. During surgery, you notice the man's hand is gangrenous. You amputate that as well, saving his life.
+0ME0000732	Without thinking, you start amputating the leg. Partway through you realize you started amputating the wrong leg. As you start amputating the other leg, the patient dies of shock.
+0ME0000735	Alternatively, if you have a Medical Brace, Med-X, and a Bonesaw you may be able to treat him.
+0ME0000738	Attempt to operate with medicine.
+0ME0000739	Use medical equipment to operate.
+0ME0000744	Perform the operation with medicine.
+0ME0000746	You carefully clean the wounds and apply antibiotics before grafting extra skin over the wounds. The patient will make a complete recovery.
+0ME0000748	You quickly grab some ice to treat the burns. Unfortunately, the ice doesn't help but only compounds the problem. The patient screams and dies due to cardiac arrest induced from the sudden pain.
+0ME0000750	This man appears to have suffered a close range blast trauma. His upper torso is covered in cuts and is severely burned. Improper treatment will kill him. Would you like to treat him? (Medicine 75 or higher required)
+0ME0000751	Alternatively, if you have Tweezers, Med-X, and a Super Stimpak you may be able to treat him.
+0ME0000760	Treat the wounds with medicine.
+0ME0000762	Dr. Richards no longer wants you looking into his patients.
+0ME0000768	This is an ancient and very obsolete Mark I Auto-Doc. Despite the similarities in appearance to more advanced models, it shares no compatible parts.
+0ME0000770	You need to have a higher Endurance before your body can accept any more implants.
+0ME0000772	This is a Mark III Auto-Doc, primarily used for routine surgeries. However, the diagnostic scanning unit is burnt out, rendering this Auto-Doc useless.
+0ME0000775	Install the replacement diagnostic scanning unit.
+0ME0000780	Without a replacement firing mechanism, this howitzer is useless.
+0ME0000782	Leave the howitzer alone.
+0ME0000783	Replace the firing mechanism.
+0ME0000788	You created several white phosphorous artillery shells.
+0ME0000790	You repaired the howitzer. The NCR will be in for a surprise.
+0ME0000794	You're listening to Black Mountain Radio.
+0ME0000796	Now, MUSIC!
+0ME0000810	You are now dressed as a member of Caesar's Legion.
+0ME0000815	Call for NCR Supply Support
+0ME0000816	Call for NCR Trooper Support
+0ME0000817	Call for NCR Ranger Support
+0ME0000821	Dismiss NCR Soldier
+0ME0000824	Reflector panels on this array are damaged.  Inspecting the damage, you quickly realize you lack the skill to repair the array without replacement parts. (Repair 65 or higher Required or Use Solar Array Parts)
+0ME0000827	Using your knowledge of photovoltaic cells, you thoroughly clean, polish, and upgrade the solar panels.  You also clean and rewire some degraded circuits you spotted.  Array efficiency improved by 50%.
+0ME0000829	You repair the array to an acceptable working status.
+0ME0000831	Reflector panels on this array are damaged.  Salvaged parts could be used to repair the array. Would you like to repair the array?  (Repair 65 or higher Required or Use Solar Array Parts)
+0ME0000834	Repair the array without spare parts.
+0ME0000835	Use Helios salvaged panels to repair the array.
+0ME0000837	Stay Here
+0ME0000838	Penthouse
+0ME0000839	Veronica has received the Bonds of Steel perk, substantially increasing her armor.
+0ME0000841	Veronica has received the Causeless Rebel perk, which boosts her unarmed attack rate.
+0ME0000843	Boone now has 1st Recon Assault Armor, designed to provide snipers with maximal protection while deployed on aggressive missions in hotly contested zones. It will not count against his carrying capacity.
+0ME0000845	Boone now has 1st Recon Survival Armor, fitted with extra features and storage designed to help a sniper and his comrades survive the harsh desert environment. It will not count against his carrying capacity.
+0ME0000852	As you flip the breakers, you hear the terminals around the room power down one by one.
+0ME0000854	Opening the box you find a series of breakers that appear to correspond to the terminals nearby. Most of them appear to have their power cut.
+0ME0000856	Leave the breakers alone.
+0ME0000857	Resupply power to the terminals.
+0ME0000858	As you flip the breakers, you hear the terminals around the room powering up one by one.
+0ME0000860	You manage to get most of the robot's systems operational, but it's leg activators are beyond repair, leaving it immobile.
+0ME0000862	Opening the box you find a series of breakers that appear to correspond to the terminals nearby.
+0ME0000865	Cut the power to all but three of the terminals.
+0ME0000866	Opening the box you find a series of breakers that appear to correspond to the terminals nearby. If you knew more about electronics you could probably cut the power to some of the terminals nearby.
+0ME0000867	(Repair 60 required)
+0ME0000870	Senior Knight Lorenzo has died!
+0ME0000872	April Martimer has died!
+0ME0000874	Nero has died!
+0ME0000876	Big Sal has died!
+0ME0000878	Troike has died!
+0ME0000880	Cachino has died!
+0ME0000882	Clanden has died!
+0ME0000884	Pearl has died!
+0ME0000886	Lily will now take her medicine every time she is supposed to. She will no longer suffer psychotic breaks, but her combat effectiveness will be reduced.
+0ME0000904	You must have an Explosives skill of at least 60 to rig the C4 properly.
+0ME0000907	You must have an Explosives skill of at least 50 to rig the C4 properly.
+0ME0000910	You need at least 5 packs of C4 to get the job done.
+0ME0000913	Raul has returned to his shack.
+0ME0000915	Caesar has died.
+0ME0000919	Rex has gone to the Lucky 38.
+0ME0000921	To grab an object, look at it and [%].
+0ME0000923	Preorder package items added to your suite at the Lucky 38.
+0ME0000937	To jump, [%].
+0ME0000939	This man appears to be near death. He doesn't seem to notice you.
+0ME0000941	This woman appears to be near death. She doesn't seem to notice you.
+0ME0000943	You have earned the Beautiful Beatdown perk.
+0ME0000945	You have gained the Friendly Help perk.
+0ME0000947	You have gained the Bug Stomper perk (Rank [%])
+0ME0000949	You have gained the Animal Control perk (Rank [%])
+0ME0000951	You have gained the Abominable perk (Rank [%])
+0ME0000953	You have gained the Dine and Dash perk.
+0ME0000955	You have gained the Day Tripper perk.
+0ME0000957	You have gained the Lord Death perk.
+0ME0000959	You have gained the Melee Hacker perk (Rank [%])
+0ME0000961	You have gained the Mutant Massacrer perk (Rank [%])
+0ME0000963	You have gained the Free Radical perk.
+0ME0000965	You have gained the Machine Head perk (Rank [%])
+0ME0000967	You have gained the Tough Guy perk.
+0ME0000969	You have gained the Fast Times perk.
+0ME0000971	Veronica has died!
+0ME0000973	Arcade has chosen to don the customized Tesla armor of his father for the upcoming battle against Caesar's Legion.
+0ME0000975	Arcade has chosen to give you the customized Tesla armor of his father for the upcoming battle against Caesar's Legion.
+0ME0000977	Since you've left Freeside, your bodyguard has stopped following you.
+0ME0001018	You have gained the Camel of the Mojave perk.
+0ME0001026	There appears to be an automated door hidden behind this wall. It looks like it could be jammed shut, with the proper skills. (Repair 65 or higher required)
+0ME0001029	Jam Opening Mechanism
+0ME0001040	You plug your remote detonator into the terminal and set the primary trigger mechanism to begin the diagnostics on the generators, activating the detonator should cause the generators to explode.
+0ME0001042	You think if you had a remote detonator, you could set it up to cause the generators to explode.
+0ME0001044	A thorough examination of the nearby machinery reveals that the radio is directly linked to another system somewhere in the area, but isn't connected to the overall broadcast hub. It would be relatively simple to patch it into the speakers that dot the area.
+0ME0001046	Leave the radio alone.
+0ME0001047	Press the button.
+0ME0001048	Patch the radio into the broadcast system.
+0ME0001053	The radio appears to be connected to a series of nearby machines. The microphone hooked into it has a blinking button on the side.
+0ME0001057	A second after you press the button, a harsh voice comes over the radio's speaker.
+0ME0001059	The radio remains patched to the broadcast system.
+0ME0001062	Link the radio to its original connection.
+0ME0001063	Broadcast along the paths leading up to the mountain.
+0ME0001064	Broadcast inside the village.
+0ME0001065	Broadcast on the summit.
+0ME0001066	Your voice echoes somewhere below you. A moment later, the equipment around you loses power.
+0ME0001068	You hear your voice clearly just outside the building. A moment later, the equipment around you loses power.
+0ME0001070	You voice echoes from somewhere above, further along the road. A moment later, the equipment around you loses power.
+0ME0001072	It looks like you can only connect it to one part of the system at a time. Judging from the wires leading from the system, you have a general idea of where your broadcast will be heard. You guess that wherever your voice is heard, an armed response will shortly follow.
+0ME0001075	Broadcast along the paths leading up the mountain.
+0ME0001098	You can't focus on that while you are in combat.
+0ME0001100	The mother deathclaw goes berserk at the death of her baby!
+0ME0001107	Mr. House Interface.
+0ME0001109	Unplug Mr. House.
+0ME0001110	Overload Mr. House.
+0ME0001111	Leave Mr. House alone.
+0ME0001171	Some sort of data corruption has made the user interface illegible. The damage doesn't seem to go any deeper than that since the pump station is still online.
+0ME0001172	[Science of 50 or greater required to repair.]
+0ME0001174	Leave the terminal alone.
+0ME0001175	Repair the network connection.
+0ME0001176	Activate the terminal.
+0ME0001177	You restored the pump station's network connection.
+0ME0001179	The Reactor is Active.
+0ME0001181	Leave the access point alone.
+0ME0001182	Reactor
+0ME0001183	Power the Substation.
+0ME0001187	The Reactor is inactive.
+0ME0001190	An examination of the radio's internal components reveals that several parts and connections were popped loose when the radio hit the floor. It should be a fairly simple repair job to get it working again.
+0ME0001191	[Repair of 20 or greater required.]
+0ME0001194	Repair the radio.
+0ME0001195	You fixed the Prospector Saloon's radio.
+0ME0001203	You consider taking the jet, but realize it might be better if you could somehow pin the theft on someone else. Preferably someone Pacer hates.
+0ME0001205	The box contains a large amount of Jet. If you knew more about pharmaceuticals, you might be able to taint the Jet to make it lethal to use.
+0ME0001206	(Medicine 60 or higher required)
+0ME0001214	You quickly ascertain that the robot's current AI state is set to hibernate, likely a self-defense mechanism after the unit suffered catastrophic damage. Whoever repaired it probably didn't know how to reset its AI. After flipping the right switch, the robot jumps to life.
+0ME0001216	There's an intruder in the dish hut! Get him, you fools!
+0ME0001218	The transceiver is now dead. The connection must have been cut from the other side.
+0ME0001220	The robot lies inert on the table, giving no indication of having worked recently, or ever. A nameplate on part of the surface is scratched and mostly faded, but you can still make out the faint word "Rhonda". If you knew more about how robots function, you might be able to get it working again.
+0ME0001221	(Science 60 required)
+0ME0001224	The robot lies inert on the table, giving no indication of having worked recently, or ever. A nameplate on part of the surface is scratched and mostly faded, but you can still make out the faint word "Rhonda".
+0ME0001227	[Science] Check the robot's circuitry.
+0ME0001228	As you flip the switch, the radio station goes silent. Only static plays over the speakers.
+0ME0001234	Veronica has returned to the 188 Trading Post.
+0ME0001236	The note reads: "Not many patrols out here lately, which means not much loot.  Our crew is thinking we should make a move soon.  Follow the tracks up north; head towards the Strip. You in?  Ain't on the chain gang anymore, but we still gotta stick together."
+0ME0001238	The note reads: "Some of the fellas farther north are trying to organize.  We're starting to think it's a good idea.  Got to pool resources if we're gonna survive out here.  Sure you've noticed the decline in travelers.  If they're getting wise, so should we."
+0ME0001242	All of the broken solar arrays are repaired.
+0ME0001245	That person is busy talking to someone else at the moment.
+0ME0001363	You found a Limited Edition Mojave Landmark Snowglobe!
+0ME0001364	These rare, pre-War artifacts are widely considered to be useless baubles, but rumor has it some collectors will pay dearly for them.
+0ME0001368	V29-321G may look like a big, fat, red rocket, Rocketeers, but Ol' Fatty here ran circles around the Earth not so long ago, so let's see you keep up! Sure, V29-321G's re-entry gave it its more commonly-known nickname "Big Fat Fiery Fred," but here at REPCONN we chose to focus on the successes and apply what we learned about explosive-resistant shielding to future models and even our landing platforms!*
+0ME0001369	* The newly-(re)constructed REPCONN Launch Facility was a direct beneficiary of this discovery.
+0ME0001371	Officially called the "Z43-521P" by silly engineers, we prefer to call this little scrapper by its true nickname, the "Green Bean." After all, which would you prefer in your backyard garden - a smoldering Z43-521P, or a green bean?* One sounds like it belongs if mentioned on the news, and make news it did... featuring REPCONN's plasma engine, it was soooo newsworthy that we decided to take the Quantum Matter Modulation unit out and see if we could use it for non-explosive uses.
+0ME0001372	* Rocket nickname chosen after results of first trial landing.
+0ME0001374	We've all heard "stories" that radiation is dangerous - fact or fiction?* A common site in factories, military installations, and the basements of selected government-funded middle schools, these safety barrels* are just what the name implies - safe. While their attractive coloring can be interpreted as a warning, for REPCONN, it's an invitation to a future filled with nuclear power!
+0ME0001375	* Rhetorical questions and nomenclature of exhibit items cannot be used as a basis for criminal prosecution.
+0ME0001377	Whoa, watch your step! You don't want to be facing this fearsome fellow if you accidentally stumble into a restricted area. Whether sporting the latest in dual miniguns, rockets, or laser cannons, the Sentrybot not only takes it job seriously, it also takes no prisoners! It's proof of RobCo's commitment to defense that these deadly guards are concealed in chambers throughout this facility, so let this be a warning: Watch where you step, or out'll come RobCo, guns blazing!
+0ME0001378	Exhibit Brought to You By Your Friends at RobCo
+0ME0001380	RobCo's always had an eye for robotics, and this little fellow is no different! This robotic marvel can not only recognize your face and voice with advanced facial and auditory recognition technology, it can also broadcast video and audio as well! Think of it - all the sights and sounds of your radio and TV in your living room at home blasted directly at you on the street, subway, bathroom, or wherever you may be! Never fear, you'll never miss a news bulletin or presidential address again, no matter where you are!
+0ME0001383	You never can have too many hands - three, why not four? That was RobCo's inspiration behind the popular (and cost-effective) Mr. Handy model, the first of the line shown here. Always a help around the household, whether with Mom in the kitchen using its titanium circular power saw or in the garage with Dad using its armor-piercing laser array, Mr. Handy is not just helpful... he's your friend, too.
+0ME0001386	Some folks have asked - why not a Protectron with wheels? RobCo wasn't afraid to answer that question: The Protect-O-Bot is theanswer. While safety standards prevented this free-wheeling dynamo from entering mass market production despite RobCo's best intentions and teams of lawyers, we take consolation in letting you can see this extremely well-funded experiment as it was intended - a robot moving so fast it looks like it's standing still!
+0ME0001389	Just like the rocket you see here, we're aimed at the sky, but we've got a ceiling in the way! See, Rocketeers, while REPCONN is (was) focused on non-radioactive* propulsion engines, we still need to sneak back and use some of our older "proven" techniques with nuclear-driven engines to make space travel a reality. Partnered with our new buddy RobCo, we've dug up older, cheaper technology for upcoming orbital projects. No worries, even if you can't always see what we're up to up there - we can see you!
+0ME0001390	* Any implication of radioactive material as negative is unintentional and in no way reflects RobCo or its subsidiary REPCONN.
+0ME0001392	What's this? A dull rod? Not so, Rocketeers! This "dull rod" once powered REPCONN's old nuclear-propelled rockets and still contains harmless* traces of radioactive material. As an exercise, stare closely* at the rod and try to spot the telltale glow!
+0ME0001393	* While this case is lead-lined (standard in these cases, not specifically requested for this display), do not touch, look, or stand too close to this exhibit - keep your legs moving and see the rest of the museum!
+0ME0001395	Why, look here! A pile of itty-bity safety barrels,* all nestled together like a family sitting down to dinner! Now, while it's claimed even the safest nuclear waste disposal procedures seep poison into the environment that never, ever goes away, in REPCONN's case, we say it all depends on where you put them - and Nevada's just the place!
+0ME0001396	* Nomenclature for "hazardous waste barrels" as per REPCONN glossary specs.
+0ME0001398	Hold up, Rocketeers, what's this? This trio of cylinders isn't a trio of cylinders at all!* They're containers holding what some* scientists call "plasma." Can you say "plasma?" REPCONN's always looking to the future, and in our future, we don't have to worry about radiation, health risks, or lawsuits when using this new and improved fuel source to blast our rockets into and out of the sky!
+0ME0001399	* Clarification: "Cylinders" and "plasma" are factually correct designations of display items, both by definition and by the scientific community.
+0ME0001401	A model of our solar system (not actual size). Beautiful, isn't it? RobCo, with its subsidiary REPCONN, has often gazed into the night sky, seeing the rich pageant of stars and planets above us. Our goal? To send unmanned rockets to these other systems, seeing their beauty firsthand while mining ever deeper into each planet's surface for precious resources needed here at home. This is our promise to mankind, extending our reach into a future where the number of RobCo and REPCONN rockets match the stars in the sky.
+0ME0001402	This Exhibit Brought To You By Your Friends at RobCo
+0ME0001404	This sleek and purple R77-293A "Needlenose" is what happens when you mix fossil and plasma in a rocket and shake it up! The fossil fuels punch this sharp-nosed terror through the sky, and the plasma is used to shoot it through space to planets where REPCONN can mine more fossil fuels,* continuing the whole cycle again!
+0ME0001405	* Interplanetary mining and resource rights still in negotiation.
+0ME0001407	Force your parents a short drive south, and you'll see the retractable dome of REPCONN's launch facility (not actual size!). You may have heard wild stories about rocket flights and their impact* on nearby towns and communities, but REPCONN feels you can't put a price of space exploration - after all, Rocketeers, you do want to go into space someday... don't you?
+0ME0001408	* Statement is figurative and inadmissible as evidence in a court of law.
+0ME0001410	This console regulates the pumps keeping Lake Meade from flooding the Securiton storage galleries.
+0ME0001413	Plant the explosive charge.
+0ME0001414	This is the Securitron operations console for the Securitron vault. Software updates can be installed from this console.
+0ME0001417	Insert the Platinum Chip and install the Mk. II upgrade software.
+0ME0001418	The door has been sealed shut until main power is back online.
+0ME0001420	This door is permanently jammed, cutting off access to other sections of the vault.
+0ME0001422	Much of the text on the screen is encoded in some sort of cipher. You won't be able to decode it without Veronica present.
+0ME0001424	You are now dressed as a member of the NCR.
+0ME0001431	Control Room
+0ME0001432	General Radio Chatter heard over emergency channel, Message [%].
+0ME0001472	Emergency Radio greeting.
+0ME0001476	This pot contains ingredients for the Legionaries' stew.
+0ME0001478	Leave the pot alone.
+0ME0001479	Added the infected Brahmin meat to the mix.
+0ME0001480	Meat intended for the Legion's mongrels is usually dropped onto this plate.
+0ME0001482	Leave the plate alone.
+0ME0001483	Drop the infected Brahmin meat on the plate.
+0ME0001484	Karma is an overall indication of your sense of good, evil... or neutrality.  Your Karma starts at Neutral, and changes based on your actions. It can go up to Good or Very Good, or down to Evil or Very Evil. Kind or self-sacrificing acts will net you good Karma. Selfish and malicious acts will earn evil Karma. Sometimes, killing a particularly saintly or terrible enemy will modify your Karma as well.
+0ME0001485	Though some people in the world react to Karma, most base their opinons off of Reputation. Karma is simply the universe's way of tracking your good and bad deeds in the world.
+0ME0001487	Addictions Removed
+0ME0001489	You are a little woozy.
+0ME0001537	The radio immediately cuts to static.
+0ME0001557	The current quest is time-sensitive - waiting will result in quest failure.
+0ME0001580	Your companion is unable to wear that faction armor.
+0ME0001584	The fallen will the gift of bloody reprisal.
+0ME0001586	Wrap the dog tags around your fists.
+0ME0001588	You slowly wrap the chains of the fallen around your hands.
+0ME0001590	You are inspired by the sacrifice of the fallen.
+0ME0001596	Stage moving from [%] to [%]
+0ME0001598	This generator would provide power to Quarry Junction, if it were functional. Whoever assembled it had no idea what they were doing - many parts are connected incorrectly or hooked up backwards. Someone with the proper knowledge could easily get the generator operational.
+0ME0001601	Leave the generator alone.
+0ME0001602	Properly assemble the generator.
+0ME0001603	Permanently disable the generator by stripping it for spare parts.
+0ME0001604	You repaired the generator.
+0ME0001606	Gather, all. Gather and hear my words. May the creator guide me and help me speak true...
+0ME0001608	Our almighty creator has seen fit to answer our prayers. The time has come for us to board the rockets and begin the Great Journey. Soon shall we dwell in a promised land where hate and resentments are unknown.
+0ME0001610	Though we believed that all humans despised us, the creator has seen fit to instruct us otherwise.
+0ME0001612	The Journey ahead would have been impossible if not for the efforts of two human friends, one new, the other a long-abiding companion.
+0ME0001614	The guards inside block the entrance of the tent. Apparently, the Legate does not wish to speak again until your mission is accomplished.
+0ME0001618	To our new friend, we say thanks, and promise never to forget how he drove off the demons who sought to keep us from reaching the promised land.
+0ME0001620	But to Chris, we owe more than thanks. To him, we owe our salvation. Chris, you have made the Great Journey a reality.
+0ME0001622	From this moment forward, we shall each and every one of us revere you as the Saint of the Great Journey. We shall never forget you.
+0ME0001624	We ask that you forgive us, Chris, and give us your blessing, as we bestow ours upon you. We are but humble servants of the creator's divine and mysterious will.
+0ME0001626	It is your sacrifice that will bring us to the promised land. Seekers, board the rockets, take your seats. The Great Journey awaits! We go now to the Far Beyond!
+0ME0001628	Current # of Kills: [%]
+0ME0001630	The Vault-Tec Assisted Targeting System, or V.A.T.S., allows you to pause the game, assess any combat situation tactically, and target the specific body parts of any enemies onscreen.    Pressing and holding [%] will pause the game and scan the area of targets; arrows to the left and right indicate threats that are currently offscreen.    To zoom in on an enemy, simply select it and release [%]. You are now able to target the individual body parts of that enemy.    The percentage value next to a body part indicates the chance to hit that body part with each shot. The small bar next to the body part indicates its condition; when the condition of a body part is completely reduced, that body part is crippled, and the targeted enemy will suffer the obvious ill effects -- crippling the legs reduces movement speed and any lunging attacks; crippling the arms affects accuracy, etc.    When using a melee weapon or unarmed combat, you will need to be close to have a chance to hit. Both melee and grenades are "full body" attacks, and you cannot specify a specific body part. As you raise your Melee Weapons or Unarmed skill, you will gain the ability to perform special attacks with weapons using those skills.    Every attack on a body part uses up Action Points. Generally, the smaller a weapon, the fewer Action Points are required for every shot. Keep in mind that you're not limited to shooting at just one target -- at any time, you can switch available targets, and attack them as well, so long as you have remaining Action Points.    When you've used up all of your Action Points, and are ready to leave V.A.T.S., press [%].
+0ME0001638	[%]: Move forward  [%]: Move backward  [%]: Strafe left  [%]: Strafe right  [%]: Look around  [%]: Attack  [%]: Aim/Block [%]: Activate Objects  [%]: Reload Weapon (Hold to holster)  [%]: Pip-Boy 3000  [%]: Jump    [%]: Run (Toggle)  [%]: Sneak (Toggle)  [%]: Grab  [%]: View Switch (Hold to adjust)  [%]: Vault-Tec Assisted Targeting System (Hold to scan)
+0ME0001660	You have entered the boomer trigger. Good luck.
+0ME0001662	What floor would you like to go to?
+0ME0001665	Lower Brimstone
+0ME0001666	Main Level
+0ME0001667	3rd Floor
+0ME0001668	Suites Level
+0ME0001669	The rockets launch successfully!
+0ME0001671	The rockets crash. You're a jerk.
+0ME0001673	The terminal seems to be locked into its new settings.
+0ME0001675	Oops! You're not sure what you just did, but it probably isn't good...
+0ME0001677	Examining the trajectories a little further, it looks like the computer is set to take a non-optimal route to the specified destination.
+0ME0001678	You surmise that with minor alterations, you can plot a course that will take them about 12.5% closer to their intended destination.
+0ME0001679	Do you wish to alter the rockets' course?
+0ME0001681	Make the change.
+0ME0001682	Don't make the change.
+0ME0001683	You modify the path of the rockets to land closer to their target.
+0ME0001685	You alter the trajectory of the rockets so that they will crash into one another on launch.
+0ME0001687	The console displays a wealth of information concerning the predicted trajectory of the rockets.
+0ME0001688	What do you wish to do?
+0ME0001690	Examine the navigation data further.
+0ME0001691	Set the rockets to crash into one another.
+0ME0001693	Arcade has returned to Freeside.
+0ME0001695	You don't think you accomplished much, but you feel better.
+0ME0001697	You see a bunch of numbers and words on the screen, but none of it really means anything to you.
+0ME0001699	Mash on the keys.
+0ME0001701	The console seems to have something to do with the course plotted for the rockets, but you can't make heads or tails out of how it works.
+0ME0001702	(Science 55 required)
+0ME0001707	The grease on the bottle cap press is fresh, indicating that someone used it recently.
+0ME0001710	Strip all the important-looking bits out of the machine.
+0ME0001725	You smash the radio violently, destroying it beyond the possibility of repair.
+0ME0001730	Rig the radio to explode when used.
+0ME0001731	Smash the radio.
+0ME0001732	You cleverly rearrange the radio's inner workings to provide an explosive surprise for the next person who uses it.
+0ME0001796	ED-E has returned to Primm.
+0ME0001800	The elevator door opens without a hitch. Buttons corresponding to the different levels of the vault glow faintly along the wall. Which one do you press?
+0ME0001802	Leave the elevator alone.
+0ME0001803	First Level - Entrance
+0ME0001804	Second Level - Oxygen Recycling
+0ME0001805	Third Level - Food Production
+0ME0001806	Fourth Level - Common Areas
+0ME0001807	Fifth Level - Pest Control
+0ME0001808	The elevator does not seem to be working. You could probably pop open the nearby panel and tinker with it to get the elevator working.
+0ME0001811	Repair the elevator.
+0ME0001812	The elevator does not seem to be working. If you had more experience with fixing machinery, you could probably get it working.
+0ME0001813	(Repair 50 required)
+0ME0001818	Private Ackerman looks battered and bruised. He's tied up to Private Gilbert - freeing one will free them both.
+0ME0001820	Leave him tied up for now.
+0ME0001821	Untie them.
+0ME0001822	Despite her situation, Private Gilbert remains sullen and defiant. She's tied up to Private Ackerman - freeing one will free them both.
+0ME0001824	Leave her tied up for now.
+0ME0001826	It looks as though the damaged servos and gyroscopes could be replaced with the correct components (Requires 3 Pieces of Scrap Metal, 2 Sensor Modules, and some Scrap Electronics)
+0ME0001829	Fix It With The Parts
+0ME0001830	Try To Fix It Without Parts (Repair)
+0ME0001831	Examine The Electronics (Science)
+0ME0001832	Boone has returned to Novac.
+0ME0001834	Boone has died!
+0ME0001836	Cass has returned to the Mojave Outpost.
+0ME0001838	Cass has gone... reluctantly... to the Lucky 38.
+0ME0001840	Arcade has gone to the Lucky 38.
+0ME0001842	Boone has gone to the Lucky 38.
+0ME0001844	ED-E has gone to the Lucky 38.
+0ME0001846	Raul has gone to the Lucky 38.
+0ME0001848	Veronica has returned to the Lucky 38.
+0ME0001850	Lily has returned to Jacobstown.
+0ME0001852	Lily has gone to the Lucky 38.
+0ME0001854	Raul has died.
+0ME0001856	Arcade has died.
+0ME0001858	Cass has died.
+0ME0001860	ED-E has died.
+0ME0001862	Lily has died.
+0ME0001865	You are committing to fight with the NCR at the battle for Hoover Dam which will determine the fate of New Vegas for decades to come.
+0ME0001870	You are committing to fight with Caesar's Legion at the battle for Hoover Dam which will determine the fate of New Vegas for decades to come.
+0ME0001875	You are committing to fight for an Independent Vegas at the battle for Hoover Dam which will determine the fate of New Vegas for decades to come.
+0ME0001880	You are committing to fight for Mr. House at the battle for Hoover Dam which will determine the fate of New Vegas for decades to come.
+0ME0001885	Blackjack is a game played with one more standard decks of playing cards. In Fallout: New Vegas, it is played between the Courier and a casino dealer. The goal is to play a hand of two or more cards up to, but not exceeding, a combined value of 21 points. The value of each hand is determined by adding together the values of each individual card. Cards 2-10 are worth their listed value. Face cards (Jack, Queen, King) are worth 10 points. Aces are worth either 1 or 11 points, whichever is more advantageous. A hand that exceeds 21 in total value is considered a "bust" and immediately loses.
+0ME0001886	After the initial bet is made, the player and dealer are both dealt two cards. Based on the Courier's current hand, the player has different options:
+0ME0001887	* Hit - Add a new card to the Courier's hand. The player must accept the value of this card, though aces provide whatever value is most advantageous at any given time.
+0ME0001888	* Stay - Courier's hand is effectively "locked" and the dealer will deal cards into his or her own hand until his or her hand is at least 17. Note: at some casinos, dealers will continue to hit on a "soft" 17 that contains an ace. In either case, the dealer has no decision-making process and will always follow the listed rule.
+0ME0001889	* Double Down - The Courier's bet is doubled but the dealer will give the Courier's hand only a single additional card.
+0ME0001890	* Split - If the Courier's initial hand is a pair, the player may double his or her bet and split the pair into two separate hands that are played individually.
+0ME0001891	* Surrender - This option is only available immediately after the first cards are dealt. It offers the player the option to sacrifice half of his or her bet and immediately fold. It is typically only done when the player's hand is particularly bad and the dealer is showing a very strong hand (for example, an ace).
+0ME0001892	Once the dealer has completed dealing into his or her own hand following the player's choice to stay, the values of the Courier's hand and the dealer's hand are compared. Assuming neither party has busted (gone over 21), the higher value wins. In the case of a tie, the hand is considered a push. If the dealer has "blackjack" (an ace and a ten-value card), he or she automatically wins unless the Courier also has blackjack. In that case, the hand is considered a push.
+0ME0001893	Individual casinos use different numbers of card decks, pay out natural blackjack hands at different odds, and shuffle their decks with varying frequency. Pay close attention to these details to develop advanced playing strategies.
+0ME0001895	Roulette is a game of chance in which a ball is spun on a spinning wheel marked with 38 colored and numbered pockets. As the ball loses momentum, it eventually drops into one of the pockets. Before the ball is spun, players place bets on individual numbers or groups of numbers, the colors red or black, or whether the number will be odd or even. If the ball lands in a pocket covered by one of the player's bets, he or she receives a reward proportional to the odds of his or her bet. Player bets fall into two categories: inside bets and outside bets.
+0ME0001896	Inside Bets - Inside bets are placed on the numbered sections of the board or on the outside edges.
+0ME0001897	* Straight-Up - A single number. The chip is entirely inside the square.
+0ME0001898	* Split - Two adjoining numbers. The chip is placed on the line between the numbers.
+0ME0001899	* Street - Three numbers in a horizontal line. The chip is placed at the edge of a line.
+0ME0001900	* Six Line - Two adjoining streets. The chip is placed at the edge between two streets.
+0ME0001901	* Corner - Four numbers in a square. The chip is placed at the intersection of the four numbers.
+0ME0001902	* Basket - 0, 1, and 2; 0, 00, and 2; or 00, 2, and 3. The chip is placed at the intersection between the three numbers.
+0ME0001903	* Top Line - 0, 00, 1, 2, and 3. The chip is placed at the corner of 0 and 1.
+0ME0001904	Outside Bets - Outside bets are played off of the main numbered section of the board and never include 0 or 00.
+0ME0001905	* 1-18, 19-36 - The first and second halves of the numbered board.
+0ME0001906	* Red, Black - Red and black numbers.
+0ME0001907	* Even, Odd - Even and odd numbers.
+0ME0001908	* 1st, 2nd, 3rd Dozen - The first (1-12), second (13-24) or third (25-36) set of numbers.
+0ME0001909	* 1st, 2nd, 3rd Column - A bet on an entire vertical column of numbers. The chip is placed at the base of the column.
+0ME0001911	Slots are casino gambling machines that have three or more reels that spin when a button is pushed or lever is pulled. Each reel randomly stops on or between one of many symbols on the reel. Depending on the combination of symbols that comes up, the player will either lose his or her bet or receive a payout based on the odds of the combination coming up.
+0ME0001912	Different slot machines have different numbers of symbols and correspondingly different payout odds. You can check the payout odds from within the game at any time.
+0ME0001920	Turn off generator.
+0ME0001923	The Tops Floor Manager is coming to speak with you.
+0ME0001978	In Hardcore Mode, you may only healcrippled limbs by using Doctor's Bags or by visiting a doctor for medical care.Stimpaks can be used for general healing (which will also slightly healcrippling damage), or they can be applied directly to a limb to heal cripplingdamage.To heal a crippled limb directly using a Stimpak, navigate to the Stats screenin your Pip-Boy, then left-click on a limb to use a Stimpak on that limb.
+0ME0001979	In order to heal a crippled limb, you have three choices: sleep in abed, find a doctor, or use a Stimpak to heal yourself. In HardcoreMode, you may only heal crippled limbs by using Doctor's Bags or byvisiting a doctor for medical care.Stimpaks can be used for general healing (which will also slightlyheal crippling damage), or they can be applied directly to a limb toheal crippling damage.To heal a crippled limb directly using a Stimpak, navigate to theStats screen in your Pip-Boy, then left-click on a limb to use aStimpak on that limb.
+0ME0001985	In order to heal a crippled limb, you have three choices: sleep in a bed, find a doctor, or use a Stimpak to heal yourself. In Hardcore Mode, you may only heal crippled limbs by using Doctor's Bags or by visiting a doctor for medical care.
+0ME0001989	To heal a crippled limb directly using a Stimpak, navigate to the Stats screen in your Pip-Boy, then press [%] to switch to Limb mode. Now you can use [%] to select a limb, and [%] to use aStimpak on the selected limb.
+0ME0001991	In Hardcore Mode, you may only heal crippled limbs by using Doctor's Bags or by visiting a doctor for medical care.
+0ME0002030	This is a military-issue ham radio, complete with a signal encoder/decoder interface for encrypting and deciphering transmissions.
+0ME0002032	Leave the ham radio alone.
+0ME0002033	Update the security codes for this radio.
+0ME0002054	Using the Med-X to dull the patients pain, you use the surgical tubing to reduce some of the bleeding, and then sterilize the wound with the Whiskey. The patient will recover completely in time.
+0ME0002056	Using the Med-X to dull the patients pain, you put the Medical Brace on him to stabilize his leg. You then carefully begin to amputate the limb with the Bonesaw. During surgery, you notice the man's hand is gangrenous. You amputate that as well, saving his life.
+0ME0002058	You use the Med-X and dull the patients pain. Carefully, you use the tweezers to pick out pieces of shrapnel. Due to the extreme loss of blood, the patient goes into circulatory shock. You quickly use the Super Stimpak to stabilize the patient. The patient will make a complete recovery.
+0ME0002060	The trail beyond the gate leads back down the barge which took you across the river.
+0ME0002062	Stay here.
+0ME0002063	Take the barge back to Cottonwood Cove.
+0ME0002064	This is the control console for the AA gun on Hoover Dam.
+0ME0002067	Examine the gun controls.
+0ME0002068	Examine the gun circuit board.
+0ME0002069	Examine the controls for tampering.
+0ME0002070	You are crippled. Use a Doctor's Bag or find a doctor.
+0ME0002100	You don't have the parts required to perform this repair.
+0ME0002102	You are still dressed as a member of the Boomers.
+0ME0002104	You are still dressed as a member of the Brotherhood of Steel.
+0ME0002106	You are still dressed as a member of Caesar's Legion.
+0ME0002108	You are still dressed as a member of the Followers of the Apocalypse.
+0ME0002110	You are still dressed as a member of the Great Khans.
+0ME0002112	You are still dressed as a member of the NCR.
+0ME0002114	You are still dressed as a member of the Powder Gangers.
+0ME0002116	You are still dressed as a member of the White Glove Society.
+0ME0002119	To hotkey an item in your Pip-Boy, hold [%] and use the [%] to select a hotkey slot.
+0ME0002120	Now when the Pip-Boy is closed, you can use or equip that item simply by pressing the corresponding [%]. Holding down the [%] will display all of your current hotkey assignments.
+0ME0002122	Securitrons successfully upgraded to Mark II.
+0ME0002124	This switch controls the power to the east side of the power plant.
+0ME0002126	Leave the switch alone.
+0ME0002127	Turn on the switch.
+0ME0002128	You have reactivated the power to the east side of the power plant.
+0ME0002130	This box controls the power to the west side of the power plant.
+0ME0002132	Leave the control box alone.
+0ME0002133	Overload and blow it up!
+0ME0002134	The control box is damaged and no longer functioning.
+0ME0002136	This junction box could be rewired to override the security door controls, disconnecting it from the automated security system and opening the door.
+0ME0002137	Repair of 60 or greater required.
+0ME0002139	Leave the junction box alone.
+0ME0002140	Rewire the junction box.
+0ME0002141	The control box is locked.
+0ME0002145	You place the NCR bug inside a crack in the radio.
+0ME0002147	This appears to be a radio used to communicate with The Fort.
+0ME0002149	Plant the NCR bug.
+0ME0002159	If the bunker's power regulators are destroyed, its reactor core will overload in a matter of seconds - with catastrophic results.
+0ME0002161	Sabotage detected. Sentry Bot patrol mode activated.
+0ME0002163	Warning: Multiple radiation leaks detected! Evacuation recommended.
+0ME0002165	Warning: Power fluctuations detected. Situation reaching critical levels.
+0ME0002167	This turret has sustained some minor damage and looks as though it could use some repairs. (Repair 45 or higher required)
+0ME0002170	Repair Turret
+0ME0002171	You quickly repair the damaged circuits.
+0ME0002183	You are no longer dressed as a member of the NCR.
+0ME0002185	You are no longer dressed as a member of Caesar's Legion.
+0ME0002187	You are now dressed as a member of the Brotherhood Of Steel.
+0ME0002189	You are no longer dressed as a member of the Brotherhood Of Steel.
+0ME0002191	You are now dressed as a Powder Ganger.
+0ME0002193	You are no longer dressed as a Powder Ganger.
+0ME0002195	You are now dressed as a member of the Great Khans.
+0ME0002197	You are no longer dressed as a member of the Great Khans.
+0ME0002209	This control box is connected to the main computer banks at Hoover Dam.
+0ME0002212	Install the override chip.
+0ME0002213	You've installed the override chip.
+0ME0002227	This is a temporary console to allow you activate the Kimball Assassination Scenarios. Please only select one.
+0ME0002230	I'd like to assassinate Kimball.
+0ME0002231	I'd like to protect Kimball.
+0ME0002232	You are looking at the Presidential vertibird. The assassins could have done something to the vertibird. (Repair or Explosives 50 or higher Required)
+0ME0002234	Leave the vertibird alone.
+0ME0002235	Examine the vertibird.
+0ME0002236	You are looking at the Presidential Vertibird. This is a perfect place to put a bomb to kill President Kimball. (Explosives 50 or higher Required)
+0ME0002239	Plant the bomb.
+0ME0002240	You look over the vertibird and see something strange. You take a closer look but you can't be sure that there is anything wrong, but you have a bad feeling about this.
+0ME0002242	You attempt to search the vertibird for anything strange, but you can't tell the difference between a bomb and an actual part on the vertibird. Your search doesn't find anything.
+0ME0002247	Try and search the vertibird.
+0ME0002251	Attempt to plant the bomb.
+0ME0002252	You search the vertibird and notice a strange item that doesn't belong. Upon examination you notice it's a bomb. You skillfully disable the bomb and remove it from the vertibird.
+0ME0002254	You successfully plant the bomb on the vertibird.
+0ME0002256	You attempt to plant the bomb on the vertibird, but aren't sure exactly what to do. You decide to stop before anyone notices you.
+0ME0002258	This console controls the overflow controls for the generator intake tunnels. It looks like you can divert the auxiliary intake into the generators. (Science 65 or higher required)
+0ME0002261	Divert the water.
+0ME0002262	Press the button Fantastic said would divert the intake.
+0ME0002263	The dials on the panel show a blockage with the intake system. The pressure will need to be relieved at the manual override valve.
+0ME0002265	Repair the kitchen's food processor?
+0ME0002268	[Repair 80] Jury rig the machine.
+0ME0002270	You have repaired the food processor!
+0ME0002272	You do not have all of the required items.
+0ME0002274	[Failed] You lack the skill to jury-rig the machine.  After digging through all of the broken parts you are overwhelmed and give up.
+0ME0002276	[Success] Bypassing several broken redundant coprocessors using nothing more than bobby pins, tape, and a trooper's swiss army knife, you manage to get the machine running!
+0ME0002291	This device looks as though it is armed and could go off at any moment.
+0ME0002292	(Explosives of 35 or higher or Science of 45 or higher required to defuse.)
+0ME0002295	[Explosives/Science] Defuse the charge.
+0ME0002296	Input deactivation code.
+0ME0002298	Before you venture deeper into the wasteland, you may revise your character.
+0ME0002301	Rebuild Character
+0ME0002302	Finished - Travel Onward
+0ME0002307	Cocktail Lounge
+0ME0002308	Presidential Suite
+0ME0002309	Casino
+0ME0002310	Basement
+0ME0002311	Rex has returned to Freeside.
+0ME0002313	The elevator is now offline.
+0ME0002317	Caesar is in a coma and is near death. Only an operation to remove the tumor from his brain will save him.
+0ME0002318	You have both a set of Surgical Tools and a Doctor's Bag. Whether it'll be enough to save Caesar's life, however, remains to be seen.
+0ME0002319	(Medicine of 75 or greater required.)
+0ME0002321	Leave Caesar alone.
+0ME0002323	Arrange for Caesar to die during the surgery.
+0ME0002324	Trust in your luck and perform the operation.
+0ME0002333	This is the Presidential Vertibird.
+0ME0002335	With the redundant systems compensating for the damaged primary circuitry many of the gyscopes begin spinning, the repair doesn't look like it'll be too complicated now. (Repair 35 or higher required)
+0ME0002338	Try To Fix It (Repair)
+0ME0002339	Repair With Parts
+0ME0002340	This is an advanced model robot with a reinforced frame. It is well weathered and appears to have seen a good bit of action. There is very little in the way of serious damage.
+0ME0002346	Some servos and gyroscopes need to be recalibrated and replaced, but it looks as though the robot can be repaired. (Repair 65 or higher required)
+0ME0002349	Run the repair
+0ME0002352	A few of the primary electronic systems seem to be fully functional, and the redundant systems are all working. If you bypass some of the primary systems the secondary systems should compensate and make some of the repairs easier. (Science 55 or higher required)
+0ME0002356	Run The Bypass
+0ME0002358	You will need a Doctor's Bag and a set of Surgical Tools before you can perform the operation.
+0ME0002362	You already have a Doctor's Bag, but you will need a set of Surgical Tools before you can perform the operation.
+0ME0002366	You already have a set of Surgical Tools, but you will need a Doctor's Bag before you can perform the operation.
+0ME0002369	Caesar died during the surgery.
+0ME0002371	With your current medical skill, there's no chance that Caesar would survive the surgery.
+0ME0002391	With the duel concluded, your regular equipment has been returned to you.
+0ME0002395	You successfully removed the tumor from Caesar's brain.
+0ME0002399	What would you like to test?
+0ME0002401	Nothing
+0ME0002402	1 Legionary vs 1 Trooper behind cover
+0ME0002403	Everything necessary to cook a meal is here at your disposal. As long as Philippe isn't there to stop you.
+0ME0002404	(Survival of 75 or higher required to improvise a meal using no recipe.)
+0ME0002405	(Intelligence of 6 or higher and a recipe required to cook following the recipe.)
+0ME0002408	[Survival] Improvise a meal of imitation human flesh.
+0ME0002409	[Intelligence] Cook imitation human flesh using recipe.
+0ME0002410	These wines are set up to be taken by servers out to the banquet.
+0ME0002411	(Medicine of 25 or higher and Med-X required to drug the wine.)
+0ME0002414	[Medicine] Spike the wine with a sedative.
+0ME0002419	Loyal's detonator begins to beep.
+0ME0002421	Loyal's detonator stops beeping.
+0ME0002435	"We're cut off from the rest of the platoon, and there are legionnaires all over the place. There's no chance we can get out of here before they blow the town, so we're going to hold out against them as along as we can. If anyone ever gets this, I'd like to make sure that Private Jeffery Hui and Corporal Marcus Christensen are commended for their valor and sacrifice. Both  have upheld the ideals and honor of the New California Republic with distinction. Ranger Teresa Lutz, out."
+0ME0002437	Cook-Cook becomes frenzied at the death of his favorite brahmin.
+0ME0002447	You lack a key or lockpicks to unlock the door.
+0ME0002450	You lack the skill to unlock the door. [Lockpick 50]
+0ME0002453	Opening this door will release highly radioactive barrels into Cottonwood Cove, potentially killing everyone in the camp.
+0ME0002456	Open the door.
+0ME0002457	A quick study of the body reveals that the thug is still alive, and merely pretending to be dead.
+0ME0002459	The thug lies still, a victim of your recent fight. You could swear there's something odd about the corpse, but can't quite put your finger on it.
+0ME0002460	(Medicine 30 or greater required)
+0ME0002462	Leave the corpse alone.
+0ME0002463	The thug appears dead, a victim of your recent fight.
+0ME0002464	(Medicine 30 or higher required.)
+0ME0002467	(Medicine) Examine the body closely.
+0ME0002822	There is a pool of blood on the floor.[CRLF][Perception 6 required]
+0ME0002826	Examine the stain.
+0ME0002827	You examine the area and notice a bloody wrench and a toolbox nearby. Someone was killed here recently, and judging by the scene it was one of the engineers. You should keep an eye out for any engineers acting strangely.
+0ME0002829	You examine the blood stain, but you don't notice anything else about it. You should keep an eye out for anything out of the ordinary.
+0ME0002851	Loyal has died.
+0ME0002853	It appears that some sort of pass phrase needs to be entered in order to open the nearby door.
+0ME0002855	Leave the panel alone.
+0ME0002856	"Dear old friends, remember Navarro."
+0ME0002880	These supplies have been contaminated with radiation. If people were to use them, they would grow sick and eventually die. Scientifically-minded characters might be able to find a way to purify them, however.
+0ME0002882	This Ranger was killed not too long ago. He looks to be the sniper that was stationed to watch from the top of this tower.
+0ME0002912	Companion dismissal notifications sent.
+0ME0002922	You've learned the Khan Trick special move. To use this technique, initiate a Power Attack while moving left or right: You will scoop up a handful of dirt and throw it in an enemy's face, momentarily distracting him.
+0ME0002928	You cannot apply poisons to ranged weapons.
+0ME0002930	Okay.
+0ME0002933	Arcade has given you the Better Healing perk.
+0ME0002935	Boone has given you the Spotter perk.
+0ME0002937	Cass has given you the Whiskey Rose perk.
+0ME0002939	ED-E has given you the Enhanced Sensors perk.
+0ME0002941	Lily has given you the Stealth Girl perk.
+0ME0002943	Raul has given you the Regular Maintenance perk.
+0ME0002945	Rex has given you the Search and Mark perk.
+0ME0002947	Veronica has given you the Scribe Assistant perk.
+0ME0002949	You have lost Arcade's Better Healing perk.
+0ME0002951	You have lost Boone's Spotter perk.
+0ME0002953	You have lost Cass' Whiskey Rose perk.
+0ME0002955	You have lost ED-E's Enhanced Sensors perk.
+0ME0002957	You have lost Lily's Stealth Girl perk.
+0ME0002959	You have lost Raul's Regular Maintenance perk.
+0ME0002961	You have lost Rex's Search and Mark perk.
+0ME0002963	You have lost Veronica's Scribe Assistant perk.
+0ME0002965	You are looking at the Presidential Vertibird. This is a perfect place to put a bomb if you had one.
+0ME0002967	You've learned the Legion Assault special move. To use this technique, initiate a Power Attack running forward at an enemy.
+0ME0002969	This network access point can be monitored by the Followers of the Apocalypse with some adjustments to data routing protocols.
+0ME0002970	[Science of 50 or greater required to monitor the Lucky 38's data network.]
+0ME0002973	Monitor the Lucky 38 network.
+0ME0002981	Bug the Lucky 38 Network.
+0ME0002991	Raul has gained the Old Vaquero perk, which increases his rate of fire with revolvers and lever-action firearms by 33 percent.
+0ME0002993	Raul has given you the Full Maintenance perk.
+0ME0003009	You have lost Raul's Full Maintenance perk.
+0ME0003011	Raul has given you the Full Maintenance perk (this replaces the Regular Maintenance perk).
+0ME0003013	Cass has gained the Hand of Vengeance perk, giving her a bonus to damage with Guns.
+0ME0003015	Cass has gained the Calm Heart perk, giving her a permanent Health bonus.
+0ME0003017	You successfully extracted and defused the bomb.
+0ME0003053	Compass marker updated.
+0ME0003057	You'll need a shovel to dig here.
+0ME0003065	Weapons and apparel with low Condition suffer from decreased Damage and Damage Threshold, respectively. There are two primary ways to repair low Condition equipment: self-repair and repair vendors.
+0ME0003066	* Self-Repair: In your Pip-Boy, the Repair menu shows any equipment you currently have that can be used to repair the selected piece of equipment. Highlight the piece of equipment you would like to sacrifice to make the repair. The efficiency of your repair is affected by your character's Repair skill.
+0ME0003067	* Repair Vendors: Some characters in the world have the ability to repair equipment in exchange for caps. Though they require no special gear to perform the repair, they are limited by their own skill. Extremely talented repair vendors may be able to restore a weapon or piece of apparel to almost perfect condition, but it may be expensive.
+0ME0003068	Once a weapon is above 75% Condition or piece of apparel is above 50% Condition, it is functioning as well as it can. Repairs made above that Condition are simply maintaining the equipment to keep it at peak performance for a longer period of time.
+0ME0003070	You examine the controls that activate the gun. You may be able to reactivate the gun and set it to shoot down the President's vertibird. (Science 50 or higher Required)
+0ME0003072	Leave the controls alone.
+0ME0003073	Activate the anti-aircraft gun.
+0ME0003074	You examine the circuit board on the gun console. You may be able to short it out and cause the gun to explode during the speech. (Repair 50 or higher Required)
+0ME0003076	Leave the circuit board alone.
+0ME0003077	Short out the circuit board.
+0ME0003078	You examine the controls for any signs of tampering, but you don't see anything unusual.
+0ME0003080	You repair the gun controls and set the AA gun to attack any nearby aircraft.
+0ME0003082	You take a look at the gun controls and realize you have no idea what you are doing. It's probably best to leave the controls alone.
+0ME0003084	You've already rigged the control console. You leave it alone before you attract any unwanted attention.
+0ME0003086	You cut a few solders on the circuit board and rewire it to slowly build up a charge that will cause the gun to explode sometime during the speech.
+0ME0003088	As you start to work on the circuit board, a series of sparks shoots out. You stop before causing damage and attracting attention.
+0ME0003090	This is private Watson's Helmet. If you had C4 and a detonator you could rig up a nice little surprise for the President. (Explosives 50 or higher Required)
+0ME0003092	Leave the helmet alone.
+0ME0003093	Hide C4 in the Helmet.
+0ME0003094	You already rigged Watson's helmet with C4. You decide to leave it alone so you don't attract unwanted attention to it.
+0ME0003096	You don't have any C4 to put in the helmet.
+0ME0003098	You're not sure how to rig up the C4 in the helmet without it being noticed. You quickly put the helmet down before anyone sees you messing with it.
+0ME0003100	You quickly cram a brick of C4 into Watson's helmet and rig it to your detonator. This will really blow their minds.
+0ME0003104	Rex has gained the Blood of the Legion perk, making him harder to kill.
+0ME0003106	Rex has gained the Faithful Protector perk, increasing his attack damage.
+0ME0003108	Rex has gained the Unshakeable Tracker perk, increasing his movement speed.
+0ME0003110	Fallout: New Vegas allows you to play in a new Hardcore mode that greatly increases the challenge of the game. In this mode, Stimpaks heal over time and cannot mend broken limbs, Rad-Away removes radiation over time, ammunition has weight, and dehydration is a constant concern. This mode is only recommended for advanced players.
+0ME0003111	You may turn Hardcore mode on or off at any time in the Gameplay menu, but if you activate Hardcore mode now and maintain it through the end of the main storyline, you will receive a special reward. Would you like to activate Hardcore mode?
+0ME0003113	No (Recommended)
+0ME0003115	This sentry bot looks like it's seen some heavy fighting recently. You could probably get it running again if you knew a little more about machines.
+0ME0003116	(Repair 40 required)
+0ME0003118	This sentry bot looks like it's seen some heavy fighting recently. You could probably get it partially running again with a little work.
+0ME0003121	[Repair] Fix the sentry bot.
+0ME0003132	The note reads: "Your debt still remains unpaid. We have warned you twice. There will not be a third warning, only consequences. You have one day."
+0ME0003134	Rex has died.
+0ME0003136	Array salvaged.
+0ME0003138	Using spare array components, you easily repair the damaged array.
+0ME0003140	Reflector panels on this array are damaged.  You have no idea how to begin salvaging the array. (Repair 20 or higher Required)
+0ME0003143	Reflector panels on this array are damaged.  You could salvage some of the array's parts. Would you like to salvage the array?  (Repair 20 or higher Required)
+0ME0003146	Salvage the array.
+0ME0003161	Welcome to Mojave Express!
+0ME0003163	Close Box
+0ME0003164	Pick Up Items
+0ME0003165	Ship To New Vegas Strip
+0ME0003166	Ship To Freeside
+0ME0003167	Ship To Novac
+0ME0003168	Ship To Primm
+0ME0003169	Ship To Goodsprings
+0ME0003170	You don't currently have any shipments awaiting delivery from this location.
+0ME0003172	You have discovered a new Mojave Express Dropbox! You can now have items delivered to this location as well as deliver items from this location to other Mojave Express Dropboxes. Would you like to ship some items?
+0ME0003182	Welcome to the Mojave Express!
+0ME0003183	Mojave Express drop boxes, like this one, can be used to deliver items to any Mojave Express Dropbox that you've discovered. Once you find a Mojave Express Dropbox, just activate it and you will be able to use that location to send and receive items.
+0ME0003185	You must discover a second Mojave Express Box before you can make any shipments.
+0ME0003187	You've been prevented from leaving the Fort until you've carried out Caesar's will in the Securitron Vault.
+0ME0003199	This woman is dead, would you like to inspect her to see if you can get more information? (Medicine 35 or higher Required)
+0ME0003201	Leave The Body Alone
+0ME0003202	Inspect The Body
+0ME0003203	You take a look at the body but are unable to determine anything about the cause or nature of her death aside from the knife wounds.
+0ME0003205	This girl appears to have been tortured for several hours and then murdered. Judging by the rate of livor mortis, you guess the body has been here for less than a day.
+0ME0003207	This girl appears to have been tortured for several hours and then murdered. Judging by the rate of livor mortis, you guess the body has been here for 12 to 14 hours. The lack of hesitation wounds on the body as well as the old blood surrounding it implies that the murderer is experienced and has murdered in this way previously.
+0ME0003209	Victor seems strangely oblivious to your presence. He doesn't respond to your attempt to speak with him.
+0ME0003211	You do not have the required items to heal this patient.
+0ME0003263	Lily will continue to take her medicine half as often as she is supposed to. She will still suffer psychotic breaks if her health reaches one quarter, but she will break off combat if you begin Sneaking.
+0ME0003265	Lily will no longer take her medicine at all. She will suffer psychotic breaks if her health reaches one-half, but her combat abilities are significantly improved.
+0ME0003267	Lily has suffered a psychotic break. She will remain in an aggressive state and will not respond to your commands until the break ends.
+0ME0003273	This VR pod requires an access code to operate.
+0ME1000001	The nearby Auto-Doc emits a number of disturbing noises as it operates.
+0ME1000004	Disengage Auto-Doc operation.
+0ME1000005	Your Pip-Boy has picked up a radio broadcast inviting you to the grand opening of the Sierra Madre Casino!
+0ME1000007	This valve is in need of repair.
+0ME1000008	(Repair 25 or higher required)
+0ME1000010	Leave the valve alone.
+0ME1000011	Change the flow of gas through the pipe.
+0ME1000012	Your collar is emitting a high-pitched beeping noise.
+0ME1000014	The collar has stopped beeping.
+0ME1000016	Your collar is beeping faster.
+0ME1000018	Explosive collar set to timer-based trigger.
+0ME1000020	Explosive collar set to distance-based trigger.
+0ME1000022	This emitter controls a Security Hologram in this area. You may be able to disable the emitter. [Repair 25 or higher required]
+0ME1000024	Leave emitter alone.
+0ME1000025	Disable emitter.
+0ME1000026	Christine has given you the Signal Interference perk.
+0ME1000027	This perk grants you a short period of time near a speaker before your bomb collar starts to activate as well as increasing the amount of time before your bomb collar detonates by 50%.
+0ME1000029	Dean has given you the Unclean Living perk.
+0ME1000030	This perk grants you a short period of time before taking damage inside a toxic cloud as well as reducing the amount of damage you take inside the toxic cloud by 25%.
+0ME1000032	Dean has died.
+0ME1000034	Dog has died.
+0ME1000036	Dean has gone to the Villa Fountain.
+0ME1000038	Dog has gone to the Villa Fountain.
+0ME1000040	You have lost Christine's Signal Interference perk.
+0ME1000042	You have lost Dean's Unclean Living perk.
+0ME1000044	Christine has gone to the Villa Fountain.
+0ME1000046	Christine has died.
+0ME1000048	Your collar is emitting a slow, steady beeping.
+0ME1000050	Your collar has stopped beeping.
+0ME1000052	This unusual-looking Auto-Doc still has a series of diodes and buttons that appear to work.
+0ME1000054	Leave the Auto-Doc alone.
+0ME1000055	Heal all crippled limbs.
+0ME1000056	Inject adrenaline to cure exhaustion.
+0ME1000057	As you begin to open the door, you notice a tripwire on the other side of the door.
+0ME1000059	Close the door.
+0ME1000060	Disarm the Trap.
+0ME1000061	This intercom appears to have failed over time. It will only allow one-way communication from another intercom.
+0ME1000064	Elevator cannot be called down from The Vault.
+0ME1000068	Veronica has received the Elijah's Last Words perk.
+0ME1000069	She has learned a secret Melee Weapon technique that increases her attack speed by 150% and gives her a 25% chance to knock down enemies.
+0ME1000070	She has learned a secret Melee Weapon and Unarmed technique that increases her damage by 25% and gives her a 25% chance to knock down enemies.
+0ME1000071	You have received the Elijah's Ramblings perk.
+0ME1000073	You have reached the jackpot limit, but feel free to explore the other services here at the Sierra Madre!
+0ME1000075	You need three Electric Box Fuses to fix the circuit breaker.
+0ME1000077	The circuit breaker is now in working condition.
+0ME1000079	The circuit breaker looks to have been jury-rigged at some point in the past, but is currently in need of repair.
+0ME1000081	Leave the circuit breaker alone.
+0ME1000082	[Repair 60] Jury-rig the circuit breaker.
+0ME1000083	[Items required] Fix the circuit breaker using parts.
+0ME1000084	The door won't open. It doesn't look like there's any power running to it.
+0ME1000086	After a few quick adjustments, the power comes back on.
+0ME1000088	Your Repair skill is not high enough to fix the circuit breaker.
+0ME1000090	Using the parts you've acquired, you are able to fix the circuit breaker and get power up and running again.
+0ME1000092	Welcome, Miss. Keyes.
+0ME1000093	Please, speak for voice-recognition access.
+0ME1000095	Play the Starlet's voice from your Pip-Boy.
+0ME1000096	Leave the Vault Elevator alone.
+0ME1000097	The Vault Elevator unlocks its seals.
+0ME1000098	The way down to the Sierra Madre's Vault is now open.
+0ME1000100	The Sierra Madre Casino is currently closed. Once power is restored to the casino, it looks as if gambling will re-open as well - with Hologram dealers monitoring the tables and machines.
+0ME1000102	The elevator descends to a small, cramped room filled with electrical controls. There's no room to move, and the air is filled with a high whirring noise from the machines not unlike an Auto-Doc saw.
+0ME1000103	It appears the power can be manually controlled from this location - although it looks like manual operation was only intended for emergencies, and the terminal upstairs could do it via remote provided it was unlocked.
+0ME1000104	This knowledge in hand, you take the elevator back up to the Switching Station.
+0ME1000106	You decide it's best to leave Christine down in the manual override chamber.
+0ME1000108	The panel next to the elevator has buttons to go either up or down.
+0ME1000111	Push the Up button.
+0ME1000112	Go up with Christine.
+0ME1000113	Push the Down button.
+0ME1000115	You don't have a Holotape that will play in this projector.
+0ME1000117	Holotape Recorders can edit Holotapes.
+0ME1000118	What would you like to do?
+0ME1000120	Splice together the voice fragments "Let," and "Go," from Vera's recordings.
+0ME1000121	Leave the Holotape Recorder alone.
+0ME1000124	You are being poisoned by a toxic cloud.
+0ME1000126	You are no longer being poisoned by a toxic cloud.
+0ME1000128	Repair successful.
+0ME1000130	Your Repair skill is not high enough.
+0ME1000132	Dead Money has been loaded. Your level cap has been raised by 5.
+0ME1000134	You have a complimentary gift waiting for you at the cashier.
+0ME1000136	Holotape Projectors can play Holotapes.
+0ME1000139	Play Dean Domino's Holotape of "I Saw Her Yesterday."
+0ME1000140	Leave the Holotape Projector alone.
+0ME1000141	A key slides out of Vera's Partitures.
+0ME1000143	Please redeem your voucher for a complimentary gift at any vending machine.
+0ME1000145	You see a complicated diagram but don't understand what it means.
+0ME1000146	(Intelligence 7 or higher required)
+0ME1000148	This emitter controls a Security Hologram in this area. You may be able to disable the emitter. [Repair 50 or higher required]
+0ME1000152	This emitter controls a Security Hologram in this area. You may be able to disable the emitter. [Repair 75 or higher required]
+0ME1000156	This emitter controls a Security Hologram in this area. You may be able to disable the emitter. [Repair 100 required]
+0ME1000160	You don't have the skill to do that.
+0ME1000162	This terminal is broken.
+0ME1000166	You were able to repair the valve, but lack the skill to properly reinforce it from damage.
+0ME1000168	Repair and reinforcement successful.
+0ME1000173	Repair the valve.
+0ME1000174	The remaining valves must be repaired before Dog's collar explodes, igniting the gas.
+0ME1000176	This door is hermetically sealed due to the gas leak. You won't be able to open it from the inside until you've shut off the gas valves and dealt with Dog.
+0ME1000178	Dean is protecting you from a toxic cloud.
+0ME1000180	The Vault's elevator is locked.
+0ME1000182	This device is a voice-recognition security system that protects access to the Sierra Madre's Vault.
+0ME1000183	Unlocking it requires to speak at the microphone with the proper voice.
+0ME1000185	You play Vera's Holotapes, who sings "Begin again... Let go."
+0ME1000189	You found Dean's secret stash!
+0ME1000191	The Vault's elevator remains sealed.
+0ME1000192	You did not get the voice-coded password correctly.
+0ME1000194	You have disabled the emitter.
+0ME1000196	The switches have become corroded and will require great strength to move.
+0ME1000198	This diagram shows the order in which the switches must be toggled to reroute power to various areas of the town, including the Bell Tower.
+0ME1000200	This Vending Machine is broken. With your ability to repair objects, you may be able to fix the machine.
+0ME1000203	Repair the Vending Machine.
+0ME1000204	You have fixed the Vending Machine.
+0ME1000206	You lack the Repair skill needed to fix the Vending Machine. (Repair 50 or higher required)
+0ME1000208	Christine's counter-frequency is temporarily blocking the Speaker.
+0ME1000210	This door is hermetically sealed due to the gas leak. If you override the door's lock, you won't be able to open it from the inside until you've shut off the gas valves and dealt with Dog. (Emergency Maintenance Key Required)
+0ME1000213	Use Emergency Maintenance Key to enter the Kitchen.
+0ME1000214	Dead Money takes you to an extremely dangerous area of the Mojave Wasteland, a one-way journey until your business at the Sierra Madre is finished.
+0ME1000215	In Normal Mode, you'll encounter new traps, enemies, and new companions whose lives are tied to yours. In Hardcore Mode, you'll be fighting the environment as well, a toxic city that erodes health over time. Companions are more vulnerable, and so are you.
+0ME1000216	Dead Money is recommended for experienced Couriers (Level 20+). If up to the challenge, continue on. The Sierra Madre Grand Opening awaits... and has been for 200 years.
+0ME1000218	Stay in the Mojave Wasteland.
+0ME1000219	Seek out the radio signal in the Bunker.
+0ME1000222	Christine activated scanning detonation frequency.
+0ME1000224	Christine activated proximity detonation frequency.
+0ME1000228	This door is hermetically sealed due to the gas leak and Elijah's override. It will not open until the valves are shut off and Dog is dealt with.
+0ME1000231	<Use maintenance pass key to open the door>
+0ME1000232	<Use maintenance pass key to open the door.>
+0ME1000233	This door will not open until the gas valves have been repaired.
+0ME1000234	This door is hermetically sealed due to the gas leak in the Casa Madrid kitchen. While a maintenance key can override the lock, it will not open from the inside unless the gas valves are shut off. (Maintenance Pass Key Required)
+0ME1000238	Dog has devoured a fallen enemy.
+0ME1000240	The elevator appears to have been locked down by security. Perhaps Christine is involved.
+0ME1000243	You hear a loud noise coming from the room to the west. It sounds as if the ventilation systems are firing up, clearing the Cloud out of the Switching Station basement and sections of Puesta del Sol's streets.
+0ME1000245	This path leads from the Sierra Madre back to the Mojave Wasteland. You are certain you'll never be able to get back here. Are you sure you want to leave?
+0ME1000247	Stay at the Sierra Madre.
+0ME1000248	Return to the Mojave Wasteland.
+0ME1000254	[Download Medical History]
+0ME1000255	This door is hermetically sealed due to a structural collapse contaminating the air. It will need to be opened elsewhere.
+0ME1000258	This door is hermetically sealed due to a gas leak in the kitchen contaminating the air. The gas will need to be shut off in order for it to open.
+0ME1000261	On quick glance, the diagram seems to have something to do with the switches immediately to the right of it.
+0ME1000262	(Intelligence 7)
+0ME1000264	Ignore the diagram.
+0ME1000265	Study the diagram.
+0ME1000266	This intercom is broken.
+0ME1000268	The terminal doesn't respond. Something is preventing its standard functions.
+0ME1000270	There appears to be residue collecting in the Chemistry Set. With the proper knowledge, you may be able to collect a sample of it.
+0ME1000274	Collect residue sample.
+0ME1000275	This is an unusual-looking crafting station. As you approach, lines of tiny holographic items appear on the dispensing tray - wireframe schematics and lists of consumables the machine can assemble and package for the consumer. There is a slot on the side with a Sierra Madre symbol. The slot does not look part of the original design.
+0ME1000277	Proximity Scan Warning!
+0ME1000279	Wideband Scan Warning!
+0ME1000281	This generator powers turret defenses in the vault.
+0ME1000282	Inscribed in its side, you can read:
+0ME1000283	"Turret Defense Generator B."
+0ME1000284	You are not able to smash the generator. [Melee Weapons, or Unarmed, 50 or higher required]
+0ME1000289	You may be able to smash the generator. [Melee Weapons 50 or higher required]
+0ME1000292	Smash the generator.
+0ME1000296	You may be able to smash the generator. [Unarmed 50 or higher required]
+0ME1000300	Christine has taught you the Coin Operator Perk, allowing you to make Sierra Madre "Chips" (metal slugs) at Workbenches using Fission Batteries and Scrap Metal.
+0ME1000302	Dog has taught you the Ghost Hunter Perk, allowing you to kill Ghost People so they stay dead, dead.
+0ME1000304	Dean has taught you the Sierra Madre Martini "Perk," allowing you to mix Cloud Residue and Junk Food in a Tin Can at a Campfire or Electric Hot Plate for a surprisingly strong, restorative, and disgusting drink.
+0ME1000306	God has given you the In my Footsteps perk.
+0ME1000307	This perk grants you a bonus to Stealth as well as the ability to step lightly around placed traps.
+0ME1000309	You have lost God's In my Footsteps perk.
+0ME1000311	This gate leads directly to the Sierra Madre Casino. Once inside, you may not be able to return to the Villa. Do you wish to proceed?
+0ME1000313	Stay in the Villa.
+0ME1000314	Proceed to the Sierra Madre Casino.
+0ME1000317	Dog has given you the benefit of his Ravenous Hunger.
+0ME1000318	Ghost People are difficult to kill unless dismembered or disintegrated. If Dog is in the party, however, Dog will devour them, preventing them from getting back up.
+0ME1000320	You have lost the benefit of Dog's Ravenous Hunger.
+0ME2000001	Your Pip-Boy has picked up a radio broadcast from the Happy Trails Caravan Company. They're looking for one more member for an expedition to Zion Valley.
+0ME2000003	Honest Hearts has been loaded. Your level cap has been raised by 5.
+0ME2000005	Follows-Chalk has returned to the Dead Horses camp.
+0ME2000007	Follows-Chalk has given you the Well-Stacked Cairns perk.
+0ME2000009	You have lost Follows-Chalk's Well-Stacked Cairns perk.
+0ME2000011	Waking Cloud has returned to the Sorrows camp.
+0ME2000013	You have lost Waking Cloud's Quiet as the Waters perk.
+0ME2000015	Waking Cloud has given you the Quiet as the Waters perk.
+0ME2000017	Without a map or a guide, you have no hope of finding your way back to the Mojave Wasteland.
+0ME2000019	You have found the lost Mountain Bighorner Calf.  It looks hungry, feed it a Banana Yucca Fruit?
+0ME2000022	Feed it a Banana Yucca Fruit.
+0ME2000023	Return the Mountain Bighorner Calf?
+0ME2000025	Keep the Calf
+0ME2000026	Return the Calf
+0ME2000027	This compass is broken, but can possibly be restored to a fully functioning state.
+0ME2000028	[Repair of 30 or greater required.]
+0ME2000031	Repair the compass.
+0ME2000032	Repair with parts.
+0ME2000033	Take the broken compass with you.
+0ME2000034	This walkie-talkie is broken, but can possibly be restored to a fully functioning state.
+0ME2000038	Repair the walkie-talkie.
+0ME2000040	Take the broken walkie-talkie with you.
+0ME2000041	By replacing this compass's burned-out sensor module rather than bypassing it, you can make the repair process much easier.
+0ME2000042	[Requires one Compass Sensor Module.]
+0ME2000046	Repair without parts.
+0ME2000047	The electronics in this walkie-talkie are badly damaged. If you replace them, the process will be much simpler. Requires one pile of Scrap Electronics.
+0ME2000052	You don't have time to examine this object in the heat of battle.
+0ME2000054	Would you like to craft or sleep?
+0ME2000056	Craft
+0ME2000057	Sleep
+0ME2000058	If you don't have the parts or the skills to make repairs in the field, you can take the broken compass to a workbench and fix it there.
+0ME2000060	The Weapon Binding Ritual fades from your mind.
+0ME2000062	You have sacrificed a portion of your life's blood to become one with your weapon.
+0ME2000063	Your eyes will be keen, your limbs will not break, and your claws will strike like thunder.
+0ME2000064	Fight only with your hands or the weapons of your hands to know this glory in combat.
+0ME2000066	This generator powers the electric charge of its connected door.
+0ME2000067	You are not able to smash the generator.
+0ME2000068	[Melee Weapons, or Unarmed, 50 or higher required]
+0ME2000071	You may be able to smash the generator.
+0ME2000072	[Unarmed 50 or higher required]
+0ME2000078	[Melee Weapons 50 or higher required]
+0ME2000082	This wiring is rigged to discharge electricity through the door.
+0ME2000083	You are not able to disarm the wiring.
+0ME2000084	[Repair 50 or higher required]
+0ME2000087	You may be able to disarm the wiring.
+0ME2000090	Leave the electric wiring alone.
+0ME2000091	Disarm the electric wiring.
+0ME2000092	You've killed Jed Masterson! Without his maps and mountaineering expertise, you'll never make it to Zion!
+0ME2000093	(Killing Jed has rendered the Honest Hearts DLC inacessible. Please reload your last save if you wish to play Honest Hearts.)
+0ME2000095	< Something in Waking Cloud changes and she fights White Legs harder now. >
+0ME2000097	Your senses are already heightened by this grand vista.
+0ME2000099	Well-Stacked Cairns perk activated by Zion summit. Adding Heightened Senses (+3 PER).
+0ME2000107	You found the key to the locked cabinet in the Zion Fishing Lodge!
+0ME2000109	You found the key to the locked desk in the Zion General Store!
+0ME2000111	You found the key to the door in Morning Glory Cave!
+0ME2000113	This medical supply kit is mostly intact, but several of the sterile bandages have been broken open and the disinfectant bottle is leaking. You can try to salvage what's there, or you can find replacements for the contaminated components. Alternately, you can use alcohol to re-sterilize the bandages.
+0ME2000114	[Medicine 30 or greater required.]
+0ME2000117	Salvage the Medical supply kit.
+0ME2000118	Replace the contaminated components.
+0ME2000119	Sterilize the kit with alcohol.
+0ME2000120	Take the incomplete medical kit with you.
+0ME2000121	By finding replacements for the contaminated components of the kit, you can get it up to working order much more easily.
+0ME2000122	[Requires one Duct Tape and one Turpentine]
+0ME2000125	Replace components.
+0ME2000127	Salvage without replacements.
+0ME2000129	With some high-proof alcohol, you could sterilize the kit rather than replace components.
+0ME2000130	[Requires one Scotch, one Vodka, or one Whiskey.]
+0ME2000137	If you don't have the parts or the skills to make repairs in the field, you can take the contaminated medical supply kit to a campfire and salvage it there.
+0ME2000139	Joshua Graham has given you the Way of the Canaanite perk.
+0ME2000140	While Joshua Graham is in your party, any .45 caliber auto pistol you use has less spread and is twice as likely to score critical hits.
+0ME2000142	Joshua Graham has left your company.
+0ME2000144	You have lost Joshua Graham's Way of the Canaanite perk.
+0ME2000153	Mountain Bighorners Killed 1/9
+0ME2000155	Mountain Bighorners Killed 2/9
+0ME2000157	Mountain Bighorners Killed 3/9
+0ME2000159	Mountain Bighorners Killed 4/9
+0ME2000161	Mountain Bighorners Killed 5/9
+0ME2000163	Mountain Bighorners Killed 6/9
+0ME2000165	Mountain Bighorners Killed 7/9
+0ME2000167	The Mountain Bighorner Calf is scared, feed it a Banana Yucca Fruit?
+0ME2000171	Mountain Bighorners Killed 8/9
+0ME2000173	Mountain Bighorners Killed 9/9
+0ME2000175	You need to travel with the Happy Trails Caravan on your first journey to Zion Valley.
+0ME2000177	You need some mining explosives to arm this bomb.
+0ME2000179	If you don't have the parts or the skills to make repairs in the field, you can take the medical kit to a workbench and fix it there.
+0ME2000181	You cannot use the campfire while in combat.
+0ME2000183	You must be outside the cave to safely detonate the mining explosives.
+0ME2000185	Follows-Chalk has died.
+0ME2000187	Waking Cloud has died.
+0ME2000189	This medical supply kit is mostly intact, but several of the sterile bandages have been broken open and the disinfectant bottle is leaking.
+0ME2000191	This compass is broken.
+0ME2000193	You've killed a member of the Happy Trails Caravan! Without their maps and mountaineering expertise, you'll never make it to Zion!
+0ME2000194	(Becoming an enemy of the Happy Trails caravan has rendered the Honest Hearts DLC inacessible. Please reload your last save if you wish to play Honest Hearts.)
+0ME2000196	You found the key to the White Legs' prison!
+0ME2000198	Waiting will cause you to miss important events - your mission will fail.
+0ME2000200	Black Coffee cup broke
+0ME2000202	This snowglobe has been added to the collection at the Lucky 38.
+0ME2000204	Daniel has given you some Pre-War mining explosives and a special detonator for them. They aren't useful as weapons, but could be used to collapse certain caves, if that proves necessary in your exploration.
+0ME2000206	Daniel has given you a detonator that is set to detonate the C4 placed above the mouth of the Pine Creek Tunnel. Firing this detonator will collapse the passage and prevent any White Legs from following Daniel and the Sorrows out of Zion.
+0ME2000208	Whether you decide whether the Sorrows should fight or flee, your decision will set their destiny irrevocably in motion. You will be unable to finish any remaining quests in Zion once you make your decision, so choose wisely.
+0ME3000001	You are now completely healthy.
+0ME3000003	Atomic! Perk energized by radiation.
+0ME3000005	Leaving radiation Atomic! Perk weakened.
+0ME3000007	Implant GRX depleted until 2400 hours
+0ME3000009	You have obtained the Aural Stealth Suit! Not only can it be upgraded through testing in X-13, it also has Med-X and Stimpak reserves for all your pain-dampening needs! (Med-X and Stimpaks not included.)
+0ME3000011	Place Sonic Emitter on soundwave transducer for recalibration.
+0ME3000014	"The Opera Singer"
+0ME3000015	"Gabriel's Bark"
+0ME3000016	"Revelation"
+0ME3000017	"Robo-Scorpion"
+0ME3000018	"Tarantula"
+0ME3000019	This ancient Nuka-Cola machine has been modified to accept bottlecaps as payment. It seems to be automatically restocked every few days.
+0ME3000022	Nuka-Cola: 20 caps.
+0ME3000023	Nuka-Cola Quantum: 30 caps.
+0ME3000024	Nuka-Cola Quartz: 40 caps.
+0ME3000025	Nuka-Cola Victory: 75 caps.
+0ME3000026	You don't have enough caps to buy that item.
+0ME3000028	A strange feeling of pacifism comes over you, and you find you cannot draw your weapon for some reason.
+0ME3000030	The device won't function while you're still in combat.
+0ME3000032	The device won't function while you're in an interior.
+0ME3000034	Are you sure you wish to teleport to The Sink?
+0ME3000036	Never mind. Stay where I am.
+0ME3000037	Take me to The Sink.
+0ME3000038	Are you sure you wish to teleport to the Mojave?
+0ME3000041	Take me to the Mojave.
+0ME3000042	The device only works when you're in the exteriors of the Mojave Wasteland or Big MT. Certain locations in the Mojave will still prevent teleportation, however.
+0ME3000044	You must dismiss any followers before the teleporter device will function.
+0ME3000046	The Barber module of the Auto-Doc is currently missing and must be requisitioned.
+0ME3000050	The Cosmetic Surgery module of the Auto-Doc is currently missing and must be requisitioned.
+0ME3000052	You feel strangely heavier. A quick inspection of your body reveals faint surgical scars around your head, chest, and back...
+0ME3000054	You have successfully hacked the emitter.
+0ME3000062	Hack the Laser Tripwire Emitter's IFF Circuit.
+0ME3000063	Test failed. You have been spotted by a patrol.
+0ME3000065	Test failed. You touched a tripwire.
+0ME3000067	The Giant Robo-Scorpion's power system has recovered from the power surge that disabled it!
+0ME3000069	Test failed. You have been detected.
+0ME3000072	Your reward stipend has been placed in the Reward Safe next to the Test Terminal. Congratulations!
+0ME3000074	The crashed satellite seems to be the source of the strange transmission you received.
+0ME3000075	Old World Blues is recommended for experienced Couriers (Level [%]+).
+0ME3000076	You have a premonition that while you'll be unable to return to the Mojave until you solve the mysteries of the Big Empty, you WILL be able to take anything you can carry with you, and you WILL be able to return to the Big Empty any time after completing Old World Blues.
+0ME3000077	If you are up to the challenge (and you have all you want to carry with you), examine the satellite a little closer... the atomic wonders of Science! await.
+0ME3000080	Take a closer look at the satellite.
+0ME3000081	You can't investigate the satellite while you're in combat.
+0ME3000083	Test failed. You left the test area.
+0ME3000085	DNAgent Perk Granted
+0ME3000086	Your study of the abominations created at the Big MT has granted you a damage bonus (+10%) against Nightstalkers.
+0ME3000088	Brainless "Perk"
+0ME3000091	Spineless "Perk"
+0ME3000092	Due to complications with the procedure, your spine has been replaced as well: Your torso can no longer be crippled and your Strength (STR) and Damage Threshold (DT) have been increased (+1).
+0ME3000094	Heartless "Perk"
+0ME3000095	The scars on your chest seem to confirm what the Think Tank is saying... you cannot be poisoned, and filters in your artificial blood pump will regulate bleeding and healing, allowing all healing items (chems) to function at a higher level (+25%). Robots are now confused by you and 50% less likely to score a critical hit.
+0ME3000099	Process Seed into Planter.
+0ME3000100	Convert Plant Matter into Salient Green.
+0ME3000101	Nothing happens since the midnight showing at the Mojave Drive-in hasn't started yet.
+0ME3000103	You use up the set's supply of chemicals to create a chem.
+0ME3000105	You have gained the Brainless perk.
+0ME3000107	You have lost the Brainless perk.
+0ME3000109	You have gained the Spineless perk.
+0ME3000111	You have lost the Spineless perk.
+0ME3000113	You have lost the Heartless perk.
+0ME3000115	You have gained the Heartless perk.
+0ME3000117	You have gained the Big Brained perk.
+0ME3000119	You have lost the Big Brained perk.
+0ME3000121	Big Brained "Perk"
+0ME3000124	You have lost the Cardiac Arrest perk.
+0ME3000126	You have gained the Cardiac Arrest perk.
+0ME3000128	Cardiac Arrest "Perk"
+0ME3000129	Your heart is back in your body, but some advanced technologies remain: You are less resistant to poison (50%) and robots are only somewhat confused by you (25% less likely to score a critical hit) now. But on the bright side, healing items (chems) are twice as effective! (+50%)
+0ME3000131	You have gained the Reinforced Spine perk.
+0ME3000133	You have lost the Reinforced Spine perk.
+0ME3000135	Reinforced Spine "Perk"
+0ME3000138	Implant M-5 is now available for surgical installation.
+0ME3000140	Implant Y-3 is now available for surgical installation.
+0ME3000142	Implant Y-7 is now available for surgical installation.
+0ME3000144	Implant C-13 is now available for surgical installation.
+0ME3000146	This snow globe has been added to the collection at the Lucky 38.
+0ME3000148	You don't have any materials to process!
+0ME3000150	The Hazmat Suit Containment Unit requires a security code to disable the force field.
+0ME3000153	Perform surgery to install cybernetic implants?
+0ME3000156	Install Implant C-13: +10% Cazador damage. (8,000 caps)
+0ME3000157	Install Implant M-5: Increased speed while crouched. (10,000 caps)
+0ME3000158	Install Implant Y-3: Drinking radiation removed. (12,000 caps)
+0ME3000159	Install Implant Y-7: Bonus HP/AP from food. (20,000 caps)
+0ME3000161	Lights On
+0ME3000164	Lights Off
+0ME3000165	Standard Lighting
+0ME3000166	Smart Lights (+2 INT, +5 Repair, +5 Science for 12 hours after initial exposure)
+0ME3000167	Mood Lighting (+2 CHA, +5 Barter, +5 Speech for 12 hours after initial exposure)
+0ME3000168	Jukebox files damaged. Insert backup holotape to restore files.
+0ME3000170	Restoring Jukebox backup files... restarting Jukebox...
+0ME3000172	Advanced functions file damaged. Insert backup holotape to restore file.
+0ME3000174	Insert holotape to restore advanced functions.
+0ME3000176	Backup holotape received, installing files... unlocking advanced functions...
+0ME3000186	Process Books.
+0ME3000187	Process Pencils.
+0ME3000188	Process Clipboards.
+0ME3000189	The schematics for the X-2 Antenna have been uploaded to the Think Tank.
+0ME3000191	The Gabriel's Bark audio frequency sample has been uploaded to the Think Tank.
+0ME3000193	The schematics for the Stealth Suit Mk II have been uploaded to the Think Tank.
+0ME3000195	Voice module disabled at Sink Central Intelligence Unit.
+0ME3000197	Dr. Klein awaits. Make sure you're prepared to finish this once and for all.
+0ME3000199	Soundwave transducer restricted to Sonic Emitter recalibration.
+0ME3000203	Process Toasters and Appliances.
+0ME3000204	Super heat Saturnite Fist.
+0ME3000205	Personality files detected. Installing...
+0ME3000207	Personality files damaged or missing. Insert backup holotape to restore files.
+0ME3000209	You don't have any Appliances to destroy or Saturnite Fists to super heat!
+0ME3000213	Fill Empty Bottles.
+0ME3000214	Drink.
+0ME3000215	You don't have any empty bottles to fill!
+0ME3000217	You don't have any items to process!
+0ME3000219	Enemy struck by acid
+0ME3000221	The Barber module of the Auto-Doc now available.
+0ME3000223	The Cosmetic Surgery module of the Auto-Doc is now available.
+0ME3000225	Stealth Suit Mk II v1.3 Downloaded! (+1 AGL)
+0ME3000227	Stealth Suit Mk II v1.4 Downloaded! (+ Sneak Speed)
+0ME3000229	Stealth Suit Mk II v1.1 Downloaded! (+10 Sneak)
+0ME3000231	Stealth Suit Mk II v1.2 Downloaded! (+1 PER)
+0ME3000233	Here is your original spine. You seem to be doing just fine with the replacement spine, fortunately.
+0ME3000234	Thanks to the information imparted by your own brain (oddly enough), you're now able to put your original spine back in place by using the Sink's Auto-Doc.
+0ME3000236	This is your original heart. Your new heart seems to be working just fine, however.
+0ME3000237	Thanks to the information imparted by your own brain (oddly enough), you're now able to put your original heart back in place by using the Sink's Auto-Doc.
+0ME3000239	Attached to the still is a note with the following ingredients; 1 Vodka, 1 Mutant Cave Fungus, 1 Salient Green.
+0ME3000242	Make Battle Brew. (1 Bottle)
+0ME3000243	Make 6-Pack of Battle Brew. (6 Bottles)
+0ME3000244	Make a Case of Battle Brew. (12 Bottles)
+0ME3000245	You lack the necessary items. (1 Vodka, 1 Mutant Cave Fungus, 1 Salient Green)
+0ME3000248	The Sonic Emitter is required to enter this test.
+0ME3000250	Sonic Emitter EM Pulse Wave Unlocked! The Sonic Emitter can disable force fields.
+0ME3000252	You can't use this while you're crouched.
+0ME3000254	DNAvenger Perk Rank Increased
+0ME3000255	Further study of the abominations created at the Big MT has granted you an additional damage bonus (+10%) against Cazadores.
+0ME3000257	DNAvenger Perk Granted
+0ME3000258	Studying the abominations created at the Big MT has granted you a damage bonus (+10%) against Cazadores.
+0ME3000260	Implant Y-3 removed ingested radiation.
+0ME3000262	The Auto-Doc's Psychiatric Evaluation will allow you to re-define the Traits you selected when you created your character. You may only do this once - are you sure you want to proceed?
+0ME3000264	No, thanks, I'll wait.
+0ME3000265	Yes, twist my psyche into new and exciting shapes!
+0ME3000266	You've acquired the Big Mountain Transportalponder! It's capable of transporting you - and you alone - between the Mojave Wasteland and Big MT.
+0ME3000267	To return to the Mojave (or go back to Big MT from the Mojave), simply equip the Transportalponder! as you would any weapon, pull the trigger, and away you'll go. Note that it won't work in interiors or in combat situations, and is totally incapable of harming your enemies.
+0ME3000271	Process Coffee Mugs and Dishes.
+0ME3000272	Collect Electronic Components.
+0ME3000273	You don't have any Coffee Mugs or Dishes for Muggy!
+0ME3000275	You don't have any Coffee Mugs or Dishes for Muggy and Muggy doesn't have any Electronic Components for you!
+0ME3000279	Upgrade holotape received... upgrading to 'Smart Lights' functionality... (+2 INT, +5 Repair, +5 Science for 12 hours after initial exposure)
+0ME3000281	Upgrade holotape received... upgrading to 'Mood Lighting' functionality. (+2 CHA, +5 Barter, +5 Speech for 12 hours after initial exposure)
+0ME3000283	Upgrade holotape received... upgrading 'Parts Production' functionality (supply of Energy Cells, Microfusion Cells, and Scrap Electronics available once per day).
+0ME3000285	Upgrade holotape received... upgrading 'Secondary Materials Mulching' functionality. (Pencils and Clipboards are processed into Lead, Spare Parts, and Duct Tape.)
+0ME3000287	Upgrade holotape received... adding LAER weapon mod "Auxiliary Recharger Clip" to vendor inventory.
+0ME3000289	Upgrade holotape received... adding LAER weapon mod "Prismatic Lens" to vendor inventory.
+0ME3000291	Upgrade holotape received... adding K9000 weapon mod "Mentat Chow" to vendor inventory.
+0ME3000293	Upgrade holotape received... adding K9000 weapon mod "Resla Roil" to vendor inventory.
+0ME3000295	Test failed. A robot was destroyed.
+0ME3000297	New soundfile available for the Sonic Emitter.
+0ME3000299	Sonic Emitter - Revelation now available in the vendor interface.
+0ME3000301	Give me one of your Sonic Emitters to recalibrate.
+0ME3000309	Select desired recalibration setting for Sonic Emitter.
+0ME3000317	Upgrade holotape received... upgrading 'Water Purification' functionality (any empty bottle converted to a bottle of Purified Water).
+0ME3000319	Select organ to replace (associated perks will also be replaced).
+0ME3000322	Insert your Brain back into your skull.
+0ME3000323	Place your Heart back in your chest.
+0ME3000324	Re-attach your Spine.
+0ME3000325	Replace your Brain with the synthetic version.
+0ME3000326	Swap your Heart for the synthetic version.
+0ME3000327	Switch your Spine for the synthetic version.
+0ME3000328	Implant C-13 surgically installed (+10% Cazador damage).
+0ME3000330	Implant M-5 surgically installed (increased crouch speed).
+0ME3000332	Implant Y-3 surgically installed (removes drinking radiation).
+0ME3000334	Soundfile "Gabriel's Bark" available for the Sonic Emitter.
+0ME3000336	Soundfile "Opera Singer" available for the Sonic Emitter.
+0ME3000338	Soundfile "Robo-Scorpion" available for the Sonic Emitter.
+0ME3000340	Soundfile "Tarantula" available for the Sonic Emitter.
+0ME3000342	Implant Y-7 surgically installed (bonus HP/AP from food).
+0ME3000344	The Laser Tripwire Emitter is currently off.
+0ME3000346	This is your heart. Apparently, cranial surgery complications required its removal, and until your brain is returned, your heart can't be trusted to keep beating in your body. Your new heart seems to be working just fine, however.
+0ME3000348	Here is your spine. Without a brain stem to snap it on to, here it floats. Your back doesn't feel any different from the spine's removal - if anything, whatever was placed in there makes you feel stronger.
+0ME3000350	Replace your heart?
+0ME3000354	Remove your heart?
+0ME3000358	Remove your brain?
+0ME3000362	Replace your brain?
+0ME3000366	Remove your spine?
+0ME3000370	Replace your spine?
+0ME3000374	Enemy frenzied!
+0ME3000376	Based on the other tanks in the room, you can safely assume this where your brain would be floating. It's currently missing from both the tank and its proper place in your head, but you seem to be doing just fine without it.
+0ME3000378	Your brain floats here. You seem to be doing just fine without it.
+0ME3000380	Your original spine used to float here.
+0ME3000382	Your original heart used to be floating in here.
+0ME3000384	This option doesn't seem to be available right now. Some sort of control override must be in place.
+0ME3000386	Your brain used to float here.
+0ME3000388	You have found a recalibration file for the Sonic Emitter. Take it to the Jukebox in the Sink to recalibrate the Sonic Emitter for new effects.
+0ME3000390	You don't have the caps for that procedure.
+0ME3000392	Old World Blues has been loaded. Your level cap has been raised by 5.
+0ME3000394	You've gotten a fragmented signal on your Pip-Boy - a coded transmission of some sort with a sad, jazzy undercurrent that makes your head hurt. As far as you can tell, it appears to be an invitation to the Midnight Science-Fiction Feature! at the Mojave Drive-In (please arrive early to catch the trailers).
+0ME3000396	Perimeter Warning!
+0ME3000398	This prototype Auto-Doc is capable of performing a thorough physical exam and curing the patient of all common ailments - radiation sickness, lacerations, broken bones, even chemical addictions. In addition, it can also give haircuts and perform cosmetic surgery.
+0ME3000401	Basic Physical Exam.
+0ME3000402	Initiate Cosmetic Surgery.
+0ME3000403	Get a Haircut.
+0ME3000404	Swap Body Parts.
+0ME3000405	Install Implants.
+0ME4000003	This console controls access to the silo itself, but it is encrypted beyond your ability to hack. You will need to find something that can break the encryption in order to proceed.
+0ME4000005	Ulysses has seized control of ED-E. You have lost ED-E as a companion, and everything he was carrying has been transferred to you.
+0ME4000009	This silo is in lockdown mode in preparation for launch. No entry or exit is permitted until the launch sequence is completed.
+0ME4000011	This terminal is damaged.
+0ME4000012	You may be able to fix it. [50 Repair]
+0ME4000015	Leave terminal alone.
+0ME4000016	Repair the terminal.
+0ME4000017	The mainframe is locked down with a secure, military-grade encryption sequence. You'll need to find the security codes and upload them to ED-E to gain access to the mainframe.
+0ME4000022	You can now access the silo's mainframe.
+0ME4000026	Open the silo's bunker doors.
+0ME4000027	You've already opened the bunker door.
+0ME4000029	ED-E has used the security codes to unlock the mainframe.
+0ME4000031	Welcome to the Eyebot Control Station
+0ME4000034	Disconnect Eyebot Power (Repair)
+0ME4000035	Send Eyebot Shutdown Command (Science)
+0ME4000036	This is an intact nuclear warhead. If what Ulysses said is true, the Laser Detonator in Hopeville should be able to trigger these to explode.
+0ME4000038	ED-E has restored power to the silo's access controls.
+0ME4000040	This terminal can only be accessed by an Eyebot.
+0ME4000043	Have ED-E unlock the terminal for you.
+0ME4000044	ED-E has unlocked a terminal for you!
+0ME4000046	Disconnect the Eyebot from it's power source.
+0ME4000047	(Repair 100 required)
+0ME4000050	Disconnect Eyebot Power
+0ME4000052	Send the Eyebot a shutdown command.
+0ME4000053	(Science 100 required)
+0ME4000056	Send Eyebot Shutdown Command
+0ME4000058	Eyebot has successfully shut down, reconfigure the Eyebot's targeting systems?
+0ME4000062	Reconfigure Eyebot Targeting Systems
+0ME4000085	Stop jumping off of buildings.
+0ME4000087	This terminal is already engaged in its countdown sequence and the abort code has been overridden. You might be able to change the missiles' target, or accelerate the countdown and launch the missiles immediately.
+0ME4000090	Attempt to cancel the launch.
+0ME4000091	Redirect the missiles to target both the NCR and Caesar's Legion.
+0ME4000092	Redirect the missiles to target Caesar's territory.
+0ME4000093	Accelerate the countdown and launch the missiles at the NCR.
+0ME4000094	The abort code is encrypted with an incredibly advanced Pre-War military encryption sequence. You'd have to be a code-breaking robot to crack it in time.
+0ME4000096	Try something else.
+0ME4000097	Ask ED-E for help.
+0ME4000098	This will launch Ulysses' missiles against targets in the heartland of the NCR, raining nuclear fire down on its cities and its people. Are you sure you want to continue?
+0ME4000100	No.
+0ME4000102	This will launch Ulysses' missiles against targets in the lands east of the Colorado controlled by Caesar's Legion, raining nuclear fire down on its cities and its tribes. Are you sure you want to continue?
+0ME4000106	Player not sneaking! Let's Dance attack failed.
+0ME4000108	Enemy takedown! Let's Dance attack hit.
+0ME4000110	Enemy cannot be bled! No takedown.
+0ME4000122	You can disable this emitter (and the beam originating at this emitter) if you have sufficient skill with electronics.
+0ME4000123	(Repair of 90 or greater required.)
+0ME4000126	Disable the laser tripwire beam.
+0ME4000127	With its beam triggered, this emitter is no longer functional.
+0ME4000129	This terminal can only be unlocked by an Eyebot.
+0ME4000133	Welcome to the United States Armed Services Joint Automated Commissary and Repair Station! Please input your selection below.
+0ME4000136	Access Commissary.
+0ME4000137	Access Universal Repair Interface.
+0ME4000138	It looks like Ulysses left you one last package...
+0ME4000140	This will launch Ulysses' missiles against targets in the heartland of the NCR and the lands held by Caesar's Legion, raining nuclear fire down on both factions. Are you sure you want to continue?
+0ME4000144	You have gained the Camarader-E Perk (Rank 2), allowing ED-E to manufacture Small Energy Cells or Microfusion Cells once per day.
+0ME4000146	You found a module on this broken Eyebot that can upgrade ED-E. Installing this module grants you the first rank of the Camarader-E Perk, allowing ED-E to repair your currently-equipped weapon once per day.
+0ME4000147	This perk is accessed through ED-E's dialogue.
+0ME4000148	If you find more upgrade modules, you can unlock further ranks of this Perk. When you return to the Mojave, these upgrades will carry over to the original ED-E as well.
+0ME4000150	It's Just Lucky You're Alive! (+4 Luck for 3 minutes)
+0ME4000152	Your merciless nuclear assault on Caesar's Legion has devastated the lands east of the Colorado and reached even the borders of the Mojave. At Cottonwood Cove, you can now take a journey by river to the site of Dry wells, a devastated Legion encampment. Be prepared - the area is highly irradiated and infested with Legion ghouls.
+0ME4000153	You have also unlocked the Scourge of the East Perk, allowing you to put a single point into any of your S.P.E.C.I.A.L. attributes. You also gain reputation with the NCR for breaking the back of Caesar's Legion, but you lose reputation with Caesar's Legion.
+0ME4000155	Your merciless nuclear assault on the NCR has devastated the lands of California and reached even the borders of the Mojave. At the Mojave Outpost, you can now travel through the western gate to Long 15, the site of a devastated NCR outpost. Be prepared - the area is highly irradiated and infested with former NCR ghouls.
+0ME4000156	You have also unlocked the Bear-Slayer Perk, allowing you to put a single point into any of your S.P.E.C.I.A.L. attributes. You also gain reputation with Caesar's Legion for annihilating the NCR's homeland, but lose reputation with the NCR.
+0ME4000158	Your merciless nuclear assault on the nations of the Mojave has devastated the lands of both the Legion and the NCR and reached even the borders of the Mojave. At the Mojave Outpost, you can now travel through the western gate to Long 15, the site of a devastated NCR outpost. At Cottonwood Cove, you can now take a journey by river to Dry Wells, the site of a devastated Legion encampment. Be prepared - both areas are highly irradiated and infested with feral ghouls.
+0ME4000159	You have also unlocked the Dead Man's Burden Perk, allowing you to put a single point into any of your S.P.E.C.I.A.L. attributes. You also gain reputation with the Boomers and the Powder Gangers for your... destructive tendencies, but you lose reputation with the NCR and Caesar's Legion.
+0ME4000161	The Divide broke cities, flayed skin from bone and threatened to destroy the world, but you survived it - and stopped it. You can put a single point into any of your S.P.E.C.I.A.L. attributes. You also gain reputation with the Followers of the Apocalypse and the Brotherhood of Steel for stopping another Armageddon.
+0ME4000163	It looks like the missile hit somewhere on the other side of the Divide. You think you could reach the location of the blast from Hopeville... that is, if you feel brave enough to explore ground zero of a nuclear blast.
+0ME4000165	You left ED-E behind in Ulysses' Temple - not that you needed the help anyway. As long as you have no companions, your attacks inflict +10 percent damage and you have +10 percent accuracy in VATS.
+0ME4000167	This door is locked, and needs electricity before opening.
+0ME4000169	You have gained the Marked Perk.
+0ME4000171	You have gained the Camarader-E Perk (Rank 3), giving you and ED-E both +2 DT.
+0ME4000173	You have gained the Camarader-E Perk (Rank 4), increasing your damage with beam weapons by +5. ED-E also gains +5 damage while he is your companion.
+0ME4000175	You have gained the Camarader-E Perk (Rank 5), increasing your accuracy in V.A.T.S. as long as ED-E is your companion. ED-E also gains an accuracy boost while he is your companion.
+0ME4000177	Once you ascend this elevator, you cannot return until you end this. If you have anything else you want to do before going ahead, take care of it now.
+0ME4000179	Step back.
+0ME4000180	Take the elevator.
+0ME4000181	This claw is larger and more impressive than those of lesser Deathclaws. You might be able to turn it into a weapon if you find a workbench.
+0ME4000183	This Auto-Doc is capable of performing a thorough physical exam and curing the patient of all common ailments - radiation sickness, lacerations, broken bones, even chemical addictions.
+0ME4000186	Conduct physical exam.
+0ME4000187	Hey, campers, lights out! (Close the Pip-Boy to start sleeping.)
+0ME4000189	Hey, campers! The Roughin' It! Bedroll Kit is only approved for the great outdoors, so step outside and give 'er a try there.
+0ME4000191	The Roughin' It! Bedroll Kit allows you to sleep just about anywhere out under the stars. Select it in your Pip-Boy and sleep your cares away!
+0ME4000193	Auto-Inject Stimpak used
+0ME4000195	Auto-Inject Super Stimpak used
+0ME4000197	Rushing Water has increased your attack speed.
+0ME4000199	You can't swim any farther in this direction.
+0ME4000201	You just got your first Blank Magazine! Any time you pick up a damaged book it will be turned into one of these from now on. They're worth more than regular books and you can use them to make Skill Magazines! Any Skill Magazine you have on you can be copied using a blank one at a Workbench. There's even a recipe to turn it back into a book if you want!
+0ME4000203	ED-E has unlocked a commissary for you!
+0ME4000205	Snakebite Tourniquet used
+0ME4000207	This terminal has already been used.
+0ME4000209	This lever can't be activated yet.
+0ME4000211	The bright light drives the tunneler into a frenzy!
+0ME4000213	The abomination panics and flees!
+0ME4000215	You cannot sleep while in combat.
+0ME4000217	The coordinates you received lead you to this canyon filled with storm-tossed wreckage. Beyond lies the Divide.
+0ME4000218	Lonesome Road is intended for experienced Couriers (Level 25 or higher). You cannot take companions with you on the road ahead (nor bring any you find out with you). You can carry whatever equipment and gear you have with you without restriction, however.
+0ME4000219	If the journey proves too difficult, or you need to resupply, you can retrace your steps and return to the Mojave at any time. If you are prepared, then continue on into the storms of the Divide... history awaits.
+0ME4000221	Walk away.
+0ME4000222	Walk the Lonesome Road.
+0ME4000223	You've found the Laser Detonator Ulysses spoke of, a piece of Pre-War tech that can detonate the nuclear warheads scattered around the Lonesome Road. You can use it to open new paths, kill your enemies from afar, or even discover secret loot caches. Just point it at a warhead, hold down the trigger, and watch the explosion.
+0ME4000224	If what Ulysses said is true, you'll need this to advance, which means there must be a warhead blocking the way forward. You'll need to find the correct warhead and detonate it.
+0ME4000226	The mainframe is locked down with a secure, military-grade encryption sequence. The codes you uploaded to ED-E's system should be able to unlock it.
+0ME4000229	Ask ED-E to unlock the mainframe.
+0ME4000230	Use the controls' lever to restore power to the silo.
+0ME4000232	Use the control station's lever to open the Ashton silo.
+0ME4000234	You have found a Flash Bang grenade! Flash Bangs are special grenades that:
+0ME4000235	- Deal Fatigue damage.
+0ME4000236	- Reduce enemy weapon skills.
+0ME4000237	- Have a chance to Frenzy Tunnelers.
+0ME4000239	Your Pip-Boy has received a signal - coordinates that lead to the Canyon Wreckage west of Primm. Following the coordinates are the words "Courier Six." It's signed, "Ulysses."
+0ME4000241	Lonesome Road has been loaded. Your level cap has been increased by 5.
+0ME4000243	You cannot bring others with you into the Divide. This road is one you must walk alone.
+0ME50000001	Gun Runners' Arsenal has been loaded.
+0ME50000003	The ongoing conflict in the Mojave Wasteland has kicked weapon manufacturers into high gear! All major and minor weapon dealers in the region are rolling in new weapons, ammunition types, and modifications. Head to your nearest participating vendor to peruse the merchandise!
+0MEC0000001	You take a sip from your trusty Vault 13 canteen...
+0MEC0000003	Classic Pack items added to inventory.
+0MEC0000005	Caravan Pack items added to inventory.
+0MEC0000007	Mercenary Pack items added to inventory.
+0MEC0000009	Tribal Pack items added to inventory.
