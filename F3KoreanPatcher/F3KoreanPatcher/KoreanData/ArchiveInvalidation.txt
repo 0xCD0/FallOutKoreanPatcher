@@ -1,0 +1,10 @@
+//babybook
+Textures/clutter/babybooksmall01.dds
+Textures/terminals/english/babybook01.dds
+Textures/terminals/english/babybook02.dds
+Textures/terminals/english/babybook03.dds
+Textures/terminals/english/babybook04.dds
+Textures/terminals/english/babybook05.dds
+Textures/terminals/english/bbmessage02.dds
+Textures/terminals/english/bbmessage03.dds
+Textures/terminals/english/bbmessage04.dds

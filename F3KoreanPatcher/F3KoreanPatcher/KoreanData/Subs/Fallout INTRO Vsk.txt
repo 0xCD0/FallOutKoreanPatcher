@@ -1,0 +1,38 @@
+00:00.200 00:04.000 <FONT COLOR=FFD700>폴아웃3 (INTRO)</FONT><BR>* 제작: http://cafe.naver.com/vault5000 *
+00:05.500 00:10.000 <FONT COLOR=FFD700>"I Don't Want to Set the World On Fire"</FONT><BR>The Ink Spots (1941)
+00:10.413 00:20.043 I don't want to set the world on fire<BR><FONT COLOR=B0B0B0>나는 세상을 불태우고 싶지 않아요
+00:20.043 00:30.705 I just want to start a flame in your heart<BR><FONT COLOR=B0B0B0>난 단지 당신의 마음에 불을 지피고 싶어요
+00:32.640 00:41.808 In my heart I have but one desire<BR><FONT COLOR=B0B0B0>내 마음에 단 한가지 갈망이 있어요
+00:42.400 00:53.527 And that one is you, No other will do<BR><FONT COLOR=B0B0B0>그건 바로 당신, 누구도 대신할 수 없죠
+00:54.558 00:59.999 I've lost all ambition for worldly acclaim<BR><FONT COLOR=B0B0B0>나는 세상의 갈채를 받는 것에 관심이 없어요
+01:00.285 01:05.269 I just want to be the one you love<BR><FONT COLOR=B0B0B0>그저 당신이 사랑하는 이가 되기를 바라요
+01:05.682 01:10.885 And with your admission that you feel the same<BR><FONT COLOR=B0B0B0>당신이 나와 같이 느껴 허락해 준다면
+01:11.213 01:14.700 I'll have reached the goal I'm dreaming of<BR><FONT COLOR=B0B0B0>비로소 내가 꾸고 있는 꿈을 이룰 수 있을 거에요
+01:14.700 01:17.000 Believe me<BR><FONT COLOR=B0B0B0>나를 믿어 주세요
+01:17.000 01:24.792 <FONT COLOR=B0B0B0>... I don't want to set the world on fire ...
+01:40.083 01:42.993 <FONT COLOR=B0B0B0>BETHESDA GAME STUDIOS <FONT COLOR=000000>PRESENTS
+01:42.993 01:44.100 <FONT COLOR=B0B0B0>BETHESDA GAME STUDIOS PRESENTS
+01:44.100 01:45.739 <FONT COLOR=000000>BETHESDA GAME STUDIOS <FONT COLOR=B0B0B0>PRESENTS
+01:47.915 01:50.686 폴아웃 <FONT COLOR=000000>3<BR><FONT COLOR=B0B0B0>FALLOUT <FONT COLOR=000000>3
+01:50.686 01:54.947 폴아웃 3<BR><FONT COLOR=B0B0B0>FALLOUT 3
+01:57.097 02:00.871 전쟁, 전쟁은 결코 변하지 않는다.
+02:02.431 02:10.200 우리의 조상이 처음으로 바위와 뼈의<BR>살인적 힘을 발견한 인류의 태초 이래부터
+02:10.200 02:18.000 인류의 피는 온갖 것들의 이름으로 흩뿌려져 왔다.<BR>신과 정의로 시작해 정신병적 충동처럼 간결한 명목까지
+02:22.960 02:25.027 서기 2077년
+02:25.027 02:31.900 천년 간의 무력 충돌 이후, 인간의 파괴적인<BR>천성으로 자신을 더 이상 지속할 수 없게 되었다.
+02:33.967 02:39.231 세계는 핵의 화염과 방사능 속으로 내던져 졌다.
+02:43.327 02:48.421 하지만 그것은 일부가 예상했던<BR>세계의 종말이 아니였다.
+02:48.421 02:55.383 대신 그 대참사는 또 인류 역사의<BR>또 다른 피빛 시대의 서곡이였다.
+02:55.383 02:59.246 인간은 세상을 파괴하는데 성공했었다.
+02:59.246 03:03.541 그러나 전쟁, 전쟁은 결코 변하지 않는다.
+03:10.352 03:15.400 초기에는 수 천명의 인류가 대학살의 공포를
+03:15.400 03:21.000 볼트라고 알려진 지하의 엄청난 방공호 안으로<BR>도피함으로써 목숨을 구제받았다.
+03:23.704 03:28.500 사람들이 볼트에서 나왔을 때 반긴 것은<BR>황폐해진 지옥뿐이었다.
+03:29.692 03:32.500 볼트 101을 제외한 사람들
+03:35.068 03:39.766 하늘에서 불이 비처럼 떨어진<BR>숙명의 그날
+03:39.766 03:44.000 볼트 101의 커다란 강철의 문이<BR>미끄러져 닫혔고
+03:44.000 03:46.092 다시는 열리지 않았다.
+03:47.442 03:50.782 당신은 여기에서 태어났다.
+03:50.782 03:53.686 당신이 죽게 될 곳이다.
+03:53.686 03:58.400 이곳 <FONT COLOR=FFD700>볼트 101</FONT> 은<BR>누구도 들어갈 수 없고
+03:58.400 04:01.800 누구도 나갈 수 없다.
